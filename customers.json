@@ -1,4 +1,11 @@
-{
+[{
+  "name": "National Science Foundation",
+  "alias": "NSF",
+  "datasets":[
+      "dataset-364","dataset-365"
+  ]
+},
+  {
   "name": "U.S. Department of Agriculture",
   "alias": "usda",
   "datasets": [
@@ -45,3 +52,4 @@
     "dataset-029"
   ]
 }
+]
