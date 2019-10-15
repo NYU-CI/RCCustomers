@@ -1,0 +1,171 @@
+{
+  "title": "relationships between diet, alcohol preference, and heart disease and type 2 diabetes among americans",
+  "datasets": [
+    "dataset-002"
+  ],
+  "original": {
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4427330/",
+    "journal": "PLoS One",
+    "doi": "10.1371/journal.pone.0124351",
+    "date_added": "2019-10-10 12:08:29"
+  },
+  "europepmc": {
+    "journal": "PLoS One",
+    "doi": "10.1371/journal.pone.0124351",
+    "pdf": "http://europepmc.org/articles/PMC4427330?pdf=render",
+    "url": "http://europepmc.org/articles/PMC4427330",
+    "title": "relationships between diet, alcohol preference, and heart disease and type 2 diabetes among americans"
+  },
+  "openaire": {
+    "journal": "PLoS ONE",
+    "title": "relationships between diet, alcohol preference, and heart disease and type 2 diabetes among americans",
+    "doi": "10.1371/journal.pone.0124351",
+    "url": "http://europepmc.org/articles/PMC4427330",
+    "pdf": "http://europepmc.org/articles/PMC4427330?pdf=render"
+  },
+  "dimensions": {
+    "doi": "10.1371/journal.pone.0124351",
+    "authors": [
+      {
+        "first_name": "Michael K.",
+        "last_name": "Adjemian",
+        "corresponding": "",
+        "orcid": "",
+        "current_organization_id": "grid.213876.9",
+        "researcher_id": "ur.0670337153.38",
+        "affiliations": [
+          {
+            "id": "grid.463419.d",
+            "name": "Agricultural Research Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      },
+      {
+        "first_name": "Richard J.",
+        "last_name": "Volpe",
+        "corresponding": "",
+        "orcid": "",
+        "current_organization_id": "grid.253547.2",
+        "researcher_id": "ur.0771033101.23",
+        "affiliations": [
+          {
+            "id": "grid.253547.2",
+            "name": "California Polytechnic State University",
+            "city": "San Luis Obispo",
+            "city_id": 5392323,
+            "country": "United States",
+            "country_code": "US",
+            "state": "California",
+            "state_code": "US-CA"
+          }
+        ]
+      },
+      {
+        "first_name": "Jennifer",
+        "last_name": "Adjemian",
+        "corresponding": "",
+        "orcid": "",
+        "current_organization_id": "grid.419681.3",
+        "researcher_id": "ur.01337703241.18",
+        "affiliations": [
+          {
+            "id": "grid.419681.3",
+            "name": "National Institute of Allergy and Infectious Diseases",
+            "city": "Bethesda",
+            "city_id": 4348599,
+            "country": "United States",
+            "country_code": "US",
+            "state": "Maryland",
+            "state_code": "US-MD"
+          },
+          {
+            "id": "grid.417684.8",
+            "name": "United States Public Health Service",
+            "city": "Washington D.C.",
+            "city_id": 4140963,
+            "country": "United States",
+            "country_code": "US",
+            "state": "District of Columbia",
+            "state_code": "US-DC"
+          }
+        ]
+      }
+    ],
+    "linkout": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0124351&type=printable",
+    "keywords": [
+      "contrast",
+      "alcohol",
+      "variables",
+      "food",
+      "confounders",
+      "prevalence",
+      "effect of diet",
+      "diet",
+      "survey",
+      "cardiovascular health",
+      "data",
+      "type of alcohol",
+      "T2D",
+      "incident heart disease",
+      "volume",
+      "Health Survey",
+      "adults",
+      "multivariate regression model",
+      "effects",
+      "morbidity",
+      "Americans",
+      "mortality",
+      "type 2 diabetes",
+      "representative cohort",
+      "same study participants",
+      "cause of morbidity",
+      "moderate levels",
+      "lower risk",
+      "important confounders",
+      "excessive alcohol consumption",
+      "U.S. adults",
+      "regression models",
+      "demographic factors",
+      "study participants",
+      "significant association",
+      "participants",
+      "cause",
+      "self",
+      "risk",
+      "cohort",
+      "moderate alcohol consumption",
+      "association",
+      "alcohol consumption",
+      "factors",
+      "lifestyle choices",
+      "likelihood",
+      "study",
+      "incidence",
+      "health",
+      "disease prevalence",
+      "new disease",
+      "low prevalence",
+      "alcohol preference",
+      "relationship",
+      "consumption",
+      "cardiovascular disease",
+      "diabetes",
+      "levels",
+      "diet data",
+      "disease",
+      "home",
+      "heart disease",
+      "respondents",
+      "tobacco purchases",
+      "greater volume"
+    ],
+    "journal_title": "PLoS ONE",
+    "title": "relationships between diet, alcohol preference, and heart disease and type 2 diabetes among americans"
+  }
+}
