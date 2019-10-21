@@ -9,6 +9,9 @@
   "name": "U.S. Department of Agriculture",
   "alias": "usda",
   "datasets": [
+    "dataset-372",
+    "dataset-373",
+    "dataset-374",
     "dataset-054",
     "dataset-040",
     "dataset-059",
