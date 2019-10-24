@@ -1,0 +1,544 @@
+[
+  {
+    "title": "Food Insecurity and the Burden of Health-Related Social Problems in an Urban Youth Population",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26592328",
+      "keywords": "Adolescent,Adult,Female,Food Supply,Health Services Accessibility,Health Status,Housing,Humans,Logistic Models,Male,Social Determinants of Health,Substance-Related Disorders,Surveys and Questionnaires,Urban Population,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.jadohealth.2015.08.013",
+      "journal": "The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jadohealth.2015.08.013",
+      "authors": [
+        {
+          "first_name": "Tamara E.",
+          "last_name": "Baer",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.0745107413.21",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Emily A.",
+          "last_name": "Scherer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.254880.3",
+          "researcher_id": "ur.0773744363.93",
+          "affiliations": [
+            {
+              "id": "grid.254880.3",
+              "name": "Dartmouth College",
+              "city": "Hanover",
+              "city_id": 5087168,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Hampshire",
+              "state_code": "US-NH"
+            }
+          ]
+        },
+        {
+          "first_name": "Eric W.",
+          "last_name": "Fleegler",
+          "corresponding": "",
+          "orcid": "['0000-0002-3563-6258']",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.01045415620.32",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Areej",
+          "last_name": "Hassan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.0746004634.19",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "screening tool",
+        "race/ethnicity",
+        "care access",
+        "objective",
+        "youth population",
+        "years",
+        "presence",
+        "population",
+        "Food Security Survey",
+        "samples",
+        "age",
+        "logistic regression models",
+        "test",
+        "item screen",
+        "urban youth population",
+        "burden",
+        "Kruskal-Wallis test",
+        "one-third",
+        "third",
+        "screening",
+        "social domains",
+        "substance use",
+        "predictive value",
+        "food insecurity",
+        "food insecurity screening",
+        "Department",
+        "survey",
+        "education",
+        "health care access",
+        "association",
+        "sensitivity",
+        "study objective",
+        "chi",
+        "use",
+        "food insecurity levels",
+        "youth",
+        "Wallis test",
+        "access",
+        "specificity",
+        "levels",
+        "two-item screen",
+        "health",
+        "Security Survey",
+        "ethnicity",
+        "Agriculture Food Security Survey",
+        "patients",
+        "Adolescent Health",
+        "prevalence",
+        "cumulative burden",
+        "insecurity levels",
+        "regression models",
+        "sex"
+      ],
+      "journal_title": "Journal of Adolescent Health",
+      "title": "Food Insecurity and the Burden of Health-Related Social Problems in an Urban Youth Population"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jadohealth.2015.08.013",
+      "journal": "J Adolesc Health",
+      "url": "http://europepmc.org/abstract/MED/26592328",
+      "title": "food insecurity and the burden of health-related social problems in an urban youth population"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "Food Insecurity and the Burden of Health-Related Social Problems in an Urban Youth Population",
+      "doi": "10.7448/IAS.15.5.18442",
+      "url": "http://europepmc.org/articles/PMC3499903"
+    }
+  },
+  {
+    "title": "Food insecurity, food assistance and weight status in US youth: new evidence from NHANES 2007-08",
+    "datasets": [
+      "dataset-048",
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1111/j.2047-6310.2012.00143.x",
+      "keywords": "Food Insecurity,Food Assistance,Weight Status,US Youth,NHANES-FSQ,Analyzed,NonE Tier 1",
+      "doi": "10.1111/j.2047-6310.2012.00143.x",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1111/j.2047-6310.2012.00143.x",
+      "authors": [
+        {
+          "first_name": "M. J.",
+          "last_name": "Kohn",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "University of Washington Maternal and Child Health Program Department of Health Services Seattle WA USA"
+            },
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "J. F.",
+          "last_name": "Bell",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "University of Washington Maternal and Child Health Program Department of Health Services Seattle WA USA"
+            }
+          ]
+        },
+        {
+          "first_name": "H. M. G.",
+          "last_name": "Grow",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.01055153540.21",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "G.",
+          "last_name": "Chan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "risk factors",
+        "National Health",
+        "samples",
+        "food assistance program participation",
+        "program participation",
+        "Survey Module",
+        "sex-specific body mass index (BMI) percentiles",
+        "age",
+        "new evidence",
+        "Special Supplemental Nutrition Program",
+        "federal poverty line",
+        "waist circumference percentiles",
+        "Nutrition Examination Survey",
+        "Nutrition Program",
+        "self-selection bias",
+        "intake",
+        "percentile",
+        "covariate adjustment",
+        "obesity",
+        "youth ages 4",
+        "Nutrition Assistance Program",
+        "health goals",
+        "evidence",
+        "children",
+        "family",
+        "assistance",
+        "assistance programs",
+        "boys",
+        "girls",
+        "food insecurity",
+        "meal",
+        "participants",
+        "Examination Survey",
+        "Supplemental Nutrition Assistance Program",
+        "propensity score",
+        "program",
+        "Department",
+        "survey",
+        "status",
+        "lines",
+        "infants",
+        "BMI z",
+        "association",
+        "youth",
+        "propensity score approach",
+        "important public health goal",
+        "women",
+        "participation",
+        "food-insecure youths",
+        "effect modifiers",
+        "age 4",
+        "body mass index percentile",
+        "factors",
+        "Supplemental Nutrition Program",
+        "food assistance",
+        "score approach",
+        "public health goals",
+        "weight status",
+        "diet quality",
+        "school meals",
+        "health",
+        "quality",
+        "index percentile",
+        "excessive intake",
+        "US youth",
+        "regression models",
+        "adjustment",
+        "scores",
+        "selection bias"
+      ],
+      "journal_title": "Pediatric Obesity",
+      "title": "Food insecurity, food assistance and weight status in US youth: new evidence from NHANES 2007-08"
+    },
+    "europepmc": {
+      "doi": "10.1111/j.2047-6310.2012.00143.x",
+      "journal": "Pediatr Obes",
+      "url": "http://europepmc.org/abstract/MED/23364918",
+      "title": "food insecurity, food assistance and weight status in us youth: new evidence from nhanes 2007-08"
+    }
+  },
+  {
+    "title": "Food insecurity and social protection in Europe: Quasi-natural experiment of Europe's great recessions 2004-2012",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/27212071",
+      "keywords": "Economic Recession,Europe,Family Characteristics,Food Supply,Health Expenditures,Humans,Public Policy,Unemployment,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.ypmed.2016.05.010",
+      "journal": "Preventive medicine",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "linkout": "https://doi.org/10.1016/j.ypmed.2016.05.010",
+      "doi": "10.1016/j.ypmed.2016.05.010",
+      "authors": [
+        {
+          "first_name": "Rachel",
+          "last_name": "Loopstra",
+          "corresponding": true,
+          "orcid": "['0000-0002-7541-6209']",
+          "current_organization_id": "grid.13097.3c",
+          "researcher_id": "ur.01353156156.19",
+          "affiliations": [
+            {
+              "id": "grid.4991.5",
+              "name": "University of Oxford",
+              "city": "Oxford",
+              "city_id": 2640729,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Aaron",
+          "last_name": "Reeves",
+          "corresponding": "",
+          "orcid": "['0000-0001-9114-965X']",
+          "current_organization_id": "grid.4991.5",
+          "researcher_id": "ur.01164417662.33",
+          "affiliations": [
+            {
+              "id": "grid.4991.5",
+              "name": "University of Oxford",
+              "city": "Oxford",
+              "city_id": 2640729,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.13063.37",
+              "name": "London School of Economics and Political Science",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Martin",
+          "last_name": "McKee",
+          "corresponding": "",
+          "orcid": "['0000-0002-0121-9683']",
+          "current_organization_id": "grid.8991.9",
+          "researcher_id": "ur.01367673420.84",
+          "affiliations": [
+            {
+              "id": "grid.8991.9",
+              "name": "London School of Hygiene & Tropical Medicine",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "David",
+          "last_name": "Stuckler",
+          "corresponding": "",
+          "orcid": "['0000-0002-1288-8401']",
+          "current_organization_id": "grid.7945.f",
+          "researcher_id": "ur.01277052544.89",
+          "affiliations": [
+            {
+              "id": "grid.4991.5",
+              "name": "University of Oxford",
+              "city": "Oxford",
+              "city_id": 2640729,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "expenditure",
+        "annual average wage",
+        "role",
+        "statistical determinants",
+        "social protection spending",
+        "determinants",
+        "economic hardship",
+        "difference model",
+        "unemployment rate",
+        "capita",
+        "cooperation",
+        "model",
+        "natural experiment",
+        "social protection expenditure",
+        "food insecurity",
+        "social protection",
+        "wages",
+        "changes",
+        "insecurity",
+        "program",
+        "Economic Cooperation",
+        "estimated effects",
+        "variation exists",
+        "protection programs",
+        "household food insecurity",
+        "spending",
+        "greater food insecurity",
+        "unemployment",
+        "people",
+        "percentage point increase",
+        "protection",
+        "increase",
+        "point increase",
+        "quasi-natural experiment",
+        "levels",
+        "Europe",
+        "risk",
+        "countries",
+        "percentage points",
+        "social protection programmes",
+        "rate",
+        "EU countries",
+        "exists",
+        "hardship",
+        "protection expenditure",
+        "organization",
+        "effects",
+        "average wages",
+        "high levels",
+        "first difference model",
+        "development",
+        "data"
+      ],
+      "journal_title": "Preventive Medicine",
+      "title": "Food insecurity and social protection in Europe: Quasi-natural experiment of Europe's great recessions 2004-2012"
+    },
+    "openaire": {
+      "journal": "Preventive Medicine",
+      "title": "Food insecurity and social protection in Europe: Quasi-natural experiment of Europe's great recessions 2004-2012",
+      "doi": "10.1016/j.ypmed.2016.05.010",
+      "url": "http://europepmc.org/articles/PMC4976834",
+      "pdf": "https://kclpure.kcl.ac.uk/ws/files/94493376/Food_insecurity_and_social_LOOPSTRA_Firstonline15May2016_GOLD_VoR_CC_BY_.pdf"
+    }
+  }
+]

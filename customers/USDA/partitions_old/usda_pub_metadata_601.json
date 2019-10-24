@@ -1,0 +1,189 @@
+[
+  {
+    "title": "Prevalence and Correlates of Food Insecurity among Palestinian Refugees in Lebanon: Data from a Household Survey",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26098108",
+      "keywords": "Adaptation,Arabs,Family Characteristics,Female,Food Supply,Humans,Male,Middle East,Refugees,FSSM,NonE Tier 1",
+      "doi": "10.1371/journal.pone.0130724",
+      "journal": "PloS one",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "authors": [
+        {
+          "first_name": "Hala",
+          "last_name": "Ghattas",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.22903.3a",
+          "researcher_id": "ur.01276756214.02",
+          "affiliations": [
+            {
+              "id": "grid.22903.3a",
+              "name": "American University of Beirut",
+              "city": "Beirut",
+              "city_id": 276781,
+              "country": "Lebanon",
+              "country_code": "LB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "AnnieBelle J.",
+          "last_name": "Sassine",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.22903.3a",
+          "researcher_id": "ur.01150643450.25",
+          "affiliations": [
+            {
+              "id": "grid.22903.3a",
+              "name": "American University of Beirut",
+              "city": "Beirut",
+              "city_id": 276781,
+              "country": "Lebanon",
+              "country_code": "LB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Karin",
+          "last_name": "Seyfert",
+          "corresponding": "",
+          "orcid": "['0000-0002-3354-8844']",
+          "current_organization_id": "grid.479394.4",
+          "researcher_id": "ur.01216756650.63",
+          "affiliations": [
+            {
+              "id": "grid.22631.34",
+              "name": "School of Oriental and African Studies",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Mark",
+          "last_name": "Nord",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.482913.5",
+          "researcher_id": "ur.0707544067.45",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Nadine R.",
+          "last_name": "Sahyoun",
+          "corresponding": "",
+          "orcid": "['0000-0003-2309-1868']",
+          "current_organization_id": "grid.410443.6",
+          "researcher_id": "ur.01350011203.77",
+          "affiliations": [
+            {
+              "id": "grid.164295.d",
+              "name": "University of Maryland, College Park",
+              "city": "College Park",
+              "city_id": 4351977,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        }
+      ],
+      "doi": "10.1371/journal.pone.0130724",
+      "linkout": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0130724&type=printable",
+      "keywords": [
+        "illness",
+        "protection",
+        "education",
+        "population",
+        "survey",
+        "cluster sampling approach",
+        "Food Security Module",
+        "health",
+        "respondents",
+        "presence",
+        "household intake",
+        "mental health",
+        "insecure",
+        "head",
+        "poor mental health",
+        "proxy respondents",
+        "food security status",
+        "marginalized populations",
+        "refugee households",
+        "self",
+        "status",
+        "group",
+        "food expenditure",
+        "strategies",
+        "members",
+        "food groups",
+        "expenditure",
+        "head of household",
+        "Lebanon",
+        "severe food insecurity",
+        "food",
+        "data",
+        "intake",
+        "concentration",
+        "acute illness",
+        "Palestinian refugee households",
+        "representative sample",
+        "higher food expenditures",
+        "confounders",
+        "poor self",
+        "food insecurity",
+        "security status",
+        "samples",
+        "food insecure"
+      ],
+      "journal_title": "PLoS ONE",
+      "title": "Prevalence and Correlates of Food Insecurity among Palestinian Refugees in Lebanon: Data from a Household Survey"
+    },
+    "openaire": {
+      "journal": "PLoS ONE",
+      "title": "Prevalence and Correlates of Food Insecurity among Palestinian Refugees in Lebanon: Data from a Household Survey",
+      "doi": "10.1371/journal.pone.0130724",
+      "url": "http://europepmc.org/articles/PMC4476802",
+      "pdf": "http://europepmc.org/articles/PMC4476802?pdf=render"
+    }
+  },
+  {
+    "title": "\"Do You Wanna Breathe or Eat?\": Parent Perspectives on Child Health Consequences of Food Insecurity, Trade-Offs, and Toxic Stress",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26156827",
+      "keywords": "Adolescent,Child,Child Development,Child Health,Child, Preschool,Female,Food Supply,Humans,Male,Mental Health,Parents,Poverty,Qualitative Research,Respiration,Stress, Psychological,FSSM,NonE Tier 1",
+      "doi": "10.1007/s10995-015-1797-8",
+      "journal": "Maternal and child health journal",
+      "date_added": "2019-10-10 13:19:05"
+    }
+  }
+]

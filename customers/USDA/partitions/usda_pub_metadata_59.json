@@ -1,0 +1,3040 @@
+[
+  {
+    "title": "Home for now: A mixed-methods evaluation of a short-term housing support program for homeless families",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.evalprogplan.2015.03.009",
+      "url": "www.doi.org/10.1016/j.evalprogplan.2015.03.009",
+      "journal ": "Evaluation and Program Planning",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.evalprogplan.2015.03.009",
+      "authors": [
+        {
+          "first_name": "Tatjana",
+          "last_name": "Meschede",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.253264.4",
+          "researcher_id": "ur.013061277637.12",
+          "affiliations": [
+            {
+              "id": "grid.253264.4",
+              "name": "Brandeis University",
+              "city": "Waltham",
+              "city_id": 4954380,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Sara",
+          "last_name": "Chaganti",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.253264.4",
+              "name": "Brandeis University",
+              "city": "Waltham",
+              "city_id": 4954380,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "outcomes",
+        "major reason",
+        "study",
+        "shelter",
+        "support programs",
+        "rental subsidies",
+        "jobs",
+        "workforce development",
+        "approach",
+        "participant surveys",
+        "point",
+        "affordable housing",
+        "long-term housing",
+        "persistent barriers",
+        "methods case study",
+        "cost regions",
+        "reasons",
+        "mixed-methods case study",
+        "need",
+        "participant interview data",
+        "region",
+        "quarter",
+        "implementation",
+        "home",
+        "housing support program",
+        "survey",
+        "lack",
+        "family",
+        "administrative data",
+        "market rate housing",
+        "family home",
+        "case study",
+        "Massachusetts",
+        "interview data",
+        "friends",
+        "mixed-methods evaluation",
+        "start",
+        "supportive services",
+        "program start",
+        "pilot program",
+        "support services",
+        "housing needs",
+        "goal",
+        "economic stability",
+        "homeless families",
+        "program",
+        "years",
+        "research",
+        "staff",
+        "development",
+        "housing",
+        "vouchers",
+        "homelessness",
+        "market rates",
+        "methods evaluation",
+        "wages",
+        "end",
+        "family/friends",
+        "subsidies",
+        "services",
+        "barriers"
+      ],
+      "journal_title": "Evaluation and Program Planning",
+      "title": "Home for now: A mixed-methods evaluation of a short-term housing support program for homeless families"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.evalprogplan.2015.03.009",
+      "journal": "Eval Program Plann",
+      "url": "http://europepmc.org/abstract/MED/25989204",
+      "title": "home for now: a mixed-methods evaluation of a short-term housing support program for homeless families"
+    }
+  },
+  {
+    "title": "The Influence of School Nutrition Programs on the Weight of Low-Income Children: A Treatment Effect Analysis",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1002/hec.3378",
+      "url": "www.doi.org/10.1002/hec.3378",
+      "journal ": "Health Economics",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1002/hec.3378",
+      "authors": [
+        {
+          "first_name": "Kristen",
+          "last_name": "Capogrossi",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.010047711571.49",
+          "affiliations": [
+            {
+              "name": "Research Triangle Park RTI International USA"
+            }
+          ]
+        },
+        {
+          "first_name": "Wen",
+          "last_name": "You",
+          "corresponding": "",
+          "orcid": "['0000-0003-3240-6526']",
+          "current_organization_id": "grid.438526.e",
+          "researcher_id": "ur.0651561137.92",
+          "affiliations": [
+            {
+              "id": "grid.438526.e",
+              "name": "Virginia Tech",
+              "city": "Blacksburg",
+              "city_id": 4747845,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Virginia",
+              "state_code": "US-VA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "standard",
+        "outcomes",
+        "study",
+        "term participation",
+        "body mass index outcomes",
+        "ATT results",
+        "attempt",
+        "effects",
+        "potential effects",
+        "child BMI",
+        "short-term participation",
+        "provision",
+        "differences",
+        "BMI",
+        "potential impact",
+        "participation",
+        "nutrition standards",
+        "health outcomes",
+        "weight progress",
+        "children",
+        "need",
+        "DID results",
+        "program aims",
+        "meal programs",
+        "grade",
+        "average treatment effect",
+        "impact",
+        "eligible children",
+        "School Breakfast Program",
+        "Breakfast Program",
+        "rural areas",
+        "program",
+        "years",
+        "child health outcomes",
+        "aim",
+        "index outcomes",
+        "treatment effects",
+        "progress"
+      ],
+      "journal_title": "Health Economics",
+      "title": "The Influence of School Nutrition Programs on the Weight of Low-Income Children: A Treatment Effect Analysis"
+    },
+    "europepmc": {
+      "doi": "10.1002/hec.3378",
+      "journal": "Health Econ",
+      "url": "http://europepmc.org/abstract/MED/27381591",
+      "title": "the influence of school nutrition programs on the weight of low-income children: a treatment effect analysis"
+    }
+  },
+  {
+    "title": "CAN BENEFITS AND INCENTIVES PROMOTE WORK?",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1002/pam.22075",
+      "url": "www.doi.org/10.1002/pam.22075",
+      "journal ": "Journal of Policy Analysis and Management",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1002/pam.22082",
+      "authors": [
+        {
+          "first_name": "Theodore",
+          "last_name": "Joyce",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "work",
+        "benefits"
+      ],
+      "journal_title": "Journal of Policy Analysis and Management",
+      "title": "CAN BENEFITS AND INCENTIVES PROMOTE WORK?"
+    }
+  },
+  {
+    "title": "The Great Recession and the Social Safety Net",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1177/0002716213499532",
+      "url": "www.doi.org/10.1177/0002716213499532",
+      "journal ": "The Annals of the American Academy of Political and Social Science",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1002/pam.21963",
+      "authors": [
+        {
+          "first_name": "Marianne",
+          "last_name": "Bitler",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.27860.3b",
+          "researcher_id": "ur.01206061205.69",
+          "affiliations": [
+            {
+              "id": "grid.27860.3b",
+              "name": "University of California, Davis",
+              "city": "Davis",
+              "city_id": 5341704,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Hiliary",
+          "last_name": "Hoynes",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.47840.3f",
+              "name": "University of California, Berkeley",
+              "city": "Berkeley",
+              "city_id": 5327684,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Elira",
+          "last_name": "Kuku",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.263864.d",
+              "name": "Southern Methodist University",
+              "city": "Dallas",
+              "city_id": 4684888,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://escholarship.org/content/qt5kw9q560/qt5kw9q560.pdf?t=p2t96n",
+      "keywords": [
+        "child poverty",
+        "social safety net",
+        "choice",
+        "evidence",
+        "data model",
+        "single head",
+        "findings",
+        "resources",
+        "taxes",
+        "demographic groups",
+        "tax",
+        "benefits",
+        "relative thresholds",
+        "spouses",
+        "more disadvantaged backgrounds",
+        "United States",
+        "role",
+        "business cycle",
+        "state",
+        "cyclicality",
+        "particular attention",
+        "income poverty",
+        "values",
+        "measures of resources",
+        "cash",
+        "paper",
+        "protection",
+        "host of choice",
+        "medical benefits",
+        "earnings",
+        "income",
+        "background",
+        "recession",
+        "relationship",
+        "extent",
+        "safety net",
+        "relatives",
+        "data",
+        "cash transfers",
+        "Great Recession",
+        "married heads",
+        "native spouses",
+        "shock",
+        "poverty",
+        "disadvantaged backgrounds",
+        "model",
+        "panel data models",
+        "compelling evidence",
+        "nets",
+        "measures",
+        "attention",
+        "household head"
+      ],
+      "journal_title": "Journal of Policy Analysis and Management",
+      "title": "The Great Recession and the Social Safety Net"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The Great Recession and the Social Safety Net",
+      "doi": "10.1177/0002716213499532",
+      "url": "https://europepmc.org/articles/PMC4822557/"
+    }
+  },
+  {
+    "title": "Addressing Social Determinants of Health at Well Child Care Visits: A Cluster RCT",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1542/peds.2014-2888",
+      "url": "www.doi.org/10.1542/peds.2014-2888",
+      "journal ": "Pediatrics",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1542/peds.2014-2888d",
+      "linkout": "http://europepmc.org/articles/pmc4306802?pdf=render",
+      "keywords": [
+        "cluster RCT",
+        "social determinants",
+        "child care visits",
+        "health",
+        "determinants",
+        "visits",
+        "care visits"
+      ],
+      "journal_title": "Pediatrics",
+      "title": "Addressing Social Determinants of Health at Well Child Care Visits: A Cluster RCT"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Addressing Social Determinants of Health at Well Child Care Visits: A Cluster RCT",
+      "doi": "10.1542/peds.2014-2888",
+      "url": "https://europepmc.org/articles/PMC4306802/"
+    }
+  },
+  {
+    "title": "The relative contribution of layers of the Social Ecological Model to childhood obesity",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1017/s1368980014002365",
+      "url": "www.doi.org/10.1017/s1368980014002365",
+      "journal ": "Public Health Nutrition",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1017/s1368980014002365",
+      "authors": [
+        {
+          "first_name": "Punam",
+          "last_name": "Ohri-Vachaspati",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.215654.1",
+          "researcher_id": "ur.01072350523.99",
+          "affiliations": [
+            {
+              "id": "grid.215654.1",
+              "name": "Arizona State University",
+              "city": "Tempe",
+              "city_id": 5317058,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Arizona",
+              "state_code": "US-AZ"
+            }
+          ]
+        },
+        {
+          "first_name": "Derek",
+          "last_name": "DeLia",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.415232.3",
+          "researcher_id": "ur.01136402724.53",
+          "affiliations": [
+            {
+              "id": "grid.430387.b",
+              "name": "Rutgers, The State University of New Jersey",
+              "city": "New Brunswick",
+              "city_id": 5101717,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        },
+        {
+          "first_name": "Robin S",
+          "last_name": "DeWeese",
+          "corresponding": "",
+          "orcid": "['0000-0001-7762-7256']",
+          "current_organization_id": "grid.215654.1",
+          "researcher_id": "ur.01060375501.45",
+          "affiliations": [
+            {
+              "id": "grid.215654.1",
+              "name": "Arizona State University",
+              "city": "Tempe",
+              "city_id": 5317058,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Arizona",
+              "state_code": "US-AZ"
+            }
+          ]
+        },
+        {
+          "first_name": "Noe C",
+          "last_name": "Crespo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.263081.e",
+          "researcher_id": "ur.01347705410.04",
+          "affiliations": [
+            {
+              "id": "grid.215654.1",
+              "name": "Arizona State University",
+              "city": "Tempe",
+              "city_id": 5317058,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Arizona",
+              "state_code": "US-AZ"
+            }
+          ]
+        },
+        {
+          "first_name": "Michael",
+          "last_name": "Todd",
+          "corresponding": "",
+          "orcid": "['0000-0002-1981-4245']",
+          "current_organization_id": "grid.215654.1",
+          "researcher_id": "ur.0712253536.10",
+          "affiliations": [
+            {
+              "id": "grid.215654.1",
+              "name": "Arizona State University",
+              "city": "Tempe",
+              "city_id": 5317058,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Arizona",
+              "state_code": "US-AZ"
+            }
+          ]
+        },
+        {
+          "first_name": "Michael J",
+          "last_name": "Yedidia",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.430387.b",
+          "researcher_id": "ur.01174453651.25",
+          "affiliations": [
+            {
+              "id": "grid.430387.b",
+              "name": "Rutgers, The State University of New Jersey",
+              "city": "New Brunswick",
+              "city_id": 5101717,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8CE3942031787C08FDC573721A64AFF0/S1368980014002365a.pdf/div-class-title-the-relative-contribution-of-layers-of-the-social-ecological-model-to-childhood-obesity-div.pdf",
+      "keywords": [
+        "weight",
+        "logistic regression models",
+        "physical activity environments",
+        "households",
+        "community",
+        "status",
+        "parent demographics",
+        "childhood obesity",
+        "childhood obesity prevention",
+        "activity environments",
+        "weight status",
+        "obesity prevention",
+        "child demographic characteristics",
+        "analysis",
+        "multiple logistic regression model",
+        "prevention",
+        "cross-sectional survey",
+        "telephone survey",
+        "regression models",
+        "children",
+        "neighborhood characteristics",
+        "parental perceptions",
+        "sectional survey",
+        "survey",
+        "social ecological model",
+        "demographics",
+        "child weight status",
+        "joint contribution",
+        "child's residence",
+        "levels",
+        "perception",
+        "food",
+        "etiology",
+        "obesity",
+        "residence",
+        "data",
+        "relative contribution",
+        "parents",
+        "strategies",
+        "intervention",
+        "physical activity outlets",
+        "demographic characteristics"
+      ],
+      "journal_title": "Public Health Nutrition",
+      "title": "The relative contribution of layers of the Social Ecological Model to childhood obesity"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The relative contribution of layers of the Social Ecological Model to childhood obesity",
+      "doi": "10.1017/S1368980014002365",
+      "url": "https://europepmc.org/articles/PMC4775271/"
+    }
+  },
+  {
+    "title": "Unstable Housing and Diabetes-Related Emergency Department Visits and Hospitalization: A Nationally Representative Study of Safety-Net Clinic Patients",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.2337/dc17-1812",
+      "url": "www.doi.org/10.2337/dc17-1812",
+      "journal ": "Diabetes Care",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.2337/dc17-1812",
+      "authors": [
+        {
+          "first_name": "Seth A",
+          "last_name": "Berkowitz",
+          "corresponding": "",
+          "orcid": "['0000-0003-1030-4297']",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01070465201.85",
+          "affiliations": [
+            {
+              "id": "grid.32224.35",
+              "name": "Massachusetts General Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Sara",
+          "last_name": "Kalkhoran",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.32224.35",
+          "researcher_id": "ur.01064511726.96",
+          "affiliations": [
+            {
+              "id": "grid.32224.35",
+              "name": "Massachusetts General Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Samuel T",
+          "last_name": "Edwards",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.5288.7",
+          "researcher_id": "ur.01153245646.83",
+          "affiliations": [
+            {
+              "name": "Section of General Internal Medicine, Veterans Affairs Portland Health Care System, Portland, OR."
+            },
+            {
+              "id": "grid.5288.7",
+              "name": "Oregon Health & Science University",
+              "city": "Portland",
+              "city_id": 5746545,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oregon",
+              "state_code": "US-OR"
+            }
+          ]
+        },
+        {
+          "first_name": "Utibe R",
+          "last_name": "Essien",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21925.3d",
+          "researcher_id": "ur.010025657741.58",
+          "affiliations": [
+            {
+              "id": "grid.32224.35",
+              "name": "Massachusetts General Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Travis P",
+          "last_name": "Baggett",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.32224.35",
+          "researcher_id": "ur.01074556030.22",
+          "affiliations": [
+            {
+              "id": "grid.32224.35",
+              "name": "Massachusetts General Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.427661.0",
+              "name": "Boston Health Care for the Homeless Program",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://care.diabetesjournals.org/content/diacare/41/5/933.full.pdf",
+      "keywords": [
+        "outcomes",
+        "care",
+        "study",
+        "use",
+        "hospitalization",
+        "participants",
+        "unstable housing",
+        "center",
+        "past year",
+        "Health Center Patient Survey",
+        "regression analysis",
+        "multiple potential confounders",
+        "assistance",
+        "Department",
+        "enough money",
+        "care utilization",
+        "clinic patients",
+        "potential confounders",
+        "self-report",
+        "self",
+        "emergency department",
+        "department visits",
+        "clinical setting",
+        "survey",
+        "more time",
+        "months",
+        "diabetes",
+        "setting",
+        "inpatient hospitalization",
+        "patients",
+        "odds",
+        "patient survey",
+        "report",
+        "inpatient use",
+        "primary outcome",
+        "health centers",
+        "diabetes outcomes",
+        "relationship",
+        "years",
+        "research design",
+        "logistic regression analysis",
+        "emergency department use",
+        "health care utilization",
+        "worse diabetes outcomes",
+        "vulnerable individuals",
+        "data",
+        "greater odds",
+        "safety-net health centers",
+        "clinic",
+        "homelessness",
+        "adults",
+        "emergency department visits",
+        "representative study",
+        "confounders",
+        "nonhomeless adults",
+        "visits",
+        "department use",
+        "representative survey",
+        "risk of diabetes",
+        "utilization",
+        "individuals",
+        "risk"
+      ],
+      "journal_title": "Diabetes Care",
+      "title": "Unstable Housing and Diabetes-Related Emergency Department Visits and Hospitalization: A Nationally Representative Study of Safety-Net Clinic Patients"
+    },
+    "openaire": {
+      "journal": "Diabetes Care",
+      "title": "Unstable Housing and Diabetes-Related Emergency Department Visits and Hospitalization: A Nationally Representative Study of Safety-Net Clinic Patients",
+      "doi": "10.2337/dc17-1812",
+      "url": "http://europepmc.org/articles/PMC5911783"
+    }
+  },
+  {
+    "title": "Communicating and Assessing Physical Activity: Outcomes From Cognitive Interviews With Low-Income Adults",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.jneb.2018.07.008",
+      "url": "www.doi.org/10.1016/j.jneb.2018.07.008",
+      "journal ": "Journal of Nutrition Education and Behavior",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jneb.2018.07.008",
+      "authors": [
+        {
+          "first_name": "Cheng",
+          "last_name": "Li",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.430387.b",
+          "researcher_id": "ur.014454710565.42",
+          "affiliations": [
+            {
+              "id": "grid.430387.b",
+              "name": "Rutgers, The State University of New Jersey",
+              "city": "New Brunswick",
+              "city_id": 5101717,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        },
+        {
+          "first_name": "Garry",
+          "last_name": "Auld",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47894.36",
+          "researcher_id": "ur.0730054644.19",
+          "affiliations": [
+            {
+              "id": "grid.47894.36",
+              "name": "Colorado State University",
+              "city": "Fort Collins",
+              "city_id": 5577147,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Colorado",
+              "state_code": "US-CO"
+            }
+          ]
+        },
+        {
+          "first_name": "Karen",
+          "last_name": "D'Alonzo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.430387.b",
+          "researcher_id": "ur.0663347171.65",
+          "affiliations": [
+            {
+              "id": "grid.430387.b",
+              "name": "Rutgers, The State University of New Jersey",
+              "city": "New Brunswick",
+              "city_id": 5101717,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        },
+        {
+          "first_name": "Debra",
+          "last_name": "Palmer-Keenan",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.430387.b",
+          "researcher_id": "ur.01226436166.08",
+          "affiliations": [
+            {
+              "id": "grid.430387.b",
+              "name": "Rutgers, The State University of New Jersey",
+              "city": "New Brunswick",
+              "city_id": 5101717,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "PA behavior",
+        "cognitive interviews",
+        "Washington",
+        "income adults",
+        "study",
+        "literacy levels",
+        "implications",
+        "nutrition educators",
+        "outcomes",
+        "unintended ways",
+        "changes",
+        "participants",
+        "messages",
+        "interviews",
+        "phenomenon",
+        "New Jersey",
+        "participation",
+        "intentional engagement",
+        "analysis",
+        "comparative analysis",
+        "exercise",
+        "terms",
+        "behavior",
+        "comprehension",
+        "Tennessee",
+        "Jersey",
+        "similar populations",
+        "low-income adults",
+        "convenience sample",
+        "conceptualization",
+        "wording",
+        "levels",
+        "engagement",
+        "physical activity",
+        "terminology",
+        "concept",
+        "way",
+        "interest",
+        "population",
+        "program sites",
+        "educators",
+        "adults",
+        "extra activity",
+        "PA concept",
+        "constant comparative analysis",
+        "interpretation",
+        "participants' interpretations"
+      ],
+      "journal_title": "Journal of Nutrition Education and Behavior",
+      "title": "Communicating and Assessing Physical Activity: Outcomes From Cognitive Interviews With Low-Income Adults"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jneb.2018.07.008",
+      "journal": "J Nutr Educ Behav",
+      "url": "http://europepmc.org/abstract/MED/30414667",
+      "title": "communicating and assessing physical activity: outcomes from cognitive interviews with low-income adults"
+    },
+    "openaire": {
+      "journal": "The Canadian Journal of Infectious Diseases & Medical Microbiology",
+      "title": "Communicating and Assessing Physical Activity: Outcomes From Cognitive Interviews With Low-Income Adults",
+      "doi": null,
+      "url": "http://europepmc.org/articles/PMC4427862"
+    }
+  },
+  {
+    "title": "SUPPLEMENTING TANF'S WORK REQUIREMENT: A COMPROMISE",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1002/pam.21885",
+      "url": "www.doi.org/10.1002/pam.21885",
+      "journal ": "Journal of Policy Analysis and Management",
+      "date_added": "2019-10-11 10:50:15"
+    }
+  },
+  {
+    "title": "Subsidized Housing and Children's Nutritional Status: Data From a Multisite Surveillance Study",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1001/archpedi.159.6.551",
+      "url": "www.doi.org/10.1001/archpedi.159.6.551",
+      "journal ": "JAMA Pediatrics",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1001/archpedi.159.6.551",
+      "authors": [
+        {
+          "first_name": "Alan",
+          "last_name": "Meyers",
+          "corresponding": "",
+          "orcid": "['0000-0002-1138-0024']",
+          "current_organization_id": "grid.239424.a",
+          "researcher_id": "ur.01315137440.74",
+          "affiliations": [
+            {
+              "id": "grid.239424.a",
+              "name": "Boston Medical Center",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Diana",
+          "last_name": "Cutts",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.414021.2",
+          "researcher_id": "ur.0710173137.69",
+          "affiliations": [
+            {
+              "id": "grid.414021.2",
+              "name": "Hennepin County Medical Center",
+              "city": "Minneapolis",
+              "city_id": 5037649,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Minnesota",
+              "state_code": "US-MN"
+            }
+          ]
+        },
+        {
+          "first_name": "Deborah A.",
+          "last_name": "Frank",
+          "corresponding": "",
+          "orcid": "['0000-0002-2178-0865']",
+          "current_organization_id": "grid.239424.a",
+          "researcher_id": "ur.013763020032.38",
+          "affiliations": [
+            {
+              "id": "grid.239424.a",
+              "name": "Boston Medical Center",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Suzette",
+          "last_name": "Levenson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.01155050154.48",
+          "affiliations": [
+            {
+              "id": "grid.189504.1",
+              "name": "Boston University",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Anne",
+          "last_name": "Skalicky",
+          "corresponding": "",
+          "orcid": "['0000-0001-9865-3824']",
+          "current_organization_id": "grid.423257.5",
+          "researcher_id": "ur.015342333411.30",
+          "affiliations": [
+            {
+              "id": "grid.239424.a",
+              "name": "Boston Medical Center",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Timothy",
+          "last_name": "Heeren",
+          "corresponding": "",
+          "orcid": "['0000-0001-5643-3559']",
+          "current_organization_id": "grid.189504.1",
+          "researcher_id": "ur.010200144377.58",
+          "affiliations": [
+            {
+              "id": "grid.189504.1",
+              "name": "Boston University",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "John",
+          "last_name": "Cook",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.189504.1",
+          "researcher_id": "ur.01106105010.93",
+          "affiliations": [
+            {
+              "id": "grid.239424.a",
+              "name": "Boston Medical Center",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Carol",
+          "last_name": "Berkowitz",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.239844.0",
+          "researcher_id": "ur.01031316227.29",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Harbor\u2013University of California Los Angeles Medical Center, Los Angeles (Dr Berkowitz)"
+            }
+          ]
+        },
+        {
+          "first_name": "Maureen",
+          "last_name": "Black",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411024.2",
+          "researcher_id": "ur.0645431223.45",
+          "affiliations": [
+            {
+              "id": "grid.411024.2",
+              "name": "University of Maryland, Baltimore",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Patrick",
+          "last_name": "Casey",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.241054.6",
+          "researcher_id": "ur.01365464037.17",
+          "affiliations": [
+            {
+              "id": "grid.241054.6",
+              "name": "University of Arkansas for Medical Sciences",
+              "city": "Little Rock",
+              "city_id": 4119403,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Arkansas",
+              "state_code": "US-AR"
+            }
+          ]
+        },
+        {
+          "first_name": "Nieves",
+          "last_name": "Zaldivar",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.429448.7",
+          "researcher_id": "ur.01015162306.79",
+          "affiliations": [
+            {
+              "name": "Department of Pediatrics, Mary\u2019s Center for Maternal and Child Care, Washington, DC (Dr Zaldivar)."
+            }
+          ]
+        }
+      ],
+      "linkout": "https://jamanetwork.com/journals/jamapediatrics/articlepdf/486034/POA40260.pdf",
+      "keywords": [
+        "Children's Sentinel Nutrition Assessment Program",
+        "weight",
+        "households",
+        "child's weight",
+        "eligible families",
+        "interviews",
+        "age z score",
+        "US Household Food Security Scale",
+        "family",
+        "undernutrition",
+        "sentinel sample",
+        "income",
+        "Security Scale",
+        "pediatric clinic",
+        "child nutritional status",
+        "critical shortage",
+        "household food security status",
+        "food-insecure families",
+        "United States",
+        "child health status",
+        "adjusted odds ratio",
+        "income families",
+        "status",
+        "hospitalization",
+        "Department",
+        "history",
+        "odds ratio",
+        "health outcomes",
+        "multivariable analysis",
+        "nutritional status",
+        "demographics",
+        "high risk",
+        "child health",
+        "food-insecure",
+        "low income",
+        "program",
+        "food security status",
+        "security status",
+        "Fourth",
+        "health status",
+        "program participation",
+        "visits",
+        "outcomes",
+        "insecure families",
+        "comparable families",
+        "shortage",
+        "low-income families",
+        "food insecure",
+        "effects",
+        "health",
+        "sectional observational study",
+        "participants",
+        "outcome measures",
+        "history of hospitalization",
+        "participation",
+        "Household Food Security Scale",
+        "setting",
+        "low weight",
+        "years",
+        "age",
+        "young children",
+        "Assessment Program",
+        "caregivers of children",
+        "clinic",
+        "SD",
+        "study sample",
+        "measures",
+        "risk",
+        "study",
+        "emergency department",
+        "self",
+        "subsidized housing",
+        "confounding variables",
+        "children",
+        "income children",
+        "surveillance study",
+        "cross-sectional observational study",
+        "pressure",
+        "observational study",
+        "scores",
+        "multisite surveillance study",
+        "indications",
+        "Food Security Scale",
+        "samples",
+        "variables",
+        "potential confounding variables",
+        "relationship",
+        "data",
+        "low-income children",
+        "insecure",
+        "caregivers"
+      ],
+      "journal_title": "JAMA Pediatrics",
+      "title": "Subsidized Housing and Children's Nutritional Status: Data From a Multisite Surveillance Study"
+    },
+    "europepmc": {
+      "doi": "10.1001/archpedi.159.6.551",
+      "journal": "Arch Pediatr Adolesc Med",
+      "url": "http://europepmc.org/abstract/MED/15939854",
+      "title": "subsidized housing and children's nutritional status: data from a multisite surveillance study"
+    }
+  },
+  {
+    "title": "Food-related behavior and intake of adult main meal preparers of 9 10 year-old children participating in iCook 4-H: A five-state childhood obesity prevention pilot study",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.appet.2016.03.006",
+      "url": "www.doi.org/10.1016/j.appet.2016.03.006",
+      "journal ": "Appetite",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.appet.2016.03.006",
+      "authors": [
+        {
+          "first_name": "Ashley",
+          "last_name": "Miller",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.24434.35",
+          "researcher_id": "ur.01114615705.98",
+          "affiliations": [
+            {
+              "id": "grid.24434.35",
+              "name": "University of Nebraska\u2013Lincoln",
+              "city": "Lincoln",
+              "city_id": 5072006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nebraska",
+              "state_code": "US-NE"
+            }
+          ]
+        },
+        {
+          "first_name": "Lisa",
+          "last_name": "Franzen-Castle",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.24434.35",
+          "researcher_id": "ur.01116005705.91",
+          "affiliations": [
+            {
+              "id": "grid.24434.35",
+              "name": "University of Nebraska\u2013Lincoln",
+              "city": "Lincoln",
+              "city_id": 5072006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nebraska",
+              "state_code": "US-NE"
+            }
+          ]
+        },
+        {
+          "first_name": "Trina",
+          "last_name": "Aguirre",
+          "corresponding": "",
+          "orcid": "['0000-0002-2117-8153']",
+          "current_organization_id": "",
+          "researcher_id": "ur.01000530057.18",
+          "affiliations": [
+            {
+              "id": "grid.266813.8",
+              "name": "University of Nebraska Medical Center",
+              "city": "Omaha",
+              "city_id": 5074472,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nebraska",
+              "state_code": "US-NE"
+            }
+          ]
+        },
+        {
+          "first_name": "Michelle",
+          "last_name": "Krehbiel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.24434.35",
+          "researcher_id": "ur.0623610672.11",
+          "affiliations": [
+            {
+              "id": "grid.24434.35",
+              "name": "University of Nebraska\u2013Lincoln",
+              "city": "Lincoln",
+              "city_id": 5072006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nebraska",
+              "state_code": "US-NE"
+            }
+          ]
+        },
+        {
+          "first_name": "Sarah",
+          "last_name": "Colby",
+          "corresponding": "",
+          "orcid": "['0000-0002-8298-3690']",
+          "current_organization_id": "grid.411461.7",
+          "researcher_id": "ur.01201175012.16",
+          "affiliations": [
+            {
+              "id": "grid.411461.7",
+              "name": "University of Tennessee at Knoxville",
+              "city": "Knoxville",
+              "city_id": 4634946,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Kendra",
+          "last_name": "Kattelmann",
+          "corresponding": "",
+          "orcid": "['0000-0002-6186-2822']",
+          "current_organization_id": "grid.263791.8",
+          "researcher_id": "ur.01016616306.93",
+          "affiliations": [
+            {
+              "id": "grid.263791.8",
+              "name": "South Dakota State University",
+              "city": "Brookings",
+              "city_id": 5226534,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Dakota",
+              "state_code": "US-SD"
+            }
+          ]
+        },
+        {
+          "first_name": "Melissa D.",
+          "last_name": "Olfert",
+          "corresponding": "",
+          "orcid": "['0000-0002-6686-3891']",
+          "current_organization_id": "grid.268154.c",
+          "researcher_id": "ur.01016136327.21",
+          "affiliations": [
+            {
+              "id": "grid.268154.c",
+              "name": "West Virginia University",
+              "city": "Morgantown",
+              "city_id": 4815352,
+              "country": "United States",
+              "country_code": "US",
+              "state": "West Virginia",
+              "state_code": "US-WV"
+            }
+          ]
+        },
+        {
+          "first_name": "Douglas",
+          "last_name": "Mathews",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21106.34",
+          "researcher_id": "ur.013671272571.42",
+          "affiliations": [
+            {
+              "id": "grid.21106.34",
+              "name": "University of Maine",
+              "city": "Orono",
+              "city_id": 4974313,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maine",
+              "state_code": "US-ME"
+            }
+          ]
+        },
+        {
+          "first_name": "Adrienne",
+          "last_name": "White",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21106.34",
+          "researcher_id": "ur.0777260212.25",
+          "affiliations": [
+            {
+              "id": "grid.21106.34",
+              "name": "University of Maine",
+              "city": "Orono",
+              "city_id": 4974313,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maine",
+              "state_code": "US-ME"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://manuscript.elsevier.com/S0195666316300952/pdf/S0195666316300952.pdf",
+      "keywords": [
+        "intake",
+        "childhood obesity prevention programs",
+        "program participants",
+        "grocery list",
+        "article",
+        "habits",
+        "label",
+        "year-old children",
+        "soup",
+        "skills confidence",
+        "iCook 4-H Study",
+        "family",
+        "eating",
+        "levels",
+        "meal",
+        "healthy cooking skills",
+        "purchasing skills",
+        "data responses",
+        "routines",
+        "positive difference",
+        "baseline",
+        "person contact",
+        "skills",
+        "physical activity habits",
+        "dyad model",
+        "meal choices",
+        "healthier meal choices",
+        "Nutrition Facts label",
+        "descriptive statistics",
+        "more meals",
+        "whole grain consumption",
+        "influence",
+        "sample test",
+        "home",
+        "improvement",
+        "survey",
+        "demographics",
+        "prevention programs",
+        "adult outcomes",
+        "dyads",
+        "pre",
+        "results",
+        "program",
+        "contact",
+        "desire",
+        "safety practices",
+        "youth",
+        "meal planning",
+        "cognitive theory",
+        "outcomes",
+        "program's conclusion",
+        "program completion",
+        "list",
+        "participants",
+        "social cognitive theory",
+        "food intake",
+        "bachelor's degree",
+        "mail",
+        "half",
+        "grain consumption",
+        "food",
+        "significance level",
+        "parents",
+        "adults",
+        "College",
+        "obesity prevention programs",
+        "food meals",
+        "practice",
+        "adult program participants",
+        "study",
+        "choice",
+        "old children",
+        "findings",
+        "iCook 4-H",
+        "meal preparers",
+        "planning",
+        "differences",
+        "flyers",
+        "self",
+        "mealtime routines",
+        "focus",
+        "children",
+        "behavior",
+        "activity habits",
+        "months",
+        "meal habits",
+        "degree",
+        "cooking skills",
+        "pilot study",
+        "response",
+        "significant increase",
+        "assistance programs",
+        "relationship",
+        "completion",
+        "conclusion",
+        "fast food meals",
+        "sample t test",
+        "caregivers",
+        "test",
+        "confidence",
+        "feeding interactions"
+      ],
+      "journal_title": "Appetite",
+      "title": "Food-related behavior and intake of adult main meal preparers of 9 10 year-old children participating in iCook 4-H: A five-state childhood obesity prevention pilot study"
+    }
+  },
+  {
+    "title": "People, Places, Power: Medicaid Concentration and Local Political Participation",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1215/03616878-3940468",
+      "url": "www.doi.org/10.1215/03616878-3940468",
+      "journal ": "Journal of Health Politics Policy and Law",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1215/03616878-3940468",
+      "authors": [
+        {
+          "first_name": "Jamila D",
+          "last_name": "Michener",
+          "corresponding": "",
+          "orcid": "['0000-0002-7343-442X']",
+          "current_organization_id": "grid.5386.8",
+          "researcher_id": "ur.010616652243.39",
+          "affiliations": [
+            {
+              "id": "grid.5386.8",
+              "name": "Cornell University",
+              "city": "Ithaca",
+              "city_id": 5122432,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "organization",
+        "organizational strength",
+        "grassroots political action",
+        "key mechanism",
+        "efforts",
+        "County residents",
+        "equity",
+        "power",
+        "local political participation",
+        "aggregate rate",
+        "Medicaid beneficiaries",
+        "spatial patterning",
+        "consequences",
+        "county-level voter turnout",
+        "health equity",
+        "article",
+        "Medicaid",
+        "participation",
+        "inequities",
+        "framework",
+        "locales",
+        "state",
+        "policy",
+        "action",
+        "political action",
+        "people",
+        "political participation",
+        "turnout",
+        "community-wide consequences",
+        "residents",
+        "local organizations",
+        "makers",
+        "policy makers",
+        "place",
+        "political effects",
+        "disadvantages",
+        "wider consequences",
+        "beneficiaries",
+        "Americans",
+        "geographic concentration",
+        "strategies",
+        "voter turnout",
+        "particular locale",
+        "membership associations",
+        "United States",
+        "part"
+      ],
+      "journal_title": "Journal of Health Politics Policy and Law",
+      "title": "People, Places, Power: Medicaid Concentration and Local Political Participation"
+    },
+    "europepmc": {
+      "doi": "10.1215/03616878-3940468",
+      "journal": "J Health Polit Policy Law",
+      "url": "http://europepmc.org/abstract/MED/28663176",
+      "title": "people, places, power: medicaid concentration and local political participation"
+    }
+  },
+  {
+    "title": "The Cost-effectiveness Analysis of Nurse-Family Partnership in the United States",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1353/hpu.2017.0134",
+      "url": "www.doi.org/10.1353/hpu.2017.0134",
+      "journal ": "Journal of Health Care for the Poor and Underserved",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1353/hpu.2017.0134",
+      "authors": [
+        {
+          "first_name": "Jinjing",
+          "last_name": "Wu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.39436.3b",
+          "researcher_id": "ur.013566653161.19",
+          "affiliations": [
+            {
+              "name": "JINJING WU is affiliated with School of Politics and Public Administration of Zhejiang University of Technology, and Institute of Population Research, Peking University KELSEY S. DEAN, ZOHN ROSEN and PETER MUENNIG are affiliated with Department of Health Policy and Management, Columbia University."
+            }
+          ]
+        },
+        {
+          "first_name": "Kelsey S.",
+          "last_name": "Dean",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Zohn",
+          "last_name": "Rosen",
+          "corresponding": "",
+          "orcid": "['0000-0001-7758-9739']",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.01304303564.52",
+          "affiliations": []
+        },
+        {
+          "first_name": "Peter A.",
+          "last_name": "Muennig",
+          "corresponding": "",
+          "orcid": "['0000-0002-4234-0498']",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.01201621034.24",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "study",
+        "social determinants",
+        "social policy",
+        "comparison-group children",
+        "net benefit",
+        "health",
+        "new mothers",
+        "Nurse-Family Partnership",
+        "era",
+        "mothers",
+        "benefits",
+        "analysis",
+        "policy",
+        "children",
+        "cost-effectiveness",
+        "determinants",
+        "policy investment",
+        "cost-effectiveness analysis",
+        "additional cost",
+        "hypothetical cohort",
+        "investment",
+        "cohort",
+        "risk mothers",
+        "program",
+        "effectiveness",
+        "partnership",
+        "cost",
+        "effectiveness analysis",
+        "relatives",
+        "data",
+        "QALY",
+        "nurses",
+        "Family Partnership",
+        "high-risk mothers",
+        "effective social policies",
+        "United States"
+      ],
+      "journal_title": "Journal of Health Care for the Poor and Underserved",
+      "title": "The Cost-effectiveness Analysis of Nurse-Family Partnership in the United States"
+    },
+    "europepmc": {
+      "doi": "10.1353/hpu.2017.0134",
+      "journal": "J Health Care Poor Underserved",
+      "url": "http://europepmc.org/abstract/MED/29176115",
+      "title": "the cost-effectiveness analysis of nurse-family partnership in the united states"
+    }
+  },
+  {
+    "title": "Healthcare Utilization and Missed Workdays for Parents of Children With Traumatic Brain Injury",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1097/htr.0000000000000458",
+      "url": "www.doi.org/10.1097/htr.0000000000000458",
+      "journal ": "Journal of Head Trauma Rehabilitation",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1097/htr.0000000000000458",
+      "authors": [
+        {
+          "first_name": "Richard E.",
+          "last_name": "Nelson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Veterans Affairs Salt Lake City Health Care System, Salt Lake City, Utah (Dr Nelson and Mr Ma); Department of Internal Medicine, University of Utah School of Medicine, Salt Lake City (Dr Nelson); Department of Pharmacotherapy, University of Utah College of Pharmacy, Salt Lake City (Mr Ma); George Washington University Informatics Center, Washington, District of Columbia (Dr Cheng); Department of Pediatrics, University of Texas Houston Health Sciences Center (Dr Ewing-Cobbs); and Department of Pediatrics, University of Utah, Salt Lake City (Ms Clark and Dr Keenan)."
+            }
+          ]
+        },
+        {
+          "first_name": "Junjie",
+          "last_name": "Ma",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Veterans Affairs Salt Lake City Health Care System, Salt Lake City, Utah (Dr Nelson and Mr Ma); Department of Internal Medicine, University of Utah School of Medicine, Salt Lake City (Dr Nelson); Department of Pharmacotherapy, University of Utah College of Pharmacy, Salt Lake City (Mr Ma); George Washington University Informatics Center, Washington, District of Columbia (Dr Cheng); Department of Pediatrics, University of Texas Houston Health Sciences Center (Dr Ewing-Cobbs); and Department of Pediatrics, University of Utah, Salt Lake City (Ms Clark and Dr Keenan)."
+            }
+          ]
+        },
+        {
+          "first_name": "Yan",
+          "last_name": "Cheng",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Veterans Affairs Salt Lake City Health Care System, Salt Lake City, Utah (Dr Nelson and Mr Ma); Department of Internal Medicine, University of Utah School of Medicine, Salt Lake City (Dr Nelson); Department of Pharmacotherapy, University of Utah College of Pharmacy, Salt Lake City (Mr Ma); George Washington University Informatics Center, Washington, District of Columbia (Dr Cheng); Department of Pediatrics, University of Texas Houston Health Sciences Center (Dr Ewing-Cobbs); and Department of Pediatrics, University of Utah, Salt Lake City (Ms Clark and Dr Keenan)."
+            }
+          ]
+        },
+        {
+          "first_name": "Linda",
+          "last_name": "Ewing-Cobbs",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.267308.8",
+          "researcher_id": "ur.0702201220.35",
+          "affiliations": [
+            {
+              "name": "Veterans Affairs Salt Lake City Health Care System, Salt Lake City, Utah (Dr Nelson and Mr Ma); Department of Internal Medicine, University of Utah School of Medicine, Salt Lake City (Dr Nelson); Department of Pharmacotherapy, University of Utah College of Pharmacy, Salt Lake City (Mr Ma); George Washington University Informatics Center, Washington, District of Columbia (Dr Cheng); Department of Pediatrics, University of Texas Houston Health Sciences Center (Dr Ewing-Cobbs); and Department of Pediatrics, University of Utah, Salt Lake City (Ms Clark and Dr Keenan)."
+            }
+          ]
+        },
+        {
+          "first_name": "Amy",
+          "last_name": "Clark",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.223827.e",
+          "researcher_id": "ur.0670753221.25",
+          "affiliations": [
+            {
+              "name": "Veterans Affairs Salt Lake City Health Care System, Salt Lake City, Utah (Dr Nelson and Mr Ma); Department of Internal Medicine, University of Utah School of Medicine, Salt Lake City (Dr Nelson); Department of Pharmacotherapy, University of Utah College of Pharmacy, Salt Lake City (Mr Ma); George Washington University Informatics Center, Washington, District of Columbia (Dr Cheng); Department of Pediatrics, University of Texas Houston Health Sciences Center (Dr Ewing-Cobbs); and Department of Pediatrics, University of Utah, Salt Lake City (Ms Clark and Dr Keenan)."
+            }
+          ]
+        },
+        {
+          "first_name": "Heather",
+          "last_name": "Keenan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.223827.e",
+          "researcher_id": "ur.01300234733.49",
+          "affiliations": [
+            {
+              "name": "Veterans Affairs Salt Lake City Health Care System, Salt Lake City, Utah (Dr Nelson and Mr Ma); Department of Internal Medicine, University of Utah School of Medicine, Salt Lake City (Dr Nelson); Department of Pharmacotherapy, University of Utah College of Pharmacy, Salt Lake City (Mr Ma); George Washington University Informatics Center, Washington, District of Columbia (Dr Cheng); Department of Pediatrics, University of Texas Houston Health Sciences Center (Dr Ewing-Cobbs); and Department of Pediatrics, University of Utah, Salt Lake City (Ms Clark and Dr Keenan)."
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "orthopedic injuries",
+        "control group",
+        "study",
+        "outcomes",
+        "high concentrations",
+        "OI group",
+        "brain injury",
+        "prescription medications",
+        "medications",
+        "healthcare utilization",
+        "period",
+        "hospital admission",
+        "differences",
+        "number of miles",
+        "parents of children",
+        "missed workdays",
+        "time points",
+        "burden",
+        "regression models",
+        "department visits",
+        "children",
+        "traumatic brain injury",
+        "safety efforts",
+        "addition",
+        "admission",
+        "family",
+        "months",
+        "indirect burden",
+        "counter medications",
+        "time period",
+        "ED visits",
+        "patients",
+        "odds",
+        "injury",
+        "follow-up contact",
+        "contact",
+        "concentration",
+        "OTC medications",
+        "parents",
+        "number of workdays",
+        "prospective study",
+        "emergency department visits",
+        "workdays",
+        "days",
+        "number",
+        "pediatric traumatic brain injury",
+        "families of children",
+        "visits",
+        "group",
+        "more days",
+        "greater odds"
+      ],
+      "journal_title": "Journal of Head Trauma Rehabilitation",
+      "title": "Healthcare Utilization and Missed Workdays for Parents of Children With Traumatic Brain Injury"
+    },
+    "europepmc": {
+      "doi": "10.1097/HTR.0000000000000458",
+      "journal": "J Head Trauma Rehabil",
+      "url": "http://europepmc.org/abstract/MED/30608307",
+      "title": "healthcare utilization and missed workdays for parents of children with traumatic brain injury"
+    }
+  },
+  {
+    "title": "Executive functioning deficits increase kindergarten children's risk for reading and mathematics difficulties in first grade",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.cedpsych.2016.01.004",
+      "url": "www.doi.org/10.1016/j.cedpsych.2016.01.004",
+      "journal ": "Contemporary Educational Psychology",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.cedpsych.2016.01.004",
+      "authors": [
+        {
+          "first_name": "Paul L.",
+          "last_name": "Morgan",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.01104033106.47",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Hui",
+          "last_name": "Li",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.01353026057.26",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "George",
+          "last_name": "Farkas",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266093.8",
+          "researcher_id": "ur.0700303610.67",
+          "affiliations": [
+            {
+              "id": "grid.266093.8",
+              "name": "University of California, Irvine",
+              "city": "Irvine",
+              "city_id": 5359777,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Michael",
+          "last_name": "Cook",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.0627421757.05",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Wik Hung",
+          "last_name": "Pun",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.012551447463.62",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Marianne M.",
+          "last_name": "Hillemeier",
+          "corresponding": "",
+          "orcid": "['0000-0002-7726-0754']",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.01360574175.45",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5603312",
+      "keywords": [
+        "cognitive flexibility deficits",
+        "implications",
+        "memory",
+        "multi-component intervention",
+        "confounds",
+        "evidence",
+        "regression analysis",
+        "statistical control",
+        "potential confounds",
+        "children's risk",
+        "flexibility deficits",
+        "intervention design",
+        "executive functioning deficits",
+        "function",
+        "children",
+        "extensive statistical control",
+        "component intervention",
+        "grade",
+        "mathematics difficulties",
+        "samples",
+        "results",
+        "panel design",
+        "early deficits",
+        "young children",
+        "difficulties",
+        "relation",
+        "criteria",
+        "variable measures",
+        "causal relations",
+        "reading",
+        "longitudinal sample",
+        "first grade",
+        "executive function",
+        "control",
+        "memory deficits",
+        "deficits",
+        "measures",
+        "intervention",
+        "design",
+        "risk"
+      ],
+      "journal_title": "Contemporary Educational Psychology",
+      "title": "Executive functioning deficits increase kindergarten children's risk for reading and mathematics difficulties in first grade"
+    }
+  },
+  {
+    "title": "Health care expenditures among working-age adults with physical disabilities: Variations by disability spans",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.dhjo.2013.03.002",
+      "url": "www.doi.org/10.1016/j.dhjo.2013.03.002",
+      "journal ": "Disability and Health Journal",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.dhjo.2013.03.002",
+      "authors": [
+        {
+          "first_name": "Chaiporn",
+          "last_name": "Pumkam",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.254567.7",
+          "researcher_id": "ur.01234170550.84",
+          "affiliations": [
+            {
+              "id": "grid.254567.7",
+              "name": "University of South Carolina",
+              "city": "Columbia",
+              "city_id": 4575352,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Carolina",
+              "state_code": "US-SC"
+            }
+          ]
+        },
+        {
+          "first_name": "Janice C.",
+          "last_name": "Probst",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.254567.7",
+          "researcher_id": "ur.01340140430.47",
+          "affiliations": [
+            {
+              "id": "grid.254567.7",
+              "name": "University of South Carolina",
+              "city": "Columbia",
+              "city_id": 4575352,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Carolina",
+              "state_code": "US-SC"
+            }
+          ]
+        },
+        {
+          "first_name": "Kevin J.",
+          "last_name": "Bennett",
+          "corresponding": "",
+          "orcid": "['0000-0001-8449-3305']",
+          "current_organization_id": "grid.254567.7",
+          "researcher_id": "ur.01166055350.21",
+          "affiliations": [
+            {
+              "id": "grid.254567.7",
+              "name": "University of South Carolina",
+              "city": "Columbia",
+              "city_id": 4575352,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Carolina",
+              "state_code": "US-SC"
+            }
+          ]
+        },
+        {
+          "first_name": "James",
+          "last_name": "Hardin",
+          "corresponding": "",
+          "orcid": "['0000-0003-0506-5500']",
+          "current_organization_id": "grid.254567.7",
+          "researcher_id": "ur.010736657577.32",
+          "affiliations": [
+            {
+              "id": "grid.254567.7",
+              "name": "University of South Carolina",
+              "city": "Columbia",
+              "city_id": 4575352,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Carolina",
+              "state_code": "US-SC"
+            }
+          ]
+        },
+        {
+          "first_name": "Sudha",
+          "last_name": "Xirasagar",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.254567.7",
+          "researcher_id": "ur.01033031106.12",
+          "affiliations": [
+            {
+              "id": "grid.254567.7",
+              "name": "University of South Carolina",
+              "city": "Columbia",
+              "city_id": 4575352,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Carolina",
+              "state_code": "US-SC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "factors",
+        "OOP expenditure",
+        "percent",
+        "financial protection",
+        "status",
+        "effects",
+        "period",
+        "regression analysis",
+        "care expenses",
+        "health",
+        "annual median",
+        "percentile",
+        "health care costs",
+        "health care expenses",
+        "burden ratio",
+        "health care expenditures",
+        "OOP expenses",
+        "disability",
+        "care expenditures",
+        "pocket spending",
+        "burden",
+        "working-age population",
+        "persistent disability",
+        "people",
+        "total expenditure",
+        "total health care expenditures",
+        "age population",
+        "working-age adults",
+        "socioeconomic disadvantage",
+        "quantile regression analysis",
+        "average annual expenditure",
+        "long period",
+        "similar trend",
+        "higher total expenditures",
+        "temporary disability",
+        "protection",
+        "regression",
+        "disability groups",
+        "disability status",
+        "age adults",
+        "annual expenditure",
+        "greater financial burden",
+        "population",
+        "physical disability",
+        "data",
+        "median",
+        "respondents",
+        "adults",
+        "care costs",
+        "better financial protection",
+        "financial burden",
+        "group",
+        "expenditure",
+        "pocket expenditures"
+      ],
+      "journal_title": "Disability and Health Journal",
+      "title": "Health care expenditures among working-age adults with physical disabilities: Variations by disability spans"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.dhjo.2013.03.002",
+      "journal": "Disabil Health J",
+      "url": "http://europepmc.org/abstract/MED/24060251",
+      "title": "health care expenditures among working-age adults with physical disabilities: variations by disability spans"
+    }
+  },
+  {
+    "title": "The Development of Spatial Skills in Elementary School Students",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1111/cdev.12753",
+      "url": "www.doi.org/10.1111/cdev.12753",
+      "journal ": "Child Development",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1111/cdev.12753",
+      "authors": [
+        {
+          "first_name": "Martha",
+          "last_name": "Carr",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.213876.9",
+          "researcher_id": "ur.0770265405.38",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Natalia",
+          "last_name": "Alexeev",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.213876.9",
+          "researcher_id": "ur.01036400605.37",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Lu",
+          "last_name": "Wang",
+          "corresponding": "",
+          "orcid": "['0000-0002-1049-7255']",
+          "current_organization_id": "grid.252754.3",
+          "researcher_id": "ur.010013737707.06",
+          "affiliations": [
+            {
+              "id": "grid.252754.3",
+              "name": "Ball State University",
+              "city": "Muncie",
+              "city_id": 4924006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Indiana",
+              "state_code": "US-IN"
+            }
+          ]
+        },
+        {
+          "first_name": "Nicole",
+          "last_name": "Barned",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.213876.9",
+          "researcher_id": "ur.010611320307.96",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Erin",
+          "last_name": "Horan",
+          "corresponding": "",
+          "orcid": "['0000-0001-7523-9778']",
+          "current_organization_id": "grid.213876.9",
+          "researcher_id": "ur.011406700707.75",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Adam",
+          "last_name": "Reed",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/cdev.12753",
+      "keywords": [
+        "memory",
+        "study",
+        "fourth grade",
+        "latent classes",
+        "achievement",
+        "elementary school children",
+        "skills",
+        "status",
+        "collection",
+        "developmental profile",
+        "dimensional figures",
+        "elementary school students",
+        "data collection",
+        "differences",
+        "spatial skills",
+        "socioeconomic status",
+        "figures",
+        "school children",
+        "working memory",
+        "outcome variables",
+        "verbal working memory",
+        "role",
+        "need",
+        "children",
+        "skill development",
+        "grade",
+        "students",
+        "gender",
+        "school students",
+        "variables",
+        "year test",
+        "covariates",
+        "results",
+        "two-dimensional figures",
+        "development",
+        "class",
+        "longitudinal study",
+        "end",
+        "test",
+        "mathematics achievement",
+        "spatial skill development"
+      ],
+      "journal_title": "Child Development",
+      "title": "The Development of Spatial Skills in Elementary School Students"
+    },
+    "europepmc": {
+      "doi": "10.1111/cdev.12753",
+      "journal": "Child Dev",
+      "url": "http://europepmc.org/abstract/MED/28186327",
+      "title": "the development of spatial skills in elementary school students"
+    }
+  },
+  {
+    "title": "Childhood adversity and behavioral health outcomes for youth: An investigation using state administrative data",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.chiabu.2015.07.006",
+      "url": "www.doi.org/10.1016/j.chiabu.2015.07.006",
+      "journal ": "Child Abuse & Neglect",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.chiabu.2015.07.006",
+      "authors": [
+        {
+          "first_name": "Barbara A",
+          "last_name": "Lucenko",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.422519.9",
+          "researcher_id": "ur.01010711561.17",
+          "affiliations": [
+            {
+              "id": "grid.422519.9",
+              "name": "Washington Department of Social and Health Services",
+              "city": "Olympia",
+              "city_id": 5805687,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Irina V",
+          "last_name": "Sharkova",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.422519.9",
+          "researcher_id": "ur.01311023667.97",
+          "affiliations": [
+            {
+              "id": "grid.422519.9",
+              "name": "Washington Department of Social and Health Services",
+              "city": "Olympia",
+              "city_id": 5805687,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Alice",
+          "last_name": "Huber",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.422519.9",
+          "researcher_id": "ur.01152216225.34",
+          "affiliations": [
+            {
+              "name": "Washington State Department of Social and Health Services, Division of Research and Data Analysis, USA; Washington State Department of Social and Health Services, Division of Behavioral Health and Recovery, USA."
+            }
+          ]
+        },
+        {
+          "first_name": "Ron",
+          "last_name": "Jemelka",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.422519.9",
+              "name": "Washington Department of Social and Health Services",
+              "city": "Olympia",
+              "city_id": 5805687,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "David",
+          "last_name": "Mancuso",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.422519.9",
+          "researcher_id": "ur.01125140161.73",
+          "affiliations": [
+            {
+              "id": "grid.422519.9",
+              "name": "Washington Department of Social and Health Services",
+              "city": "Olympia",
+              "city_id": 5805687,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "experience",
+        "logistic regression",
+        "study",
+        "records",
+        "efforts",
+        "factors",
+        "outcomes",
+        "utility",
+        "administrative records",
+        "status",
+        "health",
+        "substance abuse status",
+        "domestic violence",
+        "service records",
+        "child abuse",
+        "youth ages 12",
+        "parental mental illness",
+        "approach",
+        "behavioral health outcomes",
+        "mental health",
+        "health outcomes",
+        "abuse problems",
+        "involvement",
+        "analysis",
+        "family risk factors",
+        "intervention efforts",
+        "risk",
+        "substance abuse",
+        "measures",
+        "parental death",
+        "abuse/neglect",
+        "parental domestic violence",
+        "prevention",
+        "mental illness",
+        "health services",
+        "illness",
+        "age 12",
+        "children",
+        "childhood adversity",
+        "contribution",
+        "administrative data",
+        "childhood",
+        "multivariate analysis",
+        "state administrative data",
+        "ability",
+        "behavioral health problems",
+        "abuse status",
+        "biological parents",
+        "adversity",
+        "neglect",
+        "regression",
+        "adolescence",
+        "early intervention efforts",
+        "criminal justice involvement",
+        "abuse",
+        "child abuse/neglect",
+        "disadvantages",
+        "parents",
+        "claims",
+        "justice involvement",
+        "predictors",
+        "substance abuse problems",
+        "homelessness",
+        "adolescents",
+        "adverse experiences",
+        "violence",
+        "services",
+        "youth",
+        "Medicaid claims",
+        "youth characteristics",
+        "health problems"
+      ],
+      "journal_title": "Child Abuse & Neglect",
+      "title": "Childhood adversity and behavioral health outcomes for youth: An investigation using state administrative data"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.chiabu.2015.07.006",
+      "journal": "Child Abuse Negl",
+      "url": "http://europepmc.org/abstract/MED/26234784",
+      "title": "childhood adversity and behavioral health outcomes for youth: an investigation using state administrative data"
+    }
+  },
+  {
+    "title": "Intersections of family homelessness, CPS involvement, and race in Alameda County, California",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.chiabu.2016.06.004",
+      "url": "www.doi.org/10.1016/j.chiabu.2016.06.004",
+      "journal ": "Child Abuse & Neglect",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.chiabu.2016.06.004",
+      "authors": [
+        {
+          "first_name": "Jason M.",
+          "last_name": "Rodriguez",
+          "corresponding": true,
+          "orcid": "['0000-0002-4366-9973']",
+          "current_organization_id": "grid.152326.1",
+          "researcher_id": "ur.011506637031.07",
+          "affiliations": [
+            {
+              "id": "grid.152326.1",
+              "name": "Vanderbilt University",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Marybeth",
+          "last_name": "Shinn",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.152326.1",
+          "researcher_id": "ur.01044455312.79",
+          "affiliations": [
+            {
+              "id": "grid.152326.1",
+              "name": "Vanderbilt University",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4936919?pdf=render",
+      "keywords": [
+        "service system",
+        "CPS",
+        "workers",
+        "study",
+        "shelter",
+        "findings",
+        "administrative records",
+        "disproportionality",
+        "attempt",
+        "emergency shelters",
+        "CPS involvement",
+        "resources",
+        "family homelessness",
+        "return",
+        "child protective system",
+        "point",
+        "intersection",
+        "involvement",
+        "child removal",
+        "decision-making",
+        "making",
+        "explanation",
+        "need",
+        "Alameda County",
+        "one-fifth",
+        "institutional explanations",
+        "family",
+        "CPS workers",
+        "homeless shelters",
+        "half",
+        "entry",
+        "race",
+        "fifth",
+        "neglect",
+        "housing needs",
+        "modest support",
+        "abuse",
+        "California",
+        "County",
+        "CPS referrals",
+        "half of families",
+        "substantiation",
+        "shelter entry",
+        "black families",
+        "family characteristics",
+        "racial disproportionality",
+        "homelessness",
+        "protective services system",
+        "family involvement",
+        "strategies",
+        "support",
+        "patterns",
+        "human decision-making",
+        "CPS system",
+        "unsubstantiated reports",
+        "child protective services system",
+        "shelter use"
+      ],
+      "journal_title": "Child Abuse & Neglect",
+      "title": "Intersections of family homelessness, CPS involvement, and race in Alameda County, California"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Intersections of family homelessness, CPS involvement, and race in Alameda County, California",
+      "doi": "10.1016/j.chiabu.2016.06.004",
+      "url": "https://europepmc.org/articles/PMC4936919/"
+    }
+  },
+  {
+    "title": "Prevalence and Risk Factors for Early Motherhood Among Low-Income, Maltreated, and Foster Youth",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1007/s13524-018-0744-x",
+      "url": "www.doi.org/10.1007/s13524-018-0744-x",
+      "journal ": "Demography",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1007/s13524-018-0744-x",
+      "authors": [
+        {
+          "first_name": "Sarah A.",
+          "last_name": "Font",
+          "corresponding": true,
+          "orcid": "['0000-0002-4022-5517']",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.0614257422.04",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Maria",
+          "last_name": "Cancian",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.14003.36",
+          "researcher_id": "ur.0650305152.28",
+          "affiliations": [
+            {
+              "id": "grid.14003.36",
+              "name": "University of Wisconsin\u2013Madison",
+              "city": "Madison",
+              "city_id": 5261457,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wisconsin",
+              "state_code": "US-WI"
+            }
+          ]
+        },
+        {
+          "first_name": "Lawrence M.",
+          "last_name": "Berger",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.14003.36",
+          "researcher_id": "ur.01043307034.37",
+          "affiliations": [
+            {
+              "id": "grid.14003.36",
+              "name": "University of Wisconsin\u2013Madison",
+              "city": "Madison",
+              "city_id": 5261457,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wisconsin",
+              "state_code": "US-WI"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "survival analysis",
+        "agents",
+        "outcomes",
+        "study",
+        "factors",
+        "care",
+        "females",
+        "findings",
+        "CPS involvement",
+        "early motherhood",
+        "protective services",
+        "birth families",
+        "differences",
+        "foster care",
+        "early childbearing",
+        "adverse outcomes",
+        "hazards",
+        "guardianship",
+        "risk population",
+        "Maltreated",
+        "disruption",
+        "involvement",
+        "analysis",
+        "teenage girls",
+        "adoption",
+        "care placement",
+        "early birth",
+        "teen motherhood",
+        "economic disruption",
+        "children",
+        "family",
+        "placement",
+        "motherhood",
+        "prevalence",
+        "childbearing",
+        "high risk",
+        "child protective services",
+        "data systems",
+        "birth",
+        "CPS investigation",
+        "high-risk population",
+        "general population",
+        "income",
+        "population",
+        "Wisconsin",
+        "girls",
+        "effect of involvement",
+        "low-income youth",
+        "Low-Income",
+        "services",
+        "selection factors",
+        "youth",
+        "administrative data systems",
+        "foster youth",
+        "risk factors",
+        "group",
+        "risk"
+      ],
+      "journal_title": "Demography",
+      "title": "Prevalence and Risk Factors for Early Motherhood Among Low-Income, Maltreated, and Foster Youth"
+    },
+    "europepmc": {
+      "doi": "10.1007/s13524-018-0744-x",
+      "journal": "Demography",
+      "url": "http://europepmc.org/abstract/MED/30519845",
+      "title": "prevalence and risk factors for early motherhood among low-income, maltreated, and foster youth"
+    }
+  }
+]

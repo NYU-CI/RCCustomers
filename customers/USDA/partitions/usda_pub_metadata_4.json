@@ -1,0 +1,1508 @@
+[
+  {
+    "title": "Infant Formula Prices and Availability: An Interim Report to Congress",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/42958/32016_efan01006_002.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=42970",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "Estimation of Underreporting in Diary Surveys: An Application using the National Household Food Acquisition and Purchase Survey",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "url": "https://academic.oup.com/jssam/article/doi/10.1093/jssam/smz024/5566331/",
+      "keywords": "FoodAPS",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1093/jssam/smz024",
+      "authors": [
+        {
+          "first_name": "Mengyao",
+          "last_name": "Hu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "John A",
+          "last_name": "Kirlin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Kirlin Analytic Services, 7814 General Wright Dr., Fredericksburg, VA 22407, USA, previously with the Economic Research Service, United States Department of Agriculture, 355 E St SW, Washington, DC 20024, USA"
+            }
+          ]
+        },
+        {
+          "first_name": "Brady T",
+          "last_name": "West",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "Wenyi",
+          "last_name": "He",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "Ai Rene",
+          "last_name": "Ong",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "Shiyu",
+          "last_name": "Zhang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "Xingyou",
+          "last_name": "Zhang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1093/jssam/smz024",
+      "keywords": [
+        "estimation",
+        "Heckman selection model",
+        "households",
+        "use",
+        "underreporting",
+        "underestimation",
+        "health",
+        "mean expenditure",
+        "bias",
+        "survey error",
+        "nonresponse",
+        "article",
+        "variety of topics",
+        "decision-makers",
+        "lifestyle",
+        "topic",
+        "use data",
+        "diary survey",
+        "policy",
+        "total expenditure",
+        "National Household Food Acquisition",
+        "survey",
+        "lack",
+        "data sources",
+        "time use",
+        "selection model",
+        "methodology",
+        "particular day",
+        "case study",
+        "values",
+        "imputation",
+        "survey weights",
+        "acquisition",
+        "imputation methods",
+        "public-use data",
+        "Purchase Survey",
+        "levels",
+        "persons",
+        "makers",
+        "program",
+        "results",
+        "nonresponse error",
+        "FoodAPS",
+        "extent",
+        "Household Food Acquisition",
+        "data",
+        "estimates",
+        "bootstrap",
+        "overestimation",
+        "model",
+        "unit nonresponse",
+        "food expenditure",
+        "adjustment",
+        "expenditure"
+      ],
+      "journal_title": "Journal of Survey Statistics and Methodology",
+      "title": "Estimation of Underreporting in Diary Surveys: An Application using the National Household Food Acquisition and Purchase Survey"
+    }
+  },
+  {
+    "title": "Lessons learned from the national household food acquisition and purchase survey in the United States",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1016/j.foodpol.2017.08.013",
+      "keywords": "FoodAPS,Econ Tier 1",
+      "doi": "10.1016/j.foodpol.2017.08.013",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.foodpol.2017.08.013",
+      "authors": [
+        {
+          "first_name": "John A.",
+          "last_name": "Kirlin",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.482913.5",
+          "researcher_id": "ur.013352167737.40",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Mark",
+          "last_name": "Denbaly",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.482913.5",
+          "researcher_id": "ur.016157123416.46",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "extant sources",
+        "efforts",
+        "experience",
+        "community",
+        "collection",
+        "Department",
+        "lessons",
+        "surprise",
+        "state",
+        "survey",
+        "agriculture",
+        "authors",
+        "acquisition information",
+        "goal",
+        "U.S.",
+        "food acquisition",
+        "source",
+        "challenges",
+        "Americans",
+        "United States"
+      ],
+      "journal_title": "Food Policy",
+      "title": "Lessons learned from the national household food acquisition and purchase survey in the United States"
+    }
+  },
+  {
+    "title": "The Grocery Purchase Quality Index-2016 Performs Similarly to the Healthy Eating Index-2015 in a National Survey of Household Food Purchases",
+    "datasets": [
+      "dataset-025",
+      "dataset-057"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/30413342",
+      "keywords": "Healthy Eating Index,FoodAPS,NonE Tier 1",
+      "doi": "10.1016/j.jand.2018.08.165",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jand.2018.08.165",
+      "authors": [
+        {
+          "first_name": "Philip J.",
+          "last_name": "Brewster",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.223827.e",
+          "researcher_id": "ur.0647362570.05",
+          "affiliations": []
+        },
+        {
+          "first_name": "Carrie M.",
+          "last_name": "Durward",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.53857.3c",
+          "researcher_id": "ur.013757333733.30",
+          "affiliations": []
+        },
+        {
+          "first_name": "John F.",
+          "last_name": "Hurdle",
+          "corresponding": "",
+          "orcid": "['0000-0002-1188-7685']",
+          "current_organization_id": "grid.223827.e",
+          "researcher_id": "ur.0702435731.95",
+          "affiliations": []
+        },
+        {
+          "first_name": "Gregory J.",
+          "last_name": "Stoddard",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Patricia M.",
+          "last_name": "Guenther",
+          "corresponding": true,
+          "orcid": "['0000-0001-7448-9417']",
+          "current_organization_id": "grid.223827.e",
+          "researcher_id": "ur.0624652371.55",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "Index-2015",
+        "standard",
+        "environment",
+        "food purchases",
+        "US Department",
+        "households",
+        "effects",
+        "oriented interventions",
+        "Department",
+        "share",
+        "differences",
+        "national survey",
+        "purchase behavior",
+        "quality",
+        "coterminous states",
+        "indicators",
+        "household food purchases",
+        "objective measures",
+        "purchase",
+        "food environment",
+        "regression models",
+        "focus",
+        "state",
+        "behavior",
+        "National Household Food Acquisition",
+        "survey",
+        "Research Service",
+        "added sugar",
+        "USDA food codes",
+        "Food Plan",
+        "HEI-2015",
+        "setting",
+        "acquisition",
+        "survey database",
+        "categories",
+        "expenditure shares",
+        "Purchase Survey",
+        "members",
+        "stores",
+        "HEI-2015 scores",
+        "food categories",
+        "food acquisition",
+        "program",
+        "food",
+        "grocery purchases",
+        "subgroup of households",
+        "purchase quality",
+        "Household Food Acquisition",
+        "linear regression models",
+        "plan",
+        "Agriculture nutrition education program",
+        "main focus",
+        "USDA Economic Research Service",
+        "Healthy Eating Index-2015",
+        "model",
+        "Economic Research Service",
+        "total HEI-2015 score",
+        "services",
+        "objective",
+        "measures",
+        "analytic sample size",
+        "intervention",
+        "dairy",
+        "sample size"
+      ],
+      "journal_title": "Journal of the Academy of Nutrition and Dietetics",
+      "title": "The Grocery Purchase Quality Index-2016 Performs Similarly to the Healthy Eating Index-2015 in a National Survey of Household Food Purchases"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jand.2018.08.165",
+      "journal": "J Acad Nutr Diet",
+      "url": "http://europepmc.org/abstract/MED/30413342",
+      "title": "the grocery purchase quality index-2016 performs similarly to the healthy eating index-2015 in a national survey of household food purchases"
+    }
+  },
+  {
+    "title": "Examining the Quality of Foods and Beverages Across the Food Stream",
+    "datasets": [
+      "dataset-025",
+      "dataset-057"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/30413341",
+      "keywords": "FoodAPS,Healthy Eating Index,NonE Tier 1",
+      "doi": "10.1016/j.jand.2018.08.166",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jand.2018.08.166",
+      "authors": [
+        {
+          "first_name": "Sharon I.",
+          "last_name": "Kirkpatrick",
+          "corresponding": true,
+          "orcid": "['0000-0001-9896-5975']",
+          "current_organization_id": "grid.46078.3d",
+          "researcher_id": "ur.0745225043.32",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "quality",
+        "food stream",
+        "beverages"
+      ],
+      "journal_title": "Journal of the Academy of Nutrition and Dietetics",
+      "title": "Examining the Quality of Foods and Beverages Across the Food Stream"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jand.2018.08.166",
+      "journal": "J Acad Nutr Diet",
+      "url": "http://europepmc.org/abstract/MED/30413341",
+      "title": "examining the quality of foods and beverages across the food stream"
+    }
+  },
+  {
+    "title": "Foods and Beverages Obtained at Worksites in the United States",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/30683617",
+      "keywords": "FoodAPS,NonE Tier 1",
+      "doi": "10.1016/j.jand.2018.11.011",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jand.2018.11.011",
+      "authors": [
+        {
+          "first_name": "Stephen J.",
+          "last_name": "Onufrak",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.01253500526.04",
+          "affiliations": []
+        },
+        {
+          "first_name": "Hatidza",
+          "last_name": "Zaganjor",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416738.f",
+          "researcher_id": "ur.0575706176.29",
+          "affiliations": []
+        },
+        {
+          "first_name": "Liping",
+          "last_name": "Pan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416738.f",
+          "researcher_id": "ur.01137465773.43",
+          "affiliations": []
+        },
+        {
+          "first_name": "Seung Hee",
+          "last_name": "Lee-Kwan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416738.f",
+          "researcher_id": "ur.01236226770.24",
+          "affiliations": []
+        },
+        {
+          "first_name": "Sohyun",
+          "last_name": "Park",
+          "corresponding": "",
+          "orcid": "['0000-0002-8192-7048']",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.01125527655.70",
+          "affiliations": []
+        },
+        {
+          "first_name": "Diane M.",
+          "last_name": "Harris",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416738.f",
+          "researcher_id": "ur.01051572017.01",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "US adults",
+        "\u03c72 test",
+        "workplace",
+        "dietary quality",
+        "worksite wellness program",
+        "study",
+        "food purchases",
+        "sociodemographic subgroups",
+        "solid fats",
+        "HEI scores",
+        "pizza",
+        "drinks",
+        "period",
+        "Department",
+        "empty calories",
+        "adult Americans",
+        "household survey",
+        "outcome measures",
+        "healthy options",
+        "quality",
+        "subgroups",
+        "candy",
+        "sociodemographic characteristics",
+        "study period",
+        "worksites",
+        "future research",
+        "whole grains",
+        "calories",
+        "quarter",
+        "employee dietary behaviors",
+        "wellness programs",
+        "sectional analysis",
+        "survey",
+        "scores",
+        "regular soft drinks",
+        "prevalence",
+        "refined grains",
+        "Purchasing Survey",
+        "levels",
+        "persons",
+        "soft drinks",
+        "sodium",
+        "cross-sectional analysis",
+        "food acquisition",
+        "food",
+        "program",
+        "dietary behaviors",
+        "food types",
+        "options",
+        "Performed",
+        "access",
+        "weeks",
+        "beverages",
+        "effective strategy",
+        "food behavior",
+        "aim",
+        "frequency",
+        "data",
+        "adults",
+        "prevalence estimates",
+        "Americans",
+        "strategies",
+        "Healthy Eating Index scores",
+        "number",
+        "index scores",
+        "representative household survey",
+        "test",
+        "measures",
+        "fat",
+        "intervention",
+        "nutrition interventions",
+        "United States"
+      ],
+      "journal_title": "Journal of the Academy of Nutrition and Dietetics",
+      "title": "Foods and Beverages Obtained at Worksites in the United States"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jand.2018.11.011",
+      "journal": "J Acad Nutr Diet",
+      "url": "http://europepmc.org/abstract/MED/30683617",
+      "title": "foods and beverages obtained at worksites in the united states"
+    }
+  },
+  {
+    "title": "Simulating the Effect of the Nutritionh Fact Label Revision: Added Sugar and the Demand for Ready-to_Eat Breakfast Cereals",
+    "datasets": [
+      "dataset-001",
+      "dataset-002",
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://www.ifama.org/resources/Documents/v17ia/Lin-Guthrie-Rahlovsky-Lin-Lee.pdf",
+      "keywords": "Linkages - analyzed,IRI,Nutrtion Facts Panel,Nutrition Facts Label,Added Sugar,Breakfast Cereal",
+      "doi": "10.22004/ag.econ.164595",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "FOOD DESERTS AND THE CAUSES OF NUTRITIONAL INEQUALITY",
+    "datasets": [
+      "dataset-001",
+      "dataset-002"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Linkages - analyzed,IRI",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1093/qje/qjz015",
+      "authors": [
+        {
+          "first_name": "Hunt",
+          "last_name": "Allcott",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.137628.9",
+          "researcher_id": "ur.012061336431.95",
+          "affiliations": [
+            {
+              "name": "New York University and National Bureau of Economic Research"
+            }
+          ]
+        },
+        {
+          "first_name": "Rebecca",
+          "last_name": "Diamond",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Stanford Graduate School of Business and National Bureau of Economic Research"
+            }
+          ]
+        },
+        {
+          "first_name": "Jean-Pierre",
+          "last_name": "Dub\u00e9",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.250279.b",
+          "researcher_id": "ur.015326071437.72",
+          "affiliations": [
+            {
+              "id": "grid.170205.1",
+              "name": "University of Chicago",
+              "city": "Chicago",
+              "city_id": 4887398,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Jessie",
+          "last_name": "Handbury",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014600462736.51",
+          "affiliations": [
+            {
+              "name": "Wharton and National Bureau of Economic Research"
+            }
+          ]
+        },
+        {
+          "first_name": "Ilya",
+          "last_name": "Rahkovsky",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.482913.5",
+          "researcher_id": "ur.0605463206.38",
+          "affiliations": [
+            {
+              "id": "grid.417548.b",
+              "name": "United States Department of Agriculture",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Molly",
+          "last_name": "Schnell",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.07470352536.92",
+          "affiliations": [
+            {
+              "name": "Northwestern University and National Bureau of Economic Research"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1093/qje/qjz015",
+      "keywords": [
+        "move",
+        "environment",
+        "product groups",
+        "households",
+        "findings",
+        "groceries",
+        "argument",
+        "neighborhood environment",
+        "comparative advantage",
+        "advantages",
+        "retail chains",
+        "products",
+        "supply",
+        "role",
+        "income households",
+        "state",
+        "policy",
+        "instrument",
+        "low-income households",
+        "prices",
+        "neighborhood",
+        "food deserts",
+        "nutritional inequality",
+        "high-income households",
+        "entry",
+        "new instrument",
+        "geographic markets",
+        "demand",
+        "household moves",
+        "inequality",
+        "same product",
+        "Abstract",
+        "model",
+        "structural model",
+        "counterfactual simulations",
+        "market",
+        "United States"
+      ],
+      "journal_title": "The Quarterly Journal of Economics",
+      "title": "FOOD DESERTS AND THE CAUSES OF NUTRITIONAL INEQUALITY"
+    }
+  },
+  {
+    "title": "Linking IRI Data to USDA Nutrition Databases to Measure Diet Quality",
+    "datasets": [
+      "dataset-001",
+      "dataset-002"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Linkages - analyzed,IRI",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Food Deserts and the Causes of Nutritional Inequality",
+    "datasets": [
+      "dataset-031",
+      "dataset-300"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1093/qje/qjz015",
+      "keywords": "PPC - analyzed,food deserts,Inequality,grocery demand estimation,nutrition policy,Econ Tier 1",
+      "doi": "10.1093/qje/qjz015",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1093/qje/qjz015",
+      "authors": [
+        {
+          "first_name": "Hunt",
+          "last_name": "Allcott",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.137628.9",
+          "researcher_id": "ur.012061336431.95",
+          "affiliations": [
+            {
+              "name": "New York University and National Bureau of Economic Research"
+            }
+          ]
+        },
+        {
+          "first_name": "Rebecca",
+          "last_name": "Diamond",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Stanford Graduate School of Business and National Bureau of Economic Research"
+            }
+          ]
+        },
+        {
+          "first_name": "Jean-Pierre",
+          "last_name": "Dub\u00e9",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.250279.b",
+          "researcher_id": "ur.015326071437.72",
+          "affiliations": [
+            {
+              "id": "grid.170205.1",
+              "name": "University of Chicago",
+              "city": "Chicago",
+              "city_id": 4887398,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Jessie",
+          "last_name": "Handbury",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014600462736.51",
+          "affiliations": [
+            {
+              "name": "Wharton and National Bureau of Economic Research"
+            }
+          ]
+        },
+        {
+          "first_name": "Ilya",
+          "last_name": "Rahkovsky",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.482913.5",
+          "researcher_id": "ur.0605463206.38",
+          "affiliations": [
+            {
+              "id": "grid.417548.b",
+              "name": "United States Department of Agriculture",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Molly",
+          "last_name": "Schnell",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.07470352536.92",
+          "affiliations": [
+            {
+              "name": "Northwestern University and National Bureau of Economic Research"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1093/qje/qjz015",
+      "keywords": [
+        "move",
+        "environment",
+        "product groups",
+        "households",
+        "findings",
+        "groceries",
+        "argument",
+        "neighborhood environment",
+        "comparative advantage",
+        "advantages",
+        "retail chains",
+        "products",
+        "supply",
+        "role",
+        "income households",
+        "state",
+        "policy",
+        "instrument",
+        "low-income households",
+        "prices",
+        "neighborhood",
+        "food deserts",
+        "nutritional inequality",
+        "high-income households",
+        "entry",
+        "new instrument",
+        "geographic markets",
+        "demand",
+        "household moves",
+        "inequality",
+        "same product",
+        "Abstract",
+        "model",
+        "structural model",
+        "counterfactual simulations",
+        "market",
+        "United States"
+      ],
+      "journal_title": "The Quarterly Journal of Economics",
+      "title": "Food Deserts and the Causes of Nutritional Inequality"
+    }
+  },
+  {
+    "title": "Linking USDA Nutrition Databases to IRI Household-Based and Store-Based Scanner Data",
+    "datasets": [
+      "dataset-001",
+      "dataset-002",
+      "dataset-057"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Linkages - analyzed,IRI - analyzed,Scanner data,IRI InfoScan,IRI Consumer Network,Food and Nutrient Database for Dietary Studies,FNDDS,USDA National Nutrient Database for Standard Reference,SR,Food Patterns Equivalents Database,FPED,Food Patterns Equivalents Ingredient Database,FPID,probabilistic matching,semantic matching,healthy diets,Healthy Eating Index,HEI,Dietary Guidelines for Americans",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Describing U.S. Households Food Purchasing Patterns across Poverty and Urban Status: The EFSNE project Market Basket",
+    "datasets": [
+      "dataset-001",
+      "dataset-002"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "IRI",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Does a nutritious diet cost more in food deserts?",
+    "datasets": [
+      "dataset-001",
+      "dataset-002"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "IRI",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1111/agec.12444",
+      "authors": [
+        {
+          "first_name": "Linlin",
+          "last_name": "Fan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.260120.7",
+              "name": "Mississippi State University",
+              "city": "Starkville",
+              "city_id": 4447161,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Mississippi",
+              "state_code": "US-MS"
+            }
+          ]
+        },
+        {
+          "first_name": "Kathy",
+          "last_name": "Baylis",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.0726312040.96",
+          "affiliations": [
+            {
+              "id": "grid.35403.31",
+              "name": "University of Illinois at Urbana Champaign",
+              "city": "Urbana",
+              "city_id": 4914570,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Craig",
+          "last_name": "Gundersen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.01341472614.22",
+          "affiliations": [
+            {
+              "id": "grid.35403.31",
+              "name": "University of Illinois at Urbana Champaign",
+              "city": "Urbana",
+              "city_id": 4914570,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Michele Ver",
+          "last_name": "Ploeg",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.011022453465.95",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "low\u2010income",
+        "outcomes",
+        "extent consumers",
+        "choice",
+        "index",
+        "representative sample",
+        "effects",
+        "potential effects",
+        "product heterogeneity",
+        "heterogeneity",
+        "food prices",
+        "price index",
+        "availability",
+        "article",
+        "potential biases",
+        "consumer outcomes",
+        "area",
+        "healthy foods",
+        "biases",
+        "prices",
+        "policymakers",
+        "Food Plan",
+        "food deserts",
+        "basket",
+        "nutrition",
+        "impact",
+        "Thrifty Food Plan",
+        "scanner data",
+        "food",
+        "diet cost",
+        "research",
+        "cost",
+        "data",
+        "plan",
+        "food basket",
+        "consumer choice",
+        "counterparts",
+        "high price",
+        "consumers",
+        "census tracts",
+        "attention"
+      ],
+      "journal_title": "Agricultural Economics",
+      "title": "Does a nutritious diet cost more in food deserts?"
+    }
+  },
+  {
+    "title": "IS THE FOCUS ON FOOD DESERTS FRUITLESS? RETAIL ACCESS AND FOOD PURCHASES ACROSS THE SOCIOECONOMIC SPECTRUM",
+    "datasets": [
+      "dataset-001",
+      "dataset-002"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "IRI",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "FoodAPS Data Now Available to the General Public",
+    "datasets": [
+      "dataset-001",
+      "dataset-002"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "IRI",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "The relation of life insurance to public hygiene.",
+    "datasets": [
+      "dataset-001",
+      "dataset-002"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/21917618",
+      "keywords": "History, 20th Century,Humans,Insurance, Life/*history,Public Health/*history,United States,IRI",
+      "doi": "10.2105/ajph.2011.101101868",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.2105/",
+      "authors": [
+        {
+          "first_name": "Lee K",
+          "last_name": "Frankel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "relation",
+        "public hygiene"
+      ],
+      "journal_title": "American Journal of Public Health",
+      "title": "The relation of life insurance to public hygiene."
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The relation of life insurance to public hygiene.",
+      "doi": null,
+      "url": "https://europepmc.org/articles/PMC2543659/"
+    }
+  },
+  {
+    "title": "Socioeconomic trends in household food expenditures: Comparing objective food shopping receipts vs. self-reports",
+    "datasets": [
+      "dataset-314"
+    ],
+    "original": {
+      "url": "https://digital.lib.washington.edu/researchworks/handle/1773/25447",
+      "keywords": NaN,
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "ANDALE Pittsburgh: results of a promotora-led, home-based intervention to promote a healthy weight in Latino preschool children",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/29548321",
+      "keywords": "Adult,Body Mass Index,Child, Preschool,Feasibility Studies,Female,Follow-Up Studies,Health Promotion methods,organization & administration,Hispanic Americans,statistics & numerical data,Home Care Services,Humans,Male,Pediatric Obesity,ethnology,prevention & control,Pennsylvania,Pilot Projects,Program Evaluation,Flexible Consumer Behavior Survey,FCBS,NonE Tier 1,Citation",
+      "doi": "10.1186/s12889-018-5266-3",
+      "journal": "BMC public health",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1186/s12889-018-5266-3",
+      "authors": [
+        {
+          "first_name": "Sharon E.",
+          "last_name": "Taverno Ross",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.21925.3d",
+          "researcher_id": "ur.0727254447.41",
+          "affiliations": [
+            {
+              "id": "grid.21925.3d",
+              "name": "University of Pittsburgh",
+              "city": "Pittsburgh",
+              "city_id": 5206379,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Bethany",
+          "last_name": "Barone Gibbs",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21925.3d",
+          "researcher_id": "ur.01104354657.35",
+          "affiliations": [
+            {
+              "id": "grid.21925.3d",
+              "name": "University of Pittsburgh",
+              "city": "Pittsburgh",
+              "city_id": 5206379,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Patricia I.",
+          "last_name": "Documet",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21925.3d",
+          "researcher_id": "ur.01343544207.36",
+          "affiliations": [
+            {
+              "id": "grid.21925.3d",
+              "name": "University of Pittsburgh",
+              "city": "Pittsburgh",
+              "city_id": 5206379,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Russell R.",
+          "last_name": "Pate",
+          "corresponding": "",
+          "orcid": "['0000-0001-6373-9337']",
+          "current_organization_id": "grid.254567.7",
+          "researcher_id": "ur.011072546777.54",
+          "affiliations": [
+            {
+              "id": "grid.254567.7",
+              "name": "University of South Carolina",
+              "city": "Columbia",
+              "city_id": 4575352,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Carolina",
+              "state_code": "US-SC"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-018-5266-3",
+      "keywords": [
+        "mouth",
+        "weight",
+        "index",
+        "intake",
+        "rate",
+        "self-efficacy",
+        "activity",
+        "mass index",
+        "Pittsburgh",
+        "appropriate interventions",
+        "promotoras",
+        "purpose",
+        "family",
+        "Latino preschool children",
+        "sessions",
+        "preschool children",
+        "post",
+        "County",
+        "parent screen time",
+        "immigrants",
+        "primary outcome measure",
+        "generation immigrants",
+        "baseline",
+        "change post-intervention",
+        "intervention",
+        "final analysis sample",
+        "body mass index",
+        "short duration",
+        "dietary intake",
+        "percentile",
+        "screen time",
+        "duration",
+        "home",
+        "own social networks",
+        "fat",
+        "effects",
+        "participants",
+        "promising effects",
+        "outcome measures",
+        "mothers",
+        "child BMI percentile",
+        "daily fruit",
+        "preschool-aged children",
+        "tailored sessions",
+        "z-scores",
+        "Secondary outcome measures",
+        "BMI percentile",
+        "decrease",
+        "child's saturated fat",
+        "saturated fat",
+        "aged children",
+        "high rate",
+        "obesity",
+        "primary analysis",
+        "parents",
+        "days",
+        "measures",
+        "study",
+        "child BMI",
+        "children's daily fruit",
+        "flyers",
+        "children",
+        "scores",
+        "Latino families",
+        "pilot study",
+        "ethnic groups",
+        "sugar intake",
+        "servings",
+        "vegetable intake",
+        "physical activity",
+        "samples",
+        "obese children",
+        "significant decrease",
+        "vegetable servings",
+        "healthy weight",
+        "added-sugar intake",
+        "post-intervention",
+        "vigorous physical activity",
+        "assessment",
+        "Allegheny County",
+        "analysis sample",
+        "group",
+        "word of mouth",
+        "efficacy"
+      ],
+      "journal_title": "BMC Public Health",
+      "title": "ANDALE Pittsburgh: results of a promotora-led, home-based intervention to promote a healthy weight in Latino preschool children"
+    },
+    "openaire": {
+      "journal": "BMC Public Health",
+      "title": "ANDALE Pittsburgh: results of a promotora-led, home-based intervention to promote a healthy weight in Latino preschool children",
+      "doi": "10.1186/s12889-018-5266-3",
+      "url": "http://europepmc.org/articles/PMC5857096"
+    }
+  },
+  {
+    "title": "Mother Feeding Style and Health Outcomes of Children",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Maternal,Flexible Consumer Behavior Survey,FFCBS",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Revisiting the Supplemental Nutrition Assistance Program cycle of food intake: Investigating heterogeneity, diet quality, and a large boost in benefit amounts",
+    "datasets": [
+      "dataset-026",
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/aepp/ppu039",
+      "keywords": "SNAP cycle,Adults,Caloric intake,Diet quality,American Recovery and Reinvestment Act,ARRA,NHANES,FCBS,Flexible Consumer Behavior Survey,Econ Tier 1",
+      "doi": "10.1093/aepp/ppu039",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1093/aepp/ppu039",
+      "authors": [
+        {
+          "first_name": "Jessica E.",
+          "last_name": "Todd",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Jessica E. Todd is an agricultural economist with the Economic Research Service of the USDA. The views expressed in this paper reflect those of the author and not necessarily those of the USDA or the Economic Research Service"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/aepp/article-pdf/37/3/437/4977167/ppu039.pdf",
+      "keywords": [
+        "quality measures",
+        "daily food intake",
+        "intake",
+        "participants",
+        "health",
+        "interviews",
+        "differences",
+        "heterogeneity",
+        "quality",
+        "benefits",
+        "food intake",
+        "Examination Survey",
+        "subgroups",
+        "increase",
+        "American Recovery",
+        "boost",
+        "recovery",
+        "Nutrition Assistance Program",
+        "survey",
+        "diet quality measures",
+        "receipt",
+        "benefit month",
+        "months",
+        "SNAP benefit amount",
+        "Nutrition Examination Survey",
+        "adult participants",
+        "Supplemental Nutrition Assistance Program",
+        "program",
+        "assistance programs",
+        "data",
+        "diet quality",
+        "National Health",
+        "end",
+        "monthly cycles",
+        "measures",
+        "caloric intake",
+        "identification"
+      ],
+      "journal_title": "Applied Economic Perspectives and Policy",
+      "title": "Revisiting the Supplemental Nutrition Assistance Program cycle of food intake: Investigating heterogeneity, diet quality, and a large boost in benefit amounts"
+    }
+  }
+]

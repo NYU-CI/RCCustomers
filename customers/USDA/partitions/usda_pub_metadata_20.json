@@ -1,0 +1,316 @@
+[
+  {
+    "title": "Poverty and Food Needs: Wayne County, Iowa",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://lib.dr.iastate.edu/icip_poverty/191",
+      "keywords": "Poverty,Food Insecurity,Communities,Economic Well-Being,Iowa,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Poverty and Food Needs: Black Hawk County, Iowa",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://lib.dr.iastate.edu/icip_poverty/105",
+      "keywords": "Poverty,Food Insecurity,Communities,Economic Well-Being,Iowa,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Poverty and Food Needs: Palo Alto County, Iowa",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://lib.dr.iastate.edu/icip_poverty/172",
+      "keywords": "Poverty,Food Insecurity,Communities,Economic Well-Being,Iowa,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The War on Poverty After 50 Years",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://report.heritage.org/bg2955",
+      "keywords": "Poverty,Anti-poverty programs,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Child Food Insecurity and the Food Stamp Program: What a Difference Monthly Data Make",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/https://doi.org/10.1086/676308",
+      "keywords": "Child Food Insecurity,Food Stamp Program,Monthly Measures,PSID-FFSS,Analyzed,CPS-FSS,Citation,FSSM,NonE Tier 2",
+      "doi": "https://doi.org/10.1086/676308",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1086/676308",
+      "authors": [
+        {
+          "first_name": "Yiran",
+          "last_name": "Li",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Bradford",
+          "last_name": "Mills",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.438526.e",
+          "researcher_id": "ur.014170025161.80",
+          "affiliations": []
+        },
+        {
+          "first_name": "George C.",
+          "last_name": "Davis",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Elton",
+          "last_name": "Mykerezi",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.17635.36",
+          "researcher_id": "ur.0670604242.37",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "Food Stamp Program",
+        "child food insecurity",
+        "food insecurity",
+        "program"
+      ],
+      "journal_title": "Social Service Review",
+      "title": "Child Food Insecurity and the Food Stamp Program: What a Difference Monthly Data Make"
+    }
+  },
+  {
+    "title": "Improved Measurement of Household Relationships in Federal Surveys",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/242/2014/04/MRFHS_StatisticalPolicyWorkingPaper201408.pdf",
+      "keywords": "Measurement,Household Relationships,Federal Surveys,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Food For The Hungry: The Impact of Increased SNAP Payouts on Hunger",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/11299/163939.",
+      "keywords": "American Recovery and Reinvestment Act of 2009,SNAP,Food Security,Hunger,Difference-in-Difference Model,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Three Essays in Health and Nutrition Economics.",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Public Policy,Vulnerable Populations,SNAP,Food Insecurity,Health Economics,Nutrition Economics,Rasch Modeling,College Drinking,Occupational Choices,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Two essays on the application of ordered probability model",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://trace.tennessee.edu/utk_gradthes/2766",
+      "keywords": "Mental Health,Household Food Insecurity,Socioeconomic Factors,Demographic Factors,BRFSS,SNAP,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Relationship of Food Insecurity to Health Parameters in Adult Women with Polycystic Ovary Syndrome (PCOS)",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://etd.ohiolink.edu/!etd.send_file?accession=ohiou1417013554&disposition=inline",
+      "keywords": "Polycystic Ovary Syndrome,Food Insecurity,Rural Appalachian Ohio,High Blood Glucose,Infertility,Depression,Overweight/Obesity,Body Mass Index,CPS-FSS,Citation,Chart,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Relationship of Food Security, Cervical Health, and Produce Intake in Rural Appalachia",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://etd.ohiolink.edu/!etd.send_file?accession=ohiou1397295968&disposition=inline",
+      "keywords": "Food Insecurity,Human Papillomavirus,Rural Appalachian Ohio,Community Awareness Resources and Education Risky Sexual Behavior Index,CPS-FSS,Citation,Chart,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "A study of the evolution of food security discourse, mobilization, and congressional champions",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Hunger,Food Insecurity,Public Health,Mobilization,Congress,Agenda Setting,Problem Definition,CPS-FSS,Chart,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Prevalence of food insecurity and key demographics of the hispanic populations in two rural wisconsin villages",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://minds.wisconsin.edu/bitstream/handle/1793/73357/Whitty_Jennifer_Thesis.pdf?sequence=1",
+      "keywords": "Food Insecurity,Hispanic Populations,Rural Wisconsin Villages,CPS-FSS,Chart,Citation,NHANES-FSQ,ECLS-FS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Association Between Household Food Security and Dental Caries in Young Children",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://etd.ohiolink.edu/!etd.send_file?accession=osu1405461794&disposition=inline",
+      "keywords": "Dental Caries,Children Health,Household Food SEcurity,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Potential And Realized Food Environments: An Application Of The Social Cognitive Theory In Alabama Food Deserts",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://ir.ua.edu/bitstream/handle/123456789/2110/file_1.pdf?sequence=1&isAllowed=y",
+      "keywords": "Race/ethnicity,Food Deserts,Mixed Methods,Food Environment,Social Cognitive Theory,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Availability Of Public Transportation And Access To Gluten-Free Products In A Rural Community In The Northwest",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://pdfs.semanticscholar.org/0669/4a5d5de63a591970104a199638549a5112f6.pdf",
+      "keywords": "Elderly,Public Transportation,Gluten-Free Products,Rural Community,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Food Security Status of Households With Special Health Care Needs",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Food Insecurity,Special Care Needs,Multi-Modular Preschool Screening,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Assessing Food Insecurity on Campus: A National Look at Food Insecurity among America's College Students",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.urban.org/sites/default/files/publication/92331/assessing_food_insecurity_on_campus_4.pdf",
+      "keywords": "Food Insecurity,College Students,Great Recession,CPS-FSS,Analyzed,Chart",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Food Insecurity and Obesity Incidence Across Connecticut",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://zwickcenter.uconn.edu/outreach_reports_44_3050881617.pdf",
+      "keywords": "Connecticut,Public Health,Food Insecurity,Obesity,Chronic Disease,Body Mass Index,Community Wellbeing Survey,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Essays in Food Security in Latin America and the United States",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Food Insecurity,Middle Income Countries,High Income Countries,Health Care Insurance,Food Price Fluctuations,Subsidized Health Care,Colombia,Mexico,United States,Great Recession,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  }
+]

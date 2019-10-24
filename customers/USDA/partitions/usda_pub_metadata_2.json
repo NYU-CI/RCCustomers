@@ -1,0 +1,1332 @@
+[
+  {
+    "title": "Where Households Get Food in a Typical Week: Findings From USDA's FoodAPS",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=80541",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=80541",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "USDA FoodAPS: Providing Insights Into U.S. Food Demand and Food Assistance Programs",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/amber-waves/2017/august/usda-s-foodaps-providing-insights-into-us-food-demand-and-food-assistance-programs/",
+      "doi": "https://www.ers.usda.gov/amber-waves/2017/august/usda-s-foodaps-providing-insights-into-us-food-demand-and-food-assistance-programs/",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "How do food retail choices vary within and between food retail environments?",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "Food Policy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0306919218301283",
+      "doi": "10.1016/j.foodpol.2018.03.005",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.foodpol.2018.03.005",
+      "authors": [
+        {
+          "first_name": "Michele Ver",
+          "last_name": "Ploeg",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.011022453465.95",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Parke E.",
+          "last_name": "Wilde",
+          "corresponding": "",
+          "orcid": "['0000-0002-9596-9230']",
+          "current_organization_id": "grid.429997.8",
+          "researcher_id": "ur.0655251117.08",
+          "affiliations": [
+            {
+              "id": "grid.429997.8",
+              "name": "Tufts University",
+              "city": "Medford",
+              "city_id": 4943629,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "such research",
+        "household residential decisions",
+        "literature review",
+        "environment",
+        "factors",
+        "choice",
+        "evidence",
+        "empirical analysis",
+        "households",
+        "recent research",
+        "local food environment",
+        "level factors",
+        "differences",
+        "multiple households",
+        "approach",
+        "quality",
+        "food retail environment",
+        "article",
+        "mixed evidence",
+        "representative data",
+        "analysis",
+        "outcome variables",
+        "security",
+        "household-level factors",
+        "food environment",
+        "stronger research designs",
+        "National Household Food Acquisition",
+        "survey",
+        "retail environment",
+        "values",
+        "proximity",
+        "food choices",
+        "decision",
+        "entry",
+        "acquisition",
+        "retailers",
+        "food store access",
+        "particular location",
+        "problem",
+        "Purchase Survey",
+        "residential decisions",
+        "retail choice",
+        "endogeneity",
+        "variables",
+        "endogeneity problem",
+        "food acquisition",
+        "household choices",
+        "food retailers",
+        "literature",
+        "research",
+        "research design",
+        "variance",
+        "food security",
+        "access",
+        "Household Food Acquisition",
+        "supermarkets",
+        "data",
+        "explanatory variables",
+        "longitudinal study",
+        "exit",
+        "store access",
+        "importance",
+        "account"
+      ],
+      "journal_title": "Food Policy",
+      "title": "How do food retail choices vary within and between food retail environments?"
+    }
+  },
+  {
+    "title": "Where Do Americans Usually Shop for Food and How Do They Travel To Get There? Initial Findings from the National Household Food Acquisition and Purchase Survey",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=79791",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=79791",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "Diet Quality Over the Monthly Supplemental Nutrition Assistance Program Cycle",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "American Journal of Preventive Medicine",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0749379718317343?via%3Dihub",
+      "doi": "10.1016/j.amepre.2018.04.027",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.amepre.2018.04.027",
+      "authors": [
+        {
+          "first_name": "Eliza D.",
+          "last_name": "Whiteman",
+          "corresponding": true,
+          "orcid": "['0000-0003-4972-431X']",
+          "current_organization_id": "grid.25879.31",
+          "researcher_id": "ur.011775325153.27",
+          "affiliations": [
+            {
+              "id": "grid.25879.31",
+              "name": "University of Pennsylvania",
+              "city": "Philadelphia",
+              "city_id": 4560349,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Benjamin W.",
+          "last_name": "Chrisinger",
+          "corresponding": "",
+          "orcid": "['0000-0002-1480-6481']",
+          "current_organization_id": "grid.168010.e",
+          "researcher_id": "ur.01245216641.42",
+          "affiliations": [
+            {
+              "id": "grid.168010.e",
+              "name": "Stanford University",
+              "city": "Stanford",
+              "city_id": 5398563,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Amy",
+          "last_name": "Hillier",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.25879.31",
+          "researcher_id": "ur.01243127766.41",
+          "affiliations": [
+            {
+              "id": "grid.25879.31",
+              "name": "University of Pennsylvania",
+              "city": "Philadelphia",
+              "city_id": 4560349,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "dietary quality",
+        "study",
+        "decline",
+        "intake",
+        "food purchases",
+        "evidence",
+        "income families",
+        "recipients",
+        "low-income families",
+        "health",
+        "Department",
+        "differences",
+        "Healthy",
+        "quality",
+        "benefits",
+        "SNAP households",
+        "survey",
+        "program benefits",
+        "family",
+        "receipt",
+        "scores",
+        "vegetable scores",
+        "months",
+        "component scores",
+        "benefit month",
+        "significant decline",
+        "dietary guidelines",
+        "SNAP",
+        "Purchase Survey",
+        "benefit cycle",
+        "levels",
+        "regression",
+        "food spending",
+        "covariates",
+        "food",
+        "multivariate linear regression",
+        "serious implications",
+        "diet quality",
+        "data",
+        "linear regression",
+        "healthy purchasing",
+        "association",
+        "Healthy Eating Index scores",
+        "guidelines",
+        "Index-2010",
+        "patterns",
+        "index scores",
+        "days",
+        "lower Healthy Eating Index scores",
+        "lower dietary quality",
+        "nonparticipants",
+        "non-SNAP households",
+        "caloric intake",
+        "changes",
+        "Supplemental Nutrition Assistance Program (SNAP) benefits"
+      ],
+      "journal_title": "American Journal of Preventive Medicine",
+      "title": "Diet Quality Over the Monthly Supplemental Nutrition Assistance Program Cycle"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.amepre.2018.04.027",
+      "journal": "Am J Prev Med",
+      "url": "http://europepmc.org/abstract/MED/29935945",
+      "title": "diet quality over the monthly supplemental nutrition assistance program cycle"
+    }
+  },
+  {
+    "title": "For Low-Income Americans, Living <For Low-Income Americans, Living 1 Mile (1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security 1 Mile (1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "Current Developments in Nutrition",
+      "url": "https://syndication.highwire.org/content/doi/10.3945/cdn.117.001446",
+      "doi": "10.3945/cdn.117.001446",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "openaire": {
+      "journal": "Current Developments in Nutrition",
+      "title": "For Low-Income Americans, Living <For Low-Income Americans, Living 1 Mile (1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security 1 Mile (1.6 km) from the Nearest Supermarket Is Not Associated with Self-Reported Household Food Security",
+      "doi": "10.3945/cdn.117.001446",
+      "url": "http://europepmc.org/articles/PMC5998793"
+    }
+  },
+  {
+    "title": "Re-Examining the SNAP Benefit Cycle Allowing for Heterogeneity",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "Applied Economic Perspectives and Policy",
+      "url": "http://academic.oup.com/aepp/advance-article-pdf/doi/10.1093/aepp/ppy013/24969578/ppy013.pdf",
+      "doi": "10.1093/aepp/ppy013",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1093/aepp/ppy013",
+      "authors": [
+        {
+          "first_name": "Jeffrey H",
+          "last_name": "Dorfman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Department of Agricultural and Applied Economics at The University of Georgia"
+            }
+          ]
+        },
+        {
+          "first_name": "Christian",
+          "last_name": "Gregory",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "USDA/Economic Research Service"
+            }
+          ]
+        },
+        {
+          "first_name": "Zhongyuan",
+          "last_name": "Liu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Department of Agricultural and Applied Economics at The University of Georgia"
+            }
+          ]
+        },
+        {
+          "first_name": "Ran",
+          "last_name": "Huo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Department of Agricultural and Applied Economics at The University of Georgia"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/aepp/advance-article-pdf/doi/10.1093/aepp/ppy013/24969578/ppy013.pdf",
+      "keywords": [
+        "findings",
+        "recipients",
+        "educational programs",
+        "heterogeneity",
+        "benefits",
+        "SNAP recipients",
+        "SNAP households",
+        "Nutrition Assistance Program",
+        "National Household Food Acquisition",
+        "survey",
+        "months",
+        "Purchase Survey",
+        "benefit cycle",
+        "Supplemental Nutrition Assistance Program",
+        "disproportionate amount",
+        "program",
+        "assistance programs",
+        "potential implications",
+        "Household Food Acquisition",
+        "third",
+        "two-thirds",
+        "patterns",
+        "days",
+        "group",
+        "minority"
+      ],
+      "journal_title": "Applied Economic Perspectives and Policy",
+      "title": "Re-Examining the SNAP Benefit Cycle Allowing for Heterogeneity"
+    }
+  },
+  {
+    "title": "Salience, Food Security, and SNAP Receipt",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "Journal of Policy Analysis and Management",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22093",
+      "doi": "10.1002/pam.22093",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1002/pam.22093",
+      "authors": [
+        {
+          "first_name": "Christian A",
+          "last_name": "Gregory",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Economic Research Service, 1400 Independence Avenue, SW, Mailstop 1800, Washington, DC 20250-0002."
+            }
+          ]
+        },
+        {
+          "first_name": "Travis A",
+          "last_name": "Smith",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pam.22093",
+      "keywords": [
+        "food hardship",
+        "experience",
+        "implications",
+        "hypothesis",
+        "percent",
+        "findings",
+        "status",
+        "evaluation",
+        "food insecurity status",
+        "ended questions",
+        "benefits",
+        "increase",
+        "percentage points",
+        "SNAP households",
+        "Nutrition Assistance Program",
+        "benefit month",
+        "receipt",
+        "SNAP benefits",
+        "months",
+        "response",
+        "Supplemental Nutrition Assistance Program",
+        "items",
+        "program",
+        "assistance programs",
+        "program evaluation",
+        "Food Security Module",
+        "household food insecurity status",
+        "end",
+        "food security questions",
+        "baseline",
+        "importance",
+        "United States"
+      ],
+      "journal_title": "Journal of Policy Analysis and Management",
+      "title": "Salience, Food Security, and SNAP Receipt"
+    },
+    "europepmc": {
+      "doi": "10.1002/pam.22093",
+      "journal": "J Policy Anal Manage",
+      "url": "http://europepmc.org/abstract/MED/30572412",
+      "title": "salience, food security, and snap receipt"
+    }
+  },
+  {
+    "title": "A Comprehensive Life Cycle Assessment of Greenhouse Gas Emissions from U.S. Household Food Choices",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "Food Policy ",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0306919217310552",
+      "doi": "10.1016/j.foodpol.2018.05.004",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.foodpol.2018.05.004",
+      "authors": [
+        {
+          "first_name": "Rebecca",
+          "last_name": "Boehm",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.63054.34",
+          "researcher_id": "ur.07435540540.94",
+          "affiliations": [
+            {
+              "id": "grid.63054.34",
+              "name": "University of Connecticut",
+              "city": "Storrs",
+              "city_id": 4843786,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Parke E.",
+          "last_name": "Wilde",
+          "corresponding": "",
+          "orcid": "['0000-0002-9596-9230']",
+          "current_organization_id": "grid.429997.8",
+          "researcher_id": "ur.0655251117.08",
+          "affiliations": [
+            {
+              "id": "grid.429997.8",
+              "name": "Tufts University",
+              "city": "Medford",
+              "city_id": 4943629,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Michele Ver",
+          "last_name": "Ploeg",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.011022453465.95",
+          "affiliations": [
+            {
+              "name": "United States Department of Agriculture, Economic Research Service, 355 E Street, SW, Washington, DC 20024-3221, United States"
+            }
+          ]
+        },
+        {
+          "first_name": "Christine",
+          "last_name": "Costello",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.134936.a",
+          "researcher_id": "ur.016230103211.50",
+          "affiliations": [
+            {
+              "id": "grid.134936.a",
+              "name": "University of Missouri",
+              "city": "Columbia",
+              "city_id": 4381982,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Missouri",
+              "state_code": "US-MO"
+            }
+          ]
+        },
+        {
+          "first_name": "Sean B.",
+          "last_name": "Cash",
+          "corresponding": "",
+          "orcid": "['0000-0002-7561-3392']",
+          "current_organization_id": "grid.429997.8",
+          "researcher_id": "ur.01245055310.61",
+          "affiliations": [
+            {
+              "id": "grid.429997.8",
+              "name": "Tufts University",
+              "city": "Medford",
+              "city_id": 4943629,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "implications",
+        "study",
+        "diet",
+        "carbon emissions",
+        "choice",
+        "evidence",
+        "food purchases",
+        "expenditure",
+        "households",
+        "food budget",
+        "industry",
+        "ongoing debate",
+        "share",
+        "quality",
+        "gas emissions",
+        "greenhouse gas emissions",
+        "emission",
+        "educated households",
+        "food production industry",
+        "U.S. greenhouse gas emissions",
+        "household food purchases",
+        "animal protein",
+        "purchase",
+        "budget",
+        "National Household Food Acquisition",
+        "survey",
+        "agriculture",
+        "comprehensive life cycle assessment",
+        "education level",
+        "food supply chain",
+        "food choices",
+        "acquisition",
+        "food affordability",
+        "cycle assessment",
+        "system",
+        "categories",
+        "Purchase Survey",
+        "levels",
+        "affordability",
+        "U.S.",
+        "food categories",
+        "food systems",
+        "food acquisition",
+        "results",
+        "production industry",
+        "food spending",
+        "food",
+        "Estimate Greenhouse Gas Emissions",
+        "high levels",
+        "food industry",
+        "Household Food Acquisition",
+        "diet quality",
+        "source",
+        "large share",
+        "assessment",
+        "stage",
+        "low levels",
+        "consumers",
+        "equivalent",
+        "patterns",
+        "objective",
+        "supply chain",
+        "life cycle assessment",
+        "protein foods",
+        "food expenditure",
+        "carbon dioxide equivalent",
+        "changes"
+      ],
+      "journal_title": "Food Policy",
+      "title": "A Comprehensive Life Cycle Assessment of Greenhouse Gas Emissions from U.S. Household Food Choices"
+    }
+  },
+  {
+    "title": "Local Labor Demand and Program Participation Dynamics: Evidence from New York SNAP Administrative Records",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "journal": "Journal of Policy Analysis and Management",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/pam.22113",
+      "doi": "10.1002/pam.22113",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1002/pam.22113",
+      "authors": [
+        {
+          "first_name": "Erik",
+          "last_name": "Scherpf",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Benjamin",
+          "last_name": "Cerf",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "linkout": "http://osf.io/q559t//download",
+      "keywords": [
+        "market",
+        "dynamics",
+        "evidence",
+        "entrants",
+        "Supplemental Nutrition Assistance Program (SNAP) beneficiaries",
+        "administrative records",
+        "status",
+        "effects",
+        "local labor market conditions",
+        "local labor demand",
+        "industry",
+        "substantial heterogeneity",
+        "share",
+        "heterogeneity",
+        "participation dynamics",
+        "labor market conditions",
+        "labor markets matter",
+        "retail",
+        "likelihood",
+        "instrument",
+        "non\u2010parents",
+        "labour market",
+        "New York",
+        "fluctuations",
+        "markets matter",
+        "labor demand",
+        "race",
+        "program rules",
+        "York",
+        "length of time",
+        "specification",
+        "demand",
+        "census",
+        "results",
+        "program",
+        "local industry",
+        "recession",
+        "industry effects",
+        "food service",
+        "program beneficiaries",
+        "data",
+        "market conditions",
+        "Great Recession",
+        "growth",
+        "beneficiaries",
+        "high share",
+        "mobility",
+        "multiple specifications",
+        "matter",
+        "SNAP participants",
+        "services",
+        "rules",
+        "parental status",
+        "changes"
+      ],
+      "journal_title": "Journal of Policy Analysis and Management",
+      "title": "Local Labor Demand and Program Participation Dynamics: Evidence from New York SNAP Administrative Records"
+    }
+  },
+  {
+    "title": "Household acquisition of healthy food away from home",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "British Food Journal",
+      "url": "https://www.emerald.com/insight/content/doi/10.1108/BFJ-07-2017-0372/full/pdf?title=household-acquisition-of-healthy-food-away-from-home",
+      "doi": "10.1108/BFJ-07-2017-0372",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1108/bfj-07-2017-0372",
+      "authors": [
+        {
+          "first_name": "Andrea M.",
+          "last_name": "Leschewski",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.263791.8",
+          "researcher_id": "ur.012002322504.42",
+          "affiliations": [
+            {
+              "id": "grid.263791.8",
+              "name": "South Dakota State University",
+              "city": "Brookings",
+              "city_id": 5226534,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Dakota",
+              "state_code": "US-SD"
+            }
+          ]
+        },
+        {
+          "first_name": "Dave D.",
+          "last_name": "Weatherspoon",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.17088.36",
+          "researcher_id": "ur.010046017315.53",
+          "affiliations": [
+            {
+              "id": "grid.17088.36",
+              "name": "Michigan State University",
+              "city": "East Lansing",
+              "city_id": 4991640,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "Annemarie",
+          "last_name": "Kuhns",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.482913.5",
+          "researcher_id": "ur.010072134242.80",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "implications Results",
+        "factors",
+        "study",
+        "household diets",
+        "households",
+        "share",
+        "promotion",
+        "healthy items",
+        "assistance",
+        "differences",
+        "advertising",
+        "quality",
+        "availability",
+        "education programs",
+        "purchase",
+        "purchase frequency",
+        "food assistance",
+        "home",
+        "determinants",
+        "healthy foods",
+        "survey",
+        "hurdle model",
+        "purpose",
+        "values",
+        "restaurant type",
+        "acquisition",
+        "decision",
+        "impact",
+        "income",
+        "items",
+        "food",
+        "program",
+        "revision",
+        "data",
+        "household acquisition",
+        "types",
+        "restaurants",
+        "healthfulness",
+        "expenditure"
+      ],
+      "journal_title": "British Food Journal",
+      "title": "Household acquisition of healthy food away from home"
+    }
+  },
+  {
+    "title": "How strong is the demand for food through direct-to-consumer outlets?",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "Food Policy ",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0306919216303542",
+      "doi": "10.1016/j.foodpol.2018.04.010",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.foodpol.2018.04.010",
+      "authors": [
+        {
+          "first_name": "Hayden",
+          "last_name": "Stewart",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.0665776533.43",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Diansheng",
+          "last_name": "Dong",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.07722031063.07",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "consumer outlets",
+        "food"
+      ],
+      "journal_title": "Food Policy",
+      "title": "How strong is the demand for food through direct-to-consumer outlets?"
+    }
+  },
+  {
+    "title": "WIC Households' Bread and Cold Cereal Purchases: When They Use Benefits Versus Paying Out of Pocket",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "American Journal of Public Health",
+      "url": "http://journals.sagepub.com/doi/pdf/10.1177/0890117118778243",
+      "doi": "10.1177/0890117118778243",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1177/0890117118778243",
+      "authors": [
+        {
+          "first_name": "Hayden",
+          "last_name": "Stewart",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.0665776533.43",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Patrick W.",
+          "last_name": "McLaughlin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.014352651263.32",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Diansheng",
+          "last_name": "Dong",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.07722031063.07",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Elizabeth",
+          "last_name": "Fraz\u00e3o",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.0775741436.59",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "study",
+        "factors",
+        "SETTING/PARTICIPANTS",
+        "food purchases",
+        "rate",
+        "response rate",
+        "household purchases",
+        "effects",
+        "Department",
+        "health",
+        "participants",
+        "Special Supplemental Nutrition Program",
+        "education",
+        "overall response rate",
+        "differences",
+        "benefits",
+        "cold cereals",
+        "Out of Pocket",
+        "out",
+        "whole grains",
+        "grain foods",
+        "children",
+        "monthly package",
+        "Nutrition Program",
+        "more whole grains",
+        "likelihood",
+        "WIC participants",
+        "survey",
+        "grain bread",
+        "total",
+        "whole grain bread",
+        "whole grain foods",
+        "positive association",
+        "supplemental food",
+        "Agriculture's Special Supplemental Nutrition Program",
+        "WIC households",
+        "infants",
+        "food",
+        "program",
+        "Supplemental Nutrition Program",
+        "Benefits Versus",
+        "weeks",
+        "WIC",
+        "association",
+        "nutrition education",
+        "versus",
+        "women",
+        "test",
+        "WIC benefits"
+      ],
+      "journal_title": "American Journal of Health Promotion",
+      "title": "WIC Households' Bread and Cold Cereal Purchases: When They Use Benefits Versus Paying Out of Pocket"
+    }
+  },
+  {
+    "title": "SNAP and Paycheck Cycles",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "Southern Economic Journal",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/soej.12345",
+      "doi": "10.3386/w25635",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1002/soej.12345",
+      "authors": [
+        {
+          "first_name": "Timothy K. M.",
+          "last_name": "Beatty",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.27860.3b",
+              "name": "University of California, Davis",
+              "city": "Davis",
+              "city_id": 5341704,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Marianne P.",
+          "last_name": "Bitler",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.27860.3b",
+          "researcher_id": "ur.01206061205.69",
+          "affiliations": [
+            {
+              "id": "grid.47840.3f",
+              "name": "University of California, Berkeley",
+              "city": "Berkeley",
+              "city_id": 5327684,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Xinzhe Huang",
+          "last_name": "Cheng",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Cynthia",
+          "last_name": "Werf",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.27860.3b",
+              "name": "University of California, Davis",
+              "city": "Davis",
+              "city_id": 5341704,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "workers",
+        "evidence",
+        "paycheck",
+        "recipients",
+        "effects",
+        "share",
+        "cycle",
+        "United States Department",
+        "benefits",
+        "government benefits",
+        "security",
+        "basis",
+        "consumption",
+        "National Household Food Acquisition",
+        "survey",
+        "program benefits",
+        "receipt",
+        "SNAP beneficiaries",
+        "States Department",
+        "suggestive evidence",
+        "disproportionate share",
+        "acquisition",
+        "stores",
+        "Purchase Survey",
+        "social security",
+        "food acquisition",
+        "cost",
+        "little evidence",
+        "Household Food Acquisition",
+        "data",
+        "estimates",
+        "beginning",
+        "beneficiaries",
+        "monthly basis",
+        "income streams",
+        "individuals",
+        "Supplemental Nutrition Assistance Program (SNAP) benefits"
+      ],
+      "journal_title": "Southern Economic Journal",
+      "title": "SNAP and Paycheck Cycles"
+    }
+  },
+  {
+    "title": "Comparing National Food Acquisition and Purchase Survey (FoodAPS) Data With Other National Food Surveys' Data",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/webdocs/publications/79893/eib-157.pdf?v=3418.4",
+      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=79892",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "Food-at-Home Expenditures: Comparing Commercial Household Scanner Data From IRI and Government Survey Data",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/webdocs/publications/85252/tb-1946.pdf?v=0",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=85251",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "The Differences in Characteristics Among Households With and Without Obese Children: Findings From USDA's FoodAPS",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/webdocs/publications/85028/eib-179.pdf?v=0",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=85027",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "The Food-Spending Patterns of Households Participating in the Supplemental Nutrition Assistance Program: Findings From USDA's FoodAPS",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/webdocs/publications/84780/eib-176.pdf?v=0",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=84779",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "The Influence of Food Store Access on Grocery Shopping and Food Spending",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/webdocs/publications/85442/eib-180.pdf?v=0",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=85441",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "The Relationship Between Patronizing Direct-to-Consumer Outlets and a Household's Demand for Fruits and Vegetables",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/webdocs/publications/86878/err242_summary.pdf?v=0",
+      "doi": "https://www.ers.usda.gov/webdocs/publications/86878/err242_summary.pdf?v=0",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  }
+]

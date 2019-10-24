@@ -1,0 +1,2992 @@
+[
+  {
+    "title": "The Association Between Food Insufficiency and HIV Treatment Outcomes in a Longitudinal Analysis of HIV-Infected Individuals in New York City",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/doi: 10.1097/QAI.0000000000000596",
+      "keywords": "Food Insecurity,Food Insufficiency,HIV/AIDS,Unsuppressed Viral Load,CD4 Count,CPS-FSS,Citation,NonE Tier 1",
+      "doi": "doi: 10.1097/QAI.0000000000000596",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1097/qai.0000000000000596",
+      "authors": [
+        {
+          "first_name": "Matthew B.",
+          "last_name": "Feldman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.238477.d",
+          "researcher_id": "ur.0770145454.20",
+          "affiliations": [
+            {
+              "id": "grid.238477.d",
+              "name": "New York City Department of Health and Mental Hygiene",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Emily R.",
+          "last_name": "Alexy",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.240344.5",
+          "researcher_id": "ur.01160436671.50",
+          "affiliations": [
+            {
+              "id": "grid.238477.d",
+              "name": "New York City Department of Health and Mental Hygiene",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Jacinthe A.",
+          "last_name": "Thomas",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.238477.d",
+          "researcher_id": "ur.0712671335.46",
+          "affiliations": [
+            {
+              "id": "grid.238477.d",
+              "name": "New York City Department of Health and Mental Hygiene",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Gina F.",
+          "last_name": "Gambone",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.238477.d",
+              "name": "New York City Department of Health and Mental Hygiene",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Mary K.",
+          "last_name": "Irvine",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.238477.d",
+          "researcher_id": "ur.01237517220.44",
+          "affiliations": [
+            {
+              "id": "grid.238477.d",
+              "name": "New York City Department of Health and Mental Hygiene",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://pdfs.journals.lww.com/jaids/2015/07010/The_Association_Between_Food_Insufficiency_and_HIV.11.pdf?token=method|ExpireAbsolute;source|Journals;ttl|1542048624015;payload|mY8D3u1TCCsNvP5E421JYK6N6XICDamxByyYpaNzk7FKjTaa1Yz22MivkHZqjGP4kdS2v0J76WGAnHACH69s21Csk0OpQi3YbjEMdSoz2UhVybFqQxA7lKwSUlA502zQZr96TQRwhVlocEp/sJ586aVbcBFlltKNKo+tbuMfL73hiPqJliudqs17cHeLcLbV/CqjlP3IO0jGHlHQtJWcICDdAyGJMnpi6RlbEJaRheGeh5z5uvqz3FLHgPKVXJzdmXWu5dPlhDubainwsnRl16RkxGril9arViLOJfOXddA=;hash|jfKu6Iv3RW2TNcA9hXUj8A==",
+      "keywords": [
+        "disease progression",
+        "outcomes",
+        "study",
+        "factors",
+        "intake",
+        "York City",
+        "surveillance registry",
+        "registry",
+        "inadequate amounts",
+        "HIV treatment outcomes",
+        "date",
+        "period",
+        "treatment outcomes",
+        "intervention development",
+        "longitudinal analysis",
+        "clinical indicators",
+        "low CD4 count",
+        "FI assessment",
+        "food intake",
+        "PLWH",
+        "food insufficiency",
+        "indicators",
+        "sociodemographic characteristics",
+        "program clients",
+        "HIV surveillance registry",
+        "period of time",
+        "NYC HIV Surveillance Registry",
+        "need",
+        "HIV",
+        "clients",
+        "people",
+        "Nutrition Program",
+        "counts",
+        "unsuppressed viral load",
+        "multivariate analysis",
+        "levels",
+        "viral load",
+        "psychosocial factors",
+        "food",
+        "program",
+        "relationship",
+        "New York City",
+        "food insecurity",
+        "CD4 count",
+        "progression",
+        "development",
+        "infected individuals",
+        "aim",
+        "HIV disease progression",
+        "association",
+        "HIV-Infected Individuals",
+        "assessment",
+        "longitudinal study",
+        "bivariate level",
+        "future studies",
+        "services",
+        "insufficiency",
+        "individuals"
+      ],
+      "journal_title": "JAIDS Journal of Acquired Immune Deficiency Syndromes",
+      "title": "The Association Between Food Insufficiency and HIV Treatment Outcomes in a Longitudinal Analysis of HIV-Infected Individuals in New York City"
+    },
+    "europepmc": {
+      "doi": "10.1097/QAI.0000000000000596",
+      "journal": "J Acquir Immune Defic Syndr",
+      "url": "http://europepmc.org/abstract/MED/25751230",
+      "title": "the association between food insufficiency and hiv treatment outcomes in a longitudinal analysis of hiv-infected individuals in new york city"
+    }
+  },
+  {
+    "title": "The household food insecurity gradient and potential reductions in adverse population mental health outcomes in Canadian adults",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/29349239",
+      "keywords": "Food Insecurity,Mental Health,Chronic Stress,Canadian Adults,FSSM,NonE Tier 3",
+      "doi": "10.1016/j.ssmph.2017.05.013",
+      "journal": "SSM - population health",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.ssmph.2017.05.013",
+      "authors": [
+        {
+          "first_name": "Genevi\u00e8ve",
+          "last_name": "Jessiman-Perreault",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.22072.35",
+          "researcher_id": "ur.016621153551.74",
+          "affiliations": [
+            {
+              "id": "grid.22072.35",
+              "name": "University of Calgary",
+              "city": "Calgary",
+              "city_id": 5913490,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Alberta",
+              "state_code": "CA-AB"
+            }
+          ]
+        },
+        {
+          "first_name": "Lynn",
+          "last_name": "McIntyre",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.22072.35",
+          "researcher_id": "ur.01174705561.65",
+          "affiliations": [
+            {
+              "id": "grid.22072.35",
+              "name": "University of Calgary",
+              "city": "Calgary",
+              "city_id": 5913490,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Alberta",
+              "state_code": "CA-AB"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1016/j.ssmph.2017.05.013",
+      "keywords": [
+        "policy interventions",
+        "outcomes",
+        "poor mental health",
+        "study",
+        "reduction",
+        "mental health outcomes",
+        "negative effects",
+        "public health concern",
+        "adverse mental health outcomes",
+        "multi-variable model",
+        "food insecure",
+        "effects",
+        "health",
+        "health impacts",
+        "Canadian adults",
+        "mental health",
+        "reporting",
+        "health outcomes",
+        "Community Health Survey",
+        "household food insecurity",
+        "determinants",
+        "survey",
+        "mental health impact",
+        "insecurity",
+        "potential reduction",
+        "decrease",
+        "high risk",
+        "Canadian Community Health Survey",
+        "health concern",
+        "concern",
+        "impact",
+        "odds",
+        "risk continuum",
+        "levels",
+        "elimination",
+        "socioeconomic covariates",
+        "Health Survey",
+        "covariates",
+        "food",
+        "relationship",
+        "severe food insecurity",
+        "food insecurity",
+        "years",
+        "high levels",
+        "severe levels",
+        "adults 18",
+        "adults",
+        "insecure",
+        "Canada",
+        "probit analysis",
+        "intervention",
+        "risk"
+      ],
+      "journal_title": "SSM - Population Health",
+      "title": "The household food insecurity gradient and potential reductions in adverse population mental health outcomes in Canadian adults"
+    },
+    "openaire": {
+      "journal": "SSM - Population Health",
+      "title": "The household food insecurity gradient and potential reductions in adverse population mental health outcomes in Canadian adults",
+      "doi": "10.1016/j.ssmph.2017.05.013",
+      "url": "http://europepmc.org/articles/PMC5769073"
+    }
+  },
+  {
+    "title": "Food Insecurity Research in the United States: Where We Have Been and Where We Need to Go",
+    "datasets": [
+      "dataset-026",
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/aepp/ppx058",
+      "keywords": "Food Insecurity,Hunger,Poverty,SNAP,Food Stamp Program,National School Lunch Program,School Breakfast Program,CPS-FSS,NHANES-FSQ,SIPP-FS,ECLS-FS,Citation,Econ Tier 2",
+      "doi": "10.1093/aepp/ppx058",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1093/aepp/ppx058",
+      "authors": [
+        {
+          "first_name": "Craig",
+          "last_name": "Gundersen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.01341472614.22",
+          "affiliations": [
+            {
+              "name": "Department of Agricultural and Consumer Economics, University of Illinois"
+            }
+          ]
+        },
+        {
+          "first_name": "James P",
+          "last_name": "Ziliak",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266539.d",
+          "researcher_id": "ur.016567324113.92",
+          "affiliations": [
+            {
+              "id": "grid.266539.d",
+              "name": "University of Kentucky",
+              "city": "Lexington",
+              "city_id": 4297983,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Kentucky",
+              "state_code": "US-KY"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1093/aepp/ppx058",
+      "keywords": [
+        "research",
+        "United States",
+        "food insecurity research"
+      ],
+      "journal_title": "Applied Economic Perspectives and Policy",
+      "title": "Food Insecurity Research in the United States: Where We Have Been and Where We Need to Go"
+    }
+  },
+  {
+    "title": "More Likely to Be Poor Whatever the Measure: Working-Age Persons with Disabilities in the United States*",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1111/ssqu.12098",
+      "keywords": "Disability,Poverty Measures,Food Insecurity,Disadvantaged Group,CPS-FSS,Analyzed,NonE Tier 2",
+      "doi": "10.1111/ssqu.12098",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1111/ssqu.12098",
+      "authors": [
+        {
+          "first_name": "Debra L.",
+          "last_name": "Brucker",
+          "corresponding": "",
+          "orcid": "['0000-0002-3081-5206']",
+          "current_organization_id": "grid.167436.1",
+          "researcher_id": "ur.01115406371.34",
+          "affiliations": [
+            {
+              "id": "grid.167436.1",
+              "name": "University of New Hampshire",
+              "city": "Durham",
+              "city_id": 5085618,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Hampshire",
+              "state_code": "US-NH"
+            }
+          ]
+        },
+        {
+          "first_name": "Sophie",
+          "last_name": "Mitra",
+          "corresponding": "",
+          "orcid": "['0000-0001-7283-6630']",
+          "current_organization_id": "grid.256023.0",
+          "researcher_id": "ur.01040570442.02",
+          "affiliations": [
+            {
+              "id": "grid.256023.0",
+              "name": "Fordham University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Navena",
+          "last_name": "Chaitoo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.256023.0",
+          "researcher_id": "ur.012211307353.37",
+          "affiliations": [
+            {
+              "id": "grid.256023.0",
+              "name": "Fordham University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Joseph",
+          "last_name": "Mauro",
+          "corresponding": "",
+          "orcid": "['0000-0002-3732-5218']",
+          "current_organization_id": "grid.256023.0",
+          "researcher_id": "ur.013604250353.50",
+          "affiliations": [
+            {
+              "id": "grid.256023.0",
+              "name": "Fordham University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://onlinelibrary.wiley.com/doi/10.1111/ssqu.12098/pdf",
+      "keywords": [
+        "working-age persons",
+        "status",
+        "official poverty measure",
+        "differences",
+        "correlates of poverty",
+        "article",
+        "disability",
+        "age persons",
+        "state",
+        "survey",
+        "significance",
+        "disadvantaged groups",
+        "Supplemental Poverty Measure",
+        "authors",
+        "gap",
+        "Current Population Survey",
+        "persons",
+        "population survey",
+        "multidimensional poverty measures",
+        "disability status",
+        "relationship",
+        "data",
+        "poverty",
+        "poverty rates",
+        "measures",
+        "poverty measures",
+        "United States"
+      ],
+      "journal_title": "Social Science Quarterly",
+      "title": "More Likely to Be Poor Whatever the Measure: Working-Age Persons with Disabilities in the United States*"
+    }
+  },
+  {
+    "title": "Maternal Strategies to Access Food Differ by Food Security Status",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/27614689",
+      "keywords": "Adolescent,Adult,Choice Behavior,Cross-Sectional Studies,Family Characteristics,Female,Food Assistance,Food Preferences,Food Supply,Health Behavior,Healthy Diet,Humans,Logistic Models,Middle Aged,Mothers,Multivariate Analysis,Poverty,Rhode Island,Risk Factors,Socioeconomic Factors,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.jand.2016.07.010",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jand.2016.07.010",
+      "authors": [
+        {
+          "first_name": "Kathleen S.",
+          "last_name": "Gorman",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.20431.34",
+          "researcher_id": "ur.0655065342.77",
+          "affiliations": []
+        },
+        {
+          "first_name": "Karen",
+          "last_name": "McCurdy",
+          "corresponding": "",
+          "orcid": "['0000-0001-9944-125X']",
+          "current_organization_id": "grid.20431.34",
+          "researcher_id": "ur.0605565363.16",
+          "affiliations": []
+        },
+        {
+          "first_name": "Tiffani",
+          "last_name": "Kisler",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.20431.34",
+          "researcher_id": "ur.014534227417.45",
+          "affiliations": []
+        },
+        {
+          "first_name": "Elizabeth",
+          "last_name": "Metallinos-Katsaras",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.28203.3b",
+          "researcher_id": "ur.01336572742.96",
+          "affiliations": []
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc5183468?pdf=render",
+      "keywords": [
+        "behavior risk",
+        "healthy food choices",
+        "logistic regression",
+        "study",
+        "choice",
+        "maternal demographic variables",
+        "community",
+        "demographic variables",
+        "households",
+        "use",
+        "status",
+        "community nutrition programs",
+        "health",
+        "maternal age",
+        "older mothers",
+        "assistance",
+        "mothers",
+        "inability",
+        "food shopping",
+        "income mothers",
+        "analysis",
+        "Core Food Security Module",
+        "survey data",
+        "preschool-aged children",
+        "multivariate logistic regression",
+        "varies",
+        "Rhode Island",
+        "children",
+        "Nutrition Program",
+        "household food insecurity",
+        "home",
+        "greater inability",
+        "differs",
+        "family",
+        "insecurity",
+        "guidance",
+        "food choices",
+        "alternative source",
+        "maternal behavior",
+        "aged children",
+        "regression",
+        "variables",
+        "cross-sectional study",
+        "food security status",
+        "food",
+        "items",
+        "adult food security",
+        "program",
+        "food insecurity",
+        "age",
+        "providers",
+        "maternal strategies",
+        "young children",
+        "variety of strategies",
+        "security status",
+        "data",
+        "association",
+        "low-income mothers",
+        "adults",
+        "Food Security Module",
+        "strategies",
+        "sectional study",
+        "household food security status",
+        "risk"
+      ],
+      "journal_title": "Journal of the Academy of Nutrition and Dietetics",
+      "title": "Maternal Strategies to Access Food Differ by Food Security Status"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Maternal Strategies to Access Food Differ by Food Security Status",
+      "doi": "10.1016/j.jand.2016.07.010",
+      "url": "https://europepmc.org/articles/PMC5183468/"
+    }
+  },
+  {
+    "title": "Food Insecurity Among Community College Students: Prevalence and Association With Grade Point Average",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "https://www.doi.org/doi.org/10.1080/10668926.2013.850758",
+      "keywords": "Food Insecurity,Community College,Grade Point Average,Cross-Sectional Studies,FSSM,NonE Tier 3",
+      "doi": "doi.org/10.1080/10668926.2013.850758",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1080/10668926.2013.850758",
+      "authors": [
+        {
+          "first_name": "Maya E.",
+          "last_name": "Maroto",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.483501.b",
+          "researcher_id": "ur.01264104043.30",
+          "affiliations": []
+        },
+        {
+          "first_name": "Anastasia",
+          "last_name": "Snelling",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.015100147436.06",
+          "affiliations": []
+        },
+        {
+          "first_name": "Henry",
+          "last_name": "Linck",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "large percentage",
+        "study",
+        "factors",
+        "insecure students",
+        "food secure students",
+        "affluent suburban area",
+        "demographic variables",
+        "food insecure",
+        "effects",
+        "Maryland",
+        "Department",
+        "self",
+        "risk",
+        "Household Food Security Survey Module",
+        "single parents",
+        "survey",
+        "low income urban areas",
+        "food insecure students",
+        "prevalence",
+        "average",
+        "high risk",
+        "setting",
+        "research settings",
+        "percentage",
+        "secure students",
+        "samples",
+        "variables",
+        "Agriculture Household Food Security Survey Module",
+        "relationship",
+        "Food Security Survey Module",
+        "food insecurity",
+        "data",
+        "parents",
+        "association",
+        "adverse effects",
+        "College",
+        "insecure",
+        "Americans",
+        "Survey Module",
+        "lower grade point averages",
+        "African Americans",
+        "overall sample"
+      ],
+      "journal_title": "Community College Journal of Research and Practice",
+      "title": "Food Insecurity Among Community College Students: Prevalence and Association With Grade Point Average"
+    }
+  },
+  {
+    "title": "The Effect of Food Stamps on Children's Health: Evidence from Immigrants' Changing Eligibility",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.3368/jhr.55.3.0916-8197R2",
+      "keywords": "Food Stamp Program,Children's Health,Immigrants,Parental Eligibility,CPS-FSS,Analyzed,Econ Tier 1",
+      "doi": "10.3368/jhr.55.3.0916-8197R2",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.3368/jhr.55.3.0916-8197r2",
+      "authors": [
+        {
+          "first_name": "Chloe N.",
+          "last_name": "East",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.013506356503.16",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "immigrants",
+        "food stamps",
+        "child health",
+        "evidence",
+        "eligibility",
+        "health"
+      ],
+      "journal_title": "The Journal of Human Resources",
+      "title": "The Effect of Food Stamps on Children's Health: Evidence from Immigrants' Changing Eligibility"
+    }
+  },
+  {
+    "title": "Characteristics and health of homeless families: the ENFAMS survey in the Paris region, France 2013",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26511600",
+      "keywords": "Adolescent,Adult,Body Weights and Measures,Child,Child Development,Child, Preschool,Cross-Sectional Studies,Family Characteristics,Female,Food Supply,Health Status,Homeless Persons,Humans,Male,Malnutrition/epidemiology,Mental Health,Middle Aged,Overweight,Paris,Poverty,Socioeconomic Factors,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.1093/eurpub/ckv187",
+      "journal": "European journal of public health",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1093/eurpub/ckv187",
+      "authors": [
+        {
+          "first_name": "St\u00e9phanie",
+          "last_name": "Vandentorren",
+          "corresponding": "",
+          "orcid": "['0000-0003-4269-8286']",
+          "current_organization_id": "grid.493975.5",
+          "researcher_id": "ur.01136632201.56",
+          "affiliations": [
+            {
+              "name": "Observatoire du Samusocial de Paris, Paris, France"
+            },
+            {
+              "id": "grid.7429.8",
+              "name": "Inserm",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.419184.1",
+              "name": "Institut de Veille Sanitaire",
+              "city": "Saint-Maurice",
+              "city_id": 2978170,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Erwan",
+          "last_name": "Le M\u00e9ner",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.016130521314.98",
+          "affiliations": [
+            {
+              "name": "Observatoire du Samusocial de Paris, Paris, France"
+            }
+          ]
+        },
+        {
+          "first_name": "Nicolas",
+          "last_name": "Oppenchaim",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.12366.30",
+          "researcher_id": "ur.0766042577.25",
+          "affiliations": [
+            {
+              "name": "Observatoire du Samusocial de Paris, Paris, France"
+            },
+            {
+              "id": "grid.12366.30",
+              "name": "Fran\u00e7ois Rabelais University",
+              "city": "Tours",
+              "city_id": 2972191,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Amandine",
+          "last_name": "Arnaud",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.493975.5",
+          "researcher_id": "ur.01113425475.34",
+          "affiliations": [
+            {
+              "name": "Observatoire du Samusocial de Paris, Paris, France"
+            },
+            {
+              "id": "grid.419184.1",
+              "name": "Institut de Veille Sanitaire",
+              "city": "Saint-Maurice",
+              "city_id": 2978170,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Candy",
+          "last_name": "Jangal",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.7902.c",
+          "researcher_id": "ur.01102271177.01",
+          "affiliations": [
+            {
+              "name": "Observatoire du Samusocial de Paris, Paris, France"
+            },
+            {
+              "id": "grid.7902.c",
+              "name": "Paris West University Nanterre La D\u00e9fense",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Carme",
+          "last_name": "Caum",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.0675225506.38",
+          "affiliations": [
+            {
+              "name": "Observatoire du Samusocial de Paris, Paris, France"
+            }
+          ]
+        },
+        {
+          "first_name": "C\u00e9cile",
+          "last_name": "Vuillermoz",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.7429.8",
+          "researcher_id": "ur.0664124400.55",
+          "affiliations": [
+            {
+              "id": "grid.7429.8",
+              "name": "Inserm",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Judith",
+          "last_name": "Martin-Fernandez",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.7429.8",
+          "researcher_id": "ur.0753212244.28",
+          "affiliations": [
+            {
+              "id": "grid.7429.8",
+              "name": "Inserm",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Sandrine",
+          "last_name": "Lioret",
+          "corresponding": "",
+          "orcid": "['0000-0002-2483-7820']",
+          "current_organization_id": "grid.10992.33",
+          "researcher_id": "ur.0626376301.17",
+          "affiliations": [
+            {
+              "name": "Early ORigin of the Child\u2019s Health and Development Team (ORCHAD), INSERM, UMR1153 Epidemiology and Biostatistics Sorbonne Paris Cit\u00e9 Center (CRESS). Paris Descartes University, France"
+            }
+          ]
+        },
+        {
+          "first_name": "Mathilde",
+          "last_name": "Roze",
+          "corresponding": "",
+          "orcid": "['0000-0002-0674-8533']",
+          "current_organization_id": "grid.7429.8",
+          "researcher_id": "ur.0607342077.92",
+          "affiliations": [
+            {
+              "id": "grid.7429.8",
+              "name": "Inserm",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Yann",
+          "last_name": "Le Strat",
+          "corresponding": "",
+          "orcid": "['0000-0002-6180-4200']",
+          "current_organization_id": "grid.493975.5",
+          "researcher_id": "ur.0760557663.97",
+          "affiliations": [
+            {
+              "id": "grid.419184.1",
+              "name": "Institut de Veille Sanitaire",
+              "city": "Saint-Maurice",
+              "city_id": 2978170,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Emmanuelle",
+          "last_name": "Guyavarch",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.0576240274.49",
+          "affiliations": [
+            {
+              "name": "Observatoire du Samusocial de Paris, Paris, France"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/eurpub/article-pdf/26/1/71/7473091/ckv187.pdf",
+      "keywords": [
+        "overweight",
+        "signs",
+        "care",
+        "France",
+        "female family",
+        "homeless family population",
+        "most families",
+        "schooling",
+        "status",
+        "urgent action",
+        "health",
+        "single-parent status",
+        "ENFAMS survey",
+        "homeless mothers",
+        "Paris region",
+        "mothers",
+        "major problem",
+        "possible mental health disorders",
+        "child growth",
+        "health disorders",
+        "cross-sectional survey",
+        "need",
+        "health reports",
+        "living conditions",
+        "housing instability",
+        "children",
+        "people",
+        "sectional survey",
+        "survey",
+        "social characteristics",
+        "family",
+        "social ties",
+        "insecurity",
+        "ties",
+        "prevalence",
+        "impact of homelessness",
+        "important number",
+        "impact",
+        "half",
+        "poverty line",
+        "report",
+        "high rate",
+        "homeless families",
+        "action",
+        "food insecurity",
+        "population",
+        "development",
+        "access",
+        "malnutrition",
+        "obesity",
+        "health data",
+        "data",
+        "family population",
+        "mental health disorders",
+        "birthplace",
+        "homelessness",
+        "Child Health report",
+        "random sample",
+        "homeless population",
+        "residential instability",
+        "parent status",
+        "adequate care",
+        "nurses",
+        "objective",
+        "measures",
+        "homeless people"
+      ],
+      "journal_title": "European Journal of Public Health",
+      "title": "Characteristics and health of homeless families: the ENFAMS survey in the Paris region, France 2013"
+    },
+    "europepmc": {
+      "doi": "10.1093/eurpub/ckv187",
+      "journal": "Eur J Public Health",
+      "url": "http://europepmc.org/abstract/MED/26511600",
+      "title": "characteristics and health of homeless families: the enfams survey in the paris region, france 2013"
+    }
+  },
+  {
+    "title": "Who Is Food Insecure? Implications for Targeted Recruitment and Outreach, National Health and Nutrition Examination Survey, 2005-2010",
+    "datasets": [
+      "dataset-048",
+      "dataset-049",
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://www.doi.org/doi: 10.5888/pcd13.160103",
+      "keywords": "Food Insecurity,National Health and Nutrition Examination Survey,Food Assistance,Health,Targeted Recruitment and Outreach,NHANES-FSQ,Analyzed,FSSM,NonE Tier 2",
+      "doi": "doi: 10.5888/pcd13.160103",
+      "journal": "Preventing Chronic Disease",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.5888/pcd13.160103",
+      "authors": [
+        {
+          "first_name": "Sandi L",
+          "last_name": "Pruitt",
+          "corresponding": "",
+          "orcid": "['0000-0002-1007-9176']",
+          "current_organization_id": "grid.267313.2",
+          "researcher_id": "ur.01037545547.22",
+          "affiliations": [
+            {
+              "name": "Department of Clinical Sciences, University of Texas Southwestern Medical Center and Harold C. Simmons Cancer Center, 5323 Harry Hines Blvd, Dallas, TX 75390. Email: sandi.pruitt@utsouthwestern.edu."
+            }
+          ]
+        },
+        {
+          "first_name": "Tammy",
+          "last_name": "Leonard",
+          "corresponding": "",
+          "orcid": "['0000-0002-8621-9358']",
+          "current_organization_id": "grid.266229.b",
+          "researcher_id": "ur.01124524524.43",
+          "affiliations": [
+            {
+              "id": "grid.266229.b",
+              "name": "University of Dallas",
+              "city": "Irving",
+              "city_id": 4700168,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        },
+        {
+          "first_name": "Lei",
+          "last_name": "Xuan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.267313.2",
+          "researcher_id": "ur.0667647203.57",
+          "affiliations": [
+            {
+              "id": "grid.267313.2",
+              "name": "The University of Texas Southwestern Medical Center",
+              "city": "Dallas",
+              "city_id": 4684888,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        },
+        {
+          "first_name": "Richard",
+          "last_name": "Amory",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "The Hunger Center, North Texas Food Bank, Dallas, Texas."
+            }
+          ]
+        },
+        {
+          "first_name": "Robin T",
+          "last_name": "Higashi",
+          "corresponding": "",
+          "orcid": "['0000-0001-5232-6852']",
+          "current_organization_id": "grid.267313.2",
+          "researcher_id": "ur.01003775017.61",
+          "affiliations": [
+            {
+              "id": "grid.267313.2",
+              "name": "The University of Texas Southwestern Medical Center",
+              "city": "Dallas",
+              "city_id": 4684888,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        },
+        {
+          "first_name": "Oanh Kieu",
+          "last_name": "Nguyen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.267313.2",
+          "researcher_id": "ur.01334705632.81",
+          "affiliations": [
+            {
+              "id": "grid.267313.2",
+              "name": "The University of Texas Southwestern Medical Center",
+              "city": "Dallas",
+              "city_id": 4684888,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        },
+        {
+          "first_name": "Carla",
+          "last_name": "Pezzia",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266229.b",
+          "researcher_id": "ur.01321255662.61",
+          "affiliations": [
+            {
+              "id": "grid.266229.b",
+              "name": "University of Dallas",
+              "city": "Irving",
+              "city_id": 4700168,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        },
+        {
+          "first_name": "Stephanie",
+          "last_name": "Swales",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266229.b",
+          "researcher_id": "ur.013104255031.80",
+          "affiliations": [
+            {
+              "id": "grid.266229.b",
+              "name": "University of Dallas",
+              "city": "Irving",
+              "city_id": 4700168,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cdc.gov/pcd/issues/2016/pdf/16_0103.pdf",
+      "keywords": [
+        "care access",
+        "US adults",
+        "good health",
+        "factors",
+        "recruitment",
+        "health care access",
+        "less health care access",
+        "status",
+        "food insecure",
+        "health",
+        "participants",
+        "assistance",
+        "differences",
+        "disease prevention efforts",
+        "health behaviors",
+        "benefits",
+        "Examination Survey",
+        "outreach",
+        "inverse relationship",
+        "food insecure populations",
+        "need",
+        "food assistance",
+        "people",
+        "survey",
+        "program benefits",
+        "chronic disease prevention efforts",
+        "receipt",
+        "prevention efforts",
+        "poor health",
+        "functional limitations",
+        "Nutrition Examination Survey",
+        "SNAP",
+        "program",
+        "assistance programs",
+        "food",
+        "insecure populations",
+        "food insecurity",
+        "years",
+        "population",
+        "access",
+        "relationship",
+        "Targeted recruitment",
+        "data",
+        "health status",
+        "adults",
+        "food assistance programs",
+        "National Health",
+        "strategies",
+        "insecure",
+        "objective",
+        "health needs",
+        "Supplemental Nutrition Assistance Program (SNAP) benefits"
+      ],
+      "journal_title": "Preventing Chronic Disease",
+      "title": "Who Is Food Insecure? Implications for Targeted Recruitment and Outreach, National Health and Nutrition Examination Survey, 2005-2010"
+    },
+    "openaire": {
+      "journal": "Preventing Chronic Disease",
+      "title": "Who Is Food Insecure? Implications for Targeted Recruitment and Outreach, National Health and Nutrition Examination Survey, 2005-2010",
+      "doi": "10.5888/pcd13.160103",
+      "url": "http://europepmc.org/articles/PMC5063607"
+    }
+  },
+  {
+    "title": "Household food insecurity and dietary patterns in rural and urban American Indian families with young children",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/28666476",
+      "keywords": "Adaptation, Psychological,Adult,Child, Preschool,Cross-Sectional Studies,Diet,Feeding Behavior,Female,Food Supply,Humans,Indians, North American,Logistic Models,Male,Prevalence,Rural Population,Socioeconomic Factors,Urban Population,FSSM,NonE Tier 1",
+      "doi": "10.1186/s12889-017-4498-y",
+      "journal": "BMC public health",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1186/s12889-017-4498-y",
+      "authors": [
+        {
+          "first_name": "Emily J.",
+          "last_name": "Tomayko",
+          "corresponding": "",
+          "orcid": "['0000-0002-9074-0875']",
+          "current_organization_id": "grid.4391.f",
+          "researcher_id": "ur.01027251024.50",
+          "affiliations": [
+            {
+              "id": "grid.4391.f",
+              "name": "Oregon State University",
+              "city": "Corvallis",
+              "city_id": 5720727,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oregon",
+              "state_code": "US-OR"
+            }
+          ]
+        },
+        {
+          "first_name": "Kathryn L.",
+          "last_name": "Mosso",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.14003.36",
+              "name": "University of Wisconsin\u2013Madison",
+              "city": "Madison",
+              "city_id": 5261457,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wisconsin",
+              "state_code": "US-WI"
+            }
+          ]
+        },
+        {
+          "first_name": "Kate A.",
+          "last_name": "Cronin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.14003.36",
+          "researcher_id": "ur.01142533657.24",
+          "affiliations": [
+            {
+              "id": "grid.14003.36",
+              "name": "University of Wisconsin\u2013Madison",
+              "city": "Madison",
+              "city_id": 5261457,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wisconsin",
+              "state_code": "US-WI"
+            }
+          ]
+        },
+        {
+          "first_name": "Lakeesha",
+          "last_name": "Carmichael",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.14003.36",
+          "researcher_id": "ur.01216741625.75",
+          "affiliations": [
+            {
+              "id": "grid.14003.36",
+              "name": "University of Wisconsin\u2013Madison",
+              "city": "Madison",
+              "city_id": 5261457,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wisconsin",
+              "state_code": "US-WI"
+            }
+          ]
+        },
+        {
+          "first_name": "KyungMann",
+          "last_name": "Kim",
+          "corresponding": "",
+          "orcid": "['0000-0002-6726-003X']",
+          "current_organization_id": "grid.14003.36",
+          "researcher_id": "ur.011743235744.61",
+          "affiliations": [
+            {
+              "id": "grid.14003.36",
+              "name": "University of Wisconsin\u2013Madison",
+              "city": "Madison",
+              "city_id": 5261457,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wisconsin",
+              "state_code": "US-WI"
+            }
+          ]
+        },
+        {
+          "first_name": "Tassy",
+          "last_name": "Parker",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266832.b",
+          "researcher_id": "ur.01233443244.99",
+          "affiliations": [
+            {
+              "name": "Department of Family and Community Medicine, School of Medicine, University of New Mexico, Albuquerque, NM, Mexico"
+            }
+          ]
+        },
+        {
+          "first_name": "Amy L.",
+          "last_name": "Yaroch",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266813.8",
+          "researcher_id": "ur.01322322451.72",
+          "affiliations": [
+            {
+              "name": "Gretchen Swanson Center for Nutrition, Omaha, NE, USA"
+            }
+          ]
+        },
+        {
+          "first_name": "Alexandra K.",
+          "last_name": "Adams",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.41891.35",
+          "researcher_id": "ur.01132323355.82",
+          "affiliations": [
+            {
+              "id": "grid.41891.35",
+              "name": "Montana State University",
+              "city": "Bozeman",
+              "city_id": 5641727,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Montana",
+              "state_code": "US-MT"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-017-4498-y",
+      "keywords": [
+        "logistic regression",
+        "intake",
+        "American Indian communities",
+        "urban settings",
+        "fruit juices",
+        "Indian families",
+        "group discussions",
+        "high food insecurity",
+        "focus group participants",
+        "geographic designation",
+        "household food insecurity",
+        "purpose",
+        "family",
+        "lifestyle intervention",
+        "vegetables",
+        "high intake",
+        "levels",
+        "regression",
+        "food insecurity",
+        "adult diet",
+        "Indian communities",
+        "Indian ethnicity",
+        "association",
+        "healthy lifestyle intervention",
+        "dietary patterns",
+        "healthy children",
+        "educational level",
+        "status",
+        "drinks",
+        "high prevalence",
+        "focus group discussions",
+        "dietary intake",
+        "low intake",
+        "same household",
+        "Household Food Security Survey",
+        "Food Screener",
+        "survey",
+        "prevalence",
+        "dyads",
+        "rural American Indian communities",
+        "registration",
+        "items",
+        "rural status",
+        "group participants",
+        "family 2",
+        "adult caregivers",
+        "trials",
+        "factors",
+        "insecure children",
+        "participants",
+        "American Indian ethnicity",
+        "food insecure children",
+        "participation",
+        "correlates",
+        "single adult households",
+        "juice",
+        "setting",
+        "baseline data",
+        "ethnicity",
+        "young children",
+        "food insecure adults",
+        "adults",
+        "Food Security Survey",
+        "sports drinks",
+        "fried potatoes",
+        "screener",
+        "American Indian households",
+        "demographic information",
+        "study",
+        "diet",
+        "cross-sectional baseline data",
+        "urban-rural status",
+        "date",
+        "secure adults",
+        "food secure adults",
+        "American Indian families",
+        "significant negative influence",
+        "children",
+        "low educational level",
+        "samples",
+        "future interventions",
+        "beverages",
+        "relationship",
+        "data",
+        "enrollment",
+        "caregivers",
+        "strategies",
+        "patterns",
+        "intervention",
+        "WIC participation"
+      ],
+      "journal_title": "BMC Public Health",
+      "title": "Household food insecurity and dietary patterns in rural and urban American Indian families with young children"
+    },
+    "openaire": {
+      "journal": "BMC Public Health",
+      "title": "Household food insecurity and dietary patterns in rural and urban American Indian families with young children",
+      "doi": "10.1186/s12889-017-4498-y",
+      "url": "http://europepmc.org/articles/PMC5493116"
+    }
+  },
+  {
+    "title": "Dutch food bank parcels do not meet nutritional guidelines for a healthy diet",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/27229880",
+      "keywords": "Adult,Cross-Sectional Studies,Diet,Female,Food Assistance,Guideline Adherence,Healthy Diet,Humans,Male,Middle Aged,Netherlands,Nutrition Policy,Nutritional Requirements,Nutritive Value,Surveys and Questionnaires,FSSM,NonE Tier 1",
+      "doi": "10.1017/S0007114516002087",
+      "journal": "The British journal of nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1017/s0007114516002087",
+      "authors": [
+        {
+          "first_name": "Judith E.",
+          "last_name": "Neter",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.466632.3",
+          "researcher_id": "ur.01242010412.64",
+          "affiliations": [
+            {
+              "id": "grid.466632.3",
+              "name": "EMGO Institute for Health and Care Research",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "S. Coosje",
+          "last_name": "Dijkstra",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.12380.38",
+          "researcher_id": "ur.0611564022.67",
+          "affiliations": [
+            {
+              "id": "grid.466632.3",
+              "name": "EMGO Institute for Health and Care Research",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Marjolein",
+          "last_name": "Visser",
+          "corresponding": "",
+          "orcid": "['0000-0002-5136-298X']",
+          "current_organization_id": "grid.12380.38",
+          "researcher_id": "ur.01000641362.38",
+          "affiliations": [
+            {
+              "id": "grid.466632.3",
+              "name": "EMGO Institute for Health and Care Research",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.16872.3a",
+              "name": "VU University Medical Center",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Ingeborg A.",
+          "last_name": "Brouwer",
+          "corresponding": "",
+          "orcid": "['0000-0002-8762-382X']",
+          "current_organization_id": "grid.12380.38",
+          "researcher_id": "ur.01345751137.53",
+          "affiliations": [
+            {
+              "id": "grid.466632.3",
+              "name": "EMGO Institute for Health and Care Research",
+              "city": "Amsterdam",
+              "city_id": 2759794,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/27B42BA9B6CC26B5F676FE7572B69D8B/S0007114516002087a.pdf/div-class-title-dutch-food-bank-parcels-do-not-meet-nutritional-guidelines-for-a-healthy-diet-div.pdf",
+      "keywords": [
+        "single day",
+        "study",
+        "diet",
+        "intake",
+        "general questionnaire",
+        "recipients",
+        "status",
+        "population subgroups",
+        "questionnaire",
+        "participants",
+        "dietary intake",
+        "nutritional guidelines",
+        "quality",
+        "subgroups",
+        "protein",
+        "healthy diet",
+        "food parcels",
+        "vegetables",
+        "lines",
+        "macronutrients",
+        "food banks",
+        "amount of fruit",
+        "cross-sectional study",
+        "food",
+        "nutritional intake",
+        "number of days",
+        "health status",
+        "guidelines",
+        "SFA",
+        "days",
+        "number",
+        "sectional study",
+        "Netherlands",
+        "vulnerable population subgroups"
+      ],
+      "journal_title": "British Journal Of Nutrition",
+      "title": "Dutch food bank parcels do not meet nutritional guidelines for a healthy diet"
+    },
+    "europepmc": {
+      "doi": "10.1017/S0007114516002087",
+      "journal": "Br J Nutr",
+      "url": "http://europepmc.org/abstract/MED/27229880",
+      "title": "dutch food bank parcels do not meet nutritional guidelines for a healthy diet"
+    }
+  },
+  {
+    "title": "Food insecurity is associated with diabetes self-care behaviours and glycaemic control",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26314941",
+      "keywords": "Adolescent,Adult,Aged,Aged, 80 and over,Blood Glucose,Cross-Sectional Studies,Diabetes Mellitus,Female,Food Supply,Glycated Hemoglobin A,Humans,Male,Middle Aged,Self Care,Tennessee,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.1111/dme.12896",
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1111/dme.12896",
+      "authors": [
+        {
+          "first_name": "W. J.",
+          "last_name": "Heerman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.01321270570.00",
+          "affiliations": [
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            },
+            {
+              "id": "grid.152326.1",
+              "name": "Vanderbilt University",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            },
+            {
+              "name": "Vanderbilt Center for Health Services Research Nashville TN USA"
+            }
+          ]
+        },
+        {
+          "first_name": "K. A.",
+          "last_name": "Wallston",
+          "corresponding": "",
+          "orcid": "['0000-0001-6310-0306']",
+          "current_organization_id": "grid.152326.1",
+          "researcher_id": "ur.01270723710.34",
+          "affiliations": [
+            {
+              "name": "Vanderbilt Center for Health Services Research Nashville TN USA"
+            },
+            {
+              "name": "School of Nursing Nashville TN USA"
+            }
+          ]
+        },
+        {
+          "first_name": "C. Y.",
+          "last_name": "Osborn",
+          "corresponding": "",
+          "orcid": "['0000-0002-7668-028X']",
+          "current_organization_id": "",
+          "researcher_id": "ur.01152575034.82",
+          "affiliations": [
+            {
+              "id": "grid.152326.1",
+              "name": "Vanderbilt University",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            },
+            {
+              "name": "Vanderbilt Center for Health Services Research Nashville TN USA"
+            },
+            {
+              "name": "Department of Biomedical Informatics and the Center for Health Behavior and Health Education Nashville TN USA"
+            },
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "A.",
+          "last_name": "Bian",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.015472756147.24",
+          "affiliations": [
+            {
+              "name": "Vanderbilt Center for Health Services Research Nashville TN USA"
+            },
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "D. G.",
+          "last_name": "Schlundt",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.152326.1",
+          "researcher_id": "ur.0651454015.68",
+          "affiliations": [
+            {
+              "name": "Vanderbilt Center for Health Services Research Nashville TN USA"
+            },
+            {
+              "id": "grid.152326.1",
+              "name": "Vanderbilt University",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "S. D.",
+          "last_name": "Barto",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.01265270604.02",
+          "affiliations": [
+            {
+              "name": "Vanderbilt Center for Health Services Research Nashville TN USA"
+            }
+          ]
+        },
+        {
+          "first_name": "R. L.",
+          "last_name": "Rothman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.016262464277.77",
+          "affiliations": [
+            {
+              "id": "grid.152326.1",
+              "name": "Vanderbilt University",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            },
+            {
+              "name": "Vanderbilt Center for Health Services Research Nashville TN USA"
+            },
+            {
+              "name": "Department of Biomedical Informatics and the Center for Health Behavior and Health Education Nashville TN USA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4769979?pdf=render",
+      "keywords": [
+        "care",
+        "diet",
+        "rate",
+        "economic status",
+        "primary care clinics",
+        "randomized trial",
+        "medications",
+        "questionnaire",
+        "participants",
+        "status",
+        "care clinics",
+        "summary",
+        "activity",
+        "Diabetes Questionnaire",
+        "calorie restriction",
+        "socio-economic status",
+        "Household Food Security Survey",
+        "U.S. Household Food Security Survey",
+        "greater occurrence",
+        "adherence",
+        "Personal Diabetes Questionnaire",
+        "adult patients",
+        "sectional analysis",
+        "survey",
+        "mechanism",
+        "diabetes",
+        "restriction",
+        "care behaviors",
+        "safe food",
+        "self-care",
+        "self-care behaviors",
+        "HbA1c",
+        "patients",
+        "worse glycaemic control",
+        "ability",
+        "levels",
+        "physical activity",
+        "samples",
+        "Activity Scale",
+        "Diabetes Interventions",
+        "cross-sectional analysis",
+        "baseline data",
+        "food",
+        "items",
+        "general diet",
+        "high rate",
+        "food insecurity",
+        "low socio-economic status",
+        "glycaemic control",
+        "less physical activity",
+        "data",
+        "Medication Scale",
+        "occurrence",
+        "association",
+        "clinic",
+        "less adherence",
+        "Food Security Survey",
+        "sample of patients",
+        "control",
+        "trials",
+        "objective",
+        "health literacy",
+        "safety net primary care clinics",
+        "type 2 diabetes",
+        "intervention",
+        "Diabetes Self-Care Activities Scale"
+      ],
+      "journal_title": "Diabetic Medicine",
+      "title": "Food insecurity is associated with diabetes self-care behaviours and glycaemic control"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Food insecurity is associated with diabetes self-care behaviours and glycaemic control",
+      "doi": "10.1111/dme.12896",
+      "url": "https://europepmc.org/articles/PMC4769979/"
+    }
+  },
+  {
+    "title": "The impact of a school food aid program on household food insecurity",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26873860",
+      "keywords": "Adolescent,Child,Female,Food Assistance,Food Supply,Greece,Humans,Hunger,Male,Nutritional Status,Socioeconomic Factors,FSSM,NonE Tier 1",
+      "doi": "10.1093/eurpub/ckv223",
+      "journal": "European journal of public health",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1093/eurpub/ckv223",
+      "authors": [
+        {
+          "first_name": "Athanassios",
+          "last_name": "Petralias",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.16299.35",
+          "researcher_id": "ur.01104137136.19",
+          "affiliations": [
+            {
+              "name": "1, Environmental and Occupational Health, Prolepsis, Institute of Preventive Medicine, Maroussi, Greece"
+            },
+            {
+              "id": "grid.5216.0",
+              "name": "National and Kapodistrian University of Athens",
+              "city": "Athens",
+              "city_id": 264371,
+              "country": "Greece",
+              "country_code": "GR",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.16299.35",
+              "name": "Athens University of Economics and Business",
+              "city": "Athens",
+              "city_id": 264371,
+              "country": "Greece",
+              "country_code": "GR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Eleni",
+          "last_name": "Papadimitriou",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.5216.0",
+          "researcher_id": "ur.01317024025.37",
+          "affiliations": [
+            {
+              "name": "1, Environmental and Occupational Health, Prolepsis, Institute of Preventive Medicine, Maroussi, Greece"
+            },
+            {
+              "id": "grid.5216.0",
+              "name": "National and Kapodistrian University of Athens",
+              "city": "Athens",
+              "city_id": 264371,
+              "country": "Greece",
+              "country_code": "GR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Elena",
+          "last_name": "Riza",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.5216.0",
+          "researcher_id": "ur.01217322244.26",
+          "affiliations": [
+            {
+              "id": "grid.5216.0",
+              "name": "National and Kapodistrian University of Athens",
+              "city": "Athens",
+              "city_id": 264371,
+              "country": "Greece",
+              "country_code": "GR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Margaret R.",
+          "last_name": "Karagas",
+          "corresponding": "",
+          "orcid": "['0000-0002-6398-7362']",
+          "current_organization_id": "grid.254880.3",
+          "researcher_id": "ur.07573167157.40",
+          "affiliations": [
+            {
+              "name": "4, Children\u2019s Environmental Health and Disease Prevention Research Center at Dartmouth, Hanover, NH, USA"
+            },
+            {
+              "id": "grid.254880.3",
+              "name": "Dartmouth College",
+              "city": "Hanover",
+              "city_id": 5087168,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Hampshire",
+              "state_code": "US-NH"
+            }
+          ]
+        },
+        {
+          "first_name": "Alexia B.A.",
+          "last_name": "Zagouras",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Athena",
+          "last_name": "Linos",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.5216.0",
+          "researcher_id": "ur.01363432123.28",
+          "affiliations": [
+            {
+              "name": "1, Environmental and Occupational Health, Prolepsis, Institute of Preventive Medicine, Maroussi, Greece"
+            },
+            {
+              "id": "grid.5216.0",
+              "name": "National and Kapodistrian University of Athens",
+              "city": "Athens",
+              "city_id": 264371,
+              "country": "Greece",
+              "country_code": "GR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "",
+          "last_name": "",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "linkout": "https://academic.oup.com/eurpub/article-pdf/26/2/290/14112703/ckv223.pdf",
+      "keywords": [
+        "individual level",
+        "food insecurity score",
+        "factors",
+        "nutrition specialists",
+        "findings",
+        "period",
+        "healthy meals",
+        "specialists",
+        "intervention response",
+        "additional months",
+        "insecurity levels",
+        "potential impact",
+        "large-scale school",
+        "participation",
+        "children",
+        "food aid programs",
+        "food insecurity levels",
+        "household food insecurity",
+        "scores",
+        "family",
+        "nutritional program",
+        "months",
+        "intervention period",
+        "impact",
+        "percentage",
+        "odds",
+        "response",
+        "socioeconomic areas",
+        "levels",
+        "meal",
+        "low socioeconomic areas",
+        "unique opportunity",
+        "experience high levels",
+        "program",
+        "years",
+        "Food Security Survey Module",
+        "food insecurity",
+        "extent",
+        "high levels",
+        "district",
+        "hunger",
+        "countries",
+        "socioeconomic factors",
+        "post-intervention",
+        "child households",
+        "Survey Module",
+        "baseline",
+        "intervention",
+        "adjustment"
+      ],
+      "journal_title": "European Journal of Public Health",
+      "title": "The impact of a school food aid program on household food insecurity"
+    },
+    "openaire": {
+      "journal": "The European Journal of Public Health",
+      "title": "The impact of a school food aid program on household food insecurity",
+      "doi": "10.1093/eurpub/ckv223.",
+      "url": "http://europepmc.org/articles/PMC4804736"
+    }
+  },
+  {
+    "title": "Improving the Nutritional Impact of the Supplemental Nutrition Assistance Program:: Perspectives From the Participants",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/28109422",
+      "keywords": "Adult,Choice Behavior,Female,Food,Food Assistance,Food Supply,Health Education,Humans,Male,Middle Aged,Motivation,Nutrition Policy,Nutritive Value,Poverty,Surveys and Questionnaires,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.amepre.2016.07.024",
+      "journal": "American journal of preventive medicine",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.amepre.2016.07.024",
+      "authors": [
+        {
+          "first_name": "Cindy W.",
+          "last_name": "Leung",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.214458.e",
+          "researcher_id": "ur.0730261053.15",
+          "affiliations": [
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Aviva A.",
+          "last_name": "Musicus",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.01153707261.00",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Walter C.",
+          "last_name": "Willett",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.0607477203.05",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "name": "Channing Division of Network Medicine, Department of Medicine, Brigham and Women\u2019s Hospital, Harvard Medical School, Boston, Massachusetts"
+            }
+          ]
+        },
+        {
+          "first_name": "Eric B.",
+          "last_name": "Rimm",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.010735434242.45",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "name": "Channing Division of Network Medicine, Department of Medicine, Brigham and Women\u2019s Hospital, Harvard Medical School, Boston, Massachusetts"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://www.ajpmonline.org/article/S0749379716302987/pdf",
+      "keywords": [
+        "response frequency",
+        "study",
+        "intake",
+        "square test",
+        "largest federal food assistance program",
+        "sugary beverages",
+        "closed-ended questions",
+        "participants",
+        "chi-square test",
+        "healthful foods",
+        "nutritional impact",
+        "dietary intake",
+        "ended questions",
+        "education",
+        "benefits",
+        "increase",
+        "more nutrition education",
+        "Nutrition Assistance Program",
+        "purpose",
+        "family",
+        "primary purpose",
+        "enhanced program",
+        "impact",
+        "ability",
+        "exclusion",
+        "unhealthful foods",
+        "Supplemental Nutrition Assistance Program",
+        "perception",
+        "program",
+        "assistance programs",
+        "food",
+        "enough food",
+        "food insecurity",
+        "children/families",
+        "beverages",
+        "frequency",
+        "data",
+        "opinion",
+        "nutrition education",
+        "food assistance programs",
+        "strategies",
+        "end",
+        "test",
+        "federal food assistance programs",
+        "SNAP participants",
+        "nonparticipants",
+        "individuals",
+        "Healthy Incentives"
+      ],
+      "journal_title": "American Journal of Preventive Medicine",
+      "title": "Improving the Nutritional Impact of the Supplemental Nutrition Assistance Program:: Perspectives From the Participants"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Improving the Nutritional Impact of the Supplemental Nutrition Assistance Program:: Perspectives From the Participants",
+      "doi": "10.1016/j.amepre.2016.07.024",
+      "url": "https://europepmc.org/articles/PMC5264317/"
+    }
+  },
+  {
+    "title": "Partial Identification Methods for Evaluating Food Assistance Programs: A Case Study of the Causal Impact of SNAP on Food Insecurity",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/ajae/aax026",
+      "keywords": "Supplemental Nutrition Assistance Program,Food Stamp Program,Food Insecurity,Partial Identification,Treatment Effects,Nonparametric Bounds,Classification Error,Survey of Income and Program Participation,SIPP-FS,Analyzed,Econ Tier 1",
+      "doi": "10.1093/ajae/aax026",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1093/ajae/aax026",
+      "authors": [
+        {
+          "first_name": "Craig",
+          "last_name": "Gundersen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.01341472614.22",
+          "affiliations": []
+        },
+        {
+          "first_name": "Brent",
+          "last_name": "Kreider",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34421.30",
+          "researcher_id": "ur.01111042563.21",
+          "affiliations": []
+        },
+        {
+          "first_name": "John V.",
+          "last_name": "Pepper",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.27755.32",
+          "researcher_id": "ur.01250767177.40",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "study",
+        "impact",
+        "SNAP",
+        "food assistance programs",
+        "program",
+        "assistance programs",
+        "food insecurity"
+      ],
+      "journal_title": "American Journal of Agricultural Economics",
+      "title": "Partial Identification Methods for Evaluating Food Assistance Programs: A Case Study of the Causal Impact of SNAP on Food Insecurity"
+    }
+  },
+  {
+    "title": "Homeowner versus non-homeowner differences in household food insecurity in Canada",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "https://www.doi.org/doi.org/10.1007/s10901-015-9461-6",
+      "keywords": "Food Insecurity,Housing,Homeownership,Rental,Decomposition Statistics,Canada,FSSM,NonE Tier 2",
+      "doi": "doi.org/10.1007/s10901-015-9461-6",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1007/s10901-015-9461-6",
+      "authors": [
+        {
+          "first_name": "Lynn",
+          "last_name": "McIntyre",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.22072.35",
+          "researcher_id": "ur.01174705561.65",
+          "affiliations": [
+            {
+              "id": "grid.22072.35",
+              "name": "University of Calgary",
+              "city": "Calgary",
+              "city_id": 5913490,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Alberta",
+              "state_code": "CA-AB"
+            }
+          ]
+        },
+        {
+          "first_name": "Xiuyun",
+          "last_name": "Wu",
+          "corresponding": "",
+          "orcid": "['0000-0001-6612-8259']",
+          "current_organization_id": "grid.17089.37",
+          "researcher_id": "ur.01171135323.27",
+          "affiliations": [
+            {
+              "id": "grid.22072.35",
+              "name": "University of Calgary",
+              "city": "Calgary",
+              "city_id": 5913490,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Alberta",
+              "state_code": "CA-AB"
+            }
+          ]
+        },
+        {
+          "first_name": "Valerie C.",
+          "last_name": "Fleisch",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.22072.35",
+          "researcher_id": "ur.01132776043.09",
+          "affiliations": [
+            {
+              "id": "grid.22072.35",
+              "name": "University of Calgary",
+              "city": "Calgary",
+              "city_id": 5913490,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Alberta",
+              "state_code": "CA-AB"
+            }
+          ]
+        },
+        {
+          "first_name": "J. C.",
+          "last_name": "Herbert Emery",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.22072.35",
+          "researcher_id": "ur.012535346245.01",
+          "affiliations": [
+            {
+              "id": "grid.22072.35",
+              "name": "University of Calgary",
+              "city": "Calgary",
+              "city_id": 5913490,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Alberta",
+              "state_code": "CA-AB"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "contextual characteristics",
+        "factors",
+        "governmental policies",
+        "equity",
+        "households",
+        "housing tenure",
+        "introduction",
+        "status",
+        "effects",
+        "food insecure",
+        "household-level characteristics",
+        "lack of access",
+        "differences",
+        "adequate food",
+        "correlates",
+        "homeownership status",
+        "level characteristics",
+        "policy",
+        "direct protective effect",
+        "Community Health Survey",
+        "household food insecurity",
+        "survey",
+        "questions",
+        "lack",
+        "homeowner households",
+        "insecurity",
+        "prevalence",
+        "protective impact",
+        "Canadian Community Health Survey",
+        "impact",
+        "odds",
+        "protection",
+        "Health Survey",
+        "income",
+        "overall difference",
+        "food",
+        "tenure",
+        "food insecurity",
+        "population",
+        "access",
+        "financial constraints",
+        "institutional policies",
+        "contextual factors",
+        "renters",
+        "insecure",
+        "Canada",
+        "risk"
+      ],
+      "journal_title": "Journal of Housing and the Built Environment",
+      "title": "Homeowner versus non-homeowner differences in household food insecurity in Canada"
+    }
+  },
+  {
+    "title": "Association of Household Food Insecurity with the Mental and Physical Health of Low-Income Urban Ecuadorian Women with Children",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/27752266",
+      "keywords": "Adult,Ecuador,Female,Food Supply,Humans,Maternal Health,Mental Health,Middle Aged,Mothers,Poverty,Young Adult,FSSM,NonE Tier 3",
+      "doi": "10.1155/2016/5256084",
+      "journal": "Journal of environmental and public health",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1155/2016/5256084",
+      "authors": [
+        {
+          "first_name": "M Margaret",
+          "last_name": "Weigel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411377.7",
+          "researcher_id": "ur.01242751213.58",
+          "affiliations": [
+            {
+              "name": "Department of Environmental Health, School of Public Health, Indiana University Bloomington, Bloomington, IN, USA; Global Environmental Health Research Laboratory, School of Public Health, Indiana University Bloomington, Bloomington, IN, USA; Programa Prometeo, Secretar\u00eda Nacional de Educaci\u00f3n Superior, Ciencia, Tecnolog\u00eda e Innovaci\u00f3n, Quito, Ecuador; Centro de Biomedicina, Facultad de Ciencias Medicas, Universidad Central del Ecuador, Quito, Ecuador."
+            }
+          ]
+        },
+        {
+          "first_name": "Rodrigo X",
+          "last_name": "Armijos",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411377.7",
+          "researcher_id": "ur.01070371041.48",
+          "affiliations": [
+            {
+              "name": "Department of Environmental Health, School of Public Health, Indiana University Bloomington, Bloomington, IN, USA; Global Environmental Health Research Laboratory, School of Public Health, Indiana University Bloomington, Bloomington, IN, USA; Programa Prometeo, Secretar\u00eda Nacional de Educaci\u00f3n Superior, Ciencia, Tecnolog\u00eda e Innovaci\u00f3n, Quito, Ecuador; Centro de Biomedicina, Facultad de Ciencias Medicas, Universidad Central del Ecuador, Quito, Ecuador."
+            }
+          ]
+        },
+        {
+          "first_name": "Marcia",
+          "last_name": "Racines",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.7898.e",
+          "researcher_id": "ur.0734302342.09",
+          "affiliations": [
+            {
+              "id": "grid.7898.e",
+              "name": "Central University of Ecuador",
+              "city": "Quito",
+              "city_id": 3652462,
+              "country": "Ecuador",
+              "country_code": "EC",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "William",
+          "last_name": "Cevallos",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.7898.e",
+          "researcher_id": "ur.01227365765.64",
+          "affiliations": [
+            {
+              "id": "grid.7898.e",
+              "name": "Central University of Ecuador",
+              "city": "Quito",
+              "city_id": 3652462,
+              "country": "Ecuador",
+              "country_code": "EC",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Nancy P",
+          "last_name": "Castro",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412251.1",
+          "researcher_id": "ur.0724412704.20",
+          "affiliations": [
+            {
+              "id": "grid.412251.1",
+              "name": "Universidad San Francisco de Quito",
+              "city": "Quito",
+              "city_id": 3652462,
+              "country": "Ecuador",
+              "country_code": "EC",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "linkout": "http://downloads.hindawi.com/journals/jeph/2016/5256084.pdf",
+      "keywords": [
+        "blood pressure",
+        "complaints",
+        "findings",
+        "distress",
+        "health",
+        "proportion",
+        "lipids",
+        "blood glucose",
+        "subsample",
+        "mental health",
+        "glucose",
+        "self",
+        "epidemiologic transition",
+        "indicators",
+        "health complaints",
+        "health indicators",
+        "disability",
+        "multivariate",
+        "middle-income Latin American country",
+        "burden",
+        "children",
+        "household food insecurity",
+        "illness",
+        "depression",
+        "survey",
+        "pressure",
+        "scores",
+        "gastrointestinal illness",
+        "chronic diseases",
+        "physical health complaints",
+        "diabetes",
+        "MHI-5 scores",
+        "proportion of morbidity",
+        "Canadian women",
+        "discomfort/pain",
+        "mental health complaints",
+        "mortality",
+        "low MHI-5 scores",
+        "hypertension",
+        "food insecurity",
+        "poorer self",
+        "dental disease",
+        "Ecuadorian women",
+        "data",
+        "countries",
+        "association of HFI",
+        "association",
+        "disease",
+        "stress",
+        "women",
+        "physical health",
+        "morbidity",
+        "mental distress",
+        "Mental",
+        "pain",
+        "mental health conditions",
+        "health conditions"
+      ],
+      "journal_title": "Journal of Environmental and Public Health",
+      "title": "Association of Household Food Insecurity with the Mental and Physical Health of Low-Income Urban Ecuadorian Women with Children"
+    },
+    "openaire": {
+      "journal": "Journal of Environmental and Public Health",
+      "title": "Association of Household Food Insecurity with the Mental and Physical Health of Low-Income Urban Ecuadorian Women with Children",
+      "doi": "10.1155/2016/5256084",
+      "url": "http://europepmc.org/articles/PMC5056290"
+    }
+  },
+  {
+    "title": "Understanding the Dynamics of $2-a-Day Poverty in the United States",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/DOI: https://doi.org/10.7758/RSF.2015.1.1.07",
+      "keywords": "Poverty,Welfare,Social Policy,Low-Wage Work,Material Hardship,Food Insecurity,CPS-FSS,Citation,SIPP-FS,Analyzed,JTier N/A",
+      "doi": "DOI: https://doi.org/10.7758/RSF.2015.1.1.07",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.7758/rsf.2015.1.1.07",
+      "authors": [
+        {
+          "first_name": "",
+          "last_name": "H. Luke Shaefer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.012052275400.23",
+          "affiliations": []
+        },
+        {
+          "first_name": "",
+          "last_name": "Kathryn Edin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.012647656000.16",
+          "affiliations": []
+        },
+        {
+          "first_name": "",
+          "last_name": "Elizabeth Talbert",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "linkout": "https://doi.org/10.7758/rsf.2015.1.1.07",
+      "keywords": [
+        "dynamics",
+        "poverty",
+        "United"
+      ],
+      "journal_title": "RSF The Russell Sage Foundation Journal of the Social Sciences",
+      "title": "Understanding the Dynamics of $2-a-Day Poverty in the United States"
+    }
+  },
+  {
+    "title": "Eating- and weight-related parenting of adolescents in the context of food insecurity",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25824114",
+      "keywords": "Adolescent,Adolescent Nutritional Physiological Phenomena,Body Mass Index,Cross-Sectional Studies,Diet,Diet, Reducing,Energy Intake,Family Health,Female,Food Supply,Health Knowledge, Attitudes, Practice,Humans,Male,Minnesota,Mother-Child Relations,Parenting,Pediatric Obesity,Self Report,Socioeconomic Factors,Urban Health,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.jand.2015.01.011",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jand.2015.01.011",
+      "authors": [
+        {
+          "first_name": "Katherine W.",
+          "last_name": "Bauer",
+          "corresponding": true,
+          "orcid": "['0000-0003-3512-3994']",
+          "current_organization_id": "grid.214458.e",
+          "researcher_id": "ur.013341303717.41",
+          "affiliations": []
+        },
+        {
+          "first_name": "Rich",
+          "last_name": "MacLehose",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.17635.36",
+          "researcher_id": "ur.015163702437.07",
+          "affiliations": []
+        },
+        {
+          "first_name": "Katie A.",
+          "last_name": "Loth",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.17635.36",
+          "researcher_id": "ur.01302450223.20",
+          "affiliations": []
+        },
+        {
+          "first_name": "Jennifer O.",
+          "last_name": "Fisher",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.264727.2",
+          "researcher_id": "ur.0707415327.95",
+          "affiliations": []
+        },
+        {
+          "first_name": "Nicole I.",
+          "last_name": "Larson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.17635.36",
+          "researcher_id": "ur.01115720155.96",
+          "affiliations": []
+        },
+        {
+          "first_name": "Dianne",
+          "last_name": "Neumark-Sztainer",
+          "corresponding": "",
+          "orcid": "['0000-0001-9435-1669']",
+          "current_organization_id": "grid.17635.36",
+          "researcher_id": "ur.01357250350.08",
+          "affiliations": []
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4554771?pdf=render",
+      "keywords": [
+        "diverse sample",
+        "Teens study",
+        "calorie foods",
+        "Minneapolis/St Paul",
+        "food-insecure households",
+        "study",
+        "weight",
+        "percent",
+        "dieting",
+        "logistic regression models",
+        "mother's BMI",
+        "index",
+        "diet",
+        "child's weight",
+        "use",
+        "status",
+        "age percentile",
+        "child BMI",
+        "feeding practices",
+        "health",
+        "outcome measures",
+        "high-calorie foods",
+        "differences",
+        "mothers",
+        "activity",
+        "mass index",
+        "adolescent BMI",
+        "percentile",
+        "secure mothers",
+        "Food-insecure adolescents",
+        "sociodemographic characteristics",
+        "daughters",
+        "regression models",
+        "food-insecure mothers",
+        "children",
+        "parenting practices",
+        "food-security status",
+        "parenting",
+        "secure households",
+        "insecure mothers",
+        "family",
+        "setting",
+        "unadjusted models",
+        "project family",
+        "eating",
+        "adjustment",
+        "samples",
+        "cross-sectional study",
+        "mothers' use",
+        "food",
+        "intervention",
+        "household food-security status",
+        "food-secure households",
+        "food insecurity",
+        "Performed",
+        "aim",
+        "security status",
+        "sons' weight",
+        "percent of mothers",
+        "Little",
+        "insecure households",
+        "Teens 2010",
+        "insecure adolescents",
+        "adolescents",
+        "strategies",
+        "mothers of adolescents",
+        "body mass index",
+        "confounders",
+        "restrictive feeding practices",
+        "food-secure",
+        "measures",
+        "sectional study",
+        "low food security",
+        "practice"
+      ],
+      "journal_title": "Journal of the Academy of Nutrition and Dietetics",
+      "title": "Eating- and weight-related parenting of adolescents in the context of food insecurity"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Eating- and weight-related parenting of adolescents in the context of food insecurity",
+      "doi": "10.1016/j.jand.2015.01.011",
+      "url": "https://europepmc.org/articles/PMC4554771/"
+    }
+  },
+  {
+    "title": "An Exploration of the Unprecedented Decline in the Prevalence of Household Food Insecurity in Newfoundland and Labrador, 2007-2012",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.3138/cpp.2014-080",
+      "keywords": "Food Insecurity,Poverty Reduction,Social Assistance,Social Policy,FSSM,Econ Tier 2",
+      "doi": "10.3138/cpp.2014-080",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  }
+]

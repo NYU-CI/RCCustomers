@@ -1,0 +1,2055 @@
+[
+  {
+    "title": "Food Insecurity Among Hispanic/Latino Youth: Who Is at Risk and What Are the Health Correlates?",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.jadohealth.2018.10.302",
+      "url": "www.doi.org/10.1016/j.jadohealth.2018.10.302",
+      "journal ": "Journal of Adolescent Health",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jadohealth.2018.10.302",
+      "authors": [
+        {
+          "first_name": "Stephanie",
+          "last_name": "Potochnick",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.134936.a",
+          "researcher_id": "ur.0645567763.23",
+          "affiliations": [
+            {
+              "name": "Truman School of Public Affairs, University of Missouri, Columbia, Missouri"
+            }
+          ]
+        },
+        {
+          "first_name": "Krista M.",
+          "last_name": "Perreira",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01164464574.18",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Julia I.",
+          "last_name": "Bravin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.263081.e",
+          "researcher_id": "ur.07426113611.90",
+          "affiliations": [
+            {
+              "id": "grid.263081.e",
+              "name": "San Diego State University",
+              "city": "San Diego",
+              "city_id": 5391811,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Sheila F.",
+          "last_name": "Casta\u00f1eda",
+          "corresponding": "",
+          "orcid": "['0000-0002-1975-0544']",
+          "current_organization_id": "grid.263081.e",
+          "researcher_id": "ur.01244411770.47",
+          "affiliations": [
+            {
+              "id": "grid.263081.e",
+              "name": "San Diego State University",
+              "city": "San Diego",
+              "city_id": 5391811,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Martha L.",
+          "last_name": "Daviglus",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.185648.6",
+          "researcher_id": "ur.01155161330.24",
+          "affiliations": [
+            {
+              "id": "grid.185648.6",
+              "name": "University of Illinois at Chicago",
+              "city": "Chicago",
+              "city_id": 4887398,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Linda C.",
+          "last_name": "Gallo",
+          "corresponding": "",
+          "orcid": "['0000-0002-3678-5888']",
+          "current_organization_id": "grid.263081.e",
+          "researcher_id": "ur.01121221013.99",
+          "affiliations": [
+            {
+              "id": "grid.263081.e",
+              "name": "San Diego State University",
+              "city": "San Diego",
+              "city_id": 5391811,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Carmen R.",
+          "last_name": "Isasi",
+          "corresponding": "",
+          "orcid": "['0000-0003-2700-9593']",
+          "current_organization_id": "grid.251993.5",
+          "researcher_id": "ur.0725654525.12",
+          "affiliations": [
+            {
+              "id": "grid.251993.5",
+              "name": "Albert Einstein College of Medicine",
+              "city": "The Bronx",
+              "city_id": 5110266,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "food secure households",
+        "implications",
+        "outcomes",
+        "study",
+        "index",
+        "child food insecurity",
+        "rate",
+        "households",
+        "effects",
+        "parents/children",
+        "health",
+        "quality",
+        "social support",
+        "peers",
+        "health implications",
+        "analysis",
+        "correlates",
+        "security",
+        "risk",
+        "health outcomes",
+        "policy",
+        "children",
+        "food secure peers",
+        "household food insecurity",
+        "secure households",
+        "comprehensive policy",
+        "household income",
+        "insecurity",
+        "support system",
+        "Hispanic/Latino youth",
+        "detrimental health implications",
+        "family support system",
+        "migration",
+        "levels",
+        "income",
+        "family/social support",
+        "high rate",
+        "food security",
+        "food insecurity",
+        "population",
+        "food insecure households",
+        "economic stressors",
+        "parent nativity",
+        "diet quality",
+        "low food secure households",
+        "association",
+        "insecure households",
+        "support",
+        "acculturative stress levels",
+        "bivariate",
+        "youth",
+        "health correlates",
+        "nativity",
+        "low food security",
+        "economic stress"
+      ],
+      "journal_title": "Journal of Adolescent Health",
+      "title": "Food Insecurity Among Hispanic/Latino Youth: Who Is at Risk and What Are the Health Correlates?"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jadohealth.2018.10.302",
+      "journal": "J Adolesc Health",
+      "url": "http://europepmc.org/abstract/MED/30711363",
+      "title": "food insecurity among hispanic/latino youth: who is at risk and what are the health correlates?"
+    }
+  },
+  {
+    "title": "The Policy and Politics of Food Stamps and SNAP",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1057/9781137520920",
+      "url": "www.doi.org/10.1057/9781137520920",
+      "journal ": NaN,
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1017/s0047279416000520",
+      "authors": [
+        {
+          "first_name": "RONALD F.",
+          "last_name": "KING",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.263081.e",
+          "researcher_id": "ur.07656653742.38",
+          "affiliations": [
+            {
+              "id": "grid.263081.e",
+              "name": "San Diego State University",
+              "city": "San Diego",
+              "city_id": 5391811,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E0D8BA2DD3C1C69FC8399DCE21B23C8F/S0047279416000520a.pdf/div-class-title-matthew-gritter-2015-span-class-italic-the-policy-and-politics-of-food-stamps-and-snap-span-basingstoke-palgrave-pivot-45-00-pp-126-hbk-div.pdf",
+      "keywords": [
+        "food stamps",
+        "PP",
+        "politics",
+        "policy",
+        "stamp",
+        "HBK",
+        "pivot"
+      ],
+      "journal_title": "Journal of Social Policy",
+      "title": "The Policy and Politics of Food Stamps and SNAP"
+    }
+  },
+  {
+    "title": "The Great Recession and America's geography of unemployment",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.4054/demres.2016.35.30",
+      "url": "www.doi.org/10.4054/demres.2016.35.30",
+      "journal ": "Demographic Research",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.4054/demres.2016.35.30",
+      "authors": [
+        {
+          "first_name": "Brian C",
+          "last_name": "Thiede",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.016340702015.46",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Shannon M",
+          "last_name": "Monnat",
+          "corresponding": "",
+          "orcid": "['0000-0003-0920-8230']",
+          "current_organization_id": "grid.264484.8",
+          "researcher_id": "ur.0657013754.10",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.demographic-research.org/volumes/vol35/30/35-30.pdf",
+      "keywords": [
+        "vulnerability",
+        "crisis",
+        "unemployment",
+        "environment",
+        "market",
+        "factors",
+        "index",
+        "upward pressure",
+        "rate",
+        "distribution",
+        "population characteristics",
+        "local labor market conditions",
+        "recession's impact",
+        "industry",
+        "share",
+        "level factors",
+        "consequences",
+        "demographic composition",
+        "heavy reliance",
+        "labor market conditions",
+        "heterogeneous impacts",
+        "Great Depression",
+        "state-level factors",
+        "county population characteristics",
+        "reliance",
+        "trends",
+        "America",
+        "cyclical industries",
+        "state",
+        "spatial regression",
+        "labour market",
+        "spatial statistics",
+        "local consequences",
+        "policy environment",
+        "lower educational attainment",
+        "geographic clusters",
+        "impact",
+        "statistics",
+        "structural context",
+        "county labor markets",
+        "regression",
+        "U.S.",
+        "economic crisis",
+        "state differences",
+        "recession",
+        "geography",
+        "county characteristics",
+        "place characteristics",
+        "County",
+        "inequality",
+        "macroeconomic trends",
+        "large recessions",
+        "source",
+        "Great Recession",
+        "market conditions",
+        "large share",
+        "sources of vulnerability",
+        "new estimates",
+        "county unemployment rates",
+        "characteristics",
+        "Theil index",
+        "state inequality",
+        "estimates",
+        "patterns",
+        "minority populations",
+        "local labor markets",
+        "unemployment rate",
+        "state context",
+        "educational attainment",
+        "attainment",
+        "industrial structure",
+        "changes",
+        "context"
+      ],
+      "journal_title": "Demographic Research",
+      "title": "The Great Recession and America's geography of unemployment"
+    },
+    "openaire": {
+      "journal": "Demographic Research",
+      "title": "The Great Recession and America's geography of unemployment",
+      "doi": "10.4054/DemRes.2016.35.30",
+      "url": "https://europepmc.org/articles/PMC5486972/"
+    }
+  },
+  {
+    "title": "Diversity",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1007/978-3-319-32001-4_75-1",
+      "url": "www.doi.org/10.1007/978-3-319-32001-4_75-1",
+      "journal ": "Encyclopedia of Big Data",
+      "date_added": "2019-10-11 10:50:15"
+    }
+  },
+  {
+    "title": "Unforeseen Consequences: Medicaid and the Funding of Nonprofit Service Organizations",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1215/03616878-2822610",
+      "url": "www.doi.org/10.1215/03616878-2822610",
+      "journal ": "Journal of Health Politics Policy and Law",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1215/03616878-2822610",
+      "authors": [
+        {
+          "first_name": "Scott W",
+          "last_name": "Allard",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.014174556571.14",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Steven Rathgeb",
+          "last_name": "Smith",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.422496.f",
+          "researcher_id": "ur.016035600676.63",
+          "affiliations": [
+            {
+              "id": "grid.422496.f",
+              "name": "American Political Science Association",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "service agencies",
+        "organization",
+        "white community",
+        "mental health treatment",
+        "one-quarter",
+        "service sector",
+        "agencies",
+        "community",
+        "Medicaid costs",
+        "resources",
+        "Medicaid reimbursement",
+        "provision",
+        "consequences",
+        "social service agencies",
+        "rural communities",
+        "funding",
+        "article",
+        "Medicaid",
+        "social service programs",
+        "medical care sector",
+        "survey data",
+        "budgetary pressures",
+        "area",
+        "role",
+        "substance abuse",
+        "state",
+        "high-poverty neighborhoods",
+        "service programs",
+        "quarter",
+        "key source",
+        "Care Act",
+        "neighborhood",
+        "nonprofit service organizations",
+        "health treatment",
+        "Affordable Care Act",
+        "sector",
+        "decision",
+        "reimbursement",
+        "Medicaid funding",
+        "nonprofit social service organizations",
+        "residents",
+        "Patient Protection",
+        "protection",
+        "providers",
+        "program",
+        "social service organizations",
+        "care sector",
+        "service organizations",
+        "safety net",
+        "abuse",
+        "social service nonprofits",
+        "poverty neighborhoods",
+        "role of Medicaid",
+        "Hispanic residents",
+        "years",
+        "source",
+        "unique survey data",
+        "social services sector",
+        "Medicaid expansion provisions",
+        "nonprofits",
+        "act",
+        "adults",
+        "nets",
+        "tool",
+        "nonprofit social service agencies",
+        "services",
+        "funds"
+      ],
+      "journal_title": "Journal of Health Politics Policy and Law",
+      "title": "Unforeseen Consequences: Medicaid and the Funding of Nonprofit Service Organizations"
+    },
+    "europepmc": {
+      "doi": "10.1215/03616878-2822610",
+      "journal": "J Health Polit Policy Law",
+      "url": "http://europepmc.org/abstract/MED/25248960",
+      "title": "unforeseen consequences: medicaid and the funding of nonprofit service organizations"
+    }
+  },
+  {
+    "title": "Supplemental Nutrition Assistance Program Participation Among Child Welfare-iInvolved Families",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1080/19320248.2014.898172",
+      "url": "www.doi.org/10.1080/19320248.2014.898172",
+      "journal ": "Journal of Hunger & Environmental Nutrition",
+      "date_added": "2019-10-11 10:50:15"
+    }
+  },
+  {
+    "title": "Household chaos and children's cognitive and socio-emotional development in early childhood: Does childcare play a buffering role?",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.ecresq.2015.09.003",
+      "url": "www.doi.org/10.1016/j.ecresq.2015.09.003",
+      "journal ": "Early Childhood Research Quarterly",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.ecresq.2015.09.003",
+      "authors": [
+        {
+          "first_name": "Daniel",
+          "last_name": "Berry",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.17635.36",
+          "researcher_id": "ur.01112634707.10",
+          "affiliations": [
+            {
+              "name": "Department of Educational Psychology, College of Education Beckman Institute for Advanced Science and Technology, University of Illinois, Urbana-Champaign, 1310S. Sixth St. Champaign, IL 61820, United States"
+            }
+          ]
+        },
+        {
+          "first_name": "Clancy",
+          "last_name": "Blair",
+          "corresponding": "",
+          "orcid": "['0000-0003-2738-238X']",
+          "current_organization_id": "grid.137628.9",
+          "researcher_id": "ur.01257176445.28",
+          "affiliations": [
+            {
+              "id": "grid.137628.9",
+              "name": "New York University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Michael",
+          "last_name": "Willoughby",
+          "corresponding": "",
+          "orcid": "['0000-0002-8470-3533']",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.0716134145.72",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Patricia",
+          "last_name": "Garrett-Peters",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01353261003.66",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Lynne",
+          "last_name": "Vernon-Feagans",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01134305472.68",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "W. Roger",
+          "last_name": "Mills-Koonce",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266860.c",
+          "researcher_id": "ur.0715346251.96",
+          "affiliations": [
+            {
+              "id": "grid.266860.c",
+              "name": "University of North Carolina at Greensboro",
+              "city": "Greensboro",
+              "city_id": 4469146,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Life Project Key",
+          "last_name": "Investigators",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.011233750065.97",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            },
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc5926246?pdf=render",
+      "keywords": [
+        "outcomes",
+        "experience",
+        "environment",
+        "optimal child outcomes",
+        "study",
+        "link",
+        "evidence",
+        "social development",
+        "findings",
+        "effects",
+        "age five",
+        "family life",
+        "functioning",
+        "emotional development",
+        "children's experiences",
+        "optimal outcomes",
+        "childcare hours",
+        "sample of families",
+        "role",
+        "rural context",
+        "children",
+        "conditional link",
+        "family",
+        "social outcomes",
+        "childhood",
+        "child outcomes",
+        "subsequent models",
+        "samples",
+        "such environments",
+        "household disorganization",
+        "buffering role",
+        "socio-emotional development",
+        "five",
+        "life",
+        "development",
+        "population",
+        "childcare",
+        "relation",
+        "disorganization",
+        "early childhood",
+        "association",
+        "executive functioning",
+        "model",
+        "conditional association",
+        "household chaos",
+        "detrimental effects",
+        "context"
+      ],
+      "journal_title": "Early Childhood Research Quarterly",
+      "title": "Household chaos and children's cognitive and socio-emotional development in early childhood: Does childcare play a buffering role?"
+    }
+  },
+  {
+    "title": "Nonmarital First Births, Marriage, and Income Inequality",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1177/0003122416653112",
+      "url": "www.doi.org/10.1177/0003122416653112",
+      "journal ": "American Sociological Review",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1177/0003122416653112",
+      "authors": [
+        {
+          "first_name": "Andrew J.",
+          "last_name": "Cherlin",
+          "corresponding": "",
+          "orcid": "['0000-0002-2100-1964']",
+          "current_organization_id": "grid.21107.35",
+          "researcher_id": "ur.016621426131.13",
+          "affiliations": [
+            {
+              "id": "grid.21107.35",
+              "name": "Johns Hopkins University",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "David C.",
+          "last_name": "Ribar",
+          "corresponding": "",
+          "orcid": "['0000-0002-0465-4875']",
+          "current_organization_id": "grid.1008.9",
+          "researcher_id": "ur.0676776307.71",
+          "affiliations": [
+            {
+              "id": "grid.1008.9",
+              "name": "University of Melbourne",
+              "city": "Melbourne",
+              "city_id": 2158177,
+              "country": "Australia",
+              "country_code": "AU",
+              "state": "Victoria",
+              "state_code": "AU-VIC"
+            }
+          ]
+        },
+        {
+          "first_name": "Suzumi",
+          "last_name": "Yasutake",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21107.35",
+          "researcher_id": "ur.01347170400.67",
+          "affiliations": [
+            {
+              "id": "grid.21107.35",
+              "name": "Johns Hopkins University",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc5699507?pdf=render",
+      "keywords": [
+        "outcomes",
+        "study",
+        "level evidence",
+        "evidence",
+        "effects",
+        "health",
+        "economic inequality",
+        "jobs",
+        "level of inequality",
+        "availability",
+        "marriage",
+        "first birth",
+        "high-school graduates",
+        "aggregate-level studies",
+        "level studies",
+        "likelihood",
+        "determinants",
+        "single parents",
+        "household income inequality",
+        "nonmarital first birth",
+        "family formation",
+        "survey",
+        "school graduates",
+        "socio-demographic outcomes",
+        "greater income inequality",
+        "reduced likelihood",
+        "childless young adults",
+        "levels",
+        "poverty wages",
+        "demographic outcomes",
+        "National Longitudinal Survey",
+        "relationship",
+        "income inequality",
+        "inequality",
+        "graduates",
+        "parents",
+        "men",
+        "wages",
+        "model",
+        "availability of jobs",
+        "individual-level evidence",
+        "Longitudinal Survey",
+        "women",
+        "measures",
+        "satisfactory evidence",
+        "determinants of transitions"
+      ],
+      "journal_title": "American Sociological Review",
+      "title": "Nonmarital First Births, Marriage, and Income Inequality"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Nonmarital First Births, Marriage, and Income Inequality",
+      "doi": "10.1177/0003122416653112",
+      "url": "https://europepmc.org/articles/PMC5699507/"
+    }
+  },
+  {
+    "title": "Providing Care for Children and Adolescents Facing Homelessness and Housing Insecurity",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1542/peds.2013-0645",
+      "url": "www.doi.org/10.1542/peds.2013-0645",
+      "journal ": "Pediatrics",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1542/peds.2013-0645",
+      "authors": [
+        {
+          "first_name": "COUNCIL ON COMMUNITY",
+          "last_name": "PEDIATRICS",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.015434326325.91",
+          "affiliations": []
+        }
+      ],
+      "linkout": "http://pediatrics.aappublications.org/content/131/6/1206.full.pdf",
+      "keywords": [
+        "outcomes",
+        "community resources",
+        "factors",
+        "care",
+        "health",
+        "housing security",
+        "overall effect",
+        "resources",
+        "education",
+        "advocacy",
+        "practice change",
+        "health outcomes",
+        "children",
+        "housing insecurity",
+        "home",
+        "family",
+        "chronic diseases",
+        "insecurity",
+        "pediatricians",
+        "child health",
+        "homeless children",
+        "effects of homelessness",
+        "way",
+        "partnership",
+        "awareness",
+        "development issues",
+        "hunger",
+        "malnutrition",
+        "homelessness",
+        "poor health outcomes",
+        "cause",
+        "youth",
+        "issues",
+        "changes"
+      ],
+      "journal_title": "Pediatrics",
+      "title": "Providing Care for Children and Adolescents Facing Homelessness and Housing Insecurity"
+    },
+    "europepmc": {
+      "doi": "10.1542/peds.2013-0645",
+      "journal": "Pediatrics",
+      "url": "http://europepmc.org/abstract/MED/23713108",
+      "title": "providing care for children and adolescents facing homelessness and housing insecurity"
+    }
+  },
+  {
+    "title": "Ohio EFNEP Breaking Ground with A New Curriculum",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.jneb.2009.03.133",
+      "url": "www.doi.org/10.1016/j.jneb.2009.03.133",
+      "journal ": "Journal of Nutrition Education and Behavior",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jneb.2009.03.133",
+      "authors": [
+        {
+          "first_name": "Maria C.",
+          "last_name": "Lambea",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.261331.4",
+          "researcher_id": "ur.0652346112.52",
+          "affiliations": [
+            {
+              "id": "grid.261331.4",
+              "name": "The Ohio State University",
+              "city": "Columbus",
+              "city_id": 4509177,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        },
+        {
+          "first_name": "Erica",
+          "last_name": "Daher-Twersky",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.261331.4",
+              "name": "The Ohio State University",
+              "city": "Columbus",
+              "city_id": 4509177,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        },
+        {
+          "first_name": "Pat",
+          "last_name": "Riederer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.261331.4",
+              "name": "The Ohio State University",
+              "city": "Columbus",
+              "city_id": 4509177,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        },
+        {
+          "first_name": "Andrea",
+          "last_name": "Tessier",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.261331.4",
+              "name": "The Ohio State University",
+              "city": "Columbus",
+              "city_id": 4509177,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        },
+        {
+          "first_name": "Joyce R.",
+          "last_name": "McDowell",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.01001331654.71",
+          "affiliations": [
+            {
+              "id": "grid.261331.4",
+              "name": "The Ohio State University",
+              "city": "Columbus",
+              "city_id": 4509177,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "curriculum",
+        "ground",
+        "new curriculum"
+      ],
+      "journal_title": "Journal of Nutrition Education and Behavior",
+      "title": "Ohio EFNEP Breaking Ground with A New Curriculum"
+    }
+  },
+  {
+    "title": "Exhaustion Of Food Budgets At Month's End And Hospital Admissions For Hypoglycemia",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1377/hlthaff.2013.0096",
+      "url": "www.doi.org/10.1377/hlthaff.2013.0096",
+      "journal ": "Health Affairs",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1377/hlthaff.2013.0096",
+      "authors": [
+        {
+          "first_name": "Hilary K.",
+          "last_name": "Seligman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.0625043223.30",
+          "affiliations": [
+            {
+              "name": "Hilary K. Seligman ( hseligman@medsfgh.ucsf.edu ) is an assistant professor in the Department of Medicine, University of California, San Francisco (UCSF)."
+            }
+          ]
+        },
+        {
+          "first_name": "Ann F.",
+          "last_name": "Bolger",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.0577442552.09",
+          "affiliations": [
+            {
+              "name": "Ann F. Bolger is a professor in the Department of Medicine, UCSF."
+            }
+          ]
+        },
+        {
+          "first_name": "David",
+          "last_name": "Guzman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01126326126.44",
+          "affiliations": [
+            {
+              "name": "David Guzman is a senior statistician in the Department of Medicine, UCSF."
+            }
+          ]
+        },
+        {
+          "first_name": "Andrea",
+          "last_name": "L\u00f3pez",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01152512457.15",
+          "affiliations": [
+            {
+              "name": "Andrea L\u00f3pez is a research analyst in the Department of Medicine, UCSF."
+            }
+          ]
+        },
+        {
+          "first_name": "Kirsten",
+          "last_name": "Bibbins-Domingo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.010620043557.11",
+          "affiliations": [
+            {
+              "name": "Kirsten Bibbins-Domingo is a professor in the Department of Medicine, UCSF."
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4215698?pdf=render",
+      "keywords": [
+        "stable access",
+        "outcomes",
+        "percent",
+        "food budget",
+        "inpatient admissions",
+        "low-income populations",
+        "hypoglycemia",
+        "exhaustion",
+        "findings",
+        "hospital admission",
+        "first week",
+        "inequities",
+        "health risks",
+        "health outcomes",
+        "high-income populations",
+        "month end",
+        "people",
+        "admission",
+        "health inequities",
+        "administrative data",
+        "months",
+        "income populations",
+        "diabetes",
+        "last week",
+        "nutrition",
+        "food",
+        "food insecurity",
+        "population",
+        "weeks",
+        "access",
+        "awareness",
+        "data",
+        "end",
+        "patterns",
+        "US households",
+        "risk"
+      ],
+      "journal_title": "Health Affairs",
+      "title": "Exhaustion Of Food Budgets At Month's End And Hospital Admissions For Hypoglycemia"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Exhaustion Of Food Budgets At Month's End And Hospital Admissions For Hypoglycemia",
+      "doi": "10.1377/hlthaff.2013.0096",
+      "url": "https://europepmc.org/articles/PMC4215698/"
+    }
+  },
+  {
+    "title": "Electronic Access to Food and Cash Benefits",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1080/19371910903182849",
+      "url": "www.doi.org/10.1080/19371910903182849",
+      "journal ": "Social Work in Public Health",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1080/19371910903182849",
+      "authors": [
+        {
+          "first_name": "Eileen E",
+          "last_name": "MaloneBeach",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.253856.f",
+          "researcher_id": "ur.0611704543.42",
+          "affiliations": [
+            {
+              "id": "grid.253856.f",
+              "name": "Central Michigan University",
+              "city": "Mount Pleasant",
+              "city_id": 5002714,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "Cindy S",
+          "last_name": "Frank",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Roschelle A",
+          "last_name": "Heuberger",
+          "corresponding": "",
+          "orcid": "['0000-0001-9216-5627']",
+          "current_organization_id": "grid.253856.f",
+          "researcher_id": "ur.01154125015.19",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "service providers",
+        "electronic access",
+        "assistance",
+        "customers",
+        "benefits",
+        "impediments",
+        "phones",
+        "purpose",
+        "local offices",
+        "office",
+        "limitations",
+        "system",
+        "electronic benefit transfer system",
+        "greater autonomy",
+        "results",
+        "program",
+        "providers",
+        "office staff",
+        "staff",
+        "access",
+        "difficulties",
+        "cards",
+        "services",
+        "customer service",
+        "autonomy"
+      ],
+      "journal_title": "Social Work in Public Health",
+      "title": "Electronic Access to Food and Cash Benefits"
+    },
+    "europepmc": {
+      "doi": "10.1080/19371910903182849",
+      "journal": "Soc Work Public Health",
+      "url": "http://europepmc.org/abstract/MED/22873934",
+      "title": "electronic access to food and cash benefits"
+    }
+  },
+  {
+    "title": "Book Review: Taking the Heat: Women Chefs and Gender Inequality in the Professional Kitchen",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1177/0160597617733630",
+      "url": "www.doi.org/10.1177/0160597617733630",
+      "journal ": "Humanity & Society",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1177/0160597617733630",
+      "authors": [
+        {
+          "first_name": "Rebekah",
+          "last_name": "Torcasso",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.30064.31",
+          "researcher_id": "ur.012361631345.94",
+          "affiliations": [
+            {
+              "id": "grid.30064.31",
+              "name": "Washington State University",
+              "city": "Pullman",
+              "city_id": 5807540,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "kitchen",
+        "women chefs",
+        "professional kitchens",
+        "gender inequality",
+        "inequality",
+        "chefs"
+      ],
+      "journal_title": "Humanity & Society",
+      "title": "Book Review: Taking the Heat: Women Chefs and Gender Inequality in the Professional Kitchen"
+    }
+  },
+  {
+    "title": "Participant and Household Characteristics Associated With Graduation From the Expanded Food and Nutrition Education Program",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.jneb.2016.04.004",
+      "url": "www.doi.org/10.1016/j.jneb.2016.04.004",
+      "journal ": "Journal of Nutrition Education and Behavior",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jneb.2016.04.004",
+      "authors": [
+        {
+          "first_name": "Brittany Rhoades",
+          "last_name": "Cooper",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.30064.31",
+          "researcher_id": "ur.0611142664.32",
+          "affiliations": [
+            {
+              "id": "grid.30064.31",
+              "name": "Washington State University",
+              "city": "Pullman",
+              "city_id": 5807540,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Karen",
+          "last_name": "Barale",
+          "corresponding": "",
+          "orcid": "['0000-0003-3329-3113']",
+          "current_organization_id": "grid.30064.31",
+          "researcher_id": "ur.013537533304.10",
+          "affiliations": [
+            {
+              "id": "grid.30064.31",
+              "name": "Washington State University",
+              "city": "Pullman",
+              "city_id": 5807540,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Angie",
+          "last_name": "Funaiole",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.30064.31",
+          "researcher_id": "ur.012764030661.72",
+          "affiliations": [
+            {
+              "id": "grid.30064.31",
+              "name": "Washington State University",
+              "city": "Pullman",
+              "city_id": 5807540,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Thomas G.",
+          "last_name": "Power",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.30064.31",
+          "researcher_id": "ur.0632213225.23",
+          "affiliations": [
+            {
+              "id": "grid.30064.31",
+              "name": "Washington State University",
+              "city": "Pullman",
+              "city_id": 5807540,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Angela",
+          "last_name": "Combe",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.255407.1",
+              "name": "Eastern Oregon University",
+              "city": "La Grande",
+              "city_id": 5735537,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oregon",
+              "state_code": "US-OR"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "logistic regression",
+        "study",
+        "rate",
+        "graduation",
+        "program graduation",
+        "participants",
+        "program participants",
+        "Nutrition Education Program participants",
+        "outcome measures",
+        "suburban county",
+        "food safety practices",
+        "education programs",
+        "sites",
+        "multivariate logistic regression",
+        "Household Characteristics Associated",
+        "people",
+        "EFNEP participants",
+        "survey",
+        "family",
+        "more people",
+        "total adults",
+        "education program participants",
+        "Characteristics Associated",
+        "regression",
+        "good food safety practices",
+        "food",
+        "program",
+        "rural counties",
+        "conclusion",
+        "County",
+        "Associated",
+        "program sites",
+        "nutrition education program",
+        "association",
+        "adults",
+        "safety practices",
+        "strategies",
+        "Washington State",
+        "baseline",
+        "measures",
+        "practice",
+        "EFNEP"
+      ],
+      "journal_title": "Journal of Nutrition Education and Behavior",
+      "title": "Participant and Household Characteristics Associated With Graduation From the Expanded Food and Nutrition Education Program"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jneb.2016.04.004",
+      "journal": "J Nutr Educ Behav",
+      "url": "http://europepmc.org/abstract/MED/27373859",
+      "title": "participant and household characteristics associated with graduation from the expanded food and nutrition education program"
+    }
+  },
+  {
+    "title": "The economic status of parents with serious mental illness in the United States.",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1037/prj0000087",
+      "url": "www.doi.org/10.1037/prj0000087",
+      "journal ": "Psychiatric Rehabilitation Journal",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1037/prj0000087",
+      "authors": [
+        {
+          "first_name": "Alison",
+          "last_name": "Luciano",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.26009.3d",
+          "researcher_id": "ur.01074362304.47",
+          "affiliations": [
+            {
+              "name": "Dartmouth Psychiatric Research Center, Geisel School of Medicine at Dartmouth"
+            }
+          ]
+        },
+        {
+          "first_name": "Joanne",
+          "last_name": "Nicholson",
+          "corresponding": "",
+          "orcid": "['0000-0003-4470-378X']",
+          "current_organization_id": "grid.253264.4",
+          "researcher_id": "ur.01247456104.21",
+          "affiliations": [
+            {
+              "name": "Dartmouth Psychiatric Research Center, Geisel School of Medicine at Dartmouth"
+            }
+          ]
+        },
+        {
+          "first_name": "Ellen",
+          "last_name": "Meara",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.254880.3",
+          "researcher_id": "ur.01014632742.25",
+          "affiliations": [
+            {
+              "id": "grid.250279.b",
+              "name": "National Bureau of Economic Research",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4152556?pdf=render",
+      "keywords": [
+        "implications",
+        "outcomes",
+        "rate",
+        "threshold",
+        "working-age participants",
+        "representative sample",
+        "economic status",
+        "status",
+        "use",
+        "participants",
+        "drug use",
+        "health",
+        "mental illness severity",
+        "jobs",
+        "parenthood status",
+        "mothers",
+        "national survey",
+        "education",
+        "better outcomes",
+        "age participants",
+        "mental health",
+        "financial insecurity",
+        "good job",
+        "illness severity",
+        "illness",
+        "mental illness",
+        "survey",
+        "insecurity",
+        "relationship",
+        "rate of employment",
+        "conclusion",
+        "employment",
+        "successful parenting",
+        "family stability",
+        "serious mental illness",
+        "parents",
+        "fathers",
+        "poverty",
+        "poverty threshold",
+        "severity",
+        "practice",
+        "United States"
+      ],
+      "journal_title": "Psychiatric Rehabilitation Journal",
+      "title": "The economic status of parents with serious mental illness in the United States."
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The economic status of parents with serious mental illness in the United States.",
+      "doi": "10.1037/prj0000087",
+      "url": "https://europepmc.org/articles/PMC4152556/"
+    }
+  },
+  {
+    "title": "Challenges for immigrant health in the USA: the road to crisis",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/s0140-6736(19)30035-2",
+      "url": "www.doi.org/10.1016/s0140-6736(19)30035-2",
+      "journal ": "The Lancet",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/s0140-6736(19)30035-2",
+      "authors": [
+        {
+          "first_name": "Dhruv",
+          "last_name": "Khullar",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.5386.8",
+          "researcher_id": "ur.0735373256.43",
+          "affiliations": [
+            {
+              "id": "grid.5386.8",
+              "name": "Cornell University",
+              "city": "Ithaca",
+              "city_id": 5122432,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Dave A",
+          "last_name": "Chokshi",
+          "corresponding": "",
+          "orcid": "['0000-0001-7467-4591']",
+          "current_organization_id": "grid.137628.9",
+          "researcher_id": "ur.01146460535.34",
+          "affiliations": [
+            {
+              "id": "grid.422616.5",
+              "name": "New York City Health and Hospitals Corporation",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            },
+            {
+              "name": "Departments of Population Health and Medicine, New York University Langone Health, New York, NY, USA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "crisis",
+        "public health insurance programs",
+        "health care",
+        "care",
+        "rhetoric",
+        "care quality",
+        "enforcement activities",
+        "citizenship",
+        "rescission",
+        "status",
+        "separation of children",
+        "health",
+        "health crisis",
+        "road",
+        "quality",
+        "immigration enforcement activities",
+        "border",
+        "Health Insurance Program",
+        "national level",
+        "more immigrants",
+        "norms",
+        "decades",
+        "policy",
+        "USA",
+        "children",
+        "state",
+        "recent decades",
+        "insurance program",
+        "care settings",
+        "refugees",
+        "social services",
+        "intimidation",
+        "restriction",
+        "setting",
+        "immigrant population",
+        "deportation",
+        "US border",
+        "protection",
+        "levels",
+        "fifth",
+        "ethnicity",
+        "ethical norms",
+        "program",
+        "favourable",
+        "individual states",
+        "access",
+        "population",
+        "environment favourable",
+        "immigrants",
+        "countries",
+        "parents",
+        "receding",
+        "challenges",
+        "health-care settings",
+        "public health crisis",
+        "health-care quality",
+        "legal status",
+        "services",
+        "immigrant health",
+        "barriers",
+        "changes",
+        "regulatory changes"
+      ],
+      "journal_title": "The Lancet",
+      "title": "Challenges for immigrant health in the USA: the road to crisis"
+    }
+  },
+  {
+    "title": "What's Happening During Home Visits? Exploring the Relationship of Home Visiting Content and Dosage to Parenting Outcomes",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1007/s10995-018-2547-5",
+      "url": "www.doi.org/10.1007/s10995-018-2547-5",
+      "journal ": "Maternal and Child Health Journal",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1007/s10995-018-2627-6",
+      "authors": [
+        {
+          "first_name": "Peggy",
+          "last_name": "Nygren",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.262075.4",
+          "researcher_id": "ur.010467322421.92",
+          "affiliations": [
+            {
+              "id": "grid.262075.4",
+              "name": "Portland State University",
+              "city": "Portland",
+              "city_id": 5746545,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oregon",
+              "state_code": "US-OR"
+            }
+          ]
+        },
+        {
+          "first_name": "Beth",
+          "last_name": "Green",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.262075.4",
+          "researcher_id": "ur.01220074001.12",
+          "affiliations": [
+            {
+              "id": "grid.262075.4",
+              "name": "Portland State University",
+              "city": "Portland",
+              "city_id": 5746545,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oregon",
+              "state_code": "US-OR"
+            }
+          ]
+        },
+        {
+          "first_name": "Katie",
+          "last_name": "Winters",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.262075.4",
+          "researcher_id": "ur.013064440360.74",
+          "affiliations": [
+            {
+              "id": "grid.262075.4",
+              "name": "Portland State University",
+              "city": "Portland",
+              "city_id": 5746545,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oregon",
+              "state_code": "US-OR"
+            }
+          ]
+        },
+        {
+          "first_name": "Anna",
+          "last_name": "Rockhill",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.262075.4",
+          "researcher_id": "ur.01114101257.41",
+          "affiliations": [
+            {
+              "id": "grid.262075.4",
+              "name": "Portland State University",
+              "city": "Portland",
+              "city_id": 5746545,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oregon",
+              "state_code": "US-OR"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://link.springer.com/content/pdf/10.1007%2Fs10995-018-2627-6.pdf",
+      "keywords": [
+        "article",
+        "Green",
+        "Rockhill",
+        "portal",
+        "open access",
+        "Internet portals",
+        "parenting outcomes",
+        "relationship",
+        "access"
+      ],
+      "journal_title": "Maternal and Child Health Journal",
+      "title": "What's Happening During Home Visits? Exploring the Relationship of Home Visiting Content and Dosage to Parenting Outcomes"
+    }
+  },
+  {
+    "title": "SNAP Out of It: A Study of Low-Income Families' Underutilization of Food Stamps",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1080/10875549.2015.1094765",
+      "url": "www.doi.org/10.1080/10875549.2015.1094765",
+      "journal ": "Journal of Poverty",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1080/10875549.2015.1094765",
+      "authors": [
+        {
+          "first_name": "Tyrone C.",
+          "last_name": "Cheng",
+          "corresponding": "",
+          "orcid": "['0000-0002-2335-1677']",
+          "current_organization_id": "grid.260201.7",
+          "researcher_id": "ur.01173723132.22",
+          "affiliations": []
+        },
+        {
+          "first_name": "Ning",
+          "last_name": "Tang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "implications",
+        "help",
+        "study",
+        "dependent children",
+        "income families",
+        "representative sample",
+        "skills",
+        "use",
+        "low-income families",
+        "findings",
+        "assistance",
+        "TANF receipt",
+        "education",
+        "Needy Families (TANF) benefits",
+        "family earnings",
+        "financial support",
+        "benefits",
+        "secondary data analysis",
+        "analysis",
+        "area",
+        "support receipt",
+        "Temporary Assistance",
+        "children",
+        "policy",
+        "longitudinal data set",
+        "family",
+        "receipt",
+        "occupational skills",
+        "underutilization",
+        "friends",
+        "food stamps",
+        "metropolitan area",
+        "data analysis",
+        "relatives/friends",
+        "financial help",
+        "age",
+        "adults",
+        "support",
+        "kind assistance",
+        "practice"
+      ],
+      "journal_title": "Journal of Poverty",
+      "title": "SNAP Out of It: A Study of Low-Income Families' Underutilization of Food Stamps"
+    }
+  },
+  {
+    "title": "The Poor and Social Policy",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1007/978-3-319-31816-5_2669-1",
+      "url": "www.doi.org/10.1007/978-3-319-31816-5_2669-1",
+      "journal ": "Global Encyclopedia of Public Administration, Public Policy, and Governance",
+      "date_added": "2019-10-11 10:50:15"
+    }
+  },
+  {
+    "title": "Nutrition and cognitive achievement: An evaluation of the School Breakfast Program",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.jpubeco.2014.12.003",
+      "url": "www.doi.org/10.1016/j.jpubeco.2014.12.003",
+      "journal ": "Journal of Public Economics",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jpubeco.2014.12.003",
+      "authors": [
+        {
+          "first_name": "David E.",
+          "last_name": "Frisvold",
+          "corresponding": true,
+          "orcid": "['0000-0001-8720-8995']",
+          "current_organization_id": "grid.214572.7",
+          "researcher_id": "ur.0616544550.24",
+          "affiliations": [
+            {
+              "id": "grid.214572.7",
+              "name": "University of Iowa",
+              "city": "Iowa City",
+              "city_id": 4862034,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Iowa",
+              "state_code": "US-IA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4408552?pdf=render",
+      "keywords": [
+        "achievement",
+        "percent",
+        "eligible students",
+        "evaluation",
+        "federal entitlement programs",
+        "low-income students",
+        "free breakfast",
+        "entitlement programs",
+        "cognitive achievement",
+        "income students",
+        "schools",
+        "breakfast",
+        "students",
+        "nutrition",
+        "impact",
+        "Breakfast Program",
+        "School Breakfast Program",
+        "paper",
+        "program",
+        "mandate",
+        "student achievement"
+      ],
+      "journal_title": "Journal of Public Economics",
+      "title": "Nutrition and cognitive achievement: An evaluation of the School Breakfast Program"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Nutrition and cognitive achievement: An evaluation of the School Breakfast Program",
+      "doi": "10.1016/j.jpubeco.2014.12.003",
+      "url": "https://europepmc.org/articles/PMC4408552/",
+      "pdf": "http://economics.emory.edu/home/assets/workingpapers/frisvold_13_01_paper.pdf"
+    }
+  }
+]

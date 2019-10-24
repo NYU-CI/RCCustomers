@@ -1,0 +1,285 @@
+[
+  {
+    "title": "The Food Assistance Landscape: FY 2013 Annual Report",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/eib-economic-information-bulletin/eib120.aspx",
+      "sheet_name": "FNS",
+      "original_dataset_name": "\u25aaUSDA\u2019s Food and Nutrition Service (FNS)",
+      "date_added": "2019-10-11 11:13:08"
+    },
+    "dimensions": {
+      "doi": "10.2139/ssrn.2503038",
+      "authors": [
+        {
+          "first_name": "Victor",
+          "last_name": "Oliveira",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://ageconsearch.umn.edu/record/288292/files/EIB-207.pdf",
+      "keywords": [
+        "data",
+        "USDA Food",
+        "program",
+        "United States",
+        "report",
+        "nutrition services",
+        "Nutrition Assistance Program",
+        "food insecurity",
+        "household food insecurity",
+        "services",
+        "food",
+        "assistance programs",
+        "U.S. Food",
+        "preliminary data",
+        "severity",
+        "prevalence"
+      ],
+      "journal_title": "SSRN Electronic Journal",
+      "title": "The Food Assistance Landscape: FY 2013 Annual Report"
+    }
+  },
+  {
+    "title": "The Food Assistance Landscape: FY 2014 Annual Report",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43947",
+      "sheet_name": "FNS",
+      "original_dataset_name": "\u25aaUSDA\u2019s Food and Nutrition Service (FNS)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Food Assistance Landscape: FY 2016 Annual Report",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82993",
+      "sheet_name": "FNS",
+      "original_dataset_name": "\u25aaFood and Nutrition Service (FNS) administrative data",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Food Assistance Landscape: FY 2017 Annual Report",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=88073",
+      "sheet_name": "FNS",
+      "original_dataset_name": "\u25aaFNS",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Food Assistance Landscape: FY 2018 Annual Report",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=92895",
+      "sheet_name": "FNS",
+      "original_dataset_name": "\u25aaFNS",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Food Safety Performance of Ground Beef Suppliers to the National School Lunch Program",
+    "datasets": [
+      "dataset-041",
+      "dataset-040"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45329",
+      "sheet_name": "FDA-FSIS-AMS",
+      "original_dataset_name": "\u25aaFSIS administrative data (SSOP and HACCP compliance data) \u25aaAMS Web site \u25aaFSIS Salmonella spp testing data",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Impacts of Supplemental Nutrition Assistance Program Redemptions on County-Level Employment",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93168",
+      "sheet_name": "Census Surveys",
+      "original_dataset_name": "\u25aaU.S. Census Bureau\u2019s Consolidated Federal Funds Report",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Role of Fossil Fuels in the U.S. Food System and the American Diet",
+    "datasets": [
+      "dataset-059",
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82193",
+      "sheet_name": "ATUS",
+      "original_dataset_name": "\u25aaU.S. Department of Labor, Bureau of Labor Statistics \u25aaAmerican Community Survey",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Stimulus Act of 2009 and Its Effect on Food-At-Home Spending by SNAP Participants",
+    "datasets": [
+      "dataset-024"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=74689",
+      "sheet_name": "CES",
+      "original_dataset_name": "\u25aaConsumer Expenditure Survey (CE) (administered quarterly by the U.S. Census Bureau)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Trends in Food Recalls: 2004-13",
+    "datasets": [
+      "dataset-041",
+      "dataset-040"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=88496",
+      "sheet_name": "FDA-FSIS-AMS",
+      "original_dataset_name": "\u25aaFSIS Recall Notification Reports \u25aaFDA Enforcement\nReports",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Trends in Infant Formula Rebate Contracts: Implications for the WIC Program",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43806",
+      "sheet_name": "FNS",
+      "original_dataset_name": "\u25aaUSDA\u2019s Food and Nutrition Service (FNS)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "U.S. Food Commodity Availability by Food Source, 1994-2008",
+    "datasets": [
+      "dataset-036"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=81817",
+      "sheet_name": "FADS-LAFA",
+      "original_dataset_name": "FADS-LAFA",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "U.S. Food Commodity Consumption Broken Down by Demographics",
+    "datasets": [
+      "dataset-036"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45530",
+      "sheet_name": "FADS-LAFA",
+      "original_dataset_name": "FADS-LAFA",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "U.S. Households' Demand for Convenience Foods",
+    "datasets": [
+      "dataset-024"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80653",
+      "sheet_name": "CES",
+      "original_dataset_name": "\u25aaConsumer Expenditure Survey of the U.S. Bureau of Labor Statistics ",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "U.S. Trends in Food Availability and a Dietary Assessment of Loss-Adjusted Food Availability, 1970-2014",
+    "datasets": [
+      "dataset-036"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/82220/eib-166.pdf?v=42762",
+      "sheet_name": "FADS-LAFA",
+      "original_dataset_name": "FADS-LAFA",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Understanding Low-Income and Low-Access Census Tracts Across the Nation: Subnational and Subpopulation Estimates of Access to Healthy Food",
+    "datasets": [
+      "dataset-028",
+      "dataset-060"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93140",
+      "sheet_name": "Census Surveys",
+      "original_dataset_name": "\u25aaCensus Bureau\u2019s 2010-14 American Community Survey \u25aaCensus Bureau\u2019s 2010 Decennial Census",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Updated Supermarket Shrink Estimates for Fresh Foods and Their Implications for ERS Loss-Adjusted Food Availability Data",
+    "datasets": [
+      "dataset-036"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44103",
+      "sheet_name": "Nielsen",
+      "original_dataset_name": "\u25aaNielsen Perishables Group",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "USDA Special Supplemental Nutrition Program for Women, Infants, and Children (WIC): A New Look at Key Questions 10 Years After USDA Added Whole-Grain Bread to WIC Food Packages in 2009",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93650",
+      "sheet_name": "FoodAPS",
+      "original_dataset_name": "FoodAPS",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Using a Policy Index To Capture Trends and Differences in State Administration of USDA's Supplemental Nutrition Assistance Program",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/87096/err-244.pdf?v=0",
+      "sheet_name": "SNAP Admin",
+      "original_dataset_name": "SNAP",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Where Households Get Food in a Typical Week: Findings from USDA's FoodAPS",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=80541",
+      "sheet_name": "FoodAPS",
+      "original_dataset_name": "FoodAPS",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  }
+]

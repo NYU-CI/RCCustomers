@@ -1,0 +1,498 @@
+[
+  {
+    "title": "Local Food Prices, SNAP Purchasing Power, and Child Health",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w24762.pdf",
+      "keywords": "SNAP,Social Safety Net,Food Prices,Fixed Effects Framework,Purchasing Power,Children Health,Health Care Utilization,Food Insecurity,CPS-FSS,Analyzed",
+      "doi": "10.3386/w24762",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jhealeco.2019.102231",
+      "authors": [
+        {
+          "first_name": "Erin T.",
+          "last_name": "Bronchetti",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.264430.7",
+          "researcher_id": "ur.013675155721.62",
+          "affiliations": [
+            {
+              "id": "grid.264430.7",
+              "name": "Swarthmore College",
+              "city": "Swarthmore",
+              "city_id": 4561628,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Garret",
+          "last_name": "Christensen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.432923.d",
+              "name": "United States Census Bureau",
+              "city": "Suitland",
+              "city_id": 4370616,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Hilary W.",
+          "last_name": "Hoynes",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.47840.3f",
+              "name": "University of California, Berkeley",
+              "city": "Berkeley",
+              "city_id": 5327684,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "social safety net",
+        "health care",
+        "study",
+        "care",
+        "Health Interview Survey data",
+        "first estimate",
+        "status",
+        "evaluation",
+        "effects",
+        "health",
+        "care utilization",
+        "geographic variation",
+        "food prices",
+        "quasi-experimental evaluation",
+        "benefits",
+        "safety net programs",
+        "Interview Survey data",
+        "survey data",
+        "framework",
+        "state",
+        "Nutrition Assistance Program",
+        "illness",
+        "panel data",
+        "prices",
+        "SNAP benefits",
+        "values",
+        "important element",
+        "effects framework",
+        "child health",
+        "National Health Interview Survey data",
+        "Supplemental Nutrition Assistance Program",
+        "program",
+        "assistance programs",
+        "relationship",
+        "health care utilization",
+        "safety net",
+        "data",
+        "preventive health care",
+        "parents",
+        "estimates",
+        "local food prices",
+        "leverage variations",
+        "health status",
+        "challenges",
+        "net programs",
+        "purchasing power",
+        "nets",
+        "real value",
+        "utilization",
+        "market"
+      ],
+      "journal_title": "Journal of Health Economics",
+      "title": "Local Food Prices, SNAP Purchasing Power, and Child Health"
+    }
+  },
+  {
+    "title": "Prevalence of U.S. Food Insecurity Is Related to Changes in Unemployment, Inflation, and the Price of Food",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/45213/48167_err167.pdf?v=0",
+      "keywords": "Food Security,Food Insecurity,Food Prices,Unemployment,Food Price Inflation,SNAP,Food Assitance,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Food Insecurity Measures: Experience-Based Versus Nutrition-Based Evidence from India, Bangladesh, and Ethiopia",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/81780/err-220.pdf?v=0",
+      "keywords": "Food Security,Food Insecurity,Food Security Measurement,India,Bangladesh,Ethiopia,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The impact of the 2008 economic recession on the food security level of veterans relative to nonveterans",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1313&context=hc_sas_etds",
+      "keywords": "2008 Financial Crisis,Food Security,Veterans,Non-Veterans,Ordinal Logistic Regression,Difference-in-Difference Model,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Community Food Security in the United States: A Survey of the Scientific Literature",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.jhsph.edu/research/centers-and-institutes/johns-hopkins-center-for-a-livable-future/_pdf/research/clf_reports/CFS-Lit-Review-II-final.pdf",
+      "keywords": "Community Food Security,United States,Food Security,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Comparing National Household Food Acquisition and Purchase Survey (FoodAPS) Data With Other National Food Surveys' Data",
+    "datasets": [
+      "dataset-026",
+      "dataset-050",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/79893/eib-157.pdf?v=3418.4",
+      "keywords": "National Household Food Acquisition and Purchase Survey,Food Expenditures,SNAP Participation,FoodAPS-FS,CPS-FSS,NHIS-FSS,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Household Food Security in the United States in 2013",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/45265/48787_err173.pdf?v=42265",
+      "keywords": "Food Security,Food Insecurity,Food Spending,Food Pantry,Soup Kitchen,Emergency Kitchen,Material Well-being,Material Hardship,SNAP,Food Stamp Program,National School Lunch Program,Special Supplemental Nutrition Program for Women, Infants, and Children,WIC,CPS-FSS,Analyzed,Chart",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.2139/ssrn.2504067",
+      "authors": [
+        {
+          "first_name": "Alisha",
+          "last_name": "Coleman-Jensen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.01256022523.75",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        },
+        {
+          "first_name": "Christian",
+          "last_name": "Gregory",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.015523362545.65",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        },
+        {
+          "first_name": "Anita",
+          "last_name": "Singh",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Food and Nutrition Service (FNS)"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "food-insecure households",
+        "percent",
+        "healthy life",
+        "intake",
+        "decline",
+        "rate",
+        "households",
+        "cumulative decline",
+        "prevalence rates",
+        "household composition",
+        "food intake",
+        "household food security",
+        "household members",
+        "United States",
+        "more household members",
+        "children",
+        "Nutrition Assistance Program",
+        "secure households",
+        "survey",
+        "insecurity",
+        "percent of households",
+        "months",
+        "prior year",
+        "food-insecure",
+        "members",
+        "eating patterns",
+        "food",
+        "assistance programs",
+        "enough food",
+        "food-secure households",
+        "food insecurity",
+        "years",
+        "life",
+        "access",
+        "program",
+        "insecure households",
+        "adults",
+        "insecure",
+        "patterns",
+        "Very Low Food Security",
+        "low food security",
+        "changes",
+        "Federal Food"
+      ],
+      "journal_title": "SSRN Electronic Journal",
+      "title": "Household Food Security in the United States in 2013"
+    }
+  },
+  {
+    "title": "Examining an \"Experimental\" Food-Security-Status Classification Method for Households With Children",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/85215/tb-1945.pdf?v=0",
+      "keywords": "Food Security,Food Insecurity,Food security measurement,Rasch Modeling,Item Response Theory,Food Sufficiency,Food Pantry,Dietary Quality,NHANES-FSQ,CPS-FSS,Analyzed,Chart",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Household Food Security in the United States in 2014",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/45425/53739_err194_summary.pdf?v=42515",
+      "keywords": "Food Security,Food Insecurity,Food Spending,Food Pantry,Soup Kitchen,Emergency Kitchen,Material Well-being,Material Hardship,SNAP,Food Stamp Program,National School Lunch Program,Special Supplemental Nutrition Program for Women, Infants, and Children,WIC,CPS-FSS,Analyzed,Chart",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Household Food Security in the United States in 2015",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/79761/err-215.pdf",
+      "keywords": "Food Security,Food Insecurity,Food Spending,Food Pantry,Soup Kitchen,Emergency Kitchen,Material Well-being,Material Hardship,SNAP,Food Stamp Program,National school lunch program,Special Supplemental Nutrition Program for Women, Infants, and Children,WIC,CPS-FSS,Analyzed,Chart",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "Household Food Security in the United States in 2015",
+      "doi": "10.7448/IAS.19.6.21264",
+      "url": "http://europepmc.org/articles/PMC4960637"
+    }
+  },
+  {
+    "title": "Statistical Supplement to Household Food Security in the United States in 2016",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/84973/err-237.pdf",
+      "keywords": "Food Security,Food Insecurity,Food Spending,Food Pantry,Soup Kitchen,Emergency Kitchen,Material Well-being,SNAP,Food Stamp Program,National school lunch program,WIC,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Knowledge and Perceptions of a Plant-Based Diet Among Individuals with Type 2 Diabetes and High Food Security Living in Rural Appalachian Ohio",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://etd.ohiolink.edu/!etd.send_file?accession=ohiou1447871209&disposition=inline",
+      "keywords": "Food Insecurity,Food Security,Type 2 Diabetes,Plant-based Diets,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Who Benefits Most From Snap? A Study Of Food Security And Food Spending",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w22977.pdf",
+      "keywords": "SNAP Participation,Food Insecurity,Food Spending,CPS-FSS,Analyzed",
+      "doi": "10.3386/w22977",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Effect of Electronic Benefit Transfer on the Marginal Propensity to Consume Food out of SNAP",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://pdfs.semanticscholar.org/6d77/f07604cb2faa596fe14369b4ac57e89d71a4.pdf",
+      "keywords": "SNAP,Food Assistance,Electronic Benefit Transfer,Marginal Propensity to Consume,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Spirit of '96: States & the Implementation of Temporary Assistance for Needy Families",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/138531/vafusaro_1.pdf?sequence=1&isAllowed=y",
+      "keywords": "Temporary Assistance for Needy Families,Welfare Policy,Social Policy,Food Insecurity,Race,Cash Assistance,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Eating Well (When You Can): Food Security Among Stateside Puerto Ricans",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://centropr.hunter.cuny.edu/sites/default/files/data_briefs/RB2016-05_FOOD%20SECURITY.pdf",
+      "keywords": "Food SEcurity,Puerto Rican Households,CPS-FSs,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Food Insecurity Among WPI Students",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://digitalcommons.wpi.edu/cgi/viewcontent.cgi?article=6310&context=iqp-all",
+      "keywords": "College Students,Food Insecurity,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Right to Food in the U.S.: The Role of SNAP",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Right to Food,Food Insecurity,SNAP,CPS-FSS,Citation,Chart,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Food Insecurity In The U.S.: Measurement And Evaluation",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/2142/95362",
+      "keywords": "Food Insecurity,Income Poverty Index,Food Insecurity Index,SNAP,CPS-FSS,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "Food Insecurity In The U.S.: Measurement And Evaluation",
+      "doi": "10.7448/IAS.15.5.18442",
+      "url": "http://europepmc.org/articles/PMC3499903"
+    }
+  },
+  {
+    "title": "Relationships Among Food Insecurity, Perceived Stress, General Self-Efficacy, And Obesity In Female Heads-Of-Household With Children",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://doi.org/doi:10.7282/T3S46V6X",
+      "keywords": "Obesity,Food Insecurity,Vulnerable Populations,Perceived Stress,General Self-Efficacy,Female-Heads Households with Children,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  }
+]

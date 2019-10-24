@@ -1,0 +1,339 @@
+[
+  {
+    "title": "Food Security and Food Purchase Quality Among Low-Income Households: Findings From the National Household Food Acquisition and Purchase Survey (FoodAPS)",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93737",
+      "sheet_name": "FoodAPS",
+      "original_dataset_name": "FoodAPS",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Frequency and Time of Day That Americans Eat: A Comparison of Data From the American Time Use Survey and the National Health and Nutrition Examination Survey",
+    "datasets": [
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=93513",
+      "sheet_name": "ATUS",
+      "original_dataset_name": "\u25aaATUS (2014-16) \u25aaEHM (2014-16)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Household Food Security in the United States in 2016",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=84972",
+      "sheet_name": "CPS-FSS",
+      "original_dataset_name": "\u25aaCPS-FSS",
+      "date_added": "2019-10-11 11:13:08"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "Household Food Security in the United States in 2016",
+      "doi": "10.7448/IAS.19.6.21264",
+      "url": "http://europepmc.org/articles/PMC4960637"
+    }
+  },
+  {
+    "title": "Household Food Security in the United States in 2017",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90022",
+      "sheet_name": "Census Surveys",
+      "original_dataset_name": "\u25aaU.S. Census Bureau",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "How Transportation Costs Affect Fresh Fruit and Vegetable Prices",
+    "datasets": [
+      "dataset-040"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=45168",
+      "sheet_name": "FDA-FSIS-AMS",
+      "original_dataset_name": "\u25aaUSDA Agricultural Marketing Service (AMS) ",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Improving the Assessment of SNAP Targeting Using Administrative Records",
+    "datasets": [
+      "dataset-046"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=45371",
+      "sheet_name": "Census Surveys",
+      "original_dataset_name": "\u25aaAmerican Community Survey (ACS)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Independent Grocery Stores in the Changing Landscape of the U.S. Food Retail Industry",
+    "datasets": [
+      "dataset-028"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=85782",
+      "sheet_name": "TD Linx",
+      "original_dataset_name": "TDLinx",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Low-Income and Low-Supermarket-Access Census Tracts, 2010-2015",
+    "datasets": [
+      "dataset-046"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=82100",
+      "sheet_name": "Census Surveys",
+      "original_dataset_name": "\u25aa2010 Decennial Census \u25aa2010-14 American Community Survey (ACS)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Manufacturers' Bids for WIC Infant Formula Rebate Contracts, 2003-2013",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43997",
+      "sheet_name": "FNS",
+      "original_dataset_name": "\u25aaUSDA\u2019s Food and Nutrition Service (FNS)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Measuring Access to Healthful, Affordable Food in American Indian and Alaska Native Tribal Areas",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=43908",
+      "sheet_name": "Census Surveys",
+      "original_dataset_name": "\u25aa2010 Census TIGER/Line\u00ae Shapefiles \u25aa2010 Census of Population \u25aaAmerican Community Survey, 2006-2010 Summary ",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Measuring the Value of the U.S. Food System: Revisions to the Food Expenditure Series",
+    "datasets": [
+      "dataset-044",
+      "dataset-055",
+      "dataset-054"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/90155/tb-1948.pdf?v=5086.2",
+      "sheet_name": "Census Surveys",
+      "original_dataset_name": "\u25aaU.S. Census Bureau (sales data\u2014annual, quarterly, monthly, and quinquennial)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Nutritional Quality of Foods Acquired by Americans: Findings From USDA's National Household Food Acquisition and Purchase Survey",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=87530",
+      "sheet_name": "FoodAPS",
+      "original_dataset_name": "FoodAPS",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Participation in SNAP and Unemployment Insurance: How Tight Are the Strands of the Recessionary Safety Net?",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=45145",
+      "sheet_name": "Census Surveys",
+      "original_dataset_name": "\u25aaCPS \u25aaASEC",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Participation in USDA's Supplemental Nutrition Assistance Program (SNAP): Effect of Local Labor Market Conditions in Oregon",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90037",
+      "sheet_name": "SNAP Admin",
+      "original_dataset_name": "\u25aaMultiple administrative sources from Oregon (January 2005\u2014December 2014)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Public Disclosure of Tests for Salmonella: The Effects on Food Safety Performance in Chicken Slaughter Establishments",
+    "datasets": [
+      "dataset-041"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=83660",
+      "sheet_name": "FDA-FSIS-AMS",
+      "original_dataset_name": "\u25aaFSIS (administrative data from their Public Health Database\u2014data include Salmonella performance, animal slaughter, SSOP and HACCP Performance) ",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "School Meals in Transition",
+    "datasets": [
+      "dataset-056"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=44006",
+      "sheet_name": "SCH MEALS DATA",
+      "original_dataset_name": "\u25aaUSDA\u2019s National Data Bank \u25aaState reports \u25aaSpecial Nutrition Program Operation Study Year 1 (SNOPS-I)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "Statistical Supplement to Household Food Security in the United States in 2017",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90028",
+      "sheet_name": "CPS-FSS",
+      "original_dataset_name": "\u25aaCurrent Population Survey (CPS) Food Security Supplement (December 2017)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Association Between Restaurant Menu Label Use and Caloric Intake",
+    "datasets": [
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=90497",
+      "sheet_name": "NHANES",
+      "original_dataset_name": "\u25aaNHANES (Flexible Consumer Behavior Survey\u20142007-08, 2009-10, and 2013-14 cycles)",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Economic Impacts of Breastfeeding: A Focus on USDA's Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",
+    "datasets": [
+      "dataset-032"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/publications/pub-details/?pubid=91272",
+      "sheet_name": "FNS",
+      "original_dataset_name": "\u25aaFood and Nutrition Service (FNS) ",
+      "date_added": "2019-10-11 11:13:08"
+    }
+  },
+  {
+    "title": "The Estimated Amount, Value, and Calories of Postharvest Food Losses at the Retail and Consumer Levels in the United States",
+    "datasets": [
+      "dataset-036"
+    ],
+    "original": {
+      "url": "http://www.ers.usda.gov/publications/pub-details/?pubid=43836",
+      "sheet_name": "FADS-LAFA",
+      "original_dataset_name": "FADS-LAFA",
+      "date_added": "2019-10-11 11:13:08"
+    },
+    "dimensions": {
+      "doi": "10.2139/ssrn.2501659",
+      "authors": [
+        {
+          "first_name": "Jean C.",
+          "last_name": "Buzby",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        },
+        {
+          "first_name": "Hodan",
+          "last_name": "Farah-Wells",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        },
+        {
+          "first_name": "Jeffrey",
+          "last_name": "Hyman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "percent",
+        "total value",
+        "brief discussion",
+        "terms of share",
+        "food losses",
+        "share",
+        "amount of loss",
+        "pounds",
+        "United States",
+        "capita",
+        "supply",
+        "consumption",
+        "terms",
+        "state",
+        "products",
+        "retail",
+        "Research Service",
+        "prices",
+        "dairy products",
+        "issues",
+        "values",
+        "vegetables",
+        "availability data",
+        "economic issues",
+        "retail price",
+        "levels",
+        "food",
+        "years",
+        "meat",
+        "discussion",
+        "data",
+        "postharvest food losses",
+        "estimates",
+        "latest estimates",
+        "USDA Economic Research Service",
+        "food groups",
+        "food availability data",
+        "Economic Research Service",
+        "services",
+        "food supply",
+        "consumer level"
+      ],
+      "journal_title": "SSRN Electronic Journal",
+      "title": "The Estimated Amount, Value, and Calories of Postharvest Food Losses at the Retail and Consumer Levels in the United States"
+    }
+  }
+]

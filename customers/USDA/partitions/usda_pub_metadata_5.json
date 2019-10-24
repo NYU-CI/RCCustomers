@@ -1,0 +1,2165 @@
+[
+  {
+    "title": "Grocery Shopping Destination Choice and Obesity: An Empirical Study of Urban Population in Bangkok, Thailand",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/1920/10615",
+      "keywords": "nutrition transition,obesity,public policy,supermarket revolution,thailand,global health,Urban agriculture,FCBS,Flexible Consumer Behavior Survey",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Design and outcomes of the Patient Centered Outcomes Research Institute coronary heart disease cohort study",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/29696157",
+      "keywords": "clinical modification,electronic helath record,patiente centered ooutcomes,coronary heart disease,hypertension,FCBS,Flexible Consumer Behavior Survey,nonE Tier 3,Analyzed",
+      "doi": "10.1016/j.conctc.2018.03.001",
+      "journal": "Contemporary clinical trials communications",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.conctc.2018.03.001",
+      "authors": [
+        {
+          "first_name": "Christianne L.",
+          "last_name": "Roumie",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.01321317112.26",
+          "affiliations": [
+            {
+              "id": "grid.239186.7",
+              "name": "Veterans Health Administration",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            },
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Niral J.",
+          "last_name": "Patel",
+          "corresponding": "",
+          "orcid": "['0000-0001-9690-4255']",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.0576251040.61",
+          "affiliations": [
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Daniel",
+          "last_name": "Mu\u00f1oz",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.0710676247.32",
+          "affiliations": [
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Justin",
+          "last_name": "Bachmann",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.0731330055.74",
+          "affiliations": [
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Ashton",
+          "last_name": "Stahl",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Ryan",
+          "last_name": "Case",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Cardella",
+          "last_name": "Leak",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.01160770530.26",
+          "affiliations": [
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Russell",
+          "last_name": "Rothman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.016262464277.77",
+          "affiliations": [
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Sunil",
+          "last_name": "Kripalani",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.412807.8",
+          "researcher_id": "ur.01101617772.53",
+          "affiliations": [
+            {
+              "id": "grid.412807.8",
+              "name": "Vanderbilt University Medical Center",
+              "city": "Nashville",
+              "city_id": 4644585,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1016/j.conctc.2018.03.001",
+      "keywords": [
+        "males",
+        "outcomes",
+        "socio-demographics",
+        "care",
+        "cohort study",
+        "medical care",
+        "study",
+        "aspirin dose",
+        "status",
+        "majority",
+        "hospitalization",
+        "health",
+        "participants",
+        "trial summary",
+        "summary",
+        "health behaviors",
+        "quality",
+        "mental health",
+        "median age",
+        "fatigue",
+        "Clinical Data Research Network",
+        "computable phenotypes",
+        "function",
+        "future research",
+        "phenotype",
+        "survey",
+        "demographics",
+        "administration",
+        "patients 30 years",
+        "patients",
+        "portal",
+        "disease patients",
+        "willingness",
+        "samples",
+        "items",
+        "patient samples",
+        "years",
+        "telephone",
+        "survey items",
+        "access",
+        "age",
+        "survey administration",
+        "life",
+        "difficulties",
+        "Patient Centered Outcomes Research Institute",
+        "coronary heart disease patients",
+        "heart disease patients",
+        "respondents",
+        "health status",
+        "overall health",
+        "dose",
+        "sample of patients",
+        "CHD",
+        "Disease Cohort Study",
+        "health literacy",
+        "objective",
+        "visits",
+        "physical health",
+        "Research Network",
+        "Institute",
+        "pain",
+        "quality of life"
+      ],
+      "journal_title": "Contemporary Clinical Trials Communications",
+      "title": "Design and outcomes of the Patient Centered Outcomes Research Institute coronary heart disease cohort study"
+    },
+    "openaire": {
+      "journal": "Contemporary Clinical Trials Communications",
+      "title": "Design and outcomes of the Patient Centered Outcomes Research Institute coronary heart disease cohort study",
+      "doi": "10.1016/j.conctc.2018.03.001",
+      "url": "http://europepmc.org/articles/PMC5898539"
+    }
+  },
+  {
+    "title": "Did the 2009 American Recovery and Reinvestment Act affect dietary intake of low-income individuals?",
+    "datasets": [
+      "dataset-017"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26414481",
+      "keywords": "Adult,Aged,American Recovery and Reinvestment Act,statistics & numerical data,Beverages/statistics & numerical data,Diet,Energy Intake,Feeding Behavior,Female,Food Assistance,Humans,Male,Middle Aged,Nutrition Surveys,Nutritional Status,Poverty,Socioeconomic Factors,Sweetening Agents,United States,Young Adult,FCBS,Flexible Consumer Behavior Survey,NHANES,Supplemental Nutritional Assistance,Program,Diet quality,Econ Tier 2,Analyzed",
+      "doi": "10.1016/j.ehb.2015.08.006",
+      "journal": "Economics and human biology",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.ehb.2015.08.006",
+      "authors": [
+        {
+          "first_name": "Geetha",
+          "last_name": "Waehrer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.280247.b",
+          "researcher_id": "ur.01037601373.45",
+          "affiliations": [
+            {
+              "id": "grid.280247.b",
+              "name": "Pacific Institute For Research and Evaluation",
+              "city": "Calverton",
+              "city_id": 4350160,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Partha",
+          "last_name": "Deb",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.257167.0",
+          "researcher_id": "ur.0741332770.81",
+          "affiliations": [
+            {
+              "id": "grid.212340.6",
+              "name": "City University of New York",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Sandra L.",
+          "last_name": "Decker",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.413404.6",
+          "researcher_id": "ur.0665231334.02",
+          "affiliations": [
+            {
+              "id": "grid.416789.5",
+              "name": "National Center for Health Statistics",
+              "city": "Hyattsville",
+              "city_id": 4358821,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://manuscript.elsevier.com/S1570677X1500060X/pdf/S1570677X1500060X.pdf",
+      "keywords": [
+        "overall diet quality",
+        "decline",
+        "intake",
+        "households",
+        "health",
+        "dietary intake",
+        "education",
+        "percentile",
+        "quality",
+        "benefits",
+        "Examination Survey",
+        "increase",
+        "American Recovery",
+        "recovery",
+        "income individuals",
+        "survey",
+        "program benefits",
+        "Reinvestment Act",
+        "SNAP benefits",
+        "decrease",
+        "low-income individuals",
+        "Nutrition Examination Survey",
+        "school education",
+        "full sample",
+        "SNAP",
+        "nutrient intake",
+        "samples",
+        "beverages",
+        "relationship",
+        "diet quality",
+        "data",
+        "National Health",
+        "high school education",
+        "end",
+        "individuals",
+        "changes",
+        "household size"
+      ],
+      "journal_title": "Economics & Human Biology",
+      "title": "Did the 2009 American Recovery and Reinvestment Act affect dietary intake of low-income individuals?"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.ehb.2015.08.006",
+      "journal": "Econ Hum Biol",
+      "url": "http://europepmc.org/abstract/MED/26414481",
+      "title": "did the 2009 american recovery and reinvestment act affect dietary intake of low-income individuals?"
+    }
+  },
+  {
+    "title": "Exploring the Relationship of Healthy Lifestyle Characteristics with Food Behaviors of Low-Income, Food Insecure Women in the United States",
+    "datasets": [
+      "dataset-017"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "women,poverty,NHANES,food insecurity,healthy lifestyle characteristics,FCBS,Flexible Consumer Behavior Survey,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Plant- and animal-protein diets in relation to sociodemographic drivers, quality, and cost: findings from the Seattle Obesity Study",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/31172179",
+      "keywords": "plant-protein diets,animal-protein diets,diet cost,diet quality,protein consumption,attitudes,sociodemographic drivers,Flexible Consumer Behavior Survey,FCBS,NonE Tier 1,Analyzed",
+      "doi": "10.1093/ajcn/nqz064",
+      "journal": "The American journal of clinical nutrition",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1093/ajcn/nqz064",
+      "authors": [
+        {
+          "first_name": "Anju",
+          "last_name": "Aggarwal",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0614300006.52",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Adam",
+          "last_name": "Drewnowski",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0100065102.14",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1093/ajcn/nqz064",
+      "keywords": [
+        "Healthy Eating Index 2010",
+        "sociodemographic data",
+        "study",
+        "factors",
+        "protein consumption",
+        "diet",
+        "findings",
+        "sociodemographic factors",
+        "contrast",
+        "questionnaire",
+        "health",
+        "less meat",
+        "nuts",
+        "frequency questionnaire",
+        "minimal increase",
+        "quality",
+        "self-report",
+        "increase",
+        "highest quartile",
+        "protein",
+        "public health nutrition",
+        "higher HEI-2010",
+        "future research",
+        "sugars",
+        "consumption",
+        "amino acids",
+        "obesity studies",
+        "Seattle Obesity Study",
+        "higher MAR",
+        "plant-protein diet",
+        "poultry",
+        "dietary energy",
+        "healthy eating",
+        "protein diet",
+        "quartile",
+        "lower HEI-2010",
+        "nutrition",
+        "Index 2010",
+        "impact",
+        "food-frequency questionnaire",
+        "robust standard errors",
+        "severalfold increase",
+        "report",
+        "eating",
+        "levels",
+        "soy",
+        "samples",
+        "diet consumption",
+        "regression",
+        "income",
+        "total protein",
+        "diet cost",
+        "meat",
+        "animals",
+        "aim",
+        "study series",
+        "data",
+        "diet quality",
+        "linear regression",
+        "association",
+        "minimal impact",
+        "positive attitudes",
+        "acid",
+        "study sample",
+        "fat",
+        "measures",
+        "dairy",
+        "HEI-2010"
+      ],
+      "journal_title": "American Journal of Clinical Nutrition",
+      "title": "Plant- and animal-protein diets in relation to sociodemographic drivers, quality, and cost: findings from the Seattle Obesity Study"
+    },
+    "europepmc": {
+      "doi": "10.1093/ajcn/nqz064",
+      "journal": "Am J Clin Nutr",
+      "url": "http://europepmc.org/abstract/MED/31172179",
+      "title": "plant- and animal-protein diets in relation to sociodemographic drivers, quality, and cost: findings from the seattle obesity study"
+    }
+  },
+  {
+    "title": "Positive attitude toward healthy eating predicts higher diet quality at all cost levels of supermarkets",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/23916974",
+      "keywords": "Adult,Attitude to Health,Commerce,Costs and Cost Analysis,Diet,economics,Diet Surveys,Educational Status,Energy Intake,Female,Food economics,Food Quality,Fruit,Health Education,Health Promotion,Humans,Male,Middle Aged,Obesit,epidemiology,Social Class,Socioeconomic Factors,Surveys and Questionnaires,Telephone,Vegetables,Washington,Flexible Consumer Behavior Survey,FCBS,Flexible consumer Module,Analyzed",
+      "doi": "10.1016/j.jand.2013.06.006",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jand.2013.06.006",
+      "authors": [
+        {
+          "first_name": "Anju",
+          "last_name": "Aggarwal",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0614300006.52",
+          "affiliations": []
+        },
+        {
+          "first_name": "Pablo",
+          "last_name": "Monsivais",
+          "corresponding": "",
+          "orcid": "['0000-0002-7088-6674']",
+          "current_organization_id": "grid.30064.31",
+          "researcher_id": "ur.0640443103.15",
+          "affiliations": []
+        },
+        {
+          "first_name": "Andrea J.",
+          "last_name": "Cook",
+          "corresponding": "",
+          "orcid": "['0000-0002-6848-5222']",
+          "current_organization_id": "grid.488833.c",
+          "researcher_id": "ur.01273705576.16",
+          "affiliations": []
+        },
+        {
+          "first_name": "Adam",
+          "last_name": "Drewnowski",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0100065102.14",
+          "affiliations": []
+        }
+      ],
+      "linkout": "https://doi.org/10.1016/j.jand.2013.06.006",
+      "keywords": [
+        "high cost",
+        "quality measures",
+        "study",
+        "attitudes",
+        "choice",
+        "diet",
+        "rate",
+        "representative sample",
+        "higher obesity rates",
+        "findings",
+        "status",
+        "low-income groups",
+        "questionnaire",
+        "frequency questionnaire",
+        "higher diet quality",
+        "Healthy",
+        "quality",
+        "WA",
+        "socioeconomic status",
+        "adult residents",
+        "obesity rates",
+        "telephone survey",
+        "survey",
+        "healthy eating",
+        "food frequency questionnaire",
+        "education strategies",
+        "income groups",
+        "vegetables",
+        "nutrition",
+        "residents",
+        "servings",
+        "categories",
+        "dietary intake data",
+        "eating",
+        "adequacy ratio",
+        "robust standard errors",
+        "levels",
+        "samples",
+        "regression",
+        "covariates",
+        "food",
+        "low-cost supermarkets",
+        "County",
+        "high-quality diet",
+        "King County",
+        "diet quality",
+        "data",
+        "analytical sample",
+        "total servings",
+        "association",
+        "intake data",
+        "positive attitudes",
+        "adults",
+        "multivariable regression",
+        "strategies",
+        "quality diet",
+        "supermarket shoppers",
+        "measures",
+        "group",
+        "good nutrition"
+      ],
+      "journal_title": "Journal of the Academy of Nutrition and Dietetics",
+      "title": "Positive attitude toward healthy eating predicts higher diet quality at all cost levels of supermarkets"
+    },
+    "openaire": {
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "title": "Positive attitude toward healthy eating predicts higher diet quality at all cost levels of supermarkets",
+      "doi": "10.1016/j.jand.2013.06.006",
+      "url": "http://europepmc.org/articles/PMC3947012"
+    }
+  },
+  {
+    "title": "Time spent on home food preparation and indicators of healthy eating",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25245799",
+      "keywords": "Adult,Cooking,Cross-Sectional Studies,statistics & numerical data,Eating/physiology/psychology,Feeding Behavior,ethnology/physiology,psychology,Female,Food/classification/standards,Health Behavior,Humans,Male,Middle Aged,Restaurants/standards/statistics & numerical data,Socioeconomic Factors,Surveys and Questionnaires,Time Factors,United States,FCBS module,Flexible Consumer Behavior Survey,FCBS,Non Econ Tier 1,Citation",
+      "doi": "10.1016/j.amepre.2014.07.033",
+      "journal": "American journal of preventive medicine",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.amepre.2014.07.033",
+      "authors": [
+        {
+          "first_name": "Pablo",
+          "last_name": "Monsivais",
+          "corresponding": true,
+          "orcid": "['0000-0002-7088-6674']",
+          "current_organization_id": "grid.30064.31",
+          "researcher_id": "ur.0640443103.15",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            },
+            {
+              "id": "grid.5335.0",
+              "name": "University of Cambridge",
+              "city": "Cambridge",
+              "city_id": 2653941,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Anju",
+          "last_name": "Aggarwal",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0614300006.52",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Adam",
+          "last_name": "Drewnowski",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0100065102.14",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1016/j.amepre.2014.07.033",
+      "keywords": [
+        "study",
+        "intake",
+        "salad",
+        "findings",
+        "use",
+        "use group",
+        "health",
+        "fruit juices",
+        "higher diet quality",
+        "food restaurants",
+        "hours/day",
+        "differences",
+        "Healthy",
+        "quality",
+        "descriptive statistics",
+        "self",
+        "frequent intake",
+        "indicators",
+        "habits",
+        "hours",
+        "spending time",
+        "Time Spent",
+        "amount of time",
+        "consumption",
+        "food consumption",
+        "food preparation",
+        "regression models",
+        "home",
+        "juice",
+        "determinants",
+        "survey",
+        "more time",
+        "time use",
+        "vegetables",
+        "eating habits",
+        "Spent",
+        "frequent use",
+        "samples",
+        "food spending",
+        "cross-sectional study",
+        "food",
+        "patterns of self",
+        "population",
+        "frequency",
+        "further research",
+        "diet quality",
+        "fast food restaurants",
+        "healthy eating habits",
+        "association",
+        "adults",
+        "home food preparation",
+        "multivariable regression models",
+        "high priority",
+        "patterns",
+        "days",
+        "sectional study",
+        "restaurant use",
+        "group",
+        "individuals"
+      ],
+      "journal_title": "American Journal of Preventive Medicine",
+      "title": "Time spent on home food preparation and indicators of healthy eating"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Time spent on home food preparation and indicators of healthy eating",
+      "doi": "10.1016/j.amepre.2014.07.033",
+      "url": "https://europepmc.org/articles/PMC4254327/"
+    }
+  },
+  {
+    "title": "The influence of gender, age, education and household size on meal preparation and food shopping responsibilities",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/23988018",
+      "keywords": "Activities of Daily Living,Adult,Age Factors,Aged,Aged, 80 and over,Cohort Studies,Cooking,Cooperative Behavior,Cross-Sectional Studies,Educational Status,Family Characteristics,Female,Food economics,Humans,Interpersonal Relations,Male,Meals,Middle Aged,Nutrition Surveys,Sex Characteristics,United States,Young Adult,FCBS,Flexible Consumer Behavior Survey,Non Econ Tier 1,analyzed",
+      "doi": "10.1017/S1368980013002267",
+      "journal": "Public health nutrition",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1017/s1368980013002267",
+      "authors": [
+        {
+          "first_name": "Lee A",
+          "last_name": "Flagg",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.265892.2",
+          "researcher_id": "ur.01322500074.82",
+          "affiliations": [
+            {
+              "id": "grid.265892.2",
+              "name": "University of Alabama at Birmingham",
+              "city": "Birmingham",
+              "city_id": 4049979,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Bisakha",
+          "last_name": "Sen",
+          "corresponding": "",
+          "orcid": "['0000-0002-4209-4418']",
+          "current_organization_id": "grid.265892.2",
+          "researcher_id": "ur.01236105473.65",
+          "affiliations": [
+            {
+              "id": "grid.265892.2",
+              "name": "University of Alabama at Birmingham",
+              "city": "Birmingham",
+              "city_id": 4049979,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Meredith",
+          "last_name": "Kilgore",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.265892.2",
+          "researcher_id": "ur.0610136777.91",
+          "affiliations": [
+            {
+              "id": "grid.265892.2",
+              "name": "University of Alabama at Birmingham",
+              "city": "Birmingham",
+              "city_id": 4049979,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Julie L",
+          "last_name": "Locher",
+          "corresponding": "",
+          "orcid": "['0000-0002-2639-6459']",
+          "current_organization_id": "grid.265892.2",
+          "researcher_id": "ur.01316502620.83",
+          "affiliations": [
+            {
+              "id": "grid.265892.2",
+              "name": "University of Alabama at Birmingham",
+              "city": "Birmingham",
+              "city_id": 4049979,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AE7855E2DE4B433E81133DA74B80BF98/S1368980013002267a.pdf/div-class-title-the-influence-of-gender-age-education-and-household-size-on-meal-preparation-and-food-shopping-responsibilities-div.pdf",
+      "keywords": [
+        "implications",
+        "study",
+        "households",
+        "sub-sample",
+        "majority",
+        "health",
+        "regression analysis",
+        "age/cohort",
+        "US National Health",
+        "differences",
+        "activity",
+        "education",
+        "labour persists",
+        "Examination Survey",
+        "spouses",
+        "gender differences",
+        "multinomial logistic regression analysis",
+        "USA",
+        "initiatives",
+        "regard",
+        "survey",
+        "being",
+        "family",
+        "gender",
+        "Nutrition Examination Survey",
+        "persists",
+        "partners",
+        "secondary analysis",
+        "influence of gender",
+        "meal preparation",
+        "majority of women",
+        "sectional data",
+        "cohort",
+        "cross-sectional data",
+        "responsibility",
+        "extent",
+        "years",
+        "logistic regression analysis",
+        "age",
+        "being of families",
+        "data",
+        "men",
+        "adults",
+        "National Health",
+        "women",
+        "primary responsibility",
+        "food shopping activities",
+        "household size"
+      ],
+      "journal_title": "Public Health Nutrition",
+      "title": "The influence of gender, age, education and household size on meal preparation and food shopping responsibilities"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The influence of gender, age, education and household size on meal preparation and food shopping responsibilities",
+      "doi": "10.1017/S1368980013002267",
+      "url": "https://europepmc.org/articles/PMC3858465/"
+    }
+  },
+  {
+    "title": "What is driving increases in dietary quality in the United States?",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1016/j.foodpol.2019.05.003",
+      "keywords": "FCBS,Flexible Consumer Behavior Survey,Diet quality,Nutrition labels,Dietary information,Food characteristics,Socioeconomic status,Oaxaca-Blinder decomposition,Econ Tier 1,Analyzed",
+      "doi": "10.1016/j.foodpol.2019.05.003",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.foodpol.2019.05.003",
+      "authors": [
+        {
+          "first_name": "Travis A.",
+          "last_name": "Smith",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.213876.9",
+          "researcher_id": "ur.015716407433.29",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Pourya",
+          "last_name": "Valizadeh",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.213876.9",
+          "researcher_id": "ur.010052035502.74",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Biing-Hwan",
+          "last_name": "Lin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.0770352307.21",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Ellen",
+          "last_name": "Coats",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "contributor",
+        "dietary quality",
+        "percent",
+        "diet",
+        "choice",
+        "findings",
+        "minor role",
+        "quality",
+        "increase",
+        "healthy diet",
+        "role",
+        "consumption",
+        "home",
+        "nutrition information",
+        "demographics",
+        "food choices",
+        "food",
+        "home food",
+        "nutritional information",
+        "attainment",
+        "educational attainment",
+        "changes",
+        "United States"
+      ],
+      "journal_title": "Food Policy",
+      "title": "What is driving increases in dietary quality in the United States?"
+    }
+  },
+  {
+    "title": "Consumer Behaviors Added Sugar Intake Diet Quality Inflammation and Metabolic Syndrom Risks among Adults from the National Health and Nutrition Examination Survey",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "https://scholarworks.umass.edu/dissertations_2/1225",
+      "keywords": "FCBS,Flexible Consumer Behavior Survey,Metabolic Syndrome,Diet Quality,Sugar Intake,Consumer Behaviors,Linear and logistic regression",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Broccoli or Burgers? Food Law's Policy Impact on the Marketplace and Eating Habits",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "FCBS,Flexible Consumer Behavior Survey",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Unsavory choices: The high sodium density of U.S. chain restaurant foods",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1016/j.jfca.2014.12.018",
+      "keywords": "FCBS,Flexible Consumer Behavior Survey,Sodium,Sodium density,Table salt,Restaurants,Menu,Fast food,Food industry,Food composition,Food analysis,Non Econ Tier 1,Citation",
+      "doi": "10.1016/j.jfca.2014.12.018",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jfca.2014.12.018",
+      "authors": [
+        {
+          "first_name": "Helen W.",
+          "last_name": "Wu",
+          "corresponding": true,
+          "orcid": "['0000-0001-7775-5282']",
+          "current_organization_id": "grid.34474.30",
+          "researcher_id": "ur.01127547574.04",
+          "affiliations": [
+            {
+              "id": "grid.34474.30",
+              "name": "RAND Corporation",
+              "city": "Santa Monica",
+              "city_id": 5393212,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "descriptive statistics",
+        "restaurant type",
+        "study",
+        "restaurant foods",
+        "menu offerings",
+        "food environment",
+        "children's menu items",
+        "daily limit",
+        "sodium levels",
+        "taste buds",
+        "levels",
+        "cross-sectional study",
+        "higher sodium density",
+        "items",
+        "food",
+        "sectional study",
+        "average"
+      ],
+      "journal_title": "Journal of Food Composition and Analysis",
+      "title": "Unsavory choices: The high sodium density of U.S. chain restaurant foods"
+    }
+  },
+  {
+    "title": "Providing flexible food portions in a restaurant setting: Impact on business operations, food consumption and food waste.",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/11299/172592",
+      "keywords": "Food waste,Nutrition,Portion size,Public health,Restaurant,Nutrition,FCBS,Flexible Consumer Behavior Survey",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Which Agricultural Sectors Benefit from the Low-carbohydrate Diet Movement: a Survey of Consumer Perceptions of Healthy Food Substitutes on a Low-carbohydrate Diet",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "https://shareok.org/handle/11244/25646",
+      "keywords": "FCBS,Flexible Consumer Behavior Survey",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Food-related behavior and intake of adult main meal preparers of 9-10 year-old children participating in iCook 4-H: A five-state childhood obesity prevention pilot study",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26970294",
+      "keywords": "Adult,Body Mass Index,Body Weight,Child,Child Behavior,Choice Behavior,Cooking,Diet,Eating,Educational Status,Exercise,Fast Foods,Female,Food Preferences,Fruit,Fruit and Vegetable Juices,Health Behavior,Health Promotion,methods,Healthy Diet,Humans,Income,Male,Meals,Middle Aged,Nutrition Surveys,Parent-Child Relations,Pediatric Obesity,prevention & control,Pilot Projects,Surveys and Questionnaires,United States,Vegetables,Whole Grains,FCBS,Flexible Consumer Behavior Survey,Non Econ Tier 1",
+      "doi": "10.1016/j.appet.2016.03.006",
+      "journal": "Appetite",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.appet.2016.03.006",
+      "authors": [
+        {
+          "first_name": "Ashley",
+          "last_name": "Miller",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.24434.35",
+          "researcher_id": "ur.01114615705.98",
+          "affiliations": [
+            {
+              "id": "grid.24434.35",
+              "name": "University of Nebraska\u2013Lincoln",
+              "city": "Lincoln",
+              "city_id": 5072006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nebraska",
+              "state_code": "US-NE"
+            }
+          ]
+        },
+        {
+          "first_name": "Lisa",
+          "last_name": "Franzen-Castle",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.24434.35",
+          "researcher_id": "ur.01116005705.91",
+          "affiliations": [
+            {
+              "id": "grid.24434.35",
+              "name": "University of Nebraska\u2013Lincoln",
+              "city": "Lincoln",
+              "city_id": 5072006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nebraska",
+              "state_code": "US-NE"
+            }
+          ]
+        },
+        {
+          "first_name": "Trina",
+          "last_name": "Aguirre",
+          "corresponding": "",
+          "orcid": "['0000-0002-2117-8153']",
+          "current_organization_id": "",
+          "researcher_id": "ur.01000530057.18",
+          "affiliations": [
+            {
+              "id": "grid.266813.8",
+              "name": "University of Nebraska Medical Center",
+              "city": "Omaha",
+              "city_id": 5074472,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nebraska",
+              "state_code": "US-NE"
+            }
+          ]
+        },
+        {
+          "first_name": "Michelle",
+          "last_name": "Krehbiel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.24434.35",
+          "researcher_id": "ur.0623610672.11",
+          "affiliations": [
+            {
+              "id": "grid.24434.35",
+              "name": "University of Nebraska\u2013Lincoln",
+              "city": "Lincoln",
+              "city_id": 5072006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nebraska",
+              "state_code": "US-NE"
+            }
+          ]
+        },
+        {
+          "first_name": "Sarah",
+          "last_name": "Colby",
+          "corresponding": "",
+          "orcid": "['0000-0002-8298-3690']",
+          "current_organization_id": "grid.411461.7",
+          "researcher_id": "ur.01201175012.16",
+          "affiliations": [
+            {
+              "id": "grid.411461.7",
+              "name": "University of Tennessee at Knoxville",
+              "city": "Knoxville",
+              "city_id": 4634946,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Tennessee",
+              "state_code": "US-TN"
+            }
+          ]
+        },
+        {
+          "first_name": "Kendra",
+          "last_name": "Kattelmann",
+          "corresponding": "",
+          "orcid": "['0000-0002-6186-2822']",
+          "current_organization_id": "grid.263791.8",
+          "researcher_id": "ur.01016616306.93",
+          "affiliations": [
+            {
+              "id": "grid.263791.8",
+              "name": "South Dakota State University",
+              "city": "Brookings",
+              "city_id": 5226534,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Dakota",
+              "state_code": "US-SD"
+            }
+          ]
+        },
+        {
+          "first_name": "Melissa D.",
+          "last_name": "Olfert",
+          "corresponding": "",
+          "orcid": "['0000-0002-6686-3891']",
+          "current_organization_id": "grid.268154.c",
+          "researcher_id": "ur.01016136327.21",
+          "affiliations": [
+            {
+              "id": "grid.268154.c",
+              "name": "West Virginia University",
+              "city": "Morgantown",
+              "city_id": 4815352,
+              "country": "United States",
+              "country_code": "US",
+              "state": "West Virginia",
+              "state_code": "US-WV"
+            }
+          ]
+        },
+        {
+          "first_name": "Douglas",
+          "last_name": "Mathews",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21106.34",
+          "researcher_id": "ur.013671272571.42",
+          "affiliations": [
+            {
+              "id": "grid.21106.34",
+              "name": "University of Maine",
+              "city": "Orono",
+              "city_id": 4974313,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maine",
+              "state_code": "US-ME"
+            }
+          ]
+        },
+        {
+          "first_name": "Adrienne",
+          "last_name": "White",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21106.34",
+          "researcher_id": "ur.0777260212.25",
+          "affiliations": [
+            {
+              "id": "grid.21106.34",
+              "name": "University of Maine",
+              "city": "Orono",
+              "city_id": 4974313,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maine",
+              "state_code": "US-ME"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://manuscript.elsevier.com/S0195666316300952/pdf/S0195666316300952.pdf",
+      "keywords": [
+        "intake",
+        "childhood obesity prevention programs",
+        "program participants",
+        "grocery list",
+        "article",
+        "habits",
+        "label",
+        "year-old children",
+        "soup",
+        "skills confidence",
+        "iCook 4-H Study",
+        "family",
+        "eating",
+        "levels",
+        "meal",
+        "healthy cooking skills",
+        "purchasing skills",
+        "data responses",
+        "routines",
+        "positive difference",
+        "baseline",
+        "person contact",
+        "skills",
+        "physical activity habits",
+        "dyad model",
+        "meal choices",
+        "healthier meal choices",
+        "Nutrition Facts label",
+        "descriptive statistics",
+        "more meals",
+        "whole grain consumption",
+        "influence",
+        "sample test",
+        "home",
+        "improvement",
+        "survey",
+        "demographics",
+        "prevention programs",
+        "adult outcomes",
+        "dyads",
+        "pre",
+        "results",
+        "program",
+        "contact",
+        "desire",
+        "safety practices",
+        "youth",
+        "meal planning",
+        "cognitive theory",
+        "outcomes",
+        "program's conclusion",
+        "program completion",
+        "list",
+        "participants",
+        "social cognitive theory",
+        "food intake",
+        "bachelor's degree",
+        "mail",
+        "half",
+        "grain consumption",
+        "food",
+        "significance level",
+        "parents",
+        "adults",
+        "College",
+        "obesity prevention programs",
+        "food meals",
+        "practice",
+        "adult program participants",
+        "study",
+        "choice",
+        "old children",
+        "findings",
+        "iCook 4-H",
+        "meal preparers",
+        "planning",
+        "differences",
+        "flyers",
+        "self",
+        "mealtime routines",
+        "focus",
+        "children",
+        "behavior",
+        "activity habits",
+        "months",
+        "meal habits",
+        "degree",
+        "cooking skills",
+        "pilot study",
+        "response",
+        "significant increase",
+        "assistance programs",
+        "relationship",
+        "completion",
+        "conclusion",
+        "fast food meals",
+        "sample t test",
+        "caregivers",
+        "test",
+        "confidence",
+        "feeding interactions"
+      ],
+      "journal_title": "Appetite",
+      "title": "Food-related behavior and intake of adult main meal preparers of 9-10 year-old children participating in iCook 4-H: A five-state childhood obesity prevention pilot study"
+    }
+  },
+  {
+    "title": "Culinary Skills: Immediate and Intermediate Impacts of A Peer-Education Intervention for Adolescents",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/2142/95552",
+      "keywords": "Flexible Consumer Behavior Survey,FCBS,peer-education,culinary skills,nutrition education",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Grocery Shopping, Dinner Preparation, and Dietary Habits among Adolescents and Young Adults in Canada",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/30280918",
+      "keywords": "Adolescent,Breakfast,Canada,Cooking,statistics & numerical data,Diet/statistics & numerical data,Feeding Behavior,Female,Food,Fruit,Health Behavior,Health Knowledge, Attitudes, Practice,Healthy Diet/statistics & numerical data,Humans,Male,Meals,Vegetables,Young Adult,Flexible Consumer Behavior Survey,FCBS,Non Econ Tier3",
+      "doi": "10.3148/cjdpr-2018-025",
+      "journal": "Canadian journal of dietetic practice and research : a publication of Dietitians of Canada = Revue canadienne de la pratique et de la recherche en dietetique : une publication des Dietetistes du Canada",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.3148/cjdpr-2018-025",
+      "authors": [
+        {
+          "first_name": "Lana",
+          "last_name": "Vanderlee",
+          "corresponding": "",
+          "orcid": "['0000-0001-5384-1821']",
+          "current_organization_id": "grid.17063.33",
+          "researcher_id": "ur.0615414256.34",
+          "affiliations": [
+            {
+              "id": "grid.17063.33",
+              "name": "University of Toronto",
+              "city": "Toronto",
+              "city_id": 6167865,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            },
+            {
+              "id": "grid.46078.3d",
+              "name": "University of Waterloo",
+              "city": "Waterloo",
+              "city_id": 6176823,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            }
+          ]
+        },
+        {
+          "first_name": "Erin P",
+          "last_name": "Hobin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.415400.4",
+          "researcher_id": "ur.01014753125.98",
+          "affiliations": [
+            {
+              "id": "grid.415400.4",
+              "name": "Public Health Ontario",
+              "city": "Toronto",
+              "city_id": 6167865,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            }
+          ]
+        },
+        {
+          "first_name": "Christine M",
+          "last_name": "White",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.46078.3d",
+          "researcher_id": "ur.0661302542.91",
+          "affiliations": [
+            {
+              "id": "grid.46078.3d",
+              "name": "University of Waterloo",
+              "city": "Waterloo",
+              "city_id": 6176823,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            }
+          ]
+        },
+        {
+          "first_name": "David",
+          "last_name": "Hammond",
+          "corresponding": "",
+          "orcid": "['0000-0001-8197-6010']",
+          "current_organization_id": "grid.46078.3d",
+          "researcher_id": "ur.01026537271.90",
+          "affiliations": [
+            {
+              "id": "grid.46078.3d",
+              "name": "University of Waterloo",
+              "city": "Waterloo",
+              "city_id": 6176823,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Ontario",
+              "state_code": "CA-ON"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "fruit consumption",
+        "study",
+        "socio-demographics",
+        "intake",
+        "square test",
+        "frequency of vegetable",
+        "participants",
+        "proportion",
+        "chi-square test",
+        "differences",
+        "dietary habits",
+        "frequent engagement",
+        "participation",
+        "self",
+        "past week",
+        "current study",
+        "habits",
+        "consumption",
+        "online survey",
+        "people",
+        "home",
+        "young adults",
+        "breakfast",
+        "survey",
+        "socio-demographic characteristics",
+        "eating habits",
+        "vegetables",
+        "demographics",
+        "healthy dietary habits",
+        "young people",
+        "meal",
+        "regression",
+        "frequent breakfast consumption",
+        "covariates",
+        "dietary behaviors",
+        "weeks",
+        "frequency",
+        "linear regression",
+        "association",
+        "adults",
+        "adolescents",
+        "days",
+        "test",
+        "breakfast consumption",
+        "fruit intake",
+        "cross-sectional online survey",
+        "intervention",
+        "demographic characteristics"
+      ],
+      "journal_title": "Canadian Journal of Dietetic Practice and Research",
+      "title": "Grocery Shopping, Dinner Preparation, and Dietary Habits among Adolescents and Young Adults in Canada"
+    },
+    "europepmc": {
+      "doi": "10.3148/cjdpr-2018-025",
+      "journal": "Can J Diet Pract Res",
+      "url": "http://europepmc.org/abstract/MED/30280918",
+      "title": "grocery shopping, dinner preparation, and dietary habits among adolescents and young adults in canada"
+    }
+  },
+  {
+    "title": "Development and Feasibility of a Childhood Obesity Prevention Program for Rural Families: Application of the Social Cognitive Theory",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/28392882",
+      "keywords": "FCBS,Flexible Consumer Behavior Survey,Citation,NonE Tier 3",
+      "doi": "10.1080/19325037.2016.1179607",
+      "journal": "American journal of health education",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1080/19325037.2016.1179607",
+      "authors": [
+        {
+          "first_name": "Linda L",
+          "last_name": "Knol",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.265886.7",
+          "researcher_id": "ur.015122515065.32",
+          "affiliations": [
+            {
+              "name": "The University of Alabama, Department of Human Nutrition and Hospitality Management."
+            }
+          ]
+        },
+        {
+          "first_name": "Harriet H",
+          "last_name": "Myers",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "University of Alabama, University Medical Center."
+            }
+          ]
+        },
+        {
+          "first_name": "Sheila",
+          "last_name": "Black",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "The University of Alabama, Department of Psychology."
+            }
+          ]
+        },
+        {
+          "first_name": "Darlene",
+          "last_name": "Robinson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Imagine Me Youth Center, Eutaw."
+            }
+          ]
+        },
+        {
+          "first_name": "Yawah",
+          "last_name": "Awololo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Mahalah Farm, Cuba."
+            }
+          ]
+        },
+        {
+          "first_name": "Debra",
+          "last_name": "Clark",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Health and Wellness Educational Center."
+            }
+          ]
+        },
+        {
+          "first_name": "Carson L",
+          "last_name": "Parker",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "University of Alabama, Department of Human Nutrition and Hospitality Management."
+            }
+          ]
+        },
+        {
+          "first_name": "Joy W",
+          "last_name": "Douglas",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411015.0",
+          "researcher_id": "ur.01246750715.66",
+          "affiliations": [
+            {
+              "name": "University of Alabama, Department of Health Science."
+            }
+          ]
+        },
+        {
+          "first_name": "John C",
+          "last_name": "Higginbotham",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411015.0",
+          "researcher_id": "ur.01045504770.33",
+          "affiliations": [
+            {
+              "name": "University of Alabama, College of Community Health Sciences."
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc5383209?pdf=render",
+      "keywords": [
+        "outcomes",
+        "environment",
+        "effective childhood obesity prevention programs",
+        "childhood obesity prevention programs",
+        "community",
+        "Home Sweet Home",
+        "social cognitive theory",
+        "constructs",
+        "age children",
+        "education sessions",
+        "mothers",
+        "rural parents",
+        "child care environment",
+        "care environment",
+        "grandparents",
+        "theory",
+        "mindful eating",
+        "children",
+        "behavior",
+        "home",
+        "intervention data",
+        "improvement",
+        "purpose",
+        "scores",
+        "Health Education Practice",
+        "number of hours",
+        "family",
+        "home environment",
+        "environment interventions",
+        "prevention programs",
+        "behavioral outcomes",
+        "sedentary behavior",
+        "rural families",
+        "eating",
+        "pre",
+        "education practices",
+        "program",
+        "food",
+        "sessions",
+        "preschool children",
+        "health educators",
+        "weeks",
+        "participatory research practices",
+        "development",
+        "graduates",
+        "data",
+        "parents",
+        "post-intervention",
+        "post-intervention data",
+        "Sweet Home",
+        "research practices",
+        "educators",
+        "strategies",
+        "obesity prevention programs",
+        "preschool-age children",
+        "key behaviors",
+        "cognitive theory",
+        "intervention",
+        "practice",
+        "changes"
+      ],
+      "journal_title": "American Journal of Health Education",
+      "title": "Development and Feasibility of a Childhood Obesity Prevention Program for Rural Families: Application of the Social Cognitive Theory"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Development and Feasibility of a Childhood Obesity Prevention Program for Rural Families: Application of the Social Cognitive Theory",
+      "doi": "10.1080/19325037.2016.1179607",
+      "url": "https://europepmc.org/articles/PMC5383209/"
+    }
+  },
+  {
+    "title": "Determinants of Entertainment and Apparel Expenditures in an American Household",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "https://ssrn.com/abstract=3387546",
+      "keywords": "Consumer behavior\rhousehold purchases,BLS DataSet,STATA 15,Regression Analysis,Log-Lin Regression,FCBS,Flexible Consumer Behavior Survey",
+      "doi": "10.5281/zenodo.2650979",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.2139/ssrn.3387546",
+      "authors": [
+        {
+          "first_name": "Belinda",
+          "last_name": "Luna-Pulido",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.267572.3",
+              "name": "University of the Incarnate Word",
+              "city": "San Antonio",
+              "city_id": 4726206,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        },
+        {
+          "first_name": "Kruti R.",
+          "last_name": "Lehenbauer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.010176532433.89",
+          "affiliations": [
+            {
+              "id": "grid.267572.3",
+              "name": "University of the Incarnate Word",
+              "city": "San Antonio",
+              "city_id": 4726206,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "households",
+        "Consumer Expenditure Survey data",
+        "independent variables",
+        "number of earners",
+        "education",
+        "age five",
+        "Expenditure Survey data",
+        "family size",
+        "survey data",
+        "head of household",
+        "purchase",
+        "Bureau",
+        "role",
+        "determinants",
+        "total expenditure",
+        "methodology",
+        "primary independent variable",
+        "clear disparity",
+        "decision",
+        "race",
+        "statistics",
+        "year 2016",
+        "determinants of expenditure",
+        "earners",
+        "apparel expenditures",
+        "variables",
+        "income",
+        "ethnicity",
+        "results",
+        "disparities",
+        "specific characteristics",
+        "sub-models",
+        "data",
+        "characteristics",
+        "apparel",
+        "counterparts",
+        "specific purchase",
+        "model",
+        "American households",
+        "number of children",
+        "model methodology",
+        "distinct characteristics",
+        "Labor Statistics",
+        "expenditure",
+        "model results"
+      ],
+      "journal_title": "SSRN Electronic Journal",
+      "title": "Determinants of Entertainment and Apparel Expenditures in an American Household"
+    }
+  },
+  {
+    "title": "Delay discounting and its association with food purchasing considerations and food availability in the home in south-east Alabama, USA",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/30484416",
+      "keywords": "Delay discounting,Dietary habits,Foods in the home,FCBS,Flexible Consumer Behavior Survey,NonE Tier 1",
+      "doi": "10.1017/S1368980018003142",
+      "journal": "Public health nutrition",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1017/s1368980018003142",
+      "authors": [
+        {
+          "first_name": "Kimberly B",
+          "last_name": "Garza",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.252546.2",
+          "researcher_id": "ur.0753173654.64",
+          "affiliations": [
+            {
+              "id": "grid.252546.2",
+              "name": "Auburn University",
+              "city": "Auburn",
+              "city_id": 4830796,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Christiana",
+          "last_name": "Datubo-Brown",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.252546.2",
+          "researcher_id": "ur.01152412675.98",
+          "affiliations": [
+            {
+              "id": "grid.252546.2",
+              "name": "Auburn University",
+              "city": "Auburn",
+              "city_id": 4830796,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Philippe",
+          "last_name": "Gaillard",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.252546.2",
+              "name": "Auburn University",
+              "city": "Auburn",
+              "city_id": 4830796,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Ruth",
+          "last_name": "Jeminiwa",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.252546.2",
+          "researcher_id": "ur.014053447123.32",
+          "affiliations": [
+            {
+              "id": "grid.252546.2",
+              "name": "Auburn University",
+              "city": "Auburn",
+              "city_id": 4830796,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "curves",
+        "purchasing considerations",
+        "modelling",
+        "characteristics",
+        "area",
+        "use",
+        "food quality",
+        "lower DD",
+        "content",
+        "behavior",
+        "model",
+        "consideration",
+        "quality"
+      ],
+      "journal_title": "Public Health Nutrition",
+      "title": "Delay discounting and its association with food purchasing considerations and food availability in the home in south-east Alabama, USA"
+    },
+    "europepmc": {
+      "doi": "10.1017/S1368980018003142",
+      "journal": "Public Health Nutr",
+      "url": "http://europepmc.org/abstract/MED/30484416",
+      "title": "delay discounting and its association with food purchasing considerations and food availability in the home in south-east alabama, usa"
+    }
+  }
+]

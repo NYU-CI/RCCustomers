@@ -1,0 +1,1775 @@
+[
+  {
+    "title": "Supplemental Nutrition Assistance Program participation is associated with an increase in household food security in a national evaluation",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25644357",
+      "keywords": "Adolescent,Adult,Aged,Cross-Sectional Studies,Family Characteristics,Female,Food Assistance,Food Supply,Humans,Hunger,Logistic Models,Longitudinal Studies,Male,Middle Aged,Multivariate Analysis,Nutrition Surveys,Nutritional Status,Poverty,Sensitivity and Specificity,United States,Young Adult,CPS-FSS,Citation,FSSM,NonE Tier 1",
+      "doi": "10.3945/jn.114.198697",
+      "journal": "The Journal of nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.3945/jn.114.198697",
+      "authors": [
+        {
+          "first_name": "James",
+          "last_name": "Mabli",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.419482.2",
+          "researcher_id": "ur.01334166153.83",
+          "affiliations": [
+            {
+              "id": "grid.419482.2",
+              "name": "Mathematica Policy Research",
+              "city": "Princeton",
+              "city_id": 5102922,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        },
+        {
+          "first_name": "Jim",
+          "last_name": "Ohls",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.419482.2",
+          "researcher_id": "ur.01272520364.44",
+          "affiliations": [
+            {
+              "id": "grid.419482.2",
+              "name": "Mathematica Policy Research",
+              "city": "Princeton",
+              "city_id": 5102922,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/jn/article-pdf/145/2/344/23972166/344.pdf",
+      "keywords": [
+        "study",
+        "eligibility",
+        "differential improvement",
+        "income families",
+        "findings",
+        "low-income families",
+        "date",
+        "health",
+        "participants",
+        "regression analysis",
+        "evaluation",
+        "multivariate logistic regression analysis",
+        "program entry",
+        "national survey",
+        "benefits",
+        "participation",
+        "cross-sectional sample",
+        "increase",
+        "national evaluation",
+        "future research",
+        "role",
+        "SNAP households",
+        "Supplemental Nutrition Assistance Program (SNAP) participation",
+        "Nutrition Assistance Program",
+        "sectional sample",
+        "percentage of households",
+        "improvement",
+        "survey",
+        "program eligibility",
+        "family",
+        "being",
+        "large national survey",
+        "months",
+        "experimental research design",
+        "percentage",
+        "entry",
+        "recent data",
+        "SNAP participation",
+        "baseline information",
+        "Supplemental Nutrition Assistance Program",
+        "samples",
+        "program",
+        "assistance programs",
+        "food",
+        "severe food insecurity",
+        "food insecurity",
+        "research design",
+        "logistic regression analysis",
+        "hunger",
+        "data",
+        "association",
+        "longitudinal sample",
+        "Americans",
+        "specific groups",
+        "days",
+        "SNAP participants",
+        "objective",
+        "low food security",
+        "program participation",
+        "group",
+        "quasi-experimental research design"
+      ],
+      "journal_title": "Journal of Nutrition",
+      "title": "Supplemental Nutrition Assistance Program participation is associated with an increase in household food security in a national evaluation"
+    },
+    "europepmc": {
+      "doi": "10.3945/jn.114.198697",
+      "journal": "J Nutr",
+      "url": "http://europepmc.org/abstract/MED/25644357",
+      "title": "supplemental nutrition assistance program participation is associated with an increase in household food security in a national evaluation"
+    }
+  },
+  {
+    "title": "Development and validation of an Arab family food security scale",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/24598883",
+      "keywords": "Adult,Arabs/statistics data,Cross-Sectional Studies,Feeding Behavior,Female,Food Supply/statistics data,Humans,Lebanon/epidemiology,Logistic Models,Male,Prevalence,Psychometric,Refugees/statistics data,Reproducibility of Results,Surveys and Questionnaires,CPS-FSS,Citation,FSSM,NonE Tier 1",
+      "doi": "10.3945/jn.113.187112",
+      "journal": "The Journal of nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.3945/jn.113.187112",
+      "authors": [
+        {
+          "first_name": "Nadine R.",
+          "last_name": "Sahyoun",
+          "corresponding": "",
+          "orcid": "['0000-0003-2309-1868']",
+          "current_organization_id": "grid.410443.6",
+          "researcher_id": "ur.01350011203.77",
+          "affiliations": [
+            {
+              "id": "grid.164295.d",
+              "name": "University of Maryland, College Park",
+              "city": "College Park",
+              "city_id": 4351977,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Mark",
+          "last_name": "Nord",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.482913.5",
+          "researcher_id": "ur.0707544067.45",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Anniebelle J.",
+          "last_name": "Sassine",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.22903.3a",
+          "researcher_id": "ur.01150643450.25",
+          "affiliations": [
+            {
+              "id": "grid.22903.3a",
+              "name": "American University of Beirut",
+              "city": "Beirut",
+              "city_id": 276781,
+              "country": "Lebanon",
+              "country_code": "LB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Karin",
+          "last_name": "Seyfert",
+          "corresponding": "",
+          "orcid": "['0000-0002-3354-8844']",
+          "current_organization_id": "grid.479394.4",
+          "researcher_id": "ur.01216756650.63",
+          "affiliations": [
+            {
+              "id": "grid.83440.3b",
+              "name": "University College London",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Nahla",
+          "last_name": "Hwalla",
+          "corresponding": "",
+          "orcid": "['0000-0002-0685-6323']",
+          "current_organization_id": "grid.22903.3a",
+          "researcher_id": "ur.01346204265.44",
+          "affiliations": [
+            {
+              "id": "grid.22903.3a",
+              "name": "American University of Beirut",
+              "city": "Beirut",
+              "city_id": 276781,
+              "country": "Lebanon",
+              "country_code": "LB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Hala",
+          "last_name": "Ghattas",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.22903.3a",
+          "researcher_id": "ur.01276756214.02",
+          "affiliations": [
+            {
+              "id": "grid.22903.3a",
+              "name": "American University of Beirut",
+              "city": "Beirut",
+              "city_id": 276781,
+              "country": "Lebanon",
+              "country_code": "LB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/jn/article-pdf/144/5/751/23974892/751.pdf",
+      "keywords": [
+        "direction",
+        "reliability",
+        "validity",
+        "article",
+        "sampling design",
+        "theory",
+        "internal validity",
+        "questions",
+        "consistency",
+        "method",
+        "statistical methods",
+        "categories",
+        "response theory",
+        "regression",
+        "fit",
+        "data",
+        "item response theory",
+        "objective",
+        "validation",
+        "module",
+        "tool",
+        "design"
+      ],
+      "journal_title": "Journal of Nutrition",
+      "title": "Development and validation of an Arab family food security scale"
+    },
+    "europepmc": {
+      "doi": "10.3945/jn.113.187112",
+      "journal": "J Nutr",
+      "url": "http://europepmc.org/abstract/MED/24598883",
+      "title": "development and validation of an arab family food security scale"
+    }
+  },
+  {
+    "title": "Food insecurity is associated with poor sleep outcomes among US adults",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25733479",
+      "keywords": "Adult,Body Mass Index,Cross-Sectional Studies,Female,Food Supply,Humans,Linear Models,Logistic Models,Male,Nutrition Surveys,Sleep Deprivation,Socioeconomic Factors,Young Adult,CPS-FSS,Citation,NHANES-FSQ,Analyzed,FSSM,NonE Tier 1",
+      "doi": "10.3945/jn.114.199919",
+      "journal": "The Journal of nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.3945/jn.114.199919",
+      "authors": [
+        {
+          "first_name": "Meng",
+          "last_name": "Ding",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.252546.2",
+          "researcher_id": "ur.01032141242.78",
+          "affiliations": [
+            {
+              "name": "Departments of 4Nutrition, Dietetics, and Hospitality Management"
+            }
+          ]
+        },
+        {
+          "first_name": "Margaret K",
+          "last_name": "Keiley",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.252546.2",
+          "researcher_id": "ur.01137566273.54",
+          "affiliations": [
+            {
+              "name": "Human Development and Family Studies"
+            }
+          ]
+        },
+        {
+          "first_name": "Kimberly B",
+          "last_name": "Garza",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.252546.2",
+          "researcher_id": "ur.0753173654.64",
+          "affiliations": [
+            {
+              "name": "Health Outcomes Research and Policy, and"
+            }
+          ]
+        },
+        {
+          "first_name": "Patricia A",
+          "last_name": "Duffy",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.252546.2",
+          "researcher_id": "ur.010776030441.97",
+          "affiliations": [
+            {
+              "id": "grid.252546.2",
+              "name": "Auburn University",
+              "city": "Auburn",
+              "city_id": 4830796,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Claire A",
+          "last_name": "Zizza",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.252546.2",
+          "researcher_id": "ur.01262126110.31",
+          "affiliations": [
+            {
+              "name": "Departments of 4Nutrition, Dietetics, and Hospitality Management"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/jn/article-pdf/145/3/615/23968478/615.pdf",
+      "keywords": [
+        "US adults",
+        "health care",
+        "outcomes",
+        "care",
+        "logistic regression models",
+        "longer sleep latency",
+        "complaints",
+        "chronic conditions",
+        "status",
+        "sleep quantity",
+        "participants",
+        "adverse health outcomes",
+        "reference group",
+        "Adult Food Security Survey Module",
+        "health behaviors",
+        "quality",
+        "health care professionals",
+        "FS women",
+        "sex",
+        "multiple linear",
+        "self",
+        "secure women",
+        "sleep latency",
+        "food secure women",
+        "duration",
+        "care professionals",
+        "regression models",
+        "health outcomes",
+        "poor sleep quantity",
+        "latency",
+        "NHANES 2005",
+        "divergent patterns",
+        "sleep",
+        "FS",
+        "poor sleep outcomes",
+        "samples",
+        "sleep outcomes",
+        "food security status",
+        "inadequate sleep",
+        "Food Security Survey Module",
+        "food insecurity",
+        "population",
+        "short sleep duration",
+        "food insecure adults",
+        "security status",
+        "association",
+        "men",
+        "adults",
+        "sleep complaints",
+        "low FS",
+        "Survey Module",
+        "professionals",
+        "sleep duration",
+        "women",
+        "patterns",
+        "group",
+        "little research attention",
+        "risk"
+      ],
+      "journal_title": "Journal of Nutrition",
+      "title": "Food insecurity is associated with poor sleep outcomes among US adults"
+    },
+    "europepmc": {
+      "doi": "10.3945/jn.114.199919",
+      "journal": "J Nutr",
+      "url": "http://europepmc.org/abstract/MED/25733479",
+      "title": "food insecurity is associated with poor sleep outcomes among us adults"
+    }
+  },
+  {
+    "title": "Home-Delivered Meals and Nutrition Status Among Older Adults",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25030738",
+      "keywords": "Meals,Food supply,Aged,Nutritional status,Home-delivered meal,Food security,Older adults,Older Americans Act,CPS-FSS,Citation,NonE Tier 2",
+      "doi": "10.1177/0884533614536446",
+      "journal": "Nutrition in clinical practice : official publication of the American Society for Parenteral and Enteral Nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1177/0884533614536446",
+      "authors": [
+        {
+          "first_name": "Nadine R.",
+          "last_name": "Sahyoun",
+          "corresponding": "",
+          "orcid": "['0000-0003-2309-1868']",
+          "current_organization_id": "grid.410443.6",
+          "researcher_id": "ur.01350011203.77",
+          "affiliations": [
+            {
+              "id": "grid.164295.d",
+              "name": "University of Maryland, College Park",
+              "city": "College Park",
+              "city_id": 4351977,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Anna",
+          "last_name": "Vaudin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.164295.d",
+          "researcher_id": "ur.01364745055.51",
+          "affiliations": [
+            {
+              "id": "grid.164295.d",
+              "name": "University of Maryland, College Park",
+              "city": "College Park",
+              "city_id": 4351977,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "outcomes",
+        "study",
+        "intake",
+        "chronic conditions",
+        "more information",
+        "status",
+        "effects",
+        "hospitalization",
+        "health",
+        "mental limitations",
+        "review",
+        "healthy meals",
+        "dietary intake",
+        "nutrient needs",
+        "national survey",
+        "quality",
+        "benefits",
+        "social isolation",
+        "more meals",
+        "HDM",
+        "disability",
+        "multifactorial effects",
+        "health benefits",
+        "need",
+        "social needs",
+        "calories",
+        "health outcomes",
+        "home",
+        "functional disability",
+        "illness",
+        "available literature",
+        "more days",
+        "older adults",
+        "meal programs",
+        "survey",
+        "decrease",
+        "Americans Act",
+        "impact",
+        "HDM program",
+        "nutrition services",
+        "healthcare expenditures",
+        "meal",
+        "small study",
+        "Older Americans Act",
+        "literature",
+        "program",
+        "food",
+        "relationship",
+        "greater health benefits",
+        "age",
+        "program impact",
+        "weeks",
+        "nutrition status",
+        "more studies",
+        "difficulties",
+        "adults",
+        "health status",
+        "health expenditure",
+        "days",
+        "services",
+        "individuals",
+        "expenditure",
+        "United States"
+      ],
+      "journal_title": "Nutrition in Clinical Practice",
+      "title": "Home-Delivered Meals and Nutrition Status Among Older Adults"
+    },
+    "europepmc": {
+      "doi": "10.1177/0884533614536446",
+      "journal": "Nutr Clin Pract",
+      "url": "http://europepmc.org/abstract/MED/25030738",
+      "title": "home-delivered meals and nutrition status among older adults"
+    }
+  },
+  {
+    "title": "Food on the Fringe: Food Insecurity and the Use of Payday Loans",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/https://doi.org/10.1086/679388",
+      "keywords": "Payday loans,Food security,Wellbeing,CPS-FSS,Analyzed,NonE Tier 2",
+      "doi": "https://doi.org/10.1086/679388",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1086/679388",
+      "authors": [
+        {
+          "first_name": "Katie",
+          "last_name": "Fitzpatrick",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Alisha",
+          "last_name": "Coleman-Jensen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.01256022523.75",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "food insecurity",
+        "use",
+        "food"
+      ],
+      "journal_title": "Social Service Review",
+      "title": "Food on the Fringe: Food Insecurity and the Use of Payday Loans"
+    }
+  },
+  {
+    "title": "Identifying Factors, Barriers, and Solutions Related to Food Insecurity in Lackawanna County, Pennsylvania",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1080/19320248.2014.898177",
+      "keywords": "Food security,Hunger,Qualitative,Needs assessment,CPS-FSS,Citation,NonE Tier 3",
+      "doi": "10.1080/19320248.2014.898177",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jand.2014.06.325",
+      "authors": [
+        {
+          "first_name": "J.",
+          "last_name": "Christaldi",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.268132.c",
+          "researcher_id": "ur.010300670441.90",
+          "affiliations": [
+            {
+              "id": "grid.268132.c",
+              "name": "West Chester University",
+              "city": "West Chester",
+              "city_id": 4562144,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "D. Cuy",
+          "last_name": "Castellanos",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266231.2",
+          "researcher_id": "ur.01271046633.89",
+          "affiliations": [
+            {
+              "id": "grid.266231.2",
+              "name": "University of Dayton",
+              "city": "Dayton",
+              "city_id": 4509884,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "Pennsylvania",
+        "Identifying factors",
+        "Related",
+        "factors",
+        "barriers",
+        "food insecurity"
+      ],
+      "journal_title": "Journal of the Academy of Nutrition and Dietetics",
+      "title": "Identifying Factors, Barriers, and Solutions Related to Food Insecurity in Lackawanna County, Pennsylvania"
+    }
+  },
+  {
+    "title": "Spatial Mapping of Food Security in Mukim Pendang, Kedah, Malaysia",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.5901/ajis.2014.v3n4p349",
+      "keywords": "Food security,GFSI,GIS,CPS-FSS,Citation,JTier N/A",
+      "doi": "10.5901/ajis.2014.v3n4p349",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Map the Meal Gap: Exploring Food Insecurity at the Local Level",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/aepp/ppu018",
+      "keywords": "Food insecurity,Hunger,Poverty,Map the Meal Gap,State-level,County-level,CPS-FSS,Analyzed,FSSM,Econ Tier 2",
+      "doi": "10.1093/aepp/ppu018",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1093/aepp/ppu018",
+      "authors": [
+        {
+          "first_name": "C.",
+          "last_name": "Gundersen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.01341472614.22",
+          "affiliations": []
+        },
+        {
+          "first_name": "E.",
+          "last_name": "Engelhard",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.479194.6",
+          "researcher_id": "ur.010452733651.38",
+          "affiliations": []
+        },
+        {
+          "first_name": "E.",
+          "last_name": "Waxman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.56362.34",
+          "researcher_id": "ur.0771652343.88",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "levels",
+        "food insecurity"
+      ],
+      "journal_title": "Applied Economic Perspectives and Policy",
+      "title": "Map the Meal Gap: Exploring Food Insecurity at the Local Level"
+    }
+  },
+  {
+    "title": "Supplemental nutrition assistance program participation and child food security",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/24590744",
+      "keywords": "Child,Cross-Sectional Studies,Dietary Supplements,Female,Food Assistance,Food Supply,Government Programs,Humans,Male,United States,CPS-FSS,Citation,FSSM,NonE Tier 1",
+      "doi": "10.1542/peds.2013-2823",
+      "journal": "Pediatrics",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1542/peds.2013-2823",
+      "authors": [
+        {
+          "first_name": "James",
+          "last_name": "Mabli",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.419482.2",
+          "researcher_id": "ur.01334166153.83",
+          "affiliations": [
+            {
+              "id": "grid.419482.2",
+              "name": "Mathematica Policy Research",
+              "city": "Princeton",
+              "city_id": 5102922,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        },
+        {
+          "first_name": "Julie",
+          "last_name": "Worthington",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.419482.2",
+          "researcher_id": "ur.01303705744.24",
+          "affiliations": [
+            {
+              "id": "grid.419482.2",
+              "name": "Mathematica Policy Research",
+              "city": "Princeton",
+              "city_id": 5102922,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://pediatrics.aappublications.org/content/133/4/610.full.pdf",
+      "keywords": [
+        "third decrease",
+        "differential improvement",
+        "odds of children",
+        "findings",
+        "food insecure",
+        "date",
+        "participants",
+        "regression analysis",
+        "health",
+        "multivariate logistic regression analysis",
+        "program entry",
+        "national survey",
+        "participation",
+        "children's food security",
+        "cross-sectional sample",
+        "future research",
+        "role",
+        "Supplemental Nutrition Assistance Program (SNAP) participation",
+        "SNAP households",
+        "children",
+        "sectional sample",
+        "income children",
+        "improvement",
+        "survey",
+        "sectional analysis",
+        "possible confounders",
+        "large national survey",
+        "insecurity",
+        "months",
+        "decrease",
+        "one-third decrease",
+        "experimental research design",
+        "entry",
+        "SNAP",
+        "odds",
+        "SNAP participation",
+        "baseline information",
+        "samples",
+        "cross-sectional analysis",
+        "severe food insecurity",
+        "food insecurity",
+        "research design",
+        "logistic regression analysis",
+        "data",
+        "association",
+        "longitudinal sample",
+        "low-income children",
+        "insecure",
+        "confounders",
+        "specific groups",
+        "days",
+        "SNAP participants",
+        "program participation",
+        "group",
+        "quasi-experimental research design"
+      ],
+      "journal_title": "Pediatrics",
+      "title": "Supplemental nutrition assistance program participation and child food security"
+    },
+    "europepmc": {
+      "doi": "10.1542/peds.2013-2823",
+      "journal": "Pediatrics",
+      "url": "http://europepmc.org/abstract/MED/24590744",
+      "title": "supplemental nutrition assistance program participation and child food security"
+    }
+  },
+  {
+    "title": "Women respondents report higher household food insecurity than do men in similar Canadian households",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/23651492",
+      "keywords": "Adolescent,Adult,Canada,Cross-Sectional Studies,Family Characteristics,Female,Food Supply,Health Surveys,Humans,Logistic Models,Male,Middle Aged,Socioeconomic Factors,Young Adult,CPS-FSS,Citation,FSSM,NonE Tier 1",
+      "doi": "10.1017/S136898001300116X",
+      "journal": "Public health nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1017/s136898001300116x",
+      "authors": [
+        {
+          "first_name": "Jesse",
+          "last_name": "Matheson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.9918.9",
+          "researcher_id": "ur.015604763057.28",
+          "affiliations": [
+            {
+              "id": "grid.9918.9",
+              "name": "University of Leicester",
+              "city": "Leicester",
+              "city_id": 2644668,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Lynn",
+          "last_name": "McIntyre",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.22072.35",
+          "researcher_id": "ur.01174705561.65",
+          "affiliations": [
+            {
+              "id": "grid.22072.35",
+              "name": "University of Calgary",
+              "city": "Calgary",
+              "city_id": 5913490,
+              "country": "Canada",
+              "country_code": "CA",
+              "state": "Alberta",
+              "state_code": "CA-AB"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9631FC916D01D0D8CDB635A0ED280A41/S136898001300116Xa.pdf/div-class-title-women-respondents-report-higher-household-food-insecurity-than-do-men-in-similar-canadian-households-div.pdf",
+      "keywords": [
+        "marital status",
+        "factors",
+        "household composition data",
+        "food insecurity rates",
+        "welfare receipt",
+        "households",
+        "year 2005/2006",
+        "economic disadvantage",
+        "status",
+        "findings",
+        "respondent characteristics",
+        "socio-economic disadvantage",
+        "married households",
+        "bias",
+        "differences",
+        "higher household food insecurity",
+        "socio-economic characteristics",
+        "sex",
+        "analysis",
+        "household socio-economic characteristics",
+        "Household Food Security Survey Module",
+        "Community Health Survey",
+        "respondents' sex",
+        "children",
+        "household food insecurity",
+        "annual household income",
+        "survey",
+        "household income",
+        "receipt",
+        "insecurity",
+        "Canadian Community Health Survey",
+        "exclusion",
+        "economic factors",
+        "women respondents",
+        "levels",
+        "household characteristics",
+        "self-employment",
+        "Health Survey",
+        "income",
+        "high rate",
+        "Food Security Survey Module",
+        "food insecurity",
+        "high levels",
+        "employment",
+        "years",
+        "disadvantages",
+        "data",
+        "presence of children",
+        "association",
+        "men",
+        "respondents",
+        "income sources",
+        "possible bias",
+        "economic characteristics",
+        "Canada",
+        "Survey Module",
+        "women",
+        "Canadian households",
+        "socio-economic factors"
+      ],
+      "journal_title": "Public Health Nutrition",
+      "title": "Women respondents report higher household food insecurity than do men in similar Canadian households"
+    },
+    "europepmc": {
+      "doi": "10.1017/S136898001300116X",
+      "journal": "Public Health Nutr",
+      "url": "http://europepmc.org/abstract/MED/23651492",
+      "title": "women respondents report higher household food insecurity than do men in similar canadian households"
+    }
+  },
+  {
+    "title": "Relative Undernourishment and Food Insecurity Associations with Plasmodium falciparum Among Batwa Pygmies in Uganda: Evidence from a Cross-Sectional Survey",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.4269/ajtmh.13-0422",
+      "keywords": "Undernourishment,Food Insecurity,Uganda,Cross-Sectional Studies,Infection,Nutrition,CPS-FSS,Citation,NonE Tier 1",
+      "doi": "10.4269/ajtmh.13-0422",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.4269/ajtmh.13-0422",
+      "authors": [
+        {
+          "first_name": "Joseph A.",
+          "last_name": "Lewnard",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.01070176112.68",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "Lea",
+          "last_name": "Berrang-Ford",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.9909.9",
+          "researcher_id": "ur.01357105715.45",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "Shuaib",
+          "last_name": "Lwasa",
+          "corresponding": "",
+          "orcid": "['0000-0003-4312-2836']",
+          "current_organization_id": "grid.11194.3c",
+          "researcher_id": "ur.01064637247.89",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "Didacus Bambaiha",
+          "last_name": "Namanya",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.415705.2",
+          "researcher_id": "ur.0755371402.48",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "Kaitlin A.",
+          "last_name": "Patterson",
+          "corresponding": "",
+          "orcid": "['0000-0002-3444-0472']",
+          "current_organization_id": "grid.34429.38",
+          "researcher_id": "ur.01023504602.40",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "Bl\u00e1naid",
+          "last_name": "Donnelly",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.14709.3b",
+          "researcher_id": "ur.01071620002.46",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "Manisha A.",
+          "last_name": "Kulkarni",
+          "corresponding": "",
+          "orcid": "['0000-0002-5084-4960']",
+          "current_organization_id": "grid.28046.38",
+          "researcher_id": "ur.01137733202.27",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "Sherilee L.",
+          "last_name": "Harper",
+          "corresponding": "",
+          "orcid": "['0000-0001-7298-8765']",
+          "current_organization_id": "grid.34429.38",
+          "researcher_id": "ur.0735642426.76",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "Nicholas H.",
+          "last_name": "Ogden",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.415368.d",
+          "researcher_id": "ur.0674332265.52",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "Cesar P.",
+          "last_name": "Carcamo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.11100.31",
+          "researcher_id": "ur.01231036755.05",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        },
+        {
+          "first_name": "the Indigenous Health Adaptation to Climate Change Research Team",
+          "last_name": "2013",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Department of Geography, McGill University, Montreal, Quebec, Canada; Department of Geography, Makerere University, Kampala, Uganda; Ugandan Ministry of Health, Kampala, Uganda; Department of Epidemiology and Community Medicine, University of Ottawa, Ottawa, Ontario, Canada; Department of Population Medicine, Ontario Veterinary College, University of Guelph, Guelph, Ontario, Canada; Zoonoses Division, Public Health Agency of Canada, Saint-Hyacinthe, Quebec, Canada; School of Public Health and Administration, Universidad Peruana Cayetano Heredia, Lima, Peru"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://www.ajtmh.org/deliver/fulltext/14761645/91/1/39.pdf?itemId=/content/journals/10.4269/ajtmh.13-0422&mimeType=pdf&containerItemId=content/journals/14761645",
+      "keywords": [
+        "malaria",
+        "outcomes",
+        "evidence",
+        "findings",
+        "status",
+        "effects",
+        "falciparum infection",
+        "parasite prevalence",
+        "positive test",
+        "sex",
+        "low-transmission settings",
+        "transmission settings",
+        "falciparum parasitemia",
+        "undernourishment",
+        "cross-sectional survey",
+        "falciparum",
+        "illness",
+        "sectional survey",
+        "survey",
+        "infection",
+        "clinical illness",
+        "malaria co",
+        "nutritional status",
+        "prevalence",
+        "test outcomes",
+        "setting",
+        "nutrition",
+        "higher age",
+        "food-insecure",
+        "parasitemia",
+        "Plasmodium falciparum infection",
+        "arm circumference",
+        "circumference",
+        "mid-upper arm circumference",
+        "severe food insecurity",
+        "years",
+        "food insecurity",
+        "population",
+        "age",
+        "malnutrition",
+        "district",
+        "Plasmodium falciparum",
+        "association",
+        "upper arm circumference",
+        "insecure",
+        "test",
+        "control",
+        "Kanungu District",
+        "Uganda",
+        "individuals",
+        "risk"
+      ],
+      "journal_title": "American Journal of Tropical Medicine and Hygiene",
+      "title": "Relative Undernourishment and Food Insecurity Associations with Plasmodium falciparum Among Batwa Pygmies in Uganda: Evidence from a Cross-Sectional Survey"
+    },
+    "openaire": {
+      "journal": "The American Journal of Tropical Medicine and Hygiene",
+      "title": "Relative Undernourishment and Food Insecurity Associations with Plasmodium falciparum Among Batwa Pygmies in Uganda: Evidence from a Cross-Sectional Survey",
+      "doi": "10.4269/ajtmh.13-0422",
+      "url": "http://europepmc.org/articles/PMC4080566",
+      "pdf": "http://eprints.whiterose.ac.uk/122990/1/Relative%20undernourishment%20and%20food%20insecurity%20associations%20with%20Plasmodium%20falciparum%20among%20Batwa%20pygmies%20in%20Uganda%3A%20evidence%20from%20a%20cross-sectional%20survey.pdf"
+    }
+  },
+  {
+    "title": "Prevalence of Perceived Food and Housing Security  -  15 States, 2013",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/DOI: http://dx.doi.org/10.15585/mmwr.mm6601a2",
+      "keywords": "Food Security,Housing Security,Social Determinants of Health,BRFSS,CPS-FSS,Citation,NonE Tier 1",
+      "doi": "DOI: http://dx.doi.org/10.15585/mmwr.mm6601a2",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.15585/mmwr.mm6601a2",
+      "authors": [
+        {
+          "first_name": "Rashid",
+          "last_name": "Njai",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.0723011047.57",
+          "affiliations": []
+        },
+        {
+          "first_name": "Paul",
+          "last_name": "Siegel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416738.f",
+          "researcher_id": "ur.0771124247.39",
+          "affiliations": []
+        },
+        {
+          "first_name": "Shaoman",
+          "last_name": "Yin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416738.f",
+          "researcher_id": "ur.01217114253.05",
+          "affiliations": []
+        },
+        {
+          "first_name": "Youlian",
+          "last_name": "Liao",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.01206072160.25",
+          "affiliations": []
+        }
+      ],
+      "linkout": "https://www.cdc.gov/mmwr/volumes/66/wr/pdfs/mm6601a2.pdf",
+      "keywords": [
+        "mortgages",
+        "healthy life",
+        "social determinants",
+        "Hispanic blacks",
+        "non-Hispanic whites",
+        "health",
+        "housing security",
+        "resources",
+        "level of education",
+        "social context",
+        "education",
+        "enough money",
+        "ethnic disparities",
+        "money",
+        "improved understanding",
+        "blacks",
+        "security",
+        "state",
+        "initiatives",
+        "determinants",
+        "worry",
+        "whites",
+        "questions",
+        "survey",
+        "prevalence",
+        "Hispanics",
+        "nutritious meals",
+        "health equity initiatives",
+        "rent",
+        "substantial prevalence",
+        "health disparities",
+        "Hispanic whites",
+        "concise nature",
+        "levels",
+        "equity initiatives",
+        "Health Survey",
+        "food",
+        "essential resources",
+        "disparities",
+        "question format",
+        "food security",
+        "access",
+        "life",
+        "population",
+        "housing",
+        "Behavioral Risk Factor Surveillance System",
+        "nature",
+        "Risk Factor Surveillance System",
+        "Large Health Survey",
+        "understanding",
+        "respondents",
+        "patterns",
+        "important social determinant",
+        "non-Hispanic blacks",
+        "national level",
+        "risk",
+        "United States",
+        "context"
+      ],
+      "journal_title": "MMWR Morbidity and Mortality Weekly Report",
+      "title": "Prevalence of Perceived Food and Housing Security  -  15 States, 2013"
+    },
+    "openaire": {
+      "journal": "MMWR. Morbidity and Mortality Weekly Report",
+      "title": "Prevalence of Perceived Food and Housing Security  -  15 States, 2013",
+      "doi": "10.15585/mmwr.mm6601a2",
+      "url": "http://europepmc.org/articles/PMC5687269"
+    }
+  },
+  {
+    "title": "Tackling Wicked Problems Through Engaged Scholarship",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Engaged Scholarship,Community Partners,Collective Collaboration,Community-Engaged,CPS-FSS,Citation,JTier N/A",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Food Insecurity And Health Outcomes",
+    "datasets": [
+      "dataset-026",
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26526240",
+      "keywords": "Food Supply,Food Insecurity,SNAP,Health Status,Humans,Public Health,Surveys and Questionnaires,United States,CPS-FSS,Chart,ECLS-FS,NHANES-FSQ,Citation,NonE Tier 1",
+      "doi": "10.1377/hlthaff.2015.0645",
+      "journal": "Health affairs",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1515/ev-2017-0004",
+      "authors": [
+        {
+          "first_name": "Craig",
+          "last_name": "Gundersen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.01341472614.22",
+          "affiliations": [
+            {
+              "id": "grid.35403.31",
+              "name": "University of Illinois at Urbana Champaign",
+              "city": "Urbana",
+              "city_id": 4914570,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Hilary K.",
+          "last_name": "Seligman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.0625043223.30",
+          "affiliations": [
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "outcomes",
+        "hyperlipidemia",
+        "study",
+        "predisposes",
+        "intake",
+        "birth defects",
+        "rate",
+        "insecure individuals",
+        "findings",
+        "health",
+        "health crisis",
+        "anxiety",
+        "general health",
+        "health impacts",
+        "defects",
+        "health care costs",
+        "behavioral problems",
+        "fair health",
+        "worse oral health",
+        "increase",
+        "poor general health",
+        "eligible households",
+        "health outcomes",
+        "mental health problems",
+        "children",
+        "decreased nutrient intake",
+        "depression",
+        "insecurity",
+        "diabetes",
+        "recent appreciation",
+        "oral health",
+        "high risk",
+        "asthma",
+        "poor health",
+        "nutrition",
+        "program enrollees",
+        "impact",
+        "negative health outcomes",
+        "higher health care costs",
+        "multiple causes",
+        "major health crisis",
+        "nutrient intake",
+        "poor sleep outcomes",
+        "pathway",
+        "levels",
+        "persons",
+        "sleep outcomes",
+        "extensive literature",
+        "literature",
+        "food",
+        "hypertension",
+        "food insecurity",
+        "cognitive problems",
+        "tailored support",
+        "food insecure households",
+        "food insecure individuals",
+        "medicine",
+        "suicidal ideation",
+        "ideation",
+        "insecure households",
+        "adults",
+        "care costs",
+        "multiple negative health outcomes",
+        "potential pathways",
+        "enrollees",
+        "support",
+        "appreciation",
+        "anemia",
+        "cause",
+        "aggression",
+        "recognition",
+        "intervention",
+        "individuals",
+        "risk",
+        "health problems"
+      ],
+      "journal_title": "The Economists Voice",
+      "title": "Food Insecurity And Health Outcomes"
+    },
+    "openaire": {
+      "journal": "Nutrients",
+      "title": "Food Insecurity And Health Outcomes",
+      "doi": "10.3390/nu11061419",
+      "url": "http://europepmc.org/articles/PMC6627945"
+    }
+  },
+  {
+    "title": "Changing the CPS Health Insurance Questions And The Implications On The Uninsured Rate: Redesign and Production Estimates",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Annual Social and Economic Supplement,Current Population Survey,Health Insurance Coverage,Uninsured,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Immigrant Youth Outcomes: Patterns by Generation and Race and Ethnicity",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Immigrant Youth,Nonimmigrant Youth,Wellbeing,Race/ethnicity,Inequality,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "New Evidence on Why Children's Food Security Varies Across Households with Similar Incomes",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Children Food Security,Income-to-needs,CPS-FSS,PSID-FFSS,NHANES-FSQ,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Understanding Health Disparities",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/DOI: 10.1007/978-3-319-06462-8_2",
+      "keywords": "Health Disparities,Poverty,Development of Children,Life Cycles,CPS-FSS,Chart",
+      "doi": "DOI: 10.1007/978-3-319-06462-8_2",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1007/s40596-018-0937-z",
+      "authors": [
+        {
+          "first_name": "Billy",
+          "last_name": "Bromage",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.01353740777.46",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "John A.",
+          "last_name": "Encandela",
+          "corresponding": "",
+          "orcid": "['0000-0003-4017-7161']",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.0773424502.70",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Melissa",
+          "last_name": "Cranford",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Esperanza",
+          "last_name": "Diaz",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.0737714202.38",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Bridgett",
+          "last_name": "Williamson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.013311312221.40",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Virginia T.",
+          "last_name": "Spell",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014672055546.47",
+          "affiliations": [
+            {
+              "name": "Urban League of Southern Connecticut, New Haven, CT, USA"
+            }
+          ]
+        },
+        {
+          "first_name": "Robert M.",
+          "last_name": "Rohrbaugh",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.0577022074.56",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "education intervention",
+        "health disparities",
+        "eyes",
+        "members",
+        "community members",
+        "disparities",
+        "intervention"
+      ],
+      "journal_title": "Academic Psychiatry",
+      "title": "Understanding Health Disparities"
+    },
+    "europepmc": {
+      "doi": "10.1038/s41372-018-0298-1",
+      "journal": "J Perinatol",
+      "url": "http://europepmc.org/abstract/MED/30560947",
+      "title": "understanding health disparities"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Understanding Health Disparities",
+      "doi": "10.1177/0022146510383838",
+      "url": "https://europepmc.org/articles/PMC3468327/"
+    }
+  },
+  {
+    "title": "Innovations in NYC Health and Human Services Policy: Food Policy",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Food Policy,Healthy Food,Nutrition Improvement,Hunger,Food Systems,CPS-FSS,Chart",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "Innovations in NYC Health and Human Services Policy: Food Policy",
+      "doi": "10.7448/IAS.19.6.21264",
+      "url": "http://europepmc.org/articles/PMC4960637"
+    }
+  },
+  {
+    "title": "Poverty and Food Needs: Winneshiek County, Iowa",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://lib.dr.iastate.edu/icip_poverty/194",
+      "keywords": "Poverty,Food Insecurity,Communities,Economic Well-Being,Iowa,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+children:
+  - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#Corpus"
+  - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#Dataset"
+datasets:
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#Corpus"
+    label: "Corpus"
+    children:
+      - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#publication340"
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#Dataset"
+    label: "Datasets"
+    children:
+      - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-001"
+      - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-a755ac27b9721267c39b"
+      - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-515a08e38c69762ff789"
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#publication340"
+    label: "A publication"
+    snippets:
+      Load in Pandas: "import pandas as pd; ..."
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-001"
+    label: "A bloody good dataset"
+    snippets:
+      Load in Pandas: "import pandas as pd; ..."
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-a755ac27b9721267c39b"
+    label: "but wait one more"
+    snippets:
+      Load in Pandas: "import pandas as pd; ..."
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-515a08e38c69762ff789"
+    label: "ok enough data"
+    snippets:
+      Load in Pandas: "import pandas as pd; ..."

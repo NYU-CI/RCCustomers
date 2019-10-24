@@ -1,0 +1,673 @@
+[
+  {
+    "title": "Food Insecurity, Social Inequality, and Social Policy",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://stars.library.ucf.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=5942&context=etd",
+      "keywords": "Food Insecurity,Social Inequalities,Social Policy,Food Desert,SNAP,Household Adaptation Strategies,CPS-FSS,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "Food Insecurity, Social Inequality, and Social Policy",
+      "doi": "10.7448/IAS.15.5.18442",
+      "url": "http://europepmc.org/articles/PMC3499903"
+    }
+  },
+  {
+    "title": "A Community of Isolation: An Ethnographic Examination of Mothering in Poverty and Its Impact on Food Security in Pinellas County, Florida",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=6981&context=etd",
+      "keywords": "Ethnographic Examination,Poverty,Food Security,Maternal Isolation,Intensive Mothering,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Effects of Energy Price Shocks on Household Food Security in Low-Income Households",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/84241/err-233.pdf?v=0",
+      "keywords": "Food Security,Energy Price Shocks,Heat and Eat,Poverty,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Do Grocery (Food Sales) Taxes Cause Food Insecurity?",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Food Security,Grocery Food,Sales Tax,SNAP,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Poverty after Welfare Reform",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://media4.manhattan-institute.org/sites/default/files/R-SW-0816.pdf",
+      "keywords": "Poverty,Welfare Reform,Great Recession,TANF,Safety Net,Economics,Income Inequality,Urban Policy,CPS-FSS,Citation,Chart",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Essays on Women's Employment and Children's Well-Being",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://scholarworks.gsu.edu/cgi/viewcontent.cgi?article=1115&context=econ_diss",
+      "keywords": "Women's Employment,Children's Health,Economics,Body Mass Index,Obesity,Food Insecurity,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The State of Senior Hunger in America 2016: An Annual Report",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.feedingamerica.org/sites/default/files/research/senior-hunger-research/state-of-senior-hunger-2016.pdf",
+      "keywords": "Food Insecurity,Senior Hunger,United States,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Hunger Among Adults Age 50-59 in 2017: An Annual Report",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.feedingamerica.org/sites/default/files/2019-05/hunger-among-adults-50-59_full-report.pdf",
+      "keywords": "Food Insecurity,Adults,United States,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Modernizing SNAP Benefits",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.hamiltonproject.org/assets/files/ziliak_modernizing_snap_benefits.pdf",
+      "keywords": "SNAP,Food Stamp Program,Nutrition,Thrifty Food Plan,Food Insecurity,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The State of Senior Hunger in America 2015: An Annual Report",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.feedingamerica.org/sites/default/files/research/senior-hunger-research/state-of-senior-hunger-2015.pdf",
+      "keywords": "Food Insecurity,Seniors,Hunger,United States,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The State of Senior Hunger in America 2017: An Annual Report",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.feedingamerica.org/sites/default/files/2019-06/The%20State%20of%20Senior%20Hunger%20in%202017_F2.pdf",
+      "keywords": "Food Insecurity,Seniors,United States,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Children's Food Insecurity In Cohabiting, Married And Single-Mother Households",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Family Structure,Child Food Insecurity,Cohabiting Households,Married Households,Single Mother Households,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Using Natural Experiments to Identify the Effects of SNAP on Child and Adult Health",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://ukcpr.org/sites/ukcpr/files/research-pdfs/DP2017-04_Miller_Morrissey.pdf",
+      "keywords": "SNAP,Food Security,Child Health,Adult Health,Health Care Utilization,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "SNAP and Food Consumption",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://ukcpr.org/sites/ukcpr/files/research-pdfs/DP2014-03.pdf",
+      "keywords": "SNAP,Food Consumption,In-Kind Transfers,Consumer Expenditure Survey,Food Spending,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.2139/ssrn.3357939",
+      "authors": [
+        {
+          "first_name": "Xirong",
+          "last_name": "Lin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "SNAP",
+        "food consumption",
+        "data",
+        "consumption"
+      ],
+      "journal_title": "SSRN Electronic Journal",
+      "title": "SNAP and Food Consumption"
+    }
+  },
+  {
+    "title": "Neighborhood Food Infrastructure, Economic Shocks, and Very Low Food Security Among Children",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://ukcpr.org/sites/ukcpr/files/research-pdfs/DP2014-09_allard_shaefer.pdf",
+      "keywords": "Neighborhood Food Infrastructure,Economic Shocks,Children Food Security,Food Assistance,Great Recession,Michigan Recession and Recovery Study,Low-Income Households,CPS-FSS,SIPP-FS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Very Low Food Security in US Households Is Predicted by Complex Patterns of Health, Economics, and Service Participation",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-050",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/28855422",
+      "keywords": "Adolescent,Adult,Aged,Child,Delivery of Health Care,Diet,Family Characteristics,Female,Food Assistance,Food Supply,Health Status,Humans,Income,Male,Middle Aged,Nutritional Status,Poverty,Regression Analysis,Surveys and Questionnaires,United States,Young Adult,CPS-FSS,NHIS-FSS,NHANES-FSQ,Analyzed,FSSM,NonE Tier 1",
+      "doi": "10.3945/jn.117.253179",
+      "journal": "The Journal of nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.3945/jn.117.253179",
+      "authors": [
+        {
+          "first_name": "Seul Ki",
+          "last_name": "Choi",
+          "corresponding": "",
+          "orcid": "['0000-0002-3330-3652']",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.0754440353.22",
+          "affiliations": [
+            {
+              "name": "Department of Health Promotion, Education, and Behavior, Arnold School of Public Health, University of South Carolina, Columbia, SC; and."
+            }
+          ]
+        },
+        {
+          "first_name": "Maryah S",
+          "last_name": "Fram",
+          "corresponding": "",
+          "orcid": "['0000-0003-4575-0326']",
+          "current_organization_id": "grid.254567.7",
+          "researcher_id": "ur.01243414442.68",
+          "affiliations": [
+            {
+              "id": "grid.254567.7",
+              "name": "University of South Carolina",
+              "city": "Columbia",
+              "city_id": 4575352,
+              "country": "United States",
+              "country_code": "US",
+              "state": "South Carolina",
+              "state_code": "US-SC"
+            }
+          ]
+        },
+        {
+          "first_name": "Edward A",
+          "last_name": "Frongillo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.254567.7",
+          "researcher_id": "ur.014577361657.62",
+          "affiliations": [
+            {
+              "name": "Department of Health Promotion, Education, and Behavior, Arnold School of Public Health, University of South Carolina, Columbia, SC; and efrongillo@sc.edu."
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/jn/article-pdf/147/10/1992/23483181/jn253179.pdf",
+      "keywords": [
+        "health care",
+        "experience",
+        "care",
+        "study",
+        "households",
+        "use",
+        "participants",
+        "health",
+        "economics",
+        "sample participants",
+        "different predictors",
+        "medical need",
+        "participation",
+        "risk characteristics",
+        "household food security",
+        "analysis",
+        "sociodemographic characteristics",
+        "welfare",
+        "multiple characteristics",
+        "disability",
+        "need",
+        "state",
+        "children",
+        "adult households",
+        "policy",
+        "survey",
+        "Health Interview Survey",
+        "idiosyncratic situations",
+        "data sources",
+        "poor health",
+        "federal poverty line",
+        "household experience",
+        "poverty line",
+        "limitations",
+        "social welfare",
+        "Food Security Scale",
+        "survey participants",
+        "Current Population Survey",
+        "variables",
+        "population survey",
+        "income",
+        "low income",
+        "program",
+        "Security Scale",
+        "complex combination",
+        "assistance programs",
+        "food security",
+        "National Health Interview Survey",
+        "data",
+        "Interview Survey",
+        "predictors",
+        "Little",
+        "adults",
+        "service participation",
+        "multiple domains",
+        "food assistance programs",
+        "patterns",
+        "situation",
+        "Very Low Food Security",
+        "program participation",
+        "low food security",
+        "US households",
+        "individuals",
+        "United States"
+      ],
+      "journal_title": "Journal of Nutrition",
+      "title": "Very Low Food Security in US Households Is Predicted by Complex Patterns of Health, Economics, and Service Participation"
+    },
+    "europepmc": {
+      "doi": "10.3945/jn.117.253179",
+      "journal": "J Nutr",
+      "url": "http://europepmc.org/abstract/MED/28855422",
+      "title": "very low food security in us households is predicted by complex patterns of health, economics, and service participation"
+    }
+  },
+  {
+    "title": "Household food insecurity is positively associated with depression among low-income supplemental nutrition assistance program participants and income-eligible nonparticipants",
+    "datasets": [
+      "dataset-048",
+      "dataset-017"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25733480",
+      "keywords": "Adult,Aged,Body Mass Index,Cross-Sectional Studies,Depression,Family Characteristics,Female,Food Assistance,Food Supply,Humans,Logistic Models,Male,Middle Aged,Multivariate Analysis,Nutrition Surveys,Poverty,Prevalence,Risk Factors,Surveys and Questionnaires,Young Adult,NHANES-FSQ,Analyzed,FSSM,NonE Tier 1",
+      "doi": "10.3945/jn.114.199414",
+      "journal": "The Journal of nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.3945/jn.114.199414",
+      "authors": [
+        {
+          "first_name": "Cindy W",
+          "last_name": "Leung",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.214458.e",
+          "researcher_id": "ur.0730261053.15",
+          "affiliations": [
+            {
+              "name": "Center for Health and Community, School of Medicine, and"
+            }
+          ]
+        },
+        {
+          "first_name": "Elissa S",
+          "last_name": "Epel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01365512271.22",
+          "affiliations": [
+            {
+              "name": "Center for Health and Community, School of Medicine, and"
+            },
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Walter C",
+          "last_name": "Willett",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.0607477203.05",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.62560.37",
+              "name": "Brigham and Women's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Eric B",
+          "last_name": "Rimm",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.010735434242.45",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.62560.37",
+              "name": "Brigham and Women's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Barbara A",
+          "last_name": "Laraia",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47840.3f",
+          "researcher_id": "ur.011704415527.32",
+          "affiliations": [
+            {
+              "id": "grid.47840.3f",
+              "name": "University of California, Berkeley",
+              "city": "Berkeley",
+              "city_id": 5327684,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/jn/article-pdf/145/3/622/23968510/622.pdf",
+      "keywords": [
+        "outcomes",
+        "income adults",
+        "participation status",
+        "mental health outcomes",
+        "logistic regression models",
+        "adverse mental health outcomes",
+        "status",
+        "use",
+        "food insecure",
+        "questionnaire",
+        "participants",
+        "response relation",
+        "high prevalence",
+        "health",
+        "program participants",
+        "heterogeneity",
+        "income-eligible nonparticipants",
+        "mental health",
+        "participation",
+        "poverty level",
+        "household food security",
+        "higher odds",
+        "risk",
+        "regression models",
+        "health outcomes",
+        "Household Food Security Survey Module",
+        "Nutrition Assistance Program",
+        "overall prevalence",
+        "depressive symptoms",
+        "household food insecurity",
+        "depression",
+        "household income",
+        "US Household Food Security Survey Module",
+        "scores",
+        "study population",
+        "prevalence",
+        "low-income adults",
+        "risk of depression",
+        "odds",
+        "multivariate logistic regression model",
+        "symptoms",
+        "SNAP participation",
+        "levels",
+        "Supplemental Nutrition Assistance Program",
+        "income",
+        "Health Questionnaire",
+        "program",
+        "assistance programs",
+        "food insecurity",
+        "Food Security Survey Module",
+        "population",
+        "programmatic efforts",
+        "health characteristics",
+        "aim",
+        "data",
+        "multivariate adjustment",
+        "association",
+        "eligible nonparticipants",
+        "Supplemental Nutrition Assistance Program (SNAP) participants",
+        "adults",
+        "beneficiaries",
+        "food assistance programs",
+        "lower magnitude",
+        "insecure",
+        "Survey Module",
+        "federal poverty level",
+        "dose-response relation",
+        "federal food assistance programs",
+        "Patient Health Questionnaire",
+        "SNAP participants",
+        "nonparticipants",
+        "low food security",
+        "adjustment",
+        "NHANES"
+      ],
+      "journal_title": "Journal of Nutrition",
+      "title": "Household food insecurity is positively associated with depression among low-income supplemental nutrition assistance program participants and income-eligible nonparticipants"
+    },
+    "europepmc": {
+      "doi": "10.3945/jn.114.199414",
+      "journal": "J Nutr",
+      "url": "http://europepmc.org/abstract/MED/25733480",
+      "title": "household food insecurity is positively associated with depression among low-income supplemental nutrition assistance program participants and income-eligible nonparticipants"
+    }
+  },
+  {
+    "title": "Food insecurity and poor sleep: another consequence of food insecurity in the United States",
+    "datasets": [
+      "dataset-048",
+      "dataset-017"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25733453",
+      "keywords": "Female,Food Supply,Humans,Male,Sleep Deprivation,NHANES-FSQ,Citation,NonE Tier 1",
+      "doi": "10.3945/jn.114.206227",
+      "journal": "The Journal of nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.3945/jn.114.206227",
+      "authors": [
+        {
+          "first_name": "Craig",
+          "last_name": "Gundersen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.01341472614.22",
+          "affiliations": [
+            {
+              "id": "grid.35403.31",
+              "name": "University of Illinois at Urbana Champaign",
+              "city": "Urbana",
+              "city_id": 4914570,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://jn.nutrition.org/content/145/3/391.full.pdf",
+      "keywords": [
+        "sleep",
+        "poor sleep",
+        "consequences",
+        "food insecurity",
+        "United States"
+      ],
+      "journal_title": "Journal of Nutrition",
+      "title": "Food insecurity and poor sleep: another consequence of food insecurity in the United States"
+    },
+    "europepmc": {
+      "doi": "10.3945/jn.114.206227",
+      "journal": "J Nutr",
+      "url": "http://europepmc.org/abstract/MED/25733453",
+      "title": "food insecurity and poor sleep: another consequence of food insecurity in the united states"
+    }
+  },
+  {
+    "title": "The State of Senior Hunger in America 2012: An Annual Report",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://ukcpr.org/sites/ukcpr/files/research-pdfs/State-of-Senior-Hunger-in-America-2012.pdf",
+      "keywords": "Senior Hunger,Senior Food Insecurity,Food Insecurity,CPS-FSS,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The State of Senior Hunger in America 2013: An Annual Report",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://ukcpr.org/sites/ukcpr/files/research-pdfs/state-of-senior-hunger-2013-supplement.pdf",
+      "keywords": "Food Insecurity,Senior Hunger,CPS-FSS,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  }
+]

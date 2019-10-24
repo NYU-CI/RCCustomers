@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Food Insecurity and the Burden of Health-Related Social Problems in an Urban Youth Population",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26592328",
+      "keywords": "Adolescent,Adult,Female,Food Supply,Health Services Accessibility,Health Status,Housing,Humans,Logistic Models,Male,Social Determinants of Health,Substance-Related Disorders,Surveys and Questionnaires,Urban Population,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.jadohealth.2015.08.013",
+      "journal": "The Journal of adolescent health : official publication of the Society for Adolescent Medicine",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jadohealth.2015.08.013",
+      "authors": [
+        {
+          "first_name": "Tamara E.",
+          "last_name": "Baer",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.0745107413.21",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Emily A.",
+          "last_name": "Scherer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.254880.3",
+          "researcher_id": "ur.0773744363.93",
+          "affiliations": [
+            {
+              "id": "grid.254880.3",
+              "name": "Dartmouth College",
+              "city": "Hanover",
+              "city_id": 5087168,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Hampshire",
+              "state_code": "US-NH"
+            }
+          ]
+        },
+        {
+          "first_name": "Eric W.",
+          "last_name": "Fleegler",
+          "corresponding": "",
+          "orcid": "['0000-0002-3563-6258']",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.01045415620.32",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Areej",
+          "last_name": "Hassan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.0746004634.19",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "screening tool",
+        "race/ethnicity",
+        "care access",
+        "objective",
+        "youth population",
+        "years",
+        "presence",
+        "population",
+        "Food Security Survey",
+        "samples",
+        "age",
+        "logistic regression models",
+        "test",
+        "item screen",
+        "urban youth population",
+        "burden",
+        "Kruskal-Wallis test",
+        "one-third",
+        "third",
+        "screening",
+        "social domains",
+        "substance use",
+        "predictive value",
+        "food insecurity",
+        "food insecurity screening",
+        "Department",
+        "survey",
+        "education",
+        "health care access",
+        "association",
+        "sensitivity",
+        "study objective",
+        "chi",
+        "use",
+        "food insecurity levels",
+        "youth",
+        "Wallis test",
+        "access",
+        "specificity",
+        "levels",
+        "two-item screen",
+        "health",
+        "Security Survey",
+        "ethnicity",
+        "Agriculture Food Security Survey",
+        "patients",
+        "Adolescent Health",
+        "prevalence",
+        "cumulative burden",
+        "insecurity levels",
+        "regression models",
+        "sex"
+      ],
+      "journal_title": "Journal of Adolescent Health",
+      "title": "Food Insecurity and the Burden of Health-Related Social Problems in an Urban Youth Population"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jadohealth.2015.08.013",
+      "journal": "J Adolesc Health",
+      "url": "http://europepmc.org/abstract/MED/26592328",
+      "title": "food insecurity and the burden of health-related social problems in an urban youth population"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "Food Insecurity and the Burden of Health-Related Social Problems in an Urban Youth Population",
+      "doi": "10.7448/IAS.15.5.18442",
+      "url": "http://europepmc.org/articles/PMC3499903"
+    }
+  }
+]

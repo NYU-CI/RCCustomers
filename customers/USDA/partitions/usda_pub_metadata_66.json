@@ -1,0 +1,2109 @@
+[
+  {
+    "title": "Prevalence and Risk Factors for Postpartum Depressive Symptoms Among Women Enrolled in WIC",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1007/s10995-013-1224-y",
+      "url": "www.doi.org/10.1007/s10995-013-1224-y",
+      "journal ": "Maternal and Child Health Journal",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1007/s10995-013-1224-y",
+      "authors": [
+        {
+          "first_name": "Jennifer",
+          "last_name": "Pooler",
+          "corresponding": true,
+          "orcid": "['0000-0003-0825-1202']",
+          "current_organization_id": "grid.427006.7",
+          "researcher_id": "ur.01243127415.88",
+          "affiliations": [
+            {
+              "id": "grid.422349.a",
+              "name": "Altarum Institute",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "Deborah F.",
+          "last_name": "Perry",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.213910.8",
+          "researcher_id": "ur.01023367056.41",
+          "affiliations": [
+            {
+              "id": "grid.213910.8",
+              "name": "Georgetown University",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Reem M.",
+          "last_name": "Ghandour",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.454842.b",
+          "researcher_id": "ur.0640223517.55",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Health and Human Services, Health Resources and Services Administration, Maternal and Child Health Bureau, Rockville, MD, USA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "screener",
+        "logistic regression",
+        "study",
+        "factors",
+        "partner violence",
+        "eligibility",
+        "participants",
+        "risk assessment",
+        "Special Supplemental Nutrition Program",
+        "new mothers",
+        "mothers",
+        "benefits",
+        "participation",
+        "recent live birth",
+        "prevalence of PDS",
+        "correlates",
+        "intimate partner violence",
+        "pregnant women",
+        "depressive symptoms",
+        "overall prevalence",
+        "children",
+        "ineligible women",
+        "Nutrition Program",
+        "WIC participants",
+        "one-fifth",
+        "program eligibility",
+        "prevalence",
+        "demographics",
+        "WIC enrollees",
+        "Enrolled",
+        "WIC benefits",
+        "Monitoring System data",
+        "Pregnancy Risk Assessment",
+        "odds",
+        "symptoms",
+        "birth",
+        "regression",
+        "fifth",
+        "unique opportunity",
+        "infants",
+        "program",
+        "Supplemental Nutrition Program",
+        "respondent demographics",
+        "years",
+        "live births",
+        "pregnancy",
+        "data",
+        "WIC",
+        "odds of PDS",
+        "association",
+        "assessment",
+        "referral",
+        "enrollees",
+        "Women Enrolled",
+        "women",
+        "risky behaviors",
+        "objective",
+        "poor women",
+        "risk factors",
+        "unintended pregnancy",
+        "postpartum depressive symptoms"
+      ],
+      "journal_title": "Maternal and Child Health Journal",
+      "title": "Prevalence and Risk Factors for Postpartum Depressive Symptoms Among Women Enrolled in WIC"
+    },
+    "europepmc": {
+      "doi": "10.1007/s10995-013-1224-y",
+      "journal": "Matern Child Health J",
+      "url": "http://europepmc.org/abstract/MED/23329168",
+      "title": "prevalence and risk factors for postpartum depressive symptoms among women enrolled in wic"
+    }
+  },
+  {
+    "title": "Effectiveness of a SNAP-Ed Nutrition Education Booth at Farmers Markets",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.5304/jafscd.2016.071.003",
+      "url": "www.doi.org/10.5304/jafscd.2016.071.003",
+      "journal ": "Journal of Agriculture Food Systems and Community Development",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.5304/jafscd.2016.071.003",
+      "authors": [
+        {
+          "first_name": "Mateja",
+          "last_name": "Savoie-Roskos",
+          "corresponding": "",
+          "orcid": "['0000-0001-7740-5223']",
+          "current_organization_id": "grid.53857.3c",
+          "researcher_id": "ur.0664507551.48",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        },
+        {
+          "first_name": "Heidi",
+          "last_name": "LeBlanc",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.53857.3c",
+          "researcher_id": "ur.01366521615.75",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        },
+        {
+          "first_name": "Casey",
+          "last_name": "Coombs",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.53857.3c",
+          "researcher_id": "ur.014353432633.94",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        },
+        {
+          "first_name": "Lea",
+          "last_name": "Palmer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        },
+        {
+          "first_name": "Melanie",
+          "last_name": "Jewkes",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.53857.3c",
+          "researcher_id": "ur.01324455512.96",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        },
+        {
+          "first_name": "Teresa",
+          "last_name": "Hunsaker",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.53857.3c",
+          "researcher_id": "ur.01113133072.99",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://foodsystemsjournal.org/index.php/fsj/article/download/475/456",
+      "keywords": [
+        "development"
+      ],
+      "journal_title": "Journal of Agriculture Food Systems and Community Development",
+      "title": "Effectiveness of a SNAP-Ed Nutrition Education Booth at Farmers Markets"
+    }
+  },
+  {
+    "title": "Poverty in the United States: A Review of Relevant Programs",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1002/pop4.148",
+      "url": "www.doi.org/10.1002/pop4.148",
+      "journal ": "Poverty & Public Policy",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1002/pop4.148",
+      "authors": [
+        {
+          "first_name": "Shabu Abraham",
+          "last_name": "Varghese",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.170430.1",
+          "researcher_id": "ur.013603377555.38",
+          "affiliations": [
+            {
+              "name": "University of Central Florida Tampa FL"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "Census Bureau",
+        "government",
+        "social problems",
+        "network",
+        "agencies",
+        "grants",
+        "state governments",
+        "governance tools",
+        "assistance",
+        "major social problem",
+        "new governance approach",
+        "approach",
+        "collaborative approach",
+        "article",
+        "Earned Income Tax Credit",
+        "tax expenditures",
+        "problem of poverty",
+        "Income Tax Credit",
+        "future research",
+        "national problem",
+        "Bureau",
+        "state",
+        "New Deal programs",
+        "Nutrition Assistance Program",
+        "people",
+        "Temporary Assistance",
+        "relevant programs",
+        "family",
+        "advent",
+        "suggestions",
+        "credit",
+        "problem",
+        "important program",
+        "governance approach",
+        "Supplemental Nutrition Assistance Program",
+        "U.S.",
+        "program",
+        "assistance programs",
+        "percent increase",
+        "effectiveness",
+        "Needy Families",
+        "research",
+        "government agencies",
+        "poverty programs",
+        "vouchers",
+        "tax credits",
+        "U.S. Census Bureau",
+        "poverty",
+        "poverty rates",
+        "tool",
+        "anti-poverty programs",
+        "expenditure",
+        "United States"
+      ],
+      "journal_title": "Poverty & Public Policy",
+      "title": "Poverty in the United States: A Review of Relevant Programs"
+    }
+  },
+  {
+    "title": "Privatization and Self-Responsibility Patterns of Welfare-State Development in Europe and the United States Since the 1990s",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.7312/kess18034-006",
+      "url": "www.doi.org/10.7312/kess18034-006",
+      "journal ": "Democracy and the Welfare State",
+      "date_added": "2019-10-11 10:50:16"
+    }
+  },
+  {
+    "title": "Reconceiving SNAP",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1177/1049731515589373",
+      "url": "www.doi.org/10.1177/1049731515589373",
+      "journal ": "Research on Social Work Practice",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1177/1049731515589373",
+      "authors": [
+        {
+          "first_name": "Douglas J.",
+          "last_name": "Besharov",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.164295.d",
+              "name": "University of Maryland, College Park",
+              "city": "College Park",
+              "city_id": 4351977,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "efforts",
+        "authors",
+        "current patchwork",
+        "disincentives",
+        "creation",
+        "patchwork",
+        "challenges",
+        "labor",
+        "support programs",
+        "need",
+        "Nutrition Assistance Program",
+        "Supplemental Nutrition Assistance Program",
+        "current law",
+        "purpose",
+        "program",
+        "assistance programs",
+        "way",
+        "safety net"
+      ],
+      "journal_title": "Research on Social Work Practice",
+      "title": "Reconceiving SNAP"
+    }
+  },
+  {
+    "title": "Recipients of out-of-work benefits",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1787/soc_glance-2016-20-en",
+      "url": "www.doi.org/10.1787/soc_glance-2016-20-en",
+      "journal ": "Society at a Glance",
+      "date_added": "2019-10-11 10:50:16"
+    }
+  },
+  {
+    "title": "Progressive State Taxes and Welfare",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1002/pop4.162",
+      "url": "www.doi.org/10.1002/pop4.162",
+      "journal ": "Poverty & Public Policy",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1002/pop4.162",
+      "authors": [
+        {
+          "first_name": "Kara D.",
+          "last_name": "Smith",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Massey College of BusinessBelmont UniversityNashvilleTN"
+            }
+          ]
+        },
+        {
+          "first_name": "Bryan",
+          "last_name": "Shone",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Department of Defense, Office of the Secretary of DefenseCost Assessment and Program EvaluationWashingtonDC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "health care",
+        "little research",
+        "care",
+        "demographic variables",
+        "recipients",
+        "side",
+        "relative progressivity",
+        "taxes",
+        "information",
+        "tax system",
+        "assistance",
+        "positive relationship",
+        "benefits",
+        "tax",
+        "affordable housing",
+        "expenditure side",
+        "article",
+        "federal level",
+        "welfare",
+        "theory",
+        "progressivity",
+        "Needy Families (TANF) program",
+        "state",
+        "budget",
+        "Temporary Assistance",
+        "redistribution",
+        "redistributive components",
+        "redistributive benefits",
+        "better understanding",
+        "order",
+        "maxim",
+        "panel",
+        "Families Program",
+        "multiple measures",
+        "levels",
+        "specification",
+        "goal",
+        "federalism theory",
+        "variables",
+        "tax structure",
+        "income",
+        "program",
+        "relationship",
+        "research",
+        "years",
+        "tax progressivity",
+        "fiscal federalism theory",
+        "progressive tax system",
+        "housing",
+        "state tax structures",
+        "data",
+        "state taxes",
+        "state levels",
+        "welfare recipients",
+        "understanding",
+        "services",
+        "income redistribution",
+        "measures",
+        "tool",
+        "panel of data",
+        "portfolio"
+      ],
+      "journal_title": "Poverty & Public Policy",
+      "title": "Progressive State Taxes and Welfare"
+    }
+  },
+  {
+    "title": "Family Complexity",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1177/0002716214531385",
+      "url": "www.doi.org/10.1177/0002716214531385",
+      "journal ": "The Annals of the American Academy of Political and Social Science",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1080/13691457.2018.1461068",
+      "authors": [
+        {
+          "first_name": "Julie",
+          "last_name": "Walsh",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.11835.3e",
+              "name": "University of Sheffield",
+              "city": "Sheffield",
+              "city_id": 2638077,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Sue",
+          "last_name": "White",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.11835.3e",
+              "name": "University of Sheffield",
+              "city": "Sheffield",
+              "city_id": 2638077,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Kate",
+          "last_name": "Morris",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.11835.3e",
+              "name": "University of Sheffield",
+              "city": "Sheffield",
+              "city_id": 2638077,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Paula",
+          "last_name": "Doherty",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.9835.7",
+              "name": "Lancaster University",
+              "city": "Lancaster",
+              "city_id": 2644972,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "linkout": "http://eprints.whiterose.ac.uk/129815/7/Walsh%2C%20J%20-%20How%20do%20you%20solve%20a%20problem%20like%20Maria%20-AFC%202018-01-21.pdf",
+      "keywords": [
+        "workers",
+        "study",
+        "factors",
+        "organisational systems",
+        "complexity",
+        "definition",
+        "social policy",
+        "focus groups",
+        "agencies",
+        "institutional complications",
+        "UK data",
+        "Maria",
+        "consequences",
+        "reasoning",
+        "day work",
+        "project",
+        "vignettes",
+        "workers\u2019 conceptions",
+        "ways social workers",
+        "involvement",
+        "complicated story",
+        "UK social work",
+        "area",
+        "terms",
+        "policy",
+        "need",
+        "professional responses",
+        "family",
+        "family situation",
+        "everyday reasoning",
+        "work",
+        "complex family",
+        "range of issues",
+        "complex needs",
+        "impact",
+        "service categories",
+        "comparative project",
+        "paper",
+        "categories",
+        "problem",
+        "family complexity",
+        "way",
+        "context impacts",
+        "conception",
+        "social workers",
+        "social workers\u2019 conceptions",
+        "social work",
+        "countries",
+        "story",
+        "service area",
+        "certainty",
+        "case vignettes",
+        "situation",
+        "family impact",
+        "first response",
+        "issues",
+        "process",
+        "group"
+      ],
+      "journal_title": "European Journal of Social Work",
+      "title": "Family Complexity"
+    }
+  },
+  {
+    "title": "e-Government legislation: Implementation issues for programs for low-income people",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.giq.2013.04.002",
+      "url": "www.doi.org/10.1016/j.giq.2013.04.002",
+      "journal ": "Government Information Quarterly",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.giq.2013.04.002",
+      "authors": [
+        {
+          "first_name": "Susan Copeland",
+          "last_name": "Wilson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.016227210111.85",
+          "affiliations": [
+            {
+              "name": "218 Rabbitt Road, Gaithersburg, MD 20878-1135, USA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "inclusive strategies",
+        "government",
+        "recipients",
+        "government implementation",
+        "little-studied aspect",
+        "agenda",
+        "assistance",
+        "consequences",
+        "approach",
+        "Medicaid",
+        "intersection",
+        "public",
+        "point",
+        "faster service delivery",
+        "low-income people",
+        "future research",
+        "taxpayers",
+        "terms",
+        "state",
+        "Nutrition Assistance Program",
+        "Temporary Assistance",
+        "implementation",
+        "greater accountability",
+        "statutes",
+        "people",
+        "consequences of automation",
+        "family",
+        "privacy",
+        "policymakers",
+        "measurable model",
+        "government legislation",
+        "groundwork",
+        "low-income citizens",
+        "citizen relationship",
+        "impact",
+        "implementation issues",
+        "citizens",
+        "paper",
+        "legislation",
+        "Supplemental Nutrition Assistance Program",
+        "study aspects",
+        "program",
+        "assistance programs",
+        "relationship",
+        "research",
+        "Needy Families",
+        "research agenda",
+        "delivery",
+        "access",
+        "county level",
+        "breadth",
+        "information access",
+        "accountability",
+        "strategies",
+        "technology",
+        "different levels",
+        "service delivery",
+        "issues of privacy",
+        "aspects",
+        "issues",
+        "different approaches",
+        "United States"
+      ],
+      "journal_title": "Government Information Quarterly",
+      "title": "e-Government legislation: Implementation issues for programs for low-income people"
+    }
+  },
+  {
+    "title": "Labor Market Analysis and Labor Policymaking in the Nation's Capital",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1177/00197939140670s306",
+      "url": "www.doi.org/10.1177/00197939140670s306",
+      "journal ": "ILR Review",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1177/00197939140670s306",
+      "authors": [
+        {
+          "first_name": "Adriana",
+          "last_name": "Kugler",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "labour market analysis",
+        "market analysis",
+        "nation's capital",
+        "analysis",
+        "policymaking",
+        "capital"
+      ],
+      "journal_title": "ILR Review",
+      "title": "Labor Market Analysis and Labor Policymaking in the Nation's Capital"
+    }
+  },
+  {
+    "title": "Unauthorized Status and Youth Development in the United States: Consensus Statement of the Society for Research on Adolescence",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1111/jora.12272",
+      "url": "www.doi.org/10.1111/jora.12272",
+      "journal ": "Journal of Research on Adolescence",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1111/jora.12272",
+      "authors": [
+        {
+          "first_name": "Hirokazu",
+          "last_name": "Yoshikawa",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.137628.9",
+          "researcher_id": "ur.0615043476.02",
+          "affiliations": [
+            {
+              "id": "grid.137628.9",
+              "name": "New York University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Carola",
+          "last_name": "Su\u00e1rez\u2010Orozco",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.19006.3e",
+          "researcher_id": "ur.01262317065.26",
+          "affiliations": [
+            {
+              "id": "grid.30389.31",
+              "name": "University of California System",
+              "city": "Oakland",
+              "city_id": 5378538,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Roberto G.",
+          "last_name": "Gonzales",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.010271476037.66",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jora.12272",
+      "keywords": [
+        "implications",
+        "outcomes",
+        "evidence",
+        "harm",
+        "status",
+        "unauthorized status",
+        "society",
+        "recommendations",
+        "debate",
+        "Parents' unauthorized status",
+        "state",
+        "children",
+        "policy",
+        "statements",
+        "family",
+        "domain",
+        "brief summary",
+        "psychological mechanisms",
+        "range of policies",
+        "adolescence",
+        "youth development",
+        "policy debates",
+        "developmental harm",
+        "way of research",
+        "research evidence",
+        "way",
+        "research",
+        "important implications",
+        "development",
+        "parents",
+        "adolescents",
+        "multiple domains",
+        "local policy debates",
+        "developmental outcomes",
+        "youth",
+        "issues",
+        "practice",
+        "United States"
+      ],
+      "journal_title": "Journal of Research on Adolescence",
+      "title": "Unauthorized Status and Youth Development in the United States: Consensus Statement of the Society for Research on Adolescence"
+    },
+    "europepmc": {
+      "doi": "10.1111/jora.12272",
+      "journal": "J Res Adolesc",
+      "url": "http://europepmc.org/abstract/MED/28498536",
+      "title": "unauthorized status and youth development in the united states: consensus statement of the society for research on adolescence"
+    }
+  },
+  {
+    "title": "Kinship Care",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1002/9781118625392.wbecp118",
+      "url": "www.doi.org/10.1002/9781118625392.wbecp118",
+      "journal ": "The Encyclopedia of Clinical Psychology",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1080/15548732.2019.1596194",
+      "authors": [
+        {
+          "first_name": "Joann",
+          "last_name": "Lianekhammy",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266539.d",
+          "researcher_id": "ur.0636120560.78",
+          "affiliations": [
+            {
+              "id": "grid.266539.d",
+              "name": "University of Kentucky",
+              "city": "Lexington",
+              "city_id": 4297983,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Kentucky",
+              "state_code": "US-KY"
+            }
+          ]
+        },
+        {
+          "first_name": "J. Jay",
+          "last_name": "Miller",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266539.d",
+          "researcher_id": "ur.015641311331.20",
+          "affiliations": [
+            {
+              "id": "grid.266539.d",
+              "name": "University of Kentucky",
+              "city": "Lexington",
+              "city_id": 4297983,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Kentucky",
+              "state_code": "US-KY"
+            }
+          ]
+        },
+        {
+          "first_name": "Eun",
+          "last_name": "Koh",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.39936.36",
+          "researcher_id": "ur.016322224445.68",
+          "affiliations": [
+            {
+              "name": "National Catholic School of Social Service, The Catholic University of America, Lexington, KY, US, View further author information"
+            }
+          ]
+        },
+        {
+          "first_name": "Janet S.",
+          "last_name": "Kurzynske",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266539.d",
+          "researcher_id": "ur.01236674562.46",
+          "affiliations": [
+            {
+              "id": "grid.266539.d",
+              "name": "University of Kentucky",
+              "city": "Lexington",
+              "city_id": 4297983,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Kentucky",
+              "state_code": "US-KY"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "experience",
+        "Kentucky residents",
+        "care",
+        "study",
+        "implications",
+        "participants",
+        "research implications",
+        "provision",
+        "differences",
+        "general knowledge",
+        "kinship caregivers",
+        "topic",
+        "policy",
+        "education level",
+        "work",
+        "convenience sample",
+        "race",
+        "actual knowledge",
+        "residents",
+        "pragmatic practice",
+        "levels",
+        "service provision",
+        "participant race",
+        "program",
+        "practice",
+        "kinship care",
+        "knowledge discrepancies",
+        "support",
+        "caregivers",
+        "knowledge",
+        "youth",
+        "exploratory study",
+        "importance",
+        "public knowledge"
+      ],
+      "journal_title": "Journal of Public Child Welfare",
+      "title": "Kinship Care"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Kinship Care",
+      "doi": "10.1017/S1474746418000179",
+      "pdf": "https://pure.qub.ac.uk/ws/files/154791342/Opioid.pdf"
+    }
+  },
+  {
+    "title": "Place-based economic development: examining the relationship between the US Supplemental Nutrition Assistance Program and farmers markets in Mississippi",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1080/15575330.2014.991410",
+      "url": "www.doi.org/10.1080/15575330.2014.991410",
+      "journal ": "Community Development",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1080/15575330.2014.991410",
+      "authors": [
+        {
+          "first_name": "Joseph Hampton",
+          "last_name": "Holland",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Olivia M.",
+          "last_name": "Thompson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "multiplier effect",
+        "consumer spending",
+        "findings",
+        "resources",
+        "farmers",
+        "policy-makers",
+        "underutilized assets",
+        "benefits",
+        "article",
+        "assets",
+        "liability",
+        "theory",
+        "developers",
+        "framework",
+        "policy",
+        "Nutrition Assistance Program",
+        "local coordination",
+        "Mississippi",
+        "community developers",
+        "SNAP beneficiaries",
+        "SNAP benefits",
+        "local multiplier effect",
+        "authors",
+        "directory",
+        "community development",
+        "spending",
+        "Supplemental Nutrition Assistance Program",
+        "US Supplemental Nutrition Assistance Program",
+        "development theory",
+        "program",
+        "assistance programs",
+        "makers",
+        "readers",
+        "place",
+        "context matters",
+        "access",
+        "development",
+        "economic development",
+        "farmers' markets",
+        "relationship",
+        "dollars",
+        "underutilized resource",
+        "coordination",
+        "beneficiaries",
+        "cards",
+        "matter",
+        "accessibility",
+        "market",
+        "local farmers' markets",
+        "public policy"
+      ],
+      "journal_title": "Community Development",
+      "title": "Place-based economic development: examining the relationship between the US Supplemental Nutrition Assistance Program and farmers markets in Mississippi"
+    }
+  },
+  {
+    "title": "Less Bang for Your Buck? How Social Capital Constrains the Effectiveness of Social Welfare Spending",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1177/1532440018775424",
+      "url": "www.doi.org/10.1177/1532440018775424",
+      "journal ": "State Politics & Policy Quarterly",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1177/1532440018775424",
+      "authors": [
+        {
+          "first_name": "Mallory E.",
+          "last_name": "Compton",
+          "corresponding": "",
+          "orcid": "['0000-0002-5124-238X']",
+          "current_organization_id": "grid.5477.1",
+          "researcher_id": "ur.011477031016.47",
+          "affiliations": [
+            {
+              "id": "grid.5477.1",
+              "name": "Utrecht University",
+              "city": "Utrecht",
+              "city_id": 2745912,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "linkout": "https://journals.sagepub.com/doi/pdf/10.1177/1532440018775424",
+      "keywords": [
+        "institutions",
+        "outcomes",
+        "economic insecurity",
+        "government",
+        "open question",
+        "evidence",
+        "economic security",
+        "policy implementation",
+        "social institutions",
+        "capital",
+        "social capital",
+        "adverse impact",
+        "welfare",
+        "social capital interacts",
+        "security",
+        "financial stability",
+        "decades",
+        "state",
+        "implementation",
+        "recent decades",
+        "questions",
+        "insecurity",
+        "welfare programs",
+        "household financial stability",
+        "spending",
+        "impact",
+        "social welfare",
+        "greater spending",
+        "volatility",
+        "answers",
+        "program",
+        "government spending",
+        "effectiveness",
+        "U.S. states",
+        "thesis",
+        "social programs",
+        "informal social institutions",
+        "bang",
+        "social welfare programs",
+        "attention",
+        "importance",
+        "part"
+      ],
+      "journal_title": "State Politics & Policy Quarterly",
+      "title": "Less Bang for Your Buck? How Social Capital Constrains the Effectiveness of Social Welfare Spending"
+    },
+    "openaire": {
+      "journal": "State Politics & Policy Quarterly",
+      "title": "Less Bang for Your Buck? How Social Capital Constrains the Effectiveness of Social Welfare Spending",
+      "doi": "10.1177/1532440018775424",
+      "url": "http://europepmc.org/articles/PMC6294149"
+    }
+  },
+  {
+    "title": "Asset and reporting policies in the Supplemental Nutrition Assistance Program",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.3233/jem-2011-0349",
+      "url": "www.doi.org/10.3233/jem-2011-0349",
+      "journal ": "Journal of Economic and Social Measurement",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.3233/jem-2011-0349",
+      "authors": [
+        {
+          "first_name": "Caroline",
+          "last_name": "Danielson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.012771473373.44",
+          "affiliations": [
+            {
+              "id": "grid.427229.8",
+              "name": "Public Policy Institute of California",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Jacob Alex",
+          "last_name": "Klerman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.417585.a",
+          "researcher_id": "ur.01044024335.63",
+          "affiliations": [
+            {
+              "id": "grid.417585.a",
+              "name": "Abt Associates (United States)",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Margaret",
+          "last_name": "Andrews",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Daniel",
+          "last_name": "Krimm",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.427229.8",
+          "researcher_id": "ur.011674773752.40",
+          "affiliations": [
+            {
+              "id": "grid.427229.8",
+              "name": "Public Policy Institute of California",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "ambiguity",
+        "household assets",
+        "considerable ambiguity",
+        "policy devolution",
+        "administrators",
+        "participation",
+        "assets",
+        "federal level",
+        "paperwork burden",
+        "area",
+        "burden",
+        "decades",
+        "policy",
+        "Nutrition Assistance Program",
+        "state",
+        "key areas",
+        "survey",
+        "policymaking authority",
+        "new survey",
+        "past decade",
+        "additional authority",
+        "paper",
+        "levels",
+        "authorities",
+        "Supplemental Nutrition Assistance Program",
+        "policy data",
+        "program",
+        "assistance programs",
+        "place",
+        "policy changes",
+        "devolution",
+        "data",
+        "eligibility determination",
+        "national level",
+        "changes",
+        "regulatory changes"
+      ],
+      "journal_title": "Journal of Economic and Social Measurement",
+      "title": "Asset and reporting policies in the Supplemental Nutrition Assistance Program"
+    }
+  },
+  {
+    "title": "Mental Health and Substance Abuse Service Engagement by Men and Women During Community Reentry Following Incarceration",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1007/s10488-015-0632-2",
+      "url": "www.doi.org/10.1007/s10488-015-0632-2",
+      "journal ": "Administration and Policy in Mental Health and Mental Health Services Research",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1007/s10488-015-0632-2",
+      "authors": [
+        {
+          "first_name": "Audrey L.",
+          "last_name": "Begun",
+          "corresponding": true,
+          "orcid": "['0000-0002-1672-0315']",
+          "current_organization_id": "grid.261331.4",
+          "researcher_id": "ur.01021516171.18",
+          "affiliations": [
+            {
+              "id": "grid.261331.4",
+              "name": "The Ohio State University",
+              "city": "Columbus",
+              "city_id": 4509177,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        },
+        {
+          "first_name": "Theresa J.",
+          "last_name": "Early",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.261331.4",
+          "researcher_id": "ur.01342413313.43",
+          "affiliations": [
+            {
+              "id": "grid.261331.4",
+              "name": "The Ohio State University",
+              "city": "Columbus",
+              "city_id": 4509177,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        },
+        {
+          "first_name": "Ashleigh",
+          "last_name": "Hodge",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.261331.4",
+          "researcher_id": "ur.0755320455.35",
+          "affiliations": [
+            {
+              "id": "grid.261331.4",
+              "name": "The Ohio State University",
+              "city": "Columbus",
+              "city_id": 4509177,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "implications",
+        "study",
+        "correctional facilities",
+        "community",
+        "findings",
+        "substance use problems",
+        "health",
+        "interviews",
+        "early reentry",
+        "incarceration",
+        "jail",
+        "future directions",
+        "mental health",
+        "analysis",
+        "exploratory factor analysis",
+        "instrument",
+        "community reentry",
+        "treatment services",
+        "service engagement",
+        "high risk",
+        "barrier instrument",
+        "service access",
+        "pre",
+        "factor analysis",
+        "engagement",
+        "research",
+        "access",
+        "use problems",
+        "prison",
+        "population",
+        "men",
+        "longitudinal study",
+        "patterns",
+        "CBCF",
+        "women",
+        "services",
+        "post-release interviews",
+        "barriers",
+        "individuals",
+        "risk",
+        "reentry"
+      ],
+      "journal_title": "Administration and Policy in Mental Health and Mental Health Services Research",
+      "title": "Mental Health and Substance Abuse Service Engagement by Men and Women During Community Reentry Following Incarceration"
+    },
+    "europepmc": {
+      "doi": "10.1007/s10488-015-0632-2",
+      "journal": "Adm Policy Ment Health",
+      "url": "http://europepmc.org/abstract/MED/25663094",
+      "title": "mental health and substance abuse service engagement by men and women during community reentry following incarceration"
+    }
+  },
+  {
+    "title": "The selection of preschool for immigrant and native-born Latino families in the United States",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.ecresq.2017.07.002",
+      "url": "www.doi.org/10.1016/j.ecresq.2017.07.002",
+      "journal ": "Early Childhood Research Quarterly",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.ecresq.2017.07.002",
+      "authors": [
+        {
+          "first_name": "Arya",
+          "last_name": "Ansari",
+          "corresponding": "",
+          "orcid": "['0000-0001-5033-9668']",
+          "current_organization_id": "grid.27755.32",
+          "researcher_id": "ur.01313462533.32",
+          "affiliations": [
+            {
+              "id": "grid.27755.32",
+              "name": "University of Virginia",
+              "city": "Charlottesville",
+              "city_id": 4752031,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Virginia",
+              "state_code": "US-VA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc5599152?pdf=render",
+      "keywords": [
+        "Early Childhood Longitudinal Study-Birth Cohort",
+        "experience",
+        "study",
+        "factors",
+        "accommodation model",
+        "findings",
+        "use",
+        "enrollment rates",
+        "education",
+        "differences",
+        "preschool",
+        "attention",
+        "push",
+        "non-Latino families",
+        "readiness",
+        "peers",
+        "blacks",
+        "birth cohort",
+        "preschool education",
+        "children",
+        "similarity",
+        "behavior",
+        "state",
+        "family",
+        "Latino families",
+        "school readiness",
+        "preschool enrollment rates",
+        "important differences",
+        "national push",
+        "Latino children",
+        "careful attention",
+        "Latino population",
+        "child factors",
+        "U.S.",
+        "Jordan",
+        "different groups",
+        "interest",
+        "population",
+        "language use",
+        "beliefs",
+        "immigrants",
+        "understanding",
+        "parents' beliefs",
+        "Childhood Longitudinal Study-Birth Cohort",
+        "White peers",
+        "selection factors",
+        "Meyer",
+        "group",
+        "United States",
+        "nuanced understanding"
+      ],
+      "journal_title": "Early Childhood Research Quarterly",
+      "title": "The selection of preschool for immigrant and native-born Latino families in the United States"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The selection of preschool for immigrant and native-born Latino families in the United States",
+      "doi": "10.1016/j.ecresq.2017.07.002",
+      "url": "https://europepmc.org/articles/PMC5599152/"
+    }
+  },
+  {
+    "title": "The US healthcare workforce and the labor market effect on healthcare spending and health outcomes",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1007/s10754-014-9142-0",
+      "url": "www.doi.org/10.1007/s10754-014-9142-0",
+      "journal ": "International Journal of Health Economics and Management",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1007/s10754-014-9142-0",
+      "authors": [
+        {
+          "first_name": "Lawrence C.",
+          "last_name": "Pellegrini",
+          "corresponding": "",
+          "orcid": "['0000-0002-5558-4635']",
+          "current_organization_id": "grid.266683.f",
+          "researcher_id": "ur.01041610612.56",
+          "affiliations": [
+            {
+              "id": "grid.266683.f",
+              "name": "University of Massachusetts Amherst",
+              "city": "Amherst Center",
+              "city_id": 4929023,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Rosa",
+          "last_name": "Rodriguez-Monguio",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01121301163.28",
+          "affiliations": [
+            {
+              "id": "grid.266683.f",
+              "name": "University of Massachusetts Amherst",
+              "city": "Amherst Center",
+              "city_id": 4929023,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Jing",
+          "last_name": "Qian",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.266683.f",
+              "name": "University of Massachusetts Amherst",
+              "city": "Amherst Center",
+              "city_id": 4929023,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "negative effects",
+        "care",
+        "rate",
+        "instrumental variables",
+        "contraction",
+        "share",
+        "employment growth",
+        "Medicare spending",
+        "US",
+        "Bureau",
+        "regression models",
+        "labour market",
+        "significance",
+        "study results",
+        "economic environment",
+        "good proxy",
+        "Medicare share",
+        "Medicaid Services",
+        "occupational employment",
+        "labor force participation rates",
+        "care attendants",
+        "provision of care",
+        "proxy",
+        "share increases",
+        "physician assistants",
+        "employment",
+        "workforce data",
+        "insurance coverage",
+        "services",
+        "unemployment rate",
+        "Labor Statistics",
+        "healthcare workforce",
+        "market",
+        "participation rates",
+        "US healthcare workforce",
+        "status",
+        "market impact",
+        "statistical tests",
+        "increase",
+        "health insurance coverage",
+        "analysis",
+        "health outcomes",
+        "state",
+        "people",
+        "panel data regression model",
+        "economy",
+        "attendants",
+        "sector",
+        "spending",
+        "results",
+        "program",
+        "population",
+        "district",
+        "public health programs",
+        "Medicare",
+        "robust effect",
+        "growth",
+        "health status",
+        "model",
+        "nurses",
+        "cause",
+        "private health insurance coverage",
+        "meaningful effect",
+        "statistics program",
+        "unemployment",
+        "outcomes",
+        "private healthcare",
+        "effects",
+        "health status data",
+        "spending data",
+        "force participation",
+        "participation",
+        "Medicaid",
+        "physician employment",
+        "labour market impact",
+        "status data",
+        "labor market effects",
+        "data regression model",
+        "healthcare spending",
+        "US economy",
+        "health programs",
+        "healthcare sector",
+        "Behavioral Risk Factor Surveillance System",
+        "two-sided significance",
+        "spite",
+        "personal care attendants",
+        "risk",
+        "Columbia",
+        "study",
+        "recent economic downturn",
+        "downturn",
+        "regression analysis",
+        "spending increases",
+        "provision",
+        "workforce",
+        "market effects",
+        "economic contraction",
+        "budgetary pressures",
+        "healthcare",
+        "overall health status",
+        "coverage",
+        "workforce composition",
+        "impact",
+        "statistics",
+        "Stata",
+        "variables",
+        "District of Columbia",
+        "data",
+        "Risk Factor Surveillance System",
+        "labor force participation",
+        "test",
+        "economic downturn",
+        "dynamic panel data regression model"
+      ],
+      "journal_title": "International Journal of Health Economics and Management",
+      "title": "The US healthcare workforce and the labor market effect on healthcare spending and health outcomes"
+    },
+    "europepmc": {
+      "doi": "10.1007/s10754-014-9142-0",
+      "journal": "Int J Health Care Finance Econ",
+      "url": "http://europepmc.org/abstract/MED/24652416",
+      "title": "the us healthcare workforce and the labor market effect on healthcare spending and health outcomes"
+    }
+  },
+  {
+    "title": "Saving Tiny Tim: Pediatrics and Childhood Poverty in the United States",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1056/nejmp1603516",
+      "url": "www.doi.org/10.1056/nejmp1603516",
+      "journal ": "New England Journal of Medicine",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1056/nejmp1603516",
+      "authors": [
+        {
+          "first_name": "Perri",
+          "last_name": "Klass",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.137628.9",
+          "researcher_id": "ur.0774726122.08",
+          "affiliations": [
+            {
+              "id": "grid.137628.9",
+              "name": "New York University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "state",
+        "poverty",
+        "United States"
+      ],
+      "journal_title": "New England Journal of Medicine",
+      "title": "Saving Tiny Tim: Pediatrics and Childhood Poverty in the United States"
+    }
+  },
+  {
+    "title": "Factors associated with alcohol consumption patterns in a Puerto Rican urban cohort",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1017/s1368980014000433",
+      "url": "www.doi.org/10.1017/s1368980014000433",
+      "journal ": "Public Health Nutrition",
+      "date_added": "2019-10-11 10:50:16"
+    },
+    "dimensions": {
+      "doi": "10.1017/s1368980014000433",
+      "authors": [
+        {
+          "first_name": "Johanna Y",
+          "last_name": "Andrews-Chavez",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.429997.8",
+          "researcher_id": "ur.01064142765.39",
+          "affiliations": [
+            {
+              "id": "grid.429997.8",
+              "name": "Tufts University",
+              "city": "Medford",
+              "city_id": 4943629,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Christina S",
+          "last_name": "Lee",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.261112.7",
+              "name": "Northeastern University",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Robert F",
+          "last_name": "Houser",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.429997.8",
+          "researcher_id": "ur.01357746665.77",
+          "affiliations": [
+            {
+              "id": "grid.429997.8",
+              "name": "Tufts University",
+              "city": "Medford",
+              "city_id": 4943629,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Luis M",
+          "last_name": "Falcon",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.225262.3",
+          "researcher_id": "ur.01240454677.74",
+          "affiliations": [
+            {
+              "id": "grid.225262.3",
+              "name": "University of Massachusetts Lowell",
+              "city": "Lowell",
+              "city_id": 4942618,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Katherine L",
+          "last_name": "Tucker",
+          "corresponding": "",
+          "orcid": "['0000-0001-7640-662X']",
+          "current_organization_id": "grid.225262.3",
+          "researcher_id": "ur.010344462577.93",
+          "affiliations": [
+            {
+              "id": "grid.225262.3",
+              "name": "University of Massachusetts Lowell",
+              "city": "Lowell",
+              "city_id": 4942618,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4860821?pdf=render",
+      "keywords": [
+        "Puerto Ricans",
+        "consumption patterns",
+        "use",
+        "Puerto Rican adults",
+        "contraindications",
+        "alcohol intake patterns",
+        "drinking categories",
+        "health initiatives",
+        "national subgroups",
+        "urban cohort",
+        "cent",
+        "Ricans",
+        "gender",
+        "cent of men",
+        "cent of participants",
+        "adjustment",
+        "little research",
+        "screening",
+        "abstainers",
+        "lifetime abstainers",
+        "high prevalence",
+        "drinking patterns",
+        "old man",
+        "polytomous logistic regression analysis",
+        "likelihood",
+        "alcohol consumption patterns",
+        "alcohol",
+        "chronic diseases",
+        "prevalence",
+        "Boston area",
+        "low income",
+        "abstention",
+        "logistic regression analysis",
+        "women",
+        "appropriate alcohol use",
+        "moderate drinkers",
+        "factors",
+        "participants",
+        "emotional support",
+        "consumption",
+        "young men",
+        "Massachusetts",
+        "former drinking",
+        "cohort",
+        "cross-sectional study",
+        "years",
+        "age",
+        "present study",
+        "aim",
+        "public health initiatives",
+        "alcohol use",
+        "heavy drinking",
+        "men",
+        "adults",
+        "drinkers",
+        "urgent need",
+        "study",
+        "medications",
+        "regression analysis",
+        "BMI",
+        "subgroups",
+        "need",
+        "multivariable adjustment",
+        "better screening",
+        "diabetes",
+        "higher BMI",
+        "drinking",
+        "acculturation",
+        "categories",
+        "heavy drinkers",
+        "alcohol consumption",
+        "Greater Boston area",
+        "former drinkers",
+        "support",
+        "disease",
+        "patterns",
+        "intake patterns",
+        "sectional study",
+        "intervention"
+      ],
+      "journal_title": "Public Health Nutrition",
+      "title": "Factors associated with alcohol consumption patterns in a Puerto Rican urban cohort"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Factors associated with alcohol consumption patterns in a Puerto Rican urban cohort",
+      "doi": "10.1017/S1368980014000433",
+      "url": "https://europepmc.org/articles/PMC4860821/"
+    }
+  }
+]

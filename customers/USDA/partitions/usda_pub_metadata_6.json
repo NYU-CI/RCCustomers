@@ -1,0 +1,2191 @@
+[
+  {
+    "title": "Study Protocol for a Home-Based Obesity Prevention Program in Latino Preschool Children",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "https://journals.lww.com/acsm-tj/Fulltext/2017/07150/Study_Protocol_for_a_Home_Based_Obesity_Prevention.1.aspx#pdf-link",
+      "keywords": "FCBS,flexible Consumer Behavior Survey,Citation,JTier N/A",
+      "doi": "10.1249/TJX.0000000000000038",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1249/tjx.0000000000000038",
+      "authors": [
+        {
+          "first_name": "Sharon E",
+          "last_name": "Taverno Ross",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21925.3d",
+          "researcher_id": "ur.0727254447.41",
+          "affiliations": [
+            {
+              "id": "grid.21925.3d",
+              "name": "University of Pittsburgh",
+              "city": "Pittsburgh",
+              "city_id": 5206379,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Patricia I",
+          "last_name": "Documet",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21925.3d",
+          "researcher_id": "ur.01343544207.36",
+          "affiliations": [
+            {
+              "id": "grid.21925.3d",
+              "name": "University of Pittsburgh",
+              "city": "Pittsburgh",
+              "city_id": 5206379,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Russell R",
+          "last_name": "Pate",
+          "corresponding": "",
+          "orcid": "['0000-0001-6373-9337']",
+          "current_organization_id": "grid.254567.7",
+          "researcher_id": "ur.011072546777.54",
+          "affiliations": [
+            {
+              "id": "grid.21925.3d",
+              "name": "University of Pittsburgh",
+              "city": "Pittsburgh",
+              "city_id": 5206379,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Ivonne",
+          "last_name": "Smith-Tapia",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21925.3d",
+          "researcher_id": "ur.07622316377.13",
+          "affiliations": [
+            {
+              "id": "grid.21925.3d",
+              "name": "University of Pittsburgh",
+              "city": "Pittsburgh",
+              "city_id": 5206379,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Lisa M",
+          "last_name": "Wisniewski",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.262940.b",
+          "researcher_id": "ur.013543740161.59",
+          "affiliations": [
+            {
+              "id": "grid.262940.b",
+              "name": "Saint Francis University",
+              "city": "Loretto",
+              "city_id": 5198988,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Bethany B",
+          "last_name": "Gibbs",
+          "corresponding": "",
+          "orcid": "['0000-0002-0732-6148']",
+          "current_organization_id": "grid.21925.3d",
+          "researcher_id": "ur.01016726170.19",
+          "affiliations": [
+            {
+              "id": "grid.21925.3d",
+              "name": "University of Pittsburgh",
+              "city": "Pittsburgh",
+              "city_id": 5206379,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "mouth",
+        "large-scale interventions",
+        "outcomes",
+        "study",
+        "weight",
+        "self-efficacy",
+        "physical activity breaks",
+        "recruitment",
+        "factors",
+        "focus groups",
+        "community",
+        "study protocol",
+        "evaluation",
+        "participants",
+        "constructs",
+        "education",
+        "scale interventions",
+        "Pittsburgh",
+        "flyers",
+        "protocol",
+        "process evaluation",
+        "appropriate interventions",
+        "hours of training",
+        "body",
+        "Latino community",
+        "hours",
+        "II",
+        "Pittsburgh Study",
+        "phase II",
+        "promotoras",
+        "children",
+        "intervention curriculum",
+        "action",
+        "home",
+        "activity breaks",
+        "family",
+        "prevention programs",
+        "community gatherings",
+        "training",
+        "conduct focus groups",
+        "weekly sessions",
+        "pre",
+        "Latino preschool children",
+        "program",
+        "phase I",
+        "sessions",
+        "preschool children",
+        "effectiveness",
+        "mixed methods",
+        "Latino parents",
+        "development",
+        "healthy weight",
+        "obesity",
+        "population",
+        "contextual factors",
+        "parents",
+        "post-intervention",
+        "study design",
+        "strategies",
+        "dose",
+        "knowledge",
+        "obesity prevention programs",
+        "intervention",
+        "group",
+        "practice",
+        "efficacy"
+      ],
+      "journal_title": "Translational Journal of the ACSM",
+      "title": "Study Protocol for a Home-Based Obesity Prevention Program in Latino Preschool Children"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Study Protocol for a Home-Based Obesity Prevention Program in Latino Preschool Children",
+      "doi": "10.1249/TJX.0000000000000038",
+      "url": "https://europepmc.org/articles/PMC5654603/"
+    }
+  },
+  {
+    "title": "Update on NHANES Dietary Data: Focus on Collection, Release, Analytical Considerations, and Uses to Inform Public Policy",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26773020",
+      "keywords": "Diet,Feeding Behavior,Health Policy,Humans,Nutrition Survey methods,Public Health,Research Design,United States,Flexible Consumer Behavior Survey,FCBS,JTier N/A,analyzed",
+      "doi": "10.3945/an.115.009258",
+      "journal": "Advances in nutrition",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.3945/an.115.009258",
+      "authors": [
+        {
+          "first_name": "Namanjeet",
+          "last_name": "Ahluwalia",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416789.5",
+          "researcher_id": "ur.01225540566.35",
+          "affiliations": [
+            {
+              "id": "grid.416789.5",
+              "name": "National Center for Health Statistics",
+              "city": "Hyattsville",
+              "city_id": 4358821,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Johanna",
+          "last_name": "Dwyer",
+          "corresponding": "",
+          "orcid": "['0000-0002-0783-1769']",
+          "current_organization_id": "grid.453518.e",
+          "researcher_id": "ur.016220515437.47",
+          "affiliations": [
+            {
+              "id": "grid.420086.8",
+              "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+              "city": "Bethesda",
+              "city_id": 4348599,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Ana",
+          "last_name": "Terry",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416789.5",
+          "researcher_id": "ur.0703270734.75",
+          "affiliations": [
+            {
+              "id": "grid.416789.5",
+              "name": "National Center for Health Statistics",
+              "city": "Hyattsville",
+              "city_id": 4358821,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Alanna",
+          "last_name": "Moshfegh",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.01250357164.33",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Clifford",
+          "last_name": "Johnson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416789.5",
+          "researcher_id": "ur.010062752262.94",
+          "affiliations": [
+            {
+              "id": "grid.416789.5",
+              "name": "National Center for Health Statistics",
+              "city": "Hyattsville",
+              "city_id": 4358821,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4717880?pdf=render",
+      "keywords": [
+        "dietary data",
+        "supplement use data",
+        "study",
+        "monitoring",
+        "diet",
+        "intake",
+        "continuous NHANES",
+        "dietary patterns",
+        "representative sample",
+        "status",
+        "questionnaire",
+        "participants",
+        "nutritional assessment",
+        "recall",
+        "total nutrient intake",
+        "frequency questionnaire",
+        "data collection",
+        "changes",
+        "US population",
+        "NHANES cycles",
+        "timely data",
+        "summary",
+        "quality",
+        "food intake",
+        "release",
+        "USDA Automated Multiple-Pass Method",
+        "health policy",
+        "expert input",
+        "cross-sectional survey",
+        "use data",
+        "need",
+        "Nutrition Program",
+        "thorough data",
+        "sectional survey",
+        "survey",
+        "improvement",
+        "day variation",
+        "chronic diseases",
+        "nutritional status",
+        "cornerstone",
+        "dietary components",
+        "nutrition",
+        "food-frequency questionnaire",
+        "usual dietary intake distributions",
+        "nutrient intake",
+        "National Nutrition Monitoring",
+        "samples",
+        "crossover study",
+        "food",
+        "program",
+        "population",
+        "Multiple-Pass Method",
+        "update",
+        "data",
+        "intake distribution",
+        "Continuing Survey",
+        "sociodemographic groups",
+        "dietary data collection",
+        "assessment",
+        "public health needs",
+        "health status",
+        "disease",
+        "food groups",
+        "nutrition monitoring",
+        "review",
+        "patterns",
+        "days",
+        "intake of food",
+        "health needs",
+        "group",
+        "individuals",
+        "NHANES",
+        "Automated Multiple-Pass Method"
+      ],
+      "journal_title": "Advances in Nutrition",
+      "title": "Update on NHANES Dietary Data: Focus on Collection, Release, Analytical Considerations, and Uses to Inform Public Policy"
+    }
+  },
+  {
+    "title": "National Surveys Reveal Modest Improvement in the Types of Foods Available in Americans' Homes",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/amber-waves/2015/april/national-surveys-reveal-modest-improvement-in-the-types-of-foods-available-in-americans-homes/",
+      "keywords": "FCBS,Flexible consumer behavior survey,food away from home,diet quality,nutrition",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "The Effects of Benefit Timing and Income Fungibility on Food Purchasing Decisions among Supplemental Nutrition Assistance Program Households",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1093/ajae/aav072",
+      "keywords": "Fungibility of income,SNAP benefit cycle,time-inconsistent preferences,FoodAPS,Econ Tier 2",
+      "doi": "10.1093/ajae/aav072",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1093/ajae/aav072",
+      "authors": [
+        {
+          "first_name": "Travis A.",
+          "last_name": "Smith",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Joshua P.",
+          "last_name": "Berning",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Xiaosi",
+          "last_name": "Yang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Gregory",
+          "last_name": "Colson",
+          "corresponding": "",
+          "orcid": "['0000-0002-9863-4399']",
+          "current_organization_id": "grid.213876.9",
+          "researcher_id": "ur.0704052474.14",
+          "affiliations": []
+        },
+        {
+          "first_name": "Jeffrey H.",
+          "last_name": "Dorfman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "effects",
+        "timing",
+        "households"
+      ],
+      "journal_title": "American Journal of Agricultural Economics",
+      "title": "The Effects of Benefit Timing and Income Fungibility on Food Purchasing Decisions among Supplemental Nutrition Assistance Program Households"
+    }
+  },
+  {
+    "title": "What Keeps Columbus Cooking? A Survey of Cooking Behavior",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://hdl.handle.net/1811/80704",
+      "keywords": "public health nutrition,human nutrition,cooking behavior,qualitative and quantitative survey,FCBS,Flexible Consumer Behavior Survey,analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "U.S. Consumers' Perception, Intention, and Purchase Behavior of Grass-Fed Beef",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "https://digitalcommons.usu.edu/etd/7221",
+      "keywords": "Agriculture Commons,Beef Science Commons,Flexible Consumer Behavior Survey,FCBS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Demand for Household Food Waste",
+    "datasets": [
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://doi.org/10.1093/aepp/ppy037",
+      "keywords": "Econ Tier 2,FCBS,Flexible Consumer Behavior Survey,NHANES,Food waste,household food production,demand estimation,citation",
+      "doi": "10.1093/aepp/ppy037",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1093/aepp/ppy037",
+      "authors": [
+        {
+          "first_name": "Craig E",
+          "last_name": "Landry",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Agricultural & Applied Economics, University of Georgia"
+            }
+          ]
+        },
+        {
+          "first_name": "Travis A",
+          "last_name": "Smith",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Agricultural & Applied Economics, University of Georgia"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/aepp/article-pdf/41/1/20/27762483/ppy037.pdf",
+      "keywords": [
+        "household food waste",
+        "food waste",
+        "demand",
+        "waste"
+      ],
+      "journal_title": "Applied Economic Perspectives and Policy",
+      "title": "Demand for Household Food Waste"
+    }
+  },
+  {
+    "title": "Greenhouse gas emissions, total food spending and diet quality by share of household food spending on red meat: results from a nationally representative sample of US households",
+    "datasets": [
+      "dataset-057"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/30917878",
+      "keywords": "Climate change,Nutritional quality,Food spending,Red meat,Healthy Eating Index-2010,FoodAPS,NonE Tier 1",
+      "doi": "10.1017/S136898001800407X",
+      "journal": "Public health nutrition",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1017/s136898001800407x",
+      "authors": [
+        {
+          "first_name": "Rebecca",
+          "last_name": "Boehm",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.63054.34",
+          "researcher_id": "ur.07435540540.94",
+          "affiliations": [
+            {
+              "name": "Zwick Center for Food and Resource Policy/Rudd Center for Food Policy and Obesity, University of Connecticut, 1 Constitution Plaza, Suite 600, Hartford, CT, 06103, USA"
+            }
+          ]
+        },
+        {
+          "first_name": "Michele Ver",
+          "last_name": "Ploeg",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.011022453465.95",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        },
+        {
+          "first_name": "Parke E",
+          "last_name": "Wilde",
+          "corresponding": "",
+          "orcid": "['0000-0002-9596-9230']",
+          "current_organization_id": "grid.429997.8",
+          "researcher_id": "ur.0655251117.08",
+          "affiliations": [
+            {
+              "id": "grid.429997.8",
+              "name": "Tufts University",
+              "city": "Medford",
+              "city_id": 4943629,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Sean B",
+          "last_name": "Cash",
+          "corresponding": "",
+          "orcid": "['0000-0002-7561-3392']",
+          "current_organization_id": "grid.429997.8",
+          "researcher_id": "ur.01245055310.61",
+          "affiliations": [
+            {
+              "id": "grid.429997.8",
+              "name": "Tufts University",
+              "city": "Medford",
+              "city_id": 4943629,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "study",
+        "index",
+        "food purchases",
+        "food budget",
+        "households",
+        "household food budget",
+        "nutrients",
+        "share",
+        "Further studies",
+        "quality",
+        "gas emissions",
+        "greenhouse gas emissions",
+        "emission",
+        "sophisticated analytical techniques",
+        "average greenhouse gas emissions",
+        "household food purchases",
+        "cycle assessment model",
+        "animal protein",
+        "purchase",
+        "greater nutritional quality",
+        "USA",
+        "budget",
+        "life-cycle greenhouse gas emissions",
+        "National Household Food Acquisition",
+        "survey",
+        "nutritional perspective",
+        "household food spending",
+        "red meat",
+        "assessment model",
+        "dietary guidelines",
+        "acquisition",
+        "food affordability",
+        "Purchase Survey",
+        "levels",
+        "accounting",
+        "affordability",
+        "food spending",
+        "regression",
+        "food acquisition",
+        "results",
+        "samples",
+        "improved alignment",
+        "spending shares",
+        "US households",
+        "meat",
+        "ANOVA",
+        "Household Food Acquisition",
+        "variation",
+        "diet quality",
+        "linear regression",
+        "association",
+        "nutritional quality",
+        "low levels",
+        "patterns",
+        "low greenhouse gas emissions",
+        "environmental burden",
+        "substantial variation",
+        "changes"
+      ],
+      "journal_title": "Public Health Nutrition",
+      "title": "Greenhouse gas emissions, total food spending and diet quality by share of household food spending on red meat: results from a nationally representative sample of US households"
+    },
+    "europepmc": {
+      "doi": "10.1017/S136898001800407X",
+      "journal": "Public Health Nutr",
+      "url": "http://europepmc.org/abstract/MED/30917878",
+      "title": "greenhouse gas emissions, total food spending and diet quality by share of household food spending on red meat: results from a nationally representative sample of us households"
+    }
+  },
+  {
+    "title": "Geographic Differences in the Dietary Quality of Food Purchases among Participants in the Nationally Representative Food Acquisition and Purchase Survey (FoodAPS)",
+    "datasets": [
+      "dataset-057"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/31151225",
+      "keywords": "Food Acquisition and Purchase Survey,FoodAPS,diet quality,geographic disparities,racial/ethnic disparities,Healthy Eating Index,grocery purchase quality,Econ Tier 1",
+      "doi": "10.3390/nu11061233",
+      "journal": "Nutrients",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.3390/nu11061233",
+      "authors": [
+        {
+          "first_name": "Maya",
+          "last_name": "Vadiveloo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.20431.34",
+          "researcher_id": "ur.0714455215.25",
+          "affiliations": [
+            {
+              "id": "grid.20431.34",
+              "name": "University of Rhode Island",
+              "city": "Kingston",
+              "city_id": 5223006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Rhode Island",
+              "state_code": "US-RI"
+            }
+          ]
+        },
+        {
+          "first_name": "Elie",
+          "last_name": "Perraud",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.417885.7",
+          "researcher_id": "ur.016112242347.06",
+          "affiliations": [
+            {
+              "id": "grid.417885.7",
+              "name": "Agro ParisTech",
+              "city": "Paris",
+              "city_id": 2988507,
+              "country": "France",
+              "country_code": "FR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Haley W.",
+          "last_name": "Parker",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.20431.34",
+          "researcher_id": "ur.013717006644.30",
+          "affiliations": [
+            {
+              "id": "grid.20431.34",
+              "name": "University of Rhode Island",
+              "city": "Kingston",
+              "city_id": 5223006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Rhode Island",
+              "state_code": "US-RI"
+            }
+          ]
+        },
+        {
+          "first_name": "Filippa",
+          "last_name": "Juul",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.137628.9",
+          "researcher_id": "ur.0606122163.03",
+          "affiliations": [
+            {
+              "id": "grid.137628.9",
+              "name": "New York University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Niyati",
+          "last_name": "Parekh",
+          "corresponding": "",
+          "orcid": "['0000-0002-1334-0528']",
+          "current_organization_id": "grid.137628.9",
+          "researcher_id": "ur.0670461757.83",
+          "affiliations": [
+            {
+              "id": "grid.137628.9",
+              "name": "New York University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.mdpi.com/2072-6643/11/6/1233/pdf",
+      "keywords": [
+        "NHW",
+        "dietary quality",
+        "diet",
+        "food purchases",
+        "lower diet quality",
+        "females",
+        "ethnic differences",
+        "lower scores",
+        "respondents self",
+        "participants",
+        "differences",
+        "ethnic disparities",
+        "quality",
+        "race/ethnicity",
+        "self",
+        "survey",
+        "sectional analysis",
+        "scores",
+        "geographic differences",
+        "demographics",
+        "Healthy Eating Index 2015",
+        "geographic regions",
+        "Purchase Survey",
+        "regression",
+        "cross-sectional analysis",
+        "ethnicity",
+        "disparities",
+        "grocery purchases",
+        "years",
+        "diet quality",
+        "non-Hispanic Black households",
+        "respondents",
+        "higher scores",
+        "effect modification",
+        "disease",
+        "College",
+        "days",
+        "multivariable"
+      ],
+      "journal_title": "Nutrients",
+      "title": "Geographic Differences in the Dietary Quality of Food Purchases among Participants in the Nationally Representative Food Acquisition and Purchase Survey (FoodAPS)"
+    },
+    "openaire": {
+      "journal": "Nutrients",
+      "title": "Geographic Differences in the Dietary Quality of Food Purchases among Participants in the Nationally Representative Food Acquisition and Purchase Survey (FoodAPS)",
+      "doi": "10.3390/nu11061233",
+      "url": "http://europepmc.org/articles/PMC6627193"
+    }
+  },
+  {
+    "title": "The Use of Food Pantries and Soup Kitchens by Low-Income Households",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "url": "https://econpapers.repec.org/scripts/redir.pf?u=http%3A%2F%2Fageconsearch.umn.edu%2Frecord%2F236172%2Ffiles%2FThe%2520Use%2520of%2520Food%2520Pantry%2520by%2520Low-Income%2520Households%2520AAEA%2520Paper%25202016.pdf;h=repec:ags:aaea16:236172",
+      "keywords": NaN,
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Food Price Variation over the SNAP Benet Cycle",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "SNAP,Benet Cycle,Food Price,FoodAPS",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Reported Knowledge of Typical Daily Calorie Requirements: Relationship to Demographic Characteristics in US Adults",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/31296427",
+      "keywords": "Calories,Nutrition,Policy,Obesity,Menu labeling,FCBS,Flexible Consumer Behavior Survey,NonE Tier 1,Analyzed",
+      "doi": "10.1016/j.jand.2019.04.024",
+      "journal": "Journal of the Academy of Nutrition and Dietetics",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jand.2019.04.024",
+      "authors": [
+        {
+          "first_name": "Robin A.",
+          "last_name": "McKinnon",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Taiye",
+          "last_name": "Oladipo",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.483501.b",
+          "researcher_id": "ur.01302047223.22",
+          "affiliations": []
+        },
+        {
+          "first_name": "Martine S.",
+          "last_name": "Ferguson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Olivia E.",
+          "last_name": "Jones",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.483501.b",
+          "researcher_id": "ur.07357214513.43",
+          "affiliations": []
+        },
+        {
+          "first_name": "Maya E.",
+          "last_name": "Maroto",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.483501.b",
+          "researcher_id": "ur.01264104043.30",
+          "affiliations": []
+        },
+        {
+          "first_name": "Beverly",
+          "last_name": "Wolpert",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "US adults",
+        "outcomes",
+        "logistic regression",
+        "study",
+        "sample survey",
+        "intake",
+        "certain groups",
+        "rate",
+        "calorie requirements",
+        "public health",
+        "representative sample",
+        "findings",
+        "use",
+        "non-Hispanic whites",
+        "health",
+        "Behavior Survey",
+        "activity levels",
+        "clear understanding",
+        "economic outcomes",
+        "differences",
+        "demographic groups",
+        "earlier studies",
+        "sex",
+        "calorie needs",
+        "Examination Survey",
+        "calorie information",
+        "self",
+        "Consumer Behavior Survey",
+        "obesity rates",
+        "need",
+        "survey",
+        "whites",
+        "lack",
+        "educational efforts",
+        "education level",
+        "age groups",
+        "Nutrition Examination Survey",
+        "demographic characteristics",
+        "ability",
+        "Hispanic whites",
+        "supplemental data sources",
+        "levels",
+        "negative health",
+        "population level",
+        "samples",
+        "regression",
+        "daily calorie requirements",
+        "participant characteristics",
+        "persons",
+        "relationship",
+        "years",
+        "Performed",
+        "high levels",
+        "awareness",
+        "physical activity levels",
+        "aim",
+        "data",
+        "association",
+        "men",
+        "daily calorie needs",
+        "adults",
+        "respondents",
+        "complex sample surveys",
+        "National Health",
+        "Most respondents",
+        "knowledge",
+        "higher income",
+        "lack of knowledge",
+        "women",
+        "nutrition literacy",
+        "intervention",
+        "caloric intake",
+        "group",
+        "risk",
+        "United States",
+        "US obesity rates"
+      ],
+      "journal_title": "Journal of the Academy of Nutrition and Dietetics",
+      "title": "Reported Knowledge of Typical Daily Calorie Requirements: Relationship to Demographic Characteristics in US Adults"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jand.2019.04.024",
+      "journal": "J Acad Nutr Diet",
+      "url": "http://europepmc.org/abstract/MED/31296427",
+      "title": "reported knowledge of typical daily calorie requirements: relationship to demographic characteristics in us adults"
+    }
+  },
+  {
+    "title": "The Food-Spending Patterns of Households Participating in the Supplemental Nutrition Assistance Program Findings From USDA's FoodAPS.pdf",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "FoodAPS,National Household Food Acquisition and Purchase Survey,food expenditures,Supplemental Nutrition Assistance Program,SNAP,food insecurity,SNAP benefit cycle",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Validating self-reported food expenditures against food store and eating-out receipts",
+    "datasets": [
+      "dataset-301"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26486299",
+      "keywords": "Adult,Consumer Behavior,Costs and Cost Analysis,Family Characteristics,Female,Follow-Up Studies,Food economics,Humans,Male,Middle Aged,Nutrition Surveys,Prospective Studies,Reproducibility of Results,Self Report,Socioeconomic Factors,Washington,Young Adult,FCBS,Flexible Consumer Behavior Survey,Econ Tier 1,Analyzed",
+      "doi": "10.1038/ejcn.2015.166",
+      "journal": "European journal of clinical nutrition",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1038/ejcn.2015.166",
+      "authors": [
+        {
+          "first_name": "W",
+          "last_name": "Tang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0614661736.08",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "A",
+          "last_name": "Aggarwal",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0614300006.52",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "Z",
+          "last_name": "Liu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "M",
+          "last_name": "Acheson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "C D",
+          "last_name": "Rehm",
+          "corresponding": "",
+          "orcid": "['0000-0002-7644-0040']",
+          "current_organization_id": "grid.251993.5",
+          "researcher_id": "ur.01324577311.22",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "A V",
+          "last_name": "Moudon",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0640175321.31",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        },
+        {
+          "first_name": "A",
+          "last_name": "Drewnowski",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.34477.33",
+          "researcher_id": "ur.0100065102.14",
+          "affiliations": [
+            {
+              "id": "grid.34477.33",
+              "name": "University of Washington",
+              "city": "Seattle",
+              "city_id": 5809844,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Washington",
+              "state_code": "US-WA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4775333?pdf=render",
+      "keywords": [
+        "representative sample",
+        "income strata",
+        "health",
+        "participants",
+        "Study II",
+        "\u03ba-statistics",
+        "bias",
+        "differences",
+        "significant differences",
+        "King County adults",
+        "Examination Survey",
+        "self",
+        "sociodemographic",
+        "II",
+        "significant bias",
+        "survey",
+        "receipt",
+        "Nutrition Examination Survey",
+        "total food expenditure",
+        "eating",
+        "stores",
+        "weak agreement",
+        "mean difference",
+        "samples",
+        "Bland-Altman plots",
+        "receipt data",
+        "Seattle Obesity Study II",
+        "agreement limits",
+        "data",
+        "Altman plots",
+        "adults",
+        "National Health",
+        "Survey Module",
+        "food stores",
+        "test",
+        "objective",
+        "expenditure"
+      ],
+      "journal_title": "European Journal of Clinical Nutrition",
+      "title": "Validating self-reported food expenditures against food store and eating-out receipts"
+    },
+    "openaire": {
+      "journal": "European journal of clinical nutrition",
+      "title": "Validating self-reported food expenditures against food store and eating-out receipts",
+      "doi": "10.1038/ejcn.2015.166",
+      "url": "http://europepmc.org/articles/PMC4775333"
+    }
+  },
+  {
+    "title": "Few changes in food security and dietary intake from short-term participation in the Supplemental Nutrition Assistance Program among low-income Massachusetts adults",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/24238909",
+      "keywords": "Adolescent,Adult,Aged,Diet/economics,Female,Food Assistance,Food Supply,Health Promotion,Humans,Longitudinal Studies,Male,Massachusetts,Middle Aged,Poverty,Surveys and Questionnaires,Young Adult,FSSM,NonE Tier 2",
+      "doi": "10.1016/j.jneb.2013.10.001",
+      "journal": "Journal of nutrition education and behavior",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jneb.2013.10.001",
+      "authors": [
+        {
+          "first_name": "Cindy W.",
+          "last_name": "Leung",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.214458.e",
+          "researcher_id": "ur.0730261053.15",
+          "affiliations": [
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Sarah",
+          "last_name": "Cluggish",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.01361656164.63",
+          "affiliations": [
+            {
+              "name": "Project Bread\u2013The Walk for Hunger, East Boston, MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Eduardo",
+          "last_name": "Villamor",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.214458.e",
+          "researcher_id": "ur.0761302620.68",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "Paul J.",
+          "last_name": "Catalano",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.65499.37",
+          "researcher_id": "ur.07560202662.03",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.65499.37",
+              "name": "Dana-Farber Cancer Institute",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Walter C.",
+          "last_name": "Willett",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.0607477203.05",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Eric B.",
+          "last_name": "Rimm",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.010735434242.45",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc3874244?pdf=render",
+      "keywords": [
+        "outcomes",
+        "dietary quality",
+        "income adults",
+        "study",
+        "intake",
+        "term participation",
+        "participants",
+        "health",
+        "short-term participation",
+        "Massachusetts adults",
+        "dietary intake",
+        "assistance",
+        "quality",
+        "participation",
+        "Supplemental Nutrition Assistance Program (SNAP) participation",
+        "Nutrition Assistance Program",
+        "grain intake",
+        "refined grain intake",
+        "months",
+        "low-income adults",
+        "low-income Americans",
+        "Supplemental Nutrition Assistance Program",
+        "regression",
+        "program",
+        "assistance programs",
+        "food",
+        "conclusion",
+        "crucial program",
+        "diet quality",
+        "data",
+        "linear regression",
+        "multivariable linear regression",
+        "association",
+        "adults",
+        "longitudinal study",
+        "hotline",
+        "Americans",
+        "test",
+        "SNAP participants",
+        "program participation",
+        "baseline",
+        "changes"
+      ],
+      "journal_title": "Journal of Nutrition Education and Behavior",
+      "title": "Few changes in food security and dietary intake from short-term participation in the Supplemental Nutrition Assistance Program among low-income Massachusetts adults"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Few changes in food security and dietary intake from short-term participation in the Supplemental Nutrition Assistance Program among low-income Massachusetts adults",
+      "doi": "10.1016/j.jneb.2013.10.001",
+      "url": "https://europepmc.org/articles/PMC3874244/"
+    }
+  },
+  {
+    "title": "Food-insecure dietary patterns are associated with poor longitudinal glycemic control in diabetes: results from the Boston Puerto Rican Health study",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/24969578",
+      "keywords": "Adult,Aged,Boston,Diabetes Mellitus,Diet,Feeding Behavior,Female,Follow-Up Studies,Food Supply,Glycated Hemoglobin A,Health Status,Humans,Hyperglycemia,Hypoglycemia,Longitudinal Studies,Male,Middle Aged,Prospective Studies,Puerto Rico,FSSM,NonE Tier 1",
+      "doi": "10.2337/dc14-0753",
+      "journal": "Diabetes care",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.2337/dc14-0753",
+      "authors": [
+        {
+          "first_name": "Seth A.",
+          "last_name": "Berkowitz",
+          "corresponding": "",
+          "orcid": "['0000-0003-1030-4297']",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01070465201.85",
+          "affiliations": [
+            {
+              "id": "grid.32224.35",
+              "name": "Massachusetts General Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Xiang",
+          "last_name": "Gao",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.014255474417.59",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Katherine L.",
+          "last_name": "Tucker",
+          "corresponding": "",
+          "orcid": "['0000-0001-7640-662X']",
+          "current_organization_id": "grid.225262.3",
+          "researcher_id": "ur.010344462577.93",
+          "affiliations": [
+            {
+              "id": "grid.225262.3",
+              "name": "University of Massachusetts Lowell",
+              "city": "Lowell",
+              "city_id": 4942618,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://care.diabetesjournals.org/content/37/9/2587.full.pdf",
+      "keywords": [
+        "longitudinal glycemic control",
+        "HbA1c concentration",
+        "mixed-effects models",
+        "dietary quality",
+        "study",
+        "cohort study",
+        "dietary patterns",
+        "intake",
+        "secure participants",
+        "subscores",
+        "participants",
+        "longitudinal cohort study",
+        "Puerto Rican adults",
+        "low intake",
+        "quality",
+        "overall dietary quality",
+        "better diet quality",
+        "consumption",
+        "improvement",
+        "scores",
+        "orange vegetables",
+        "lower HbA1c",
+        "follow-up",
+        "vegetable scores",
+        "diabetes",
+        "low consumption",
+        "up",
+        "vegetables",
+        "HbA1c",
+        "Boston Puerto Rican Health Study",
+        "A1c",
+        "food-insecure",
+        "total vegetables",
+        "effects model",
+        "food-secure participants",
+        "food",
+        "years",
+        "food insecurity",
+        "research design",
+        "population",
+        "concentration",
+        "food-insecure participants",
+        "maximum score",
+        "Health Study",
+        "insecure participants",
+        "diet quality",
+        "glycemic control",
+        "association",
+        "adults",
+        "adjusted models",
+        "insecure",
+        "patterns",
+        "control",
+        "hemoglobin A1c",
+        "baseline",
+        "lower overall dietary quality"
+      ],
+      "journal_title": "Diabetes Care",
+      "title": "Food-insecure dietary patterns are associated with poor longitudinal glycemic control in diabetes: results from the Boston Puerto Rican Health study"
+    },
+    "openaire": {
+      "journal": "Diabetes Care",
+      "title": "Food-insecure dietary patterns are associated with poor longitudinal glycemic control in diabetes: results from the Boston Puerto Rican Health study",
+      "doi": "10.2337/dc14-0753",
+      "url": "http://europepmc.org/articles/PMC4140162"
+    }
+  },
+  {
+    "title": "Treat or eat: food insecurity, cost-related medication underuse, and unmet needs",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/24440543",
+      "keywords": "Chronic Disease,Costs and Cost Analysis,Cross-Sectional Studies,Female,Food Supply,Health Services Needs and Demand,Humans,Male,Medication Adherence,Middle Aged,Risk Factors,Socioeconomic Factors,Population Health,Underserved Populations,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.amjmed.2014.01.002",
+      "journal": "The American journal of medicine",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.amjmed.2014.01.002",
+      "authors": [
+        {
+          "first_name": "Seth A.",
+          "last_name": "Berkowitz",
+          "corresponding": true,
+          "orcid": "['0000-0003-1030-4297']",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01070465201.85",
+          "affiliations": [
+            {
+              "id": "grid.32224.35",
+              "name": "Massachusetts General Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Hilary K.",
+          "last_name": "Seligman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.0625043223.30",
+          "affiliations": [
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Niteesh K.",
+          "last_name": "Choudhry",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.01371126246.21",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.62560.37",
+              "name": "Brigham and Women's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://dash.harvard.edu/bitstream/1/36878927/3/2014_food_insecurity_and_crmu_ajm_final_author_version.pdf",
+      "keywords": [
+        "study",
+        "factors",
+        "logistic regression models",
+        "Hispanic blacks",
+        "chronic conditions",
+        "representative sample",
+        "medications",
+        "Special Supplemental Nutrition Assistance Program",
+        "participants",
+        "unmet need",
+        "participation",
+        "blacks",
+        "unmet food",
+        "need",
+        "regression models",
+        "Nutrition Assistance Program",
+        "children",
+        "chronic illness",
+        "illness",
+        "sectional analysis",
+        "survey",
+        "Health Interview Survey",
+        "chronic diseases",
+        "insurance",
+        "patients",
+        "NHIS participants",
+        "survey participants",
+        "Medicare insurance",
+        "samples",
+        "Supplemental Nutrition Assistance Program",
+        "less food insecurity",
+        "cross-sectional analysis",
+        "infants",
+        "food",
+        "assistance programs",
+        "relationship",
+        "ill participants",
+        "years",
+        "food insecurity",
+        "National Health Interview Survey",
+        "medication underuse",
+        "program",
+        "data",
+        "Interview Survey",
+        "WIC",
+        "treat",
+        "adults",
+        "underuse",
+        "disease",
+        "women",
+        "non-Hispanic blacks",
+        "group"
+      ],
+      "journal_title": "The American Journal of Medicine",
+      "title": "Treat or eat: food insecurity, cost-related medication underuse, and unmet needs"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.amjmed.2014.01.002",
+      "journal": "Am J Med",
+      "url": "http://europepmc.org/abstract/MED/24440543",
+      "title": "treat or eat: food insecurity, cost-related medication underuse, and unmet needs"
+    }
+  },
+  {
+    "title": "Development of a food security measurement tool for New Zealand households",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25191783",
+      "keywords": "Adolescent,Adult,Aged,Aged, 80 and over,Cross-Sectional Studies,Diet,Family Characteristics,Female,Food Preferences,Food Supply,Health Promotion,Humans,Male,Middle Aged,New Zealand,Nutrition Assessment,Nutrition Policy,Nutrition Surveys,Patient Compliance,Socioeconomic Factors,Stress, Psychological,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.1017/S0007114514002104",
+      "journal": "The British journal of nutrition",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1017/s0007114514002104",
+      "authors": [
+        {
+          "first_name": "Winsome R.",
+          "last_name": "Parnell",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.29980.3a",
+          "researcher_id": "ur.01050345400.05",
+          "affiliations": [
+            {
+              "id": "grid.29980.3a",
+              "name": "University of Otago",
+              "city": "Dunedin",
+              "city_id": 2191562,
+              "country": "New Zealand",
+              "country_code": "NZ",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Andrew R.",
+          "last_name": "Gray",
+          "corresponding": "",
+          "orcid": "['0000-0003-4299-2194']",
+          "current_organization_id": "grid.29980.3a",
+          "researcher_id": "ur.010143253702.53",
+          "affiliations": [
+            {
+              "id": "grid.29980.3a",
+              "name": "University of Otago",
+              "city": "Dunedin",
+              "city_id": 2191562,
+              "country": "New Zealand",
+              "country_code": "NZ",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/64E04B4BDC3243546608A841F1337612/S0007114514002104a.pdf/div-class-title-development-of-a-food-security-measurement-tool-for-new-zealand-households-div.pdf",
+      "keywords": [
+        "National Nutrition Survey",
+        "experience",
+        "food-insecure households",
+        "useful marker",
+        "diet",
+        "index",
+        "intake",
+        "less healthy diets",
+        "item separation",
+        "status",
+        "intake of glucose",
+        "unidimensional scale",
+        "glucose",
+        "markers",
+        "measurement tools",
+        "healthy diet",
+        "burden",
+        "outfit values",
+        "household food insecurity",
+        "secure households",
+        "survey",
+        "respondent burden",
+        "daily servings",
+        "specific measurement tools",
+        "prevalence",
+        "nutritional status",
+        "vegetables",
+        "food choices",
+        "vitamin B12",
+        "servings",
+        "categories",
+        "Nutrition Survey",
+        "nutrient intake",
+        "most food-insecure households",
+        "levels",
+        "food security status",
+        "relationship",
+        "food insecurity",
+        "polyunsaturated fats",
+        "meat",
+        "cholesterol",
+        "development",
+        "total fat",
+        "model analysis",
+        "security status",
+        "insecure households",
+        "B12",
+        "adults",
+        "low levels",
+        "fatty meat",
+        "fat",
+        "less respondent burden",
+        "measures",
+        "severity",
+        "vitamin C",
+        "levels of severity"
+      ],
+      "journal_title": "British Journal Of Nutrition",
+      "title": "Development of a food security measurement tool for New Zealand households"
+    },
+    "europepmc": {
+      "doi": "10.1017/S0007114514002104",
+      "journal": "Br J Nutr",
+      "url": "http://europepmc.org/abstract/MED/25191783",
+      "title": "development of a food security measurement tool for new zealand households"
+    }
+  },
+  {
+    "title": "No food for thought: moderating effects of delay discounting and future time perspective on the relation between income and food insecurity",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25008855",
+      "keywords": "Adaptation, Psychological,Adult,Aging,Attention,Attitude to Health,Delay Discounting,Diet,Family Characteristics,Female,Food Supply,Humans,Income,Internet,Male,Models,Surveys and Questionnaires,United States,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.3945/ajcn.113.079772",
+      "journal": "The American journal of clinical nutrition",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.3945/ajcn.113.079772",
+      "authors": [
+        {
+          "first_name": "Leonard H",
+          "last_name": "Epstein",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.273335.3",
+          "researcher_id": "ur.01141774732.44",
+          "affiliations": [
+            {
+              "name": "From the Department of Pediatrics, School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo. NY (LHE, NJ, HL, and RP), and the Addiction Recovery Research Center, Virginia Tech Carilion Research Institute, Roanoke, VA (MNK and WKB)"
+            }
+          ]
+        },
+        {
+          "first_name": "Noelle",
+          "last_name": "Jankowiak",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.273335.3",
+          "researcher_id": "ur.01365131533.49",
+          "affiliations": [
+            {
+              "name": "From the Department of Pediatrics, School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo. NY (LHE, NJ, HL, and RP), and the Addiction Recovery Research Center, Virginia Tech Carilion Research Institute, Roanoke, VA (MNK and WKB)"
+            }
+          ]
+        },
+        {
+          "first_name": "Henry",
+          "last_name": "Lin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.273335.3",
+          "researcher_id": "ur.01233610346.67",
+          "affiliations": [
+            {
+              "name": "From the Department of Pediatrics, School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo. NY (LHE, NJ, HL, and RP), and the Addiction Recovery Research Center, Virginia Tech Carilion Research Institute, Roanoke, VA (MNK and WKB)"
+            }
+          ]
+        },
+        {
+          "first_name": "Rocco",
+          "last_name": "Paluch",
+          "corresponding": "",
+          "orcid": "['0000-0001-6384-2326']",
+          "current_organization_id": "grid.273335.3",
+          "researcher_id": "ur.01046634225.43",
+          "affiliations": [
+            {
+              "name": "From the Department of Pediatrics, School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo. NY (LHE, NJ, HL, and RP), and the Addiction Recovery Research Center, Virginia Tech Carilion Research Institute, Roanoke, VA (MNK and WKB)"
+            }
+          ]
+        },
+        {
+          "first_name": "Mikhail N",
+          "last_name": "Koffarnus",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.438526.e",
+          "researcher_id": "ur.0623772524.30",
+          "affiliations": [
+            {
+              "name": "From the Department of Pediatrics, School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo. NY (LHE, NJ, HL, and RP), and the Addiction Recovery Research Center, Virginia Tech Carilion Research Institute, Roanoke, VA (MNK and WKB)"
+            }
+          ]
+        },
+        {
+          "first_name": "Warren K",
+          "last_name": "Bickel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.438526.e",
+          "researcher_id": "ur.01336552723.84",
+          "affiliations": [
+            {
+              "name": "From the Department of Pediatrics, School of Medicine and Biomedical Sciences, University at Buffalo, Buffalo. NY (LHE, NJ, HL, and RP), and the Addiction Recovery Research Center, Virginia Tech Carilion Research Institute, Roanoke, VA (MNK and WKB)"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/ajcn/article-pdf/100/3/884/23835585/884.pdf",
+      "keywords": [
+        "discounting",
+        "thinking",
+        "skills",
+        "effects",
+        "resources",
+        "financial planning",
+        "planning",
+        "influence of income",
+        "financial resources",
+        "future",
+        "perspective",
+        "scarcity",
+        "scarce resources",
+        "subjective probabilities",
+        "future orientation",
+        "financial skills",
+        "high food insecurity",
+        "role",
+        "future time perspective",
+        "influence",
+        "time perspective",
+        "insecurity",
+        "degree",
+        "planning skills",
+        "face",
+        "delay discounting",
+        "prospective thinking",
+        "levels",
+        "income",
+        "low income",
+        "scarcity of resources",
+        "food insecurity",
+        "research",
+        "probability",
+        "relation",
+        "thought",
+        "moderator",
+        "low levels",
+        "way interaction",
+        "measures",
+        "attention",
+        "individuals"
+      ],
+      "journal_title": "American Journal of Clinical Nutrition",
+      "title": "No food for thought: moderating effects of delay discounting and future time perspective on the relation between income and food insecurity"
+    }
+  },
+  {
+    "title": "Healthy snacking recommendations: one size does not fit all",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/24518869",
+      "keywords": "Aging,Dietary Behavior,Eating Occation,Population,Feeding Behavior,Guidelines as Topic,Humans,Nutrition Surveys,Snacks,United States,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.physbeh.2014.01.034",
+      "journal": "Physiology & behavior",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.physbeh.2014.01.034",
+      "authors": [
+        {
+          "first_name": "Claire A.",
+          "last_name": "Zizza",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.252546.2",
+          "researcher_id": "ur.01262126110.31",
+          "affiliations": [
+            {
+              "name": "Department of Nutrition, Dietetics, and Hospitality Management, 101 PSB, Auburn, AL 36849-5605, United States"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "outcomes",
+        "dietary quality",
+        "factors",
+        "diet",
+        "intake",
+        "universal dietary recommendations",
+        "life-stage groups",
+        "effects",
+        "health effects",
+        "descriptive alternative",
+        "unhealthy behaviors",
+        "consequences",
+        "dietary intake",
+        "alternative",
+        "quality",
+        "recommendations",
+        "diet of adults",
+        "meal frequency",
+        "healthful life",
+        "reasons",
+        "different target populations",
+        "healthy diet",
+        "overall dietary quality",
+        "health outcomes",
+        "stage group",
+        "purpose",
+        "lack",
+        "older adults",
+        "consensus",
+        "study population",
+        "dietary components",
+        "possible interactions",
+        "lack of consensus",
+        "report",
+        "literature",
+        "food",
+        "dietary behaviors",
+        "enough food",
+        "single dietary components",
+        "food insecurity",
+        "relationship",
+        "population",
+        "access",
+        "life",
+        "target population",
+        "frequency",
+        "nutrition knowledge",
+        "promotion campaigns",
+        "dietary recommendations",
+        "single nutrients",
+        "health promotion campaigns",
+        "adults",
+        "stress",
+        "knowledge",
+        "psychosocial stress",
+        "numerous reasons",
+        "scientific literature",
+        "group",
+        "individuals"
+      ],
+      "journal_title": "Physiology & Behavior",
+      "title": "Healthy snacking recommendations: one size does not fit all"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.physbeh.2014.01.034",
+      "journal": "Physiol Behav",
+      "url": "http://europepmc.org/abstract/MED/24518869",
+      "title": "healthy snacking recommendations: one size does not fit all"
+    }
+  }
+]

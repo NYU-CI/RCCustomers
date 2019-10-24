@@ -1,0 +1,2106 @@
+[
+  {
+    "title": "Financial Capability and Food Security in Extremely Vulnerable Households",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/ajae/aay029",
+      "keywords": "Food Security,Financial Capability,Financial Literacy,Poverty,Vulnerable Households,FSSM,Econ Tier 1",
+      "doi": "10.1093/ajae/aay029",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1093/ajae/aay029",
+      "authors": [
+        {
+          "first_name": "Daniel L",
+          "last_name": "Millimet",
+          "corresponding": "",
+          "orcid": "['0000-0001-5178-5993']",
+          "current_organization_id": "grid.263864.d",
+          "researcher_id": "ur.015430666431.30",
+          "affiliations": []
+        },
+        {
+          "first_name": "Ian K",
+          "last_name": "McDonough",
+          "corresponding": "",
+          "orcid": "['0000-0002-9053-3366']",
+          "current_organization_id": "grid.272362.0",
+          "researcher_id": "ur.010405367477.88",
+          "affiliations": []
+        },
+        {
+          "first_name": "Thomas B",
+          "last_name": "Fomby",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.263864.d",
+          "researcher_id": "ur.016567531120.02",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "capability",
+        "security",
+        "households",
+        "financial capability"
+      ],
+      "journal_title": "American Journal of Agricultural Economics",
+      "title": "Financial Capability and Food Security in Extremely Vulnerable Households"
+    }
+  },
+  {
+    "title": "Estimating The Associations Between Snap And Food Insecurity, Obesity, And Food Purchases With Imperfect Administrative Measures Of Participation",
+    "datasets": [
+      "dataset-026",
+      "dataset-057"
+    ],
+    "original": {
+      "url": "https://www.doi.org/https://doi.org/10.1002/soej.12364",
+      "keywords": "SNAP,Food Insecurity,Obesity,Food Purchases,Body Mass Index,Healthy Eating Index,Misreporting,Measurement Error,FoodAPS-FS,Analyzed,Econ Tier 2",
+      "doi": "https://doi.org/10.1002/soej.12364",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1002/soej.12364",
+      "authors": [
+        {
+          "first_name": "Charles",
+          "last_name": "Courtemanche",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.250279.b",
+          "researcher_id": "ur.013350617007.69",
+          "affiliations": []
+        },
+        {
+          "first_name": "Augustine",
+          "last_name": "Denteh",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.38142.3c",
+          "researcher_id": "ur.013540545610.82",
+          "affiliations": []
+        },
+        {
+          "first_name": "Rusty",
+          "last_name": "Tchernis",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.256304.6",
+          "researcher_id": "ur.0625173046.23",
+          "affiliations": []
+        }
+      ],
+      "linkout": "https://www.econstor.eu/bitstream/10419/180430/1/dp11412.pdf",
+      "keywords": [
+        "unique data",
+        "standard",
+        "implications",
+        "ambiguity",
+        "choice",
+        "evidence",
+        "rate",
+        "index",
+        "food purchases",
+        "differences",
+        "administrative measures",
+        "participation",
+        "self\u2010reported participation",
+        "survey\u2010based measures",
+        "regression estimates",
+        "purchase",
+        "Supplemental Nutrition Assistance Program (SNAP) participation",
+        "meaningful differences",
+        "administrative data",
+        "insecurity",
+        "problem",
+        "levels",
+        "substantial ambiguity",
+        "food insecurity",
+        "FoodAPS",
+        "disagreement",
+        "little evidence",
+        "data",
+        "estimates",
+        "potential problems",
+        "econometric estimates",
+        "program participation",
+        "measures",
+        "issues"
+      ],
+      "journal_title": "Southern Economic Journal",
+      "title": "Estimating The Associations Between Snap And Food Insecurity, Obesity, And Food Purchases With Imperfect Administrative Measures Of Participation"
+    }
+  },
+  {
+    "title": "Household history, SNAP participation, and food insecurity",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1016/j.foodpol.2017.08.006",
+      "keywords": "Food Security,SNAP,Food Stamps,Household History,SIPP-FS,Analyzed,Econ Tier 1",
+      "doi": "10.1016/j.foodpol.2017.08.006",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.foodpol.2017.08.006",
+      "authors": [
+        {
+          "first_name": "Christopher A.",
+          "last_name": "Swann",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266860.c",
+          "researcher_id": "ur.011227755322.88",
+          "affiliations": [
+            {
+              "id": "grid.266860.c",
+              "name": "University of North Carolina at Greensboro",
+              "city": "Greensboro",
+              "city_id": 4469146,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "move",
+        "policy issues",
+        "experience",
+        "public policy issues",
+        "households",
+        "income families",
+        "food insecure",
+        "important public policy issue",
+        "low-income families",
+        "household history",
+        "point",
+        "participation",
+        "increase",
+        "negative income shock",
+        "security",
+        "survey",
+        "number of aspects",
+        "insecurity",
+        "Survey of Income",
+        "previous year",
+        "income shocks",
+        "SNAP participation",
+        "levels",
+        "recent experience",
+        "income",
+        "results",
+        "food",
+        "relationship",
+        "years",
+        "food insecurity",
+        "high levels",
+        "food security",
+        "probability",
+        "data",
+        "shock",
+        "insecure",
+        "program participation",
+        "aspects",
+        "issues",
+        "risk",
+        "household size"
+      ],
+      "journal_title": "Food Policy",
+      "title": "Household history, SNAP participation, and food insecurity"
+    }
+  },
+  {
+    "title": "Criminal Incarceration, Statutory Bans on Food Assistance, and Food Security in Extremely Vulnerable Households: Findings from a Partnership with the North Texas Food Bank",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/aepp/ppz011/5530149",
+      "keywords": "Food Security,Crime,Incarceration,Food Stamps,SNAP,FSSM,Econ Tier 2",
+      "doi": "10.1093/aepp/ppz011/5530149",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1093/aepp/ppz011",
+      "authors": [
+        {
+          "first_name": "Ian K",
+          "last_name": "McDonough",
+          "corresponding": "",
+          "orcid": "['0000-0002-9053-3366']",
+          "current_organization_id": "grid.272362.0",
+          "researcher_id": "ur.010405367477.88",
+          "affiliations": [
+            {
+              "id": "grid.272362.0",
+              "name": "University of Nevada, Las Vegas",
+              "city": "Las Vegas",
+              "city_id": 5506956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Nevada",
+              "state_code": "US-NV"
+            }
+          ]
+        },
+        {
+          "first_name": "Daniel L",
+          "last_name": "Millimet",
+          "corresponding": "",
+          "orcid": "['0000-0001-5178-5993']",
+          "current_organization_id": "grid.263864.d",
+          "researcher_id": "ur.015430666431.30",
+          "affiliations": [
+            {
+              "name": "Southern Methodist University and an IZA research fellow"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1093/aepp/ppz011",
+      "keywords": [
+        "households",
+        "findings",
+        "household-level food security",
+        "efficacy",
+        "society",
+        "ban",
+        "assistance",
+        "incarceration",
+        "North Texas",
+        "Texas",
+        "participation",
+        "analysis",
+        "survey data",
+        "role being",
+        "criminal incarceration",
+        "offenders",
+        "state",
+        "Nutrition Assistance Program",
+        "clients",
+        "food assistance",
+        "lack",
+        "questions",
+        "being",
+        "unique partnership",
+        "positive causal effect",
+        "food banks",
+        "impact",
+        "important role being",
+        "pantry clients",
+        "SNAP participation",
+        "Supplemental Nutrition Assistance Program",
+        "U.S.",
+        "program",
+        "assistance programs",
+        "relationship",
+        "partnership",
+        "food security",
+        "little attention",
+        "statutory ban",
+        "data",
+        "vulnerable households",
+        "drug offenders",
+        "Abstract",
+        "end",
+        "causal effect",
+        "program participation",
+        "attention",
+        "food pantry clients",
+        "lack of data"
+      ],
+      "journal_title": "Applied Economic Perspectives and Policy",
+      "title": "Criminal Incarceration, Statutory Bans on Food Assistance, and Food Security in Extremely Vulnerable Households: Findings from a Partnership with the North Texas Food Bank"
+    }
+  },
+  {
+    "title": "What explains gender differences in food insecurity?",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1016/j.foodpol.2019.01.003",
+      "keywords": "Food Insecurity,Gender Inequality,International Sample,CPS-FSS,Citation,FSSM,Econ Tier 1",
+      "doi": "10.1016/j.foodpol.2019.01.003",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.foodpol.2019.01.003",
+      "authors": [
+        {
+          "first_name": "Nzinga H.",
+          "last_name": "Broussard",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.467450.4",
+          "researcher_id": "ur.014101722515.20",
+          "affiliations": [
+            {
+              "id": "grid.467450.4",
+              "name": "Millennium Challenge Corporation",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "poor countries",
+        "network",
+        "households",
+        "food insecure",
+        "majority",
+        "food security data",
+        "food security situation",
+        "Saharan Africa",
+        "Oaxaca decomposition technique",
+        "point",
+        "Blinder-Oaxaca decomposition technique",
+        "gender gap",
+        "analysis",
+        "European Union",
+        "security situation",
+        "household members",
+        "security",
+        "varies",
+        "gender differences",
+        "percentage points",
+        "Zealand",
+        "region",
+        "Australia/New Zealand",
+        "policy",
+        "survey",
+        "role women",
+        "household income",
+        "most surveys",
+        "insecurity",
+        "household level",
+        "level data",
+        "security data",
+        "Union",
+        "social networks",
+        "gap",
+        "individual-level data",
+        "experiential measures",
+        "rich literature",
+        "members",
+        "South Asia",
+        "form",
+        "sub-Saharan Africa",
+        "income",
+        "literature",
+        "observable characteristics",
+        "food security",
+        "food insecurity",
+        "little attention",
+        "inequality",
+        "employment opportunities",
+        "Asia",
+        "countries",
+        "Africa",
+        "men",
+        "New Zealand",
+        "challenges",
+        "international sample",
+        "insecure",
+        "situation",
+        "attainment",
+        "women",
+        "gender inequality",
+        "educational attainment",
+        "measures",
+        "attention",
+        "opportunities",
+        "large international sample"
+      ],
+      "journal_title": "Food Policy",
+      "title": "What explains gender differences in food insecurity?"
+    }
+  },
+  {
+    "title": "The Receipt of Government Food Assistance: Differences Between Metro and Non-Metro Households",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://www.doi.org/https://doi.org/10.1007/s10834-017-9528-5",
+      "keywords": "Food Assistance,SNAP,WIC,Metro,Rural,SIPP-FS,Analyzed,Econ Tier 3",
+      "doi": "https://doi.org/10.1007/s10834-017-9528-5",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1007/s10834-017-9528-5",
+      "authors": [
+        {
+          "first_name": "Robert B.",
+          "last_name": "Nielsen",
+          "corresponding": "",
+          "orcid": "['0000-0003-2282-4900']",
+          "current_organization_id": "grid.265886.7",
+          "researcher_id": "ur.012555650407.85",
+          "affiliations": [
+            {
+              "id": "grid.213876.9",
+              "name": "University of Georgia",
+              "city": "Athens",
+              "city_id": 4180386,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Martin C.",
+          "last_name": "Seay",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.36567.31",
+          "researcher_id": "ur.016572705607.40",
+          "affiliations": [
+            {
+              "id": "grid.36567.31",
+              "name": "Kansas State University",
+              "city": "Manhattan",
+              "city_id": 4274994,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Kansas",
+              "state_code": "US-KS"
+            }
+          ]
+        },
+        {
+          "first_name": "Melissa J.",
+          "last_name": "Wilmarth",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.265886.7",
+          "researcher_id": "ur.015750100367.73",
+          "affiliations": [
+            {
+              "id": "grid.411015.0",
+              "name": "University of Alabama, Tuscaloosa",
+              "city": "Tuscaloosa",
+              "city_id": 4094455,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "assistance gap",
+        "post-recession",
+        "households",
+        "resources",
+        "Special Supplemental Nutrition Program",
+        "assistance",
+        "metro",
+        "participation",
+        "debate",
+        "area",
+        "metro areas",
+        "non-metro areas",
+        "Nutrition Assistance Program",
+        "food assistance",
+        "Nutrition Program",
+        "survey",
+        "panel data",
+        "being",
+        "receipt",
+        "insecurity",
+        "such programs",
+        "Survey of Income",
+        "gap",
+        "federal programs",
+        "levels",
+        "Supplemental Nutrition Assistance Program",
+        "random effects model",
+        "income",
+        "school meals",
+        "effects model",
+        "program",
+        "assistance programs",
+        "Supplemental Nutrition Program",
+        "recession",
+        "research",
+        "food insecurity",
+        "efficient allocation",
+        "allocation",
+        "disparities",
+        "government resources",
+        "data",
+        "Great Recession",
+        "model",
+        "program participation"
+      ],
+      "journal_title": "Journal of Family and Economic Issues",
+      "title": "The Receipt of Government Food Assistance: Differences Between Metro and Non-Metro Households"
+    }
+  },
+  {
+    "title": "Identifying the Effects of WIC on Food Insecurity Among Infants and Children",
+    "datasets": [
+      "dataset-048",
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://www.doi.org/https://doi.org/10.1002/soej.12078",
+      "keywords": "WIC,Food Insecurity,Infant,Children,NHANES-FSQ,Analyzed,Econ Tier 2",
+      "doi": "https://doi.org/10.1002/soej.12078",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1002/soej.12078",
+      "authors": [
+        {
+          "first_name": "Brent",
+          "last_name": "Kreider",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.34421.30",
+          "researcher_id": "ur.01111042563.21",
+          "affiliations": [
+            {
+              "id": "grid.34421.30",
+              "name": "Iowa State University",
+              "city": "Ames",
+              "city_id": 4846834,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Iowa",
+              "state_code": "US-IA"
+            },
+            {
+              "id": "grid.27755.32",
+              "name": "University of Virginia",
+              "city": "Charlottesville",
+              "city_id": 4752031,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Virginia",
+              "state_code": "US-VA"
+            },
+            {
+              "name": "Postdoctoral Scholar, Department of Public Policy, University of North Carolina at Chapel Hill"
+            }
+          ]
+        },
+        {
+          "first_name": "John V.",
+          "last_name": "Pepper",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.27755.32",
+          "researcher_id": "ur.01250767177.40",
+          "affiliations": [
+            {
+              "id": "grid.34421.30",
+              "name": "Iowa State University",
+              "city": "Ames",
+              "city_id": 4846834,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Iowa",
+              "state_code": "US-IA"
+            },
+            {
+              "id": "grid.27755.32",
+              "name": "University of Virginia",
+              "city": "Charlottesville",
+              "city_id": 4752031,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Virginia",
+              "state_code": "US-VA"
+            },
+            {
+              "name": "Postdoctoral Scholar, Department of Public Policy, University of North Carolina at Chapel Hill"
+            }
+          ]
+        },
+        {
+          "first_name": "Manan",
+          "last_name": "Roy",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.427006.7",
+          "researcher_id": "ur.012123344147.69",
+          "affiliations": [
+            {
+              "id": "grid.34421.30",
+              "name": "Iowa State University",
+              "city": "Ames",
+              "city_id": 4846834,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Iowa",
+              "state_code": "US-IA"
+            },
+            {
+              "id": "grid.27755.32",
+              "name": "University of Virginia",
+              "city": "Charlottesville",
+              "city_id": 4752031,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Virginia",
+              "state_code": "US-VA"
+            },
+            {
+              "name": "Postdoctoral Scholar, Department of Public Policy, University of North Carolina at Chapel Hill"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "outcomes",
+        "Children program",
+        "evidence",
+        "child food insecurity",
+        "crucial component",
+        "effects",
+        "underreporting",
+        "health",
+        "participation",
+        "Examination Survey",
+        "percentage points",
+        "children",
+        "survey",
+        "insecurity",
+        "counterfactual outcomes",
+        "prevalence",
+        "Nutrition Examination Survey",
+        "infants",
+        "program",
+        "food insecurity",
+        "safety net",
+        "effects of WIC",
+        "young children",
+        "WIC",
+        "data",
+        "National Health",
+        "women",
+        "WIC participation",
+        "United States"
+      ],
+      "journal_title": "Southern Economic Journal",
+      "title": "Identifying the Effects of WIC on Food Insecurity Among Infants and Children"
+    }
+  },
+  {
+    "title": "Food insecurity in the United States of America: an examination of race/ethnicity and nativity",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1007/s12571-017-0733-8",
+      "keywords": "Food Insecurity,Race/ethnicity,Nativity,Immigrants,NHANES-FSQ,Analyzed,CPS-FSS,Citation,NonE Tier 2",
+      "doi": "10.1007/s12571-017-0733-8",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1007/s12571-017-0733-8",
+      "authors": [
+        {
+          "first_name": "Ana McCormick",
+          "last_name": "Myers",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.135963.b",
+              "name": "University of Wyoming",
+              "city": "Laramie",
+              "city_id": 5830062,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wyoming",
+              "state_code": "US-WY"
+            }
+          ]
+        },
+        {
+          "first_name": "Matthew A.",
+          "last_name": "Painter",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.135963.b",
+          "researcher_id": "ur.0617642473.54",
+          "affiliations": [
+            {
+              "id": "grid.135963.b",
+              "name": "University of Wyoming",
+              "city": "Laramie",
+              "city_id": 5830062,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wyoming",
+              "state_code": "US-WY"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://link.springer.com/content/pdf/10.1007%2Fs12571-017-0733-8.pdf",
+      "keywords": [
+        "nativity status",
+        "study",
+        "evidence",
+        "non-Latino whites",
+        "Latino whites",
+        "ethnic inequalities",
+        "status",
+        "food insecure",
+        "health",
+        "divide",
+        "race/ethnicity",
+        "socioeconomic status",
+        "blacks",
+        "white divide",
+        "America",
+        "state",
+        "examination",
+        "survey",
+        "insecurity",
+        "assimilation theory",
+        "natives",
+        "ethnic groups",
+        "new assimilation theory",
+        "Latinos",
+        "non-Latino blacks",
+        "ethnicity",
+        "high rate",
+        "relationship",
+        "food insecurity",
+        "persistent problem",
+        "inequality",
+        "immigrants",
+        "representative study",
+        "National Health",
+        "insecure",
+        "experience higher rates",
+        "insights",
+        "patterns",
+        "more food insecure",
+        "nativity",
+        "group",
+        "United States",
+        "whites"
+      ],
+      "journal_title": "Food Security",
+      "title": "Food insecurity in the United States of America: an examination of race/ethnicity and nativity"
+    }
+  },
+  {
+    "title": "Food- and health-related correlates of self-reported body mass index among low-income mothers of young children",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25794991",
+      "keywords": "Adult,Body Mass Index,Cross-Sectional Studies,Female,Food Assistance,Food Supply,Health Status,Humans,Mothers,Overweight,Poverty,Young Adult,CPS-FSS,Citation,FSSM,NonE Tier 2",
+      "doi": "10.1016/j.jneb.2015.01.004",
+      "journal": "Journal of nutrition education and behavior",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jneb.2015.01.004",
+      "authors": [
+        {
+          "first_name": "Karen",
+          "last_name": "McCurdy",
+          "corresponding": true,
+          "orcid": "['0000-0001-9944-125X']",
+          "current_organization_id": "grid.20431.34",
+          "researcher_id": "ur.0605565363.16",
+          "affiliations": [
+            {
+              "id": "grid.20431.34",
+              "name": "University of Rhode Island",
+              "city": "Kingston",
+              "city_id": 5223006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Rhode Island",
+              "state_code": "US-RI"
+            }
+          ]
+        },
+        {
+          "first_name": "Tiffani",
+          "last_name": "Kisler",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.20431.34",
+          "researcher_id": "ur.014534227417.45",
+          "affiliations": [
+            {
+              "id": "grid.20431.34",
+              "name": "University of Rhode Island",
+              "city": "Kingston",
+              "city_id": 5223006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Rhode Island",
+              "state_code": "US-RI"
+            }
+          ]
+        },
+        {
+          "first_name": "Kathleen S.",
+          "last_name": "Gorman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.20431.34",
+          "researcher_id": "ur.0655065342.77",
+          "affiliations": [
+            {
+              "id": "grid.20431.34",
+              "name": "University of Rhode Island",
+              "city": "Kingston",
+              "city_id": 5223006,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Rhode Island",
+              "state_code": "US-RI"
+            }
+          ]
+        },
+        {
+          "first_name": "Elizabeth",
+          "last_name": "Metallinos-Katsaras",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.28203.3b",
+          "researcher_id": "ur.01336572742.96",
+          "affiliations": [
+            {
+              "id": "grid.28203.3b",
+              "name": "Simmons College",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1054&context=hdf_facpubs",
+      "keywords": [
+        "implications",
+        "nutrition educators",
+        "weight",
+        "index",
+        "confounds",
+        "unhealthy weight",
+        "care center",
+        "outreach project",
+        "use",
+        "public health practitioners",
+        "independent variables",
+        "health",
+        "center",
+        "regression analysis",
+        "outcome measures",
+        "Health-Related Correlates",
+        "mothers",
+        "mass index",
+        "participation",
+        "higher self",
+        "health practitioners",
+        "income mothers",
+        "self",
+        "supermarket use",
+        "correlates",
+        "depressive symptoms",
+        "maternal self",
+        "cross-sectional design",
+        "food dollars",
+        "children",
+        "household food insecurity",
+        "maternal depressive symptoms",
+        "demographic confounds",
+        "poor health",
+        "sectional design",
+        "Practice Scale",
+        "symptoms",
+        "heavier body mass index",
+        "samples",
+        "variables",
+        "income",
+        "food",
+        "assistance programs",
+        "relationship",
+        "program",
+        "day care centers",
+        "food insecurity",
+        "Hierarchical multiple regression analyses",
+        "conclusion",
+        "practitioners",
+        "young children",
+        "related correlates",
+        "dollars",
+        "food program participation",
+        "practice",
+        "association",
+        "low-income mothers",
+        "food assistance programs",
+        "body weight",
+        "body mass index",
+        "maternal body mass index",
+        "strategies",
+        "program participation",
+        "measures",
+        "multiple regression analysis",
+        "northeastern city",
+        "maternal body weight"
+      ],
+      "journal_title": "Journal of Nutrition Education and Behavior",
+      "title": "Food- and health-related correlates of self-reported body mass index among low-income mothers of young children"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Food- and health-related correlates of self-reported body mass index among low-income mothers of young children",
+      "doi": "10.1016/j.jneb.2015.01.004",
+      "url": "https://europepmc.org/articles/PMC4437190/"
+    }
+  },
+  {
+    "title": "Effects of Food Assistance Programs, Demographic Characteristics, and Living Environments on Children's Food Insecurity",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.11114/aef.v4i4.2507",
+      "keywords": "Food Program,Food Insecurity,Living Environment,Demographic Characteristics,Pseudo Panel Data,Simultaneous Equation Procedure,CPS-FSS,Analyzed,Chart,Econ Tier 3",
+      "doi": "10.11114/aef.v4i4.2507",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.11114/aef.v4i4.2507",
+      "authors": [
+        {
+          "first_name": "Zhiming",
+          "last_name": "Qiu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Chanjin",
+          "last_name": "Chung",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "linkout": "http://redfame.com/journal/index.php/aef/article/download/2507/2644",
+      "keywords": [
+        "effects regression",
+        "study",
+        "factors",
+        "child food insecurity",
+        "households",
+        "status",
+        "effects",
+        "procedure",
+        "living environment",
+        "participation",
+        "socioeconomic status",
+        "insecurity",
+        "impact",
+        "regression",
+        "variables",
+        "program",
+        "assistance programs",
+        "effectiveness",
+        "food insecurity",
+        "Food Program",
+        "annual cross",
+        "food assistance programs",
+        "objective",
+        "important factor",
+        "importance",
+        "demographic characteristics"
+      ],
+      "journal_title": "Applied Economics and Finance",
+      "title": "Effects of Food Assistance Programs, Demographic Characteristics, and Living Environments on Children's Food Insecurity"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "Effects of Food Assistance Programs, Demographic Characteristics, and Living Environments on Children's Food Insecurity",
+      "doi": "10.7448/IAS.15.5.18442",
+      "url": "http://europepmc.org/articles/PMC3499903"
+    }
+  },
+  {
+    "title": "Using Andersen's Behavioral Model to Predict Participation in the Supplemental Nutrition Assistance Program (SNAP) Among US Adults",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1080/19320248.2016.1255694",
+      "keywords": "SNAP,Andersen's Behavioral Model,Food Insecurity,CPS-FSS,Analyzed,FSSM,NonE Tier 2",
+      "doi": "10.1080/19320248.2016.1255694",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1080/19320248.2016.1255694",
+      "authors": [
+        {
+          "first_name": "Sara Strickhouser",
+          "last_name": "Vega",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.170430.1",
+          "researcher_id": "ur.016327457636.92",
+          "affiliations": [
+            {
+              "id": "grid.170430.1",
+              "name": "University of Central Florida",
+              "city": "Orlando",
+              "city_id": 4167147,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Florida",
+              "state_code": "US-FL"
+            }
+          ]
+        },
+        {
+          "first_name": "Melanie Sberna",
+          "last_name": "Hinojosa",
+          "corresponding": "",
+          "orcid": "['0000-0001-5188-3315']",
+          "current_organization_id": "grid.170430.1",
+          "researcher_id": "ur.0627206260.05",
+          "affiliations": [
+            {
+              "id": "grid.170430.1",
+              "name": "University of Central Florida",
+              "city": "Orlando",
+              "city_id": 4167147,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Florida",
+              "state_code": "US-FL"
+            }
+          ]
+        },
+        {
+          "first_name": "Jenny",
+          "last_name": "Nguyen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.170430.1",
+          "researcher_id": "ur.012573726651.65",
+          "affiliations": [
+            {
+              "id": "grid.170430.1",
+              "name": "University of Central Florida",
+              "city": "Orlando",
+              "city_id": 4167147,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Florida",
+              "state_code": "US-FL"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "US adults",
+        "factors",
+        "index",
+        "use",
+        "service use",
+        "predictive characteristics",
+        "participation",
+        "Supplemental Nutrition Assistance Program (SNAP) participation",
+        "Nutrition Assistance Program",
+        "survey",
+        "more risk factors",
+        "Andersen's Behavioral Model",
+        "SNAP participation",
+        "Supplemental Nutrition Assistance Program",
+        "variables",
+        "population survey",
+        "program",
+        "assistance programs",
+        "additional risk factors",
+        "predictors",
+        "adults",
+        "risk index",
+        "number",
+        "program participation",
+        "predict participation",
+        "risk factors",
+        "individuals"
+      ],
+      "journal_title": "Journal of Hunger & Environmental Nutrition",
+      "title": "Using Andersen's Behavioral Model to Predict Participation in the Supplemental Nutrition Assistance Program (SNAP) Among US Adults"
+    }
+  },
+  {
+    "title": "Food insecurity in veteran households: findings from nationally representative data",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26553172",
+      "keywords": "Dietary Supplements,Family Characteristics,Food Supply,Humans,Models, Theoretical,Nutrition Surveys,Poverty,Veterans,CPS-FSS,Analyzed,FSSM,NonE Tier 1",
+      "doi": "10.1017/S1368980015003067",
+      "journal": "Public health nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1017/s1368980015003067",
+      "authors": [
+        {
+          "first_name": "Daniel P",
+          "last_name": "Miller",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.189504.1",
+          "researcher_id": "ur.01061702656.50",
+          "affiliations": [
+            {
+              "id": "grid.189504.1",
+              "name": "Boston University",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Mary Jo",
+          "last_name": "Larson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "The Heller School for Social Policy and Management, Institute for Behavioral Health, Waltham, MA, USA"
+            }
+          ]
+        },
+        {
+          "first_name": "Thomas",
+          "last_name": "Byrne",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.189504.1",
+          "researcher_id": "ur.0603235140.05",
+          "affiliations": [
+            {
+              "id": "grid.189504.1",
+              "name": "Boston University",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Ellen",
+          "last_name": "DeVoe",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.189504.1",
+          "researcher_id": "ur.01146333737.49",
+          "affiliations": [
+            {
+              "id": "grid.189504.1",
+              "name": "Boston University",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://open.bu.edu/bitstream/2144/22789/1/miller%20et%20al.-%20food%20insecurity%20in%20veteran%20households%20-%20revised.pdf",
+      "keywords": [
+        "outcomes",
+        "study",
+        "lower rates",
+        "rate",
+        "US Armed Forces",
+        "recent veterans",
+        "findings",
+        "recipients",
+        "period",
+        "differences",
+        "onwards",
+        "representative data",
+        "veteran households",
+        "outreach",
+        "older veterans",
+        "veterans",
+        "representative estimates",
+        "high risk",
+        "Food Security Supplement",
+        "odds",
+        "nutritional outcomes",
+        "food insecurity",
+        "present study",
+        "data",
+        "supplements",
+        "services",
+        "low food security",
+        "US households",
+        "adjustment",
+        "risk"
+      ],
+      "journal_title": "Public Health Nutrition",
+      "title": "Food insecurity in veteran households: findings from nationally representative data"
+    },
+    "europepmc": {
+      "doi": "10.1017/S1368980015003067",
+      "journal": "Public Health Nutr",
+      "url": "http://europepmc.org/abstract/MED/26553172",
+      "title": "food insecurity in veteran households: findings from nationally representative data"
+    }
+  },
+  {
+    "title": "Supplemental Nutrition Assistance Program and food insecurity among families with children",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1016/j.jpolmod.2016.05.003",
+      "keywords": "Food insecurity,Parental Resources,Recursive Ordered Probability Model,SNAP,CPS-FSS,Analyzed,SIPP-FS,PSID-FFSS,Citation,Econ Tier 2",
+      "doi": "10.1016/j.jpolmod.2016.05.003",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jpolmod.2016.05.003",
+      "authors": [
+        {
+          "first_name": "Jun",
+          "last_name": "Zhang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.164295.d",
+              "name": "University of Maryland, College Park",
+              "city": "College Park",
+              "city_id": 4351977,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Steven T.",
+          "last_name": "Yen",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.411404.4",
+          "researcher_id": "ur.013157763227.21",
+          "affiliations": [
+            {
+              "id": "grid.19188.39",
+              "name": "National Taiwan University",
+              "city": "Taipei",
+              "city_id": 1668341,
+              "country": "Taiwan",
+              "country_code": "TW",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "husband\u2013wife families",
+        "positive effect",
+        "eligibility",
+        "resources",
+        "education",
+        "categorical eligibility",
+        "participation",
+        "reporting",
+        "security",
+        "role",
+        "measures",
+        "Nutrition Assistance Program",
+        "children",
+        "policy measures",
+        "household food insecurity",
+        "instrument",
+        "family",
+        "insecurity",
+        "parental resources",
+        "SNAP participation",
+        "doubt",
+        "Supplemental Nutrition Assistance Program",
+        "program",
+        "wife's family",
+        "assistance programs",
+        "effectiveness",
+        "food security",
+        "food insecurity",
+        "additional policy measures",
+        "employment opportunities",
+        "adults",
+        "opportunities",
+        "low food security",
+        "policy instruments"
+      ],
+      "journal_title": "Journal of Policy Modeling",
+      "title": "Supplemental Nutrition Assistance Program and food insecurity among families with children"
+    }
+  },
+  {
+    "title": "In-kind benefits and household behavior: The impact of SNAP on food-away-from-home consumption",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1016/j.foodpol.2018.01.010",
+      "keywords": "SNAP,Food Away From Home,Food Policy,Food Stamps,In-Kind Benefits,CPS-FSS,Analyzed,Econ Tier 1",
+      "doi": "10.1016/j.foodpol.2018.01.010",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.foodpol.2018.01.010",
+      "authors": [
+        {
+          "first_name": "Shaheer",
+          "last_name": "Burney",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.63054.34",
+              "name": "University of Connecticut",
+              "city": "Storrs",
+              "city_id": 4843786,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "FAFH expenditures",
+        "evidence",
+        "level variations",
+        "households",
+        "state-level variation",
+        "differences framework",
+        "participants",
+        "share",
+        "Food Away",
+        "benefits",
+        "participation",
+        "early-2000s",
+        "theory",
+        "framework",
+        "consumption",
+        "underutilized source",
+        "Nutrition Assistance Program",
+        "state",
+        "behavior",
+        "home",
+        "SNAP benefits",
+        "impact",
+        "cash",
+        "total food expenditure",
+        "paper",
+        "SNAP participation",
+        "Supplemental Nutrition Assistance Program",
+        "items",
+        "program",
+        "kind benefits",
+        "assistance programs",
+        "recession",
+        "Away",
+        "source",
+        "growth state",
+        "household behavior",
+        "empirical evidence",
+        "home consumption",
+        "economic theory",
+        "Food Stamp Program",
+        "food expenditure",
+        "expenditure"
+      ],
+      "journal_title": "Food Policy",
+      "title": "In-kind benefits and household behavior: The impact of SNAP on food-away-from-home consumption"
+    }
+  },
+  {
+    "title": "Food Insecurity among American Indians and Alaska Natives: A National Profile using the Current Population Survey-Food Security Supplement",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/28491205",
+      "keywords": "American Indian,Alaska Native,Food Security,Current Population Survey,Obesity,Food Environments,CPS-FSS,Analyzed,FSSM,NonE Tier 3",
+      "doi": "10.1080/19320248.2016.1227750",
+      "journal": "Journal of hunger & environmental nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1080/19320248.2016.1227750",
+      "authors": [
+        {
+          "first_name": "Valarie Blue Bird",
+          "last_name": "Jernigan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266902.9",
+          "researcher_id": "ur.01344666401.29",
+          "affiliations": [
+            {
+              "id": "grid.266902.9",
+              "name": "University of Oklahoma Health Sciences Center",
+              "city": "Oklahoma City",
+              "city_id": 4544349,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Kimberly R.",
+          "last_name": "Huyser",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266832.b",
+          "researcher_id": "ur.013530500370.27",
+          "affiliations": [
+            {
+              "id": "grid.266832.b",
+              "name": "University of New Mexico",
+              "city": "Albuquerque",
+              "city_id": 5454711,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Mexico",
+              "state_code": "US-NM"
+            }
+          ]
+        },
+        {
+          "first_name": "Jimmy",
+          "last_name": "Valdes",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.266832.b",
+              "name": "University of New Mexico",
+              "city": "Albuquerque",
+              "city_id": 5454711,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Mexico",
+              "state_code": "US-NM"
+            }
+          ]
+        },
+        {
+          "first_name": "Vanessa Watts",
+          "last_name": "Simonds",
+          "corresponding": "",
+          "orcid": "['0000-0003-1151-5723']",
+          "current_organization_id": "grid.41891.35",
+          "researcher_id": "ur.01315736631.11",
+          "affiliations": [
+            {
+              "id": "grid.41891.35",
+              "name": "Montana State University",
+              "city": "Bozeman",
+              "city_id": 5641727,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Montana",
+              "state_code": "US-MT"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc5422031?pdf=render",
+      "keywords": [
+        "urban AI/AN",
+        "American Indians",
+        "diet",
+        "findings",
+        "food insecure",
+        "profile",
+        "trends",
+        "burden",
+        "need",
+        "healthy foods",
+        "whites",
+        "Current Population Survey Food Security Supplement",
+        "national profile",
+        "insecurity",
+        "diabetes",
+        "disparities",
+        "Food Security Supplement",
+        "ethnic minority populations",
+        "ethnic groups",
+        "food",
+        "AI/ANs",
+        "hypertension",
+        "AI/",
+        "food insecurity",
+        "AI/AN",
+        "assistance programs",
+        "program",
+        "access",
+        "obesity",
+        "rural AI/ANs",
+        "population",
+        "Alaska Natives",
+        "supplements",
+        "food assistance programs",
+        "burden of diet",
+        "insecure",
+        "minority populations",
+        "group",
+        "risk",
+        "United States",
+        "Indians"
+      ],
+      "journal_title": "Journal of Hunger & Environmental Nutrition",
+      "title": "Food Insecurity among American Indians and Alaska Natives: A National Profile using the Current Population Survey-Food Security Supplement"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Food Insecurity among American Indians and Alaska Natives: A National Profile using the Current Population Survey-Food Security Supplement",
+      "doi": "10.1080/19320248.2016.1227750",
+      "url": "https://europepmc.org/articles/PMC5422031/"
+    }
+  },
+  {
+    "title": "The Effect of Safety-Net Programs on Food Insecurity",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.3368/jhr.51.3.1013-5987R1",
+      "keywords": "Safety-Net Program,Food Insecurity,CPS-FSS,Analyzed,Econ Tier 1",
+      "doi": "10.3368/jhr.51.3.1013-5987R1",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.3368/jhr.51.3.1013-5987r1",
+      "authors": [
+        {
+          "first_name": "Lucie",
+          "last_name": "Schmidt",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Lara",
+          "last_name": "Shore-Sheppard",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.268275.c",
+          "researcher_id": "ur.01247151134.48",
+          "affiliations": []
+        },
+        {
+          "first_name": "Tara",
+          "last_name": "Watson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.015713723615.66",
+          "affiliations": []
+        }
+      ],
+      "linkout": "https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1026&context=ukcpr_papers",
+      "keywords": [
+        "effects",
+        "food insecurity",
+        "net programs",
+        "program"
+      ],
+      "journal_title": "The Journal of Human Resources",
+      "title": "The Effect of Safety-Net Programs on Food Insecurity"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The Effect of Safety-Net Programs on Food Insecurity",
+      "doi": null,
+      "pdf": "http://www.nber.org/papers/w19558.pdf"
+    }
+  },
+  {
+    "title": "Improving Food Security Classification of Households With Children",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1080/19320248.2014.898174",
+      "keywords": "Food security,Food insecurity,Food security measurement,CPS-FSS,Analyzed,Chart,NonE Tier 3",
+      "doi": "10.1080/19320248.2014.898174",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1080/19320248.2014.898174",
+      "authors": [
+        {
+          "first_name": "Mark",
+          "last_name": "Nord",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.012114463352.01",
+          "affiliations": []
+        },
+        {
+          "first_name": "Alisha",
+          "last_name": "Coleman-Jensen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.01256022523.75",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "US Department",
+        "households",
+        "status",
+        "Department",
+        "children",
+        "Current Population Survey Food Security Supplement",
+        "insecurity",
+        "prevalence",
+        "Food Security Supplement",
+        "different ages",
+        "separate measures",
+        "food security status",
+        "age",
+        "food insecurity",
+        "extent",
+        "security status",
+        "data",
+        "supplements",
+        "adults",
+        "measures",
+        "low food security"
+      ],
+      "journal_title": "Journal of Hunger & Environmental Nutrition",
+      "title": "Improving Food Security Classification of Households With Children"
+    }
+  },
+  {
+    "title": "Understanding the Link between Poverty and Food Insecurity among Children: Does the Definition of Poverty Matter?",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25045244",
+      "keywords": "Food insecurity among children,Poverty,Official poverty measure,Supplemental poverty measure,CPS-FSS,Analyzed,NHANES-FSQ,SIPP-FS,Citation,NonE Tier 3",
+      "doi": "10.1080/10796126.2014.891973",
+      "journal": "Journal of children & poverty",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1080/10796126.2014.891973",
+      "authors": [
+        {
+          "first_name": "Vanessa",
+          "last_name": "Wight",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014144733245.28",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Neeraj",
+          "last_name": "Kaushal",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.0647203730.34",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Jane",
+          "last_name": "Waldfogel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.01167553721.14",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Irv",
+          "last_name": "Garfinkel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.013216523735.24",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4096937?pdf=render",
+      "keywords": [
+        "Census Bureau",
+        "needs ratio",
+        "outcomes",
+        "link",
+        "hypothesis",
+        "new Supplemental Poverty Measure",
+        "definition",
+        "official poverty measure",
+        "resources",
+        "family resources",
+        "supplemental measures",
+        "poverty matter",
+        "statistical tests",
+        "analysis",
+        "security",
+        "Bureau",
+        "point estimates",
+        "need",
+        "children",
+        "survey",
+        "insecurity",
+        "inclusive definition",
+        "Supplemental Poverty Measure",
+        "odds",
+        "paper",
+        "Current Population Survey",
+        "population survey",
+        "income",
+        "different definitions",
+        "food insecurity",
+        "food security",
+        "data",
+        "official measures",
+        "estimates",
+        "poverty",
+        "matter",
+        "measures",
+        "poverty measures",
+        "low food security"
+      ],
+      "journal_title": "Journal of Children and Poverty",
+      "title": "Understanding the Link between Poverty and Food Insecurity among Children: Does the Definition of Poverty Matter?"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Understanding the Link between Poverty and Food Insecurity among Children: Does the Definition of Poverty Matter?",
+      "doi": "10.1080/10796126.2014.891973",
+      "url": "https://europepmc.org/articles/PMC4096937/"
+    }
+  },
+  {
+    "title": "Expenditure Response to Increases in In-Kind Transfers: Evidence from the Supplemental Nutrition Assistance Program",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/ajae/aau097",
+      "keywords": "Labeling effect,Stimulus Bill,Supplemental Nutrition Assistance Program,CPS-FSS,Analyzed,Econ Tier 1",
+      "doi": "10.1093/ajae/aau097",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1093/ajae/aau097",
+      "authors": [
+        {
+          "first_name": "Timothy K.M.",
+          "last_name": "Beatty",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.27860.3b",
+          "researcher_id": "ur.01127722137.45",
+          "affiliations": [
+            {
+              "id": "grid.27860.3b",
+              "name": "University of California, Davis",
+              "city": "Davis",
+              "city_id": 5341704,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Charlotte J.",
+          "last_name": "Tuttle",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.27860.3b",
+          "researcher_id": "ur.0601245320.70",
+          "affiliations": [
+            {
+              "id": "grid.27860.3b",
+              "name": "University of California, Davis",
+              "city": "Davis",
+              "city_id": 5341704,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/ajae/article-pdf/97/2/390/416414/aau097.pdf",
+      "keywords": [
+        "study",
+        "evidence",
+        "households",
+        "host",
+        "benefits",
+        "increase",
+        "American Recovery",
+        "expenditure responses",
+        "recovery",
+        "Nutrition Assistance Program",
+        "program benefits",
+        "Reinvestment Act",
+        "SNAP benefits",
+        "recent increase",
+        "response",
+        "Supplemental Nutrition Assistance Program",
+        "food",
+        "assistance programs",
+        "program",
+        "conclusion",
+        "test",
+        "Supplemental Nutrition Assistance Program (SNAP) benefits"
+      ],
+      "journal_title": "American Journal of Agricultural Economics",
+      "title": "Expenditure Response to Increases in In-Kind Transfers: Evidence from the Supplemental Nutrition Assistance Program"
+    }
+  },
+  {
+    "title": "Food insecurity and self-reported hypertension among Hispanic, black, and white adults in 12 states, Behavioral Risk Factor Surveillance System, 2009",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25232748",
+      "keywords": "Adult,African Continental Ancestry Group,Aged,Behavioral Risk Factor Surveillance System,European Continental Ancestry Group,Female,Food Supply,Hispanic Americans,Humans,Hypertension,Male,Middle Aged,Prevalence,United States,CPS-FSS,Citation,NonE Tier 2",
+      "doi": "10.5888/pcd11.140190",
+      "journal": "Preventing chronic disease",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.5888/pcd11.140190",
+      "authors": [
+        {
+          "first_name": "Shalon M.",
+          "last_name": "Irving",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.453275.2",
+          "researcher_id": "ur.0765376207.28",
+          "affiliations": [
+            {
+              "id": "grid.416738.f",
+              "name": "Centers for Disease Control and Prevention",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Rashid S.",
+          "last_name": "Njai",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.0723011047.57",
+          "affiliations": [
+            {
+              "id": "grid.416738.f",
+              "name": "Centers for Disease Control and Prevention",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Paul Z.",
+          "last_name": "Siegel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416738.f",
+          "researcher_id": "ur.0771124247.39",
+          "affiliations": [
+            {
+              "id": "grid.416738.f",
+              "name": "Centers for Disease Control and Prevention",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cdc.gov/pcd/issues/2014/pdf/14_0190.pdf",
+      "keywords": [
+        "Behavioral Risk Factor Surveillance System questionnaire",
+        "System Questionnaire",
+        "self",
+        "study",
+        "blacks",
+        "association",
+        "white adults",
+        "adults",
+        "risk of hypertension",
+        "adjustment",
+        "questionnaire",
+        "socioeconomic position",
+        "hypertension",
+        "food insecurity",
+        "relationship",
+        "risk"
+      ],
+      "journal_title": "Preventing Chronic Disease",
+      "title": "Food insecurity and self-reported hypertension among Hispanic, black, and white adults in 12 states, Behavioral Risk Factor Surveillance System, 2009"
+    },
+    "openaire": {
+      "journal": "Preventing Chronic Disease",
+      "title": "Food insecurity and self-reported hypertension among Hispanic, black, and white adults in 12 states, Behavioral Risk Factor Surveillance System, 2009",
+      "doi": "10.5888/pcd11.140190",
+      "url": "http://europepmc.org/articles/PMC4170725"
+    }
+  }
+]

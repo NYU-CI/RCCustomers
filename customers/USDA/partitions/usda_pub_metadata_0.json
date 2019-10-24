@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Supply-side subsidies to improve food access and dietary outcomes: Evidence from the New Markets Tax Credit",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "doi": "10.1177/0042098017740285",
+      "dataset_name": "IRI Consumer Network",
+      "journal": "Urban Studies",
+      "url": "https://www.doi.org/10.1177/0042098017740285",
+      "date_added": "2019-10-14 16:34:18"
+    },
+    "dimensions": {
+      "linkout": "https://www.economics.uci.edu/research/wp/1718/17-18-04.pdf",
+      "doi": "10.1177/0042098017740285",
+      "authors": [
+        {
+          "first_name": "Matthew",
+          "last_name": "Freedman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.266093.8",
+              "name": "University of California, Irvine",
+              "city": "Irvine",
+              "city_id": 5359777,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Annemarie",
+          "last_name": "Kuhns",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.482913.5",
+          "researcher_id": "ur.010072134242.80",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "tax credits",
+        "evidence",
+        "New Markets Tax Credits",
+        "supply-side subsidies",
+        "census tracts",
+        "food retailers",
+        "program",
+        "short run",
+        "efforts",
+        "shopping",
+        "household-level scanner data",
+        "access",
+        "scanner data",
+        "run",
+        "food shopping",
+        "households",
+        "effects",
+        "eligibility",
+        "purchasing patterns",
+        "retail food establishments",
+        "food access",
+        "neighborhood",
+        "income communities",
+        "article",
+        "health outcomes",
+        "dietary outcomes",
+        "entry",
+        "policymakers",
+        "subsidies",
+        "retailers",
+        "low-income communities",
+        "investment",
+        "funding",
+        "community",
+        "advantages",
+        "establishment",
+        "positive impact",
+        "outcomes",
+        "impact",
+        "low-income areas",
+        "supermarkets",
+        "area",
+        "credit",
+        "income areas",
+        "data"
+      ],
+      "journal_title": "Urban Studies",
+      "title": "Supply-side subsidies to improve food access and dietary outcomes: Evidence from the New Markets Tax Credit"
+    }
+  }
+]

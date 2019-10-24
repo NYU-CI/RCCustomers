@@ -1,0 +1,2517 @@
+[
+  {
+    "title": "Deal or no deal? The prevalence and nutritional quality of price promotions among U.S. food and beverage purchases",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0195666317303069?via%3Dihub",
+      "journal": "Appetite",
+      "doi": "10.1016/j.appet.2017.07.006",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.appet.2017.07.006",
+      "authors": [
+        {
+          "first_name": "Lindsey Smith",
+          "last_name": "Taillie",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.0607777173.18",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Shu Wen",
+          "last_name": "Ng",
+          "corresponding": "",
+          "orcid": "['0000-0003-0582-110X']",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01366237502.19",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Ya",
+          "last_name": "Xue",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.26009.3d",
+          "researcher_id": "ur.012557013703.02",
+          "affiliations": [
+            {
+              "id": "grid.26009.3d",
+              "name": "Duke University",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Matthew",
+          "last_name": "Harding",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266093.8",
+          "researcher_id": "ur.013074366657.94",
+          "affiliations": [
+            {
+              "id": "grid.266093.8",
+              "name": "University of California, Irvine",
+              "city": "Irvine",
+              "city_id": 5359777,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5574185",
+      "keywords": [
+        "dataset",
+        "food purchases",
+        "households",
+        "household purchases",
+        "non-Hispanic whites",
+        "proportion",
+        "promotion",
+        "quality",
+        "race/ethnicity",
+        "Asian households",
+        "total price",
+        "trends",
+        "purchase",
+        "income households",
+        "low-income households",
+        "deal",
+        "prices",
+        "high-income households",
+        "Hispanic whites",
+        "price promotions",
+        "income",
+        "ethnicity",
+        "proportion of purchases",
+        "food",
+        "beverage purchases",
+        "US households",
+        "whites"
+      ],
+      "journal_title": "Appetite",
+      "title": "Deal or no deal? The prevalence and nutritional quality of price promotions among U.S. food and beverage purchases"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Deal or no deal? The prevalence and nutritional quality of price promotions among U.S. food and beverage purchases",
+      "doi": "10.1016/j.appet.2017.07.006",
+      "url": "https://europepmc.org/articles/PMC5574185/"
+    }
+  },
+  {
+    "title": "External validity of the food values scale",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0950329311000425",
+      "journal": "Food Quality and Preference",
+      "doi": "10.1016/j.foodqual.2011.02.009",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.foodqual.2011.02.009",
+      "authors": [
+        {
+          "first_name": "Jayson L.",
+          "last_name": "Lusk",
+          "corresponding": "",
+          "orcid": "['0000-0002-4841-323X']",
+          "current_organization_id": "grid.169077.e",
+          "researcher_id": "ur.0643274621.14",
+          "affiliations": [
+            {
+              "id": "grid.65519.3e",
+              "name": "Oklahoma State University",
+              "city": "Stillwater",
+              "city_id": 4552215,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "environment",
+        "choice",
+        "product development",
+        "purchase",
+        "organic milk",
+        "prices",
+        "values",
+        "merits",
+        "actual purchase",
+        "relative importance",
+        "high demand",
+        "decision",
+        "paper",
+        "low demand",
+        "demand",
+        "relationship",
+        "extent",
+        "development",
+        "consumer choice",
+        "marketing decisions",
+        "consumers",
+        "model",
+        "grocery stores",
+        "importance",
+        "organic food"
+      ],
+      "journal_title": "Food Quality and Preference",
+      "title": "External validity of the food values scale"
+    }
+  },
+  {
+    "title": "Testing functional forms of market share models using the Box-Cox transformation and the Lagrange multiplier approach",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "url": "https://reader.elsevier.com/reader/sd/pii/0167811689900049?token=C02280C47737D4636D0A09561C470925537AD4FE2E439C1DFDAC6A863BBB97D266F2E7CA446900A4DFB3155AD0305ED0",
+      "journal": "International Journal of Research in Marketing",
+      "doi": "10.1016/0167-8116(89)90004-9",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/0167-8116(89)90004-9",
+      "authors": [
+        {
+          "first_name": "Dipak C.",
+          "last_name": "Jain",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.7922.e",
+          "researcher_id": "ur.015157763637.63",
+          "affiliations": [
+            {
+              "id": "grid.16753.36",
+              "name": "Northwestern University",
+              "city": "Evanston",
+              "city_id": 4891382,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Nauel J.",
+          "last_name": "Vilcassim",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.015633353407.38",
+          "affiliations": [
+            {
+              "id": "grid.16753.36",
+              "name": "Northwestern University",
+              "city": "Evanston",
+              "city_id": 4891382,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://www.elsevier.com/journals/international-journal-of-research-in-marketing/0167-8116?generatepdf=true",
+      "keywords": [
+        "Monte Carlo simulations",
+        "Box-Cox regression models",
+        "performance",
+        "sample size",
+        "power",
+        "validity",
+        "market share models",
+        "functional form",
+        "market response functions",
+        "Lagrange multiplier approach",
+        "power characteristics",
+        "PE test",
+        "approach",
+        "simulation results",
+        "Box-Cox transformation",
+        "error",
+        "Davidson",
+        "function",
+        "applications",
+        "regression models",
+        "linear",
+        "linear specification",
+        "low probability",
+        "large sample",
+        "formulation",
+        "log-linear",
+        "share model",
+        "response function",
+        "nested models",
+        "MacKinnon",
+        "Carlo simulations",
+        "paper",
+        "hypothesis tests",
+        "validity of linear",
+        "specification",
+        "form",
+        "regression",
+        "LM test",
+        "results",
+        "multiplier approach",
+        "error level",
+        "type 1 error",
+        "variance",
+        "non-nested hypothesis tests",
+        "nested tests",
+        "statistical validity",
+        "data",
+        "properties",
+        "class",
+        "linear regression",
+        "error variance",
+        "type formulation",
+        "non-nested models",
+        "probability",
+        "Lagrange multiplier test",
+        "marketing data",
+        "Cox transformation",
+        "model",
+        "simulations",
+        "different error levels",
+        "true model",
+        "transformation",
+        "log-linear specification"
+      ],
+      "journal_title": "International Journal of Research in Marketing",
+      "title": "Testing functional forms of market share models using the Box-Cox transformation and the Lagrange multiplier approach"
+    }
+  },
+  {
+    "title": "Sugar-sweetened beverage prices: Variations by beverage, food store, and neighborhood characteristics, 2017",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S2211335519300634",
+      "journal": "Preventive Medicine Reports",
+      "doi": "10.1016/j.pmedr.2019.100883",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.pmedr.2019.100883",
+      "authors": [
+        {
+          "first_name": "Julien",
+          "last_name": "Leider",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.185648.6",
+          "researcher_id": "ur.016204342751.21",
+          "affiliations": [
+            {
+              "id": "grid.185648.6",
+              "name": "University of Illinois at Chicago",
+              "city": "Chicago",
+              "city_id": 4887398,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        },
+        {
+          "first_name": "Lisa M.",
+          "last_name": "Powell",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.185648.6",
+          "researcher_id": "ur.01060342625.58",
+          "affiliations": [
+            {
+              "id": "grid.185648.6",
+              "name": "University of Illinois at Chicago",
+              "city": "Chicago",
+              "city_id": 4887398,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Illinois",
+              "state_code": "US-IL"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1016/j.pmedr.2019.100883",
+      "keywords": [
+        "soda prices",
+        "study",
+        "cents/",
+        "rate",
+        "SSB taxes",
+        "status",
+        "Cook County",
+        "drinks",
+        "beverage categories",
+        "taxes",
+        "tax",
+        "socioeconomic status",
+        "SSB tax",
+        "increase",
+        "specific taxes",
+        "SSB categories",
+        "tax rates",
+        "neighborhood characteristics",
+        "consumption",
+        "regression models",
+        "summary statistics",
+        "U.S. jurisdictions",
+        "beverage consumption",
+        "cities/counties",
+        "coffee",
+        "prices",
+        "beverage characteristics",
+        "drink tea",
+        "SSB prices",
+        "product characteristics",
+        "store type",
+        "statistics",
+        "penny-per",
+        "categories",
+        "specific tax rate",
+        "stores",
+        "regression",
+        "jurisdictions",
+        "beverages",
+        "imposition",
+        "percentage increase",
+        "SSBs",
+        "County",
+        "linear regression models",
+        "data",
+        "characteristics",
+        "black tracts",
+        "model",
+        "mean price",
+        "food stores",
+        "Sacramento",
+        "ounces",
+        "Oakland",
+        "substantial variation",
+        "importance",
+        "juice drinks",
+        "beverage prices"
+      ],
+      "journal_title": "Preventive Medicine Reports",
+      "title": "Sugar-sweetened beverage prices: Variations by beverage, food store, and neighborhood characteristics, 2017"
+    },
+    "openaire": {
+      "journal": "Preventive medicine reports",
+      "title": "Sugar-sweetened beverage prices: Variations by beverage, food store, and neighborhood characteristics, 2017",
+      "doi": "10.1016/j.pmedr.2019.100883",
+      "url": "https://europepmc.org/articles/PMC6522848/"
+    }
+  },
+  {
+    "title": "Quality, Price Stickiness, and Monetary Policy",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0164070418304944",
+      "journal": "Journal of Macroeconomics",
+      "doi": "10.1016/j.jmacro.2019.103129",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jmacro.2019.103129",
+      "authors": [
+        {
+          "first_name": "Seongeun",
+          "last_name": "Kim",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.263333.4",
+          "researcher_id": "ur.07474053615.78",
+          "affiliations": [
+            {
+              "id": "grid.263333.4",
+              "name": "Sejong University",
+              "city": "Seoul",
+              "city_id": 1835848,
+              "country": "South Korea",
+              "country_code": "KR",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "expansionary monetary shocks",
+        "times larger impact",
+        "price rigidity",
+        "effects",
+        "menu-cost model",
+        "quality",
+        "benefits",
+        "rigidity",
+        "policy shocks",
+        "stickiness",
+        "products",
+        "consumption",
+        "policy",
+        "monetary shocks",
+        "contractionary shocks",
+        "prices",
+        "instances",
+        "same product category",
+        "income consumers",
+        "real effects",
+        "impact",
+        "product categories",
+        "categories",
+        "brands",
+        "rich benefits",
+        "asymmetric effects",
+        "cost model",
+        "price stickiness",
+        "monetary policy shocks",
+        "monetary policy",
+        "shock",
+        "high-quality brands",
+        "low-quality brands",
+        "consumers",
+        "model",
+        "high-income consumers",
+        "large impact",
+        "large real effects",
+        "quality brands"
+      ],
+      "journal_title": "Journal of Macroeconomics",
+      "title": "Quality, Price Stickiness, and Monetary Policy"
+    }
+  },
+  {
+    "title": "The Economics of Taxes on Sugar-Sweetened Beverages: A Review of the Effects on Prices, Sales, Cross-Border Shopping, and Consumption",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.annualreviews.org/doi/full/10.1146/annurev-nutr-082018-124603?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed",
+      "journal": "Annual Review of Nutrition",
+      "doi": "10.1146/annurev-nutr-082018-124603",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1146/annurev-nutr-082018-124603",
+      "authors": [
+        {
+          "first_name": "John",
+          "last_name": "Cawley",
+          "corresponding": "",
+          "orcid": "['0000-0002-4805-9883']",
+          "current_organization_id": "grid.5386.8",
+          "researcher_id": "ur.01301325367.55",
+          "affiliations": [
+            {
+              "id": "grid.5386.8",
+              "name": "Cornell University",
+              "city": "Ithaca",
+              "city_id": 5122432,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Anne Marie",
+          "last_name": "Thow",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.1013.3",
+          "researcher_id": "ur.0717131151.63",
+          "affiliations": [
+            {
+              "id": "grid.1013.3",
+              "name": "University of Sydney",
+              "city": "Sydney",
+              "city_id": 2147714,
+              "country": "Australia",
+              "country_code": "AU",
+              "state": "New South Wales",
+              "state_code": "AU-NSW"
+            }
+          ]
+        },
+        {
+          "first_name": "Katherine",
+          "last_name": "Wen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.5386.8",
+          "researcher_id": "ur.016410414437.92",
+          "affiliations": [
+            {
+              "id": "grid.5386.8",
+              "name": "Cornell University",
+              "city": "Ithaca",
+              "city_id": 5122432,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "David",
+          "last_name": "Frisvold",
+          "corresponding": "",
+          "orcid": "['0000-0001-8720-8995']",
+          "current_organization_id": "grid.214572.7",
+          "researcher_id": "ur.0616544550.24",
+          "affiliations": [
+            {
+              "id": "grid.214572.7",
+              "name": "University of Iowa",
+              "city": "Iowa City",
+              "city_id": 4862034,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Iowa",
+              "state_code": "US-IA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "rationale",
+        "evidence",
+        "SSB taxes",
+        "effects",
+        "health",
+        "taxes",
+        "cross-border shopping",
+        "economics",
+        "availability",
+        "tax",
+        "future research",
+        "type of beverage",
+        "decades",
+        "consumption",
+        "prices",
+        "revenue",
+        "low consumption",
+        "groups of consumers",
+        "suggestions",
+        "past decade",
+        "product availability",
+        "dozens of countries",
+        "residents",
+        "population health",
+        "retail price",
+        "such taxes",
+        "jurisdictions",
+        "beverages",
+        "research",
+        "countries",
+        "desire",
+        "city",
+        "economic rationale",
+        "shopping",
+        "consumers",
+        "sales",
+        "sweetened beverages",
+        "Sugar-Sweetened Beverages"
+      ],
+      "journal_title": "Annual Review of Nutrition",
+      "title": "The Economics of Taxes on Sugar-Sweetened Beverages: A Review of the Effects on Prices, Sales, Cross-Border Shopping, and Consumption"
+    },
+    "europepmc": {
+      "doi": "10.1146/annurev-nutr-082018-124603",
+      "journal": "Annu Rev Nutr",
+      "url": "http://europepmc.org/abstract/MED/31116649",
+      "title": "the economics of taxes on sugar-sweetened beverages: a review of the effects on prices, sales, cross-border shopping, and consumption"
+    }
+  },
+  {
+    "title": "Competition, business cycles, and price flexibility in grocery stores",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S016517651930179X",
+      "journal": "Economics Letters",
+      "doi": "10.1016/j.econlet.2019.05.020",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.econlet.2019.05.020",
+      "authors": [
+        {
+          "first_name": "P.J.",
+          "last_name": "Glandon",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.258533.a",
+          "researcher_id": "ur.07601754406.03",
+          "affiliations": [
+            {
+              "id": "grid.258533.a",
+              "name": "Kenyon College",
+              "city": "Gambier",
+              "city_id": 5155438,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        },
+        {
+          "first_name": "Matthew",
+          "last_name": "Jaremski",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.254361.7",
+          "researcher_id": "ur.014137250631.01",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "competition",
+        "Walmart",
+        "cyclical behavior",
+        "zip codes",
+        "downturn",
+        "effects",
+        "flexibility",
+        "grocers",
+        "cycle",
+        "expansion",
+        "same zip code",
+        "increase",
+        "differential effects",
+        "business cycle",
+        "frequent price changes",
+        "behavior",
+        "entry",
+        "stores",
+        "significant effect",
+        "local competition",
+        "scanner database",
+        "price flexibility",
+        "price changes",
+        "grocery stores",
+        "competitors",
+        "changes"
+      ],
+      "journal_title": "Economics Letters",
+      "title": "Competition, business cycles, and price flexibility in grocery stores"
+    }
+  },
+  {
+    "title": "Tobacco Marketing at SNAP- and WIC-Authorized Retail Food Stores in the United States",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/1090198119831759?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dpubmed",
+      "journal": "Health Education & Behavior",
+      "doi": "10.1177/1090198119831759",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1177/1090198119831759",
+      "authors": [
+        {
+          "first_name": "Shauna M.",
+          "last_name": "Rust",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Allison E.",
+          "last_name": "Myers",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01320717200.00",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            },
+            {
+              "name": "Counter Tools, Carrboro, NC, USA"
+            }
+          ]
+        },
+        {
+          "first_name": "Heather",
+          "last_name": "D\u2019Angelo",
+          "corresponding": "",
+          "orcid": "['0000-0002-7271-0832']",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01367032400.30",
+          "affiliations": [
+            {
+              "id": "grid.14003.36",
+              "name": "University of Wisconsin\u2013Madison",
+              "city": "Madison",
+              "city_id": 5261457,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Wisconsin",
+              "state_code": "US-WI"
+            }
+          ]
+        },
+        {
+          "first_name": "Tara L.",
+          "last_name": "Queen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.0627223355.70",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Melissa N.",
+          "last_name": "Laska",
+          "corresponding": "",
+          "orcid": "['0000-0002-3836-0269']",
+          "current_organization_id": "grid.17635.36",
+          "researcher_id": "ur.01227046100.22",
+          "affiliations": [
+            {
+              "id": "grid.17635.36",
+              "name": "University of Minnesota",
+              "city": "Minneapolis",
+              "city_id": 5037649,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Minnesota",
+              "state_code": "US-MN"
+            }
+          ]
+        },
+        {
+          "first_name": "Kurt M.",
+          "last_name": "Ribisl",
+          "corresponding": "",
+          "orcid": "['0000-0003-3318-8524']",
+          "current_organization_id": "grid.10698.36",
+          "researcher_id": "ur.01223346275.57",
+          "affiliations": [
+            {
+              "id": "grid.10698.36",
+              "name": "University of North Carolina at Chapel Hill",
+              "city": "Chapel Hill",
+              "city_id": 4460162,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "rate",
+        "income families",
+        "representative sample",
+        "healthy food options",
+        "use",
+        "low-income families",
+        "food options",
+        "Special Supplemental Nutrition Program",
+        "promotion",
+        "tobacco use",
+        "benefits",
+        "American families",
+        "times greater odds",
+        "Nutrition Assistance Program",
+        "children",
+        "Nutrition Program",
+        "lower odds",
+        "family",
+        "demographics",
+        "smoking initiation",
+        "store type",
+        "retail food stores",
+        "odds",
+        "tobacco advertisements",
+        "stores",
+        "presence",
+        "Supplemental Nutrition Assistance Program",
+        "samples",
+        "high rate",
+        "program",
+        "assistance programs",
+        "Supplemental Nutrition Program",
+        "infants",
+        "food insecurity",
+        "options",
+        "access",
+        "tobacco retailers",
+        "WIC",
+        "neighborhood demographics",
+        "greater odds",
+        "association",
+        "tobacco products",
+        "initiation",
+        "tobacco marketing",
+        "food stores",
+        "women",
+        "risk",
+        "United States",
+        "quit attempt"
+      ],
+      "journal_title": "Health Education & Behavior",
+      "title": "Tobacco Marketing at SNAP- and WIC-Authorized Retail Food Stores in the United States"
+    },
+    "europepmc": {
+      "doi": "10.1177/1090198119831759",
+      "journal": "Health Educ Behav",
+      "url": "http://europepmc.org/abstract/MED/30829070",
+      "title": "tobacco marketing at snap- and wic-authorized retail food stores in the united states"
+    }
+  },
+  {
+    "title": "Price and sales volume of sugar-sweetened beverages, diet drinks, sweets and chocolates: analysis of Danish retail scanner data",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.nature.com/articles/s41430-019-0470-5",
+      "journal": "European Journal of Clinical Nutrition",
+      "doi": "10.1038/s41430-019-0470-5",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1038/s41430-019-0470-5",
+      "authors": [
+        {
+          "first_name": "Tine",
+          "last_name": "Buch-Andersen",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.411702.1",
+              "name": "Bispebjerg Hospital",
+              "city": "Copenhagen",
+              "city_id": 2618425,
+              "country": "Denmark",
+              "country_code": "DK",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Anne",
+          "last_name": "Helms Andreasen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.411702.1",
+              "name": "Bispebjerg Hospital",
+              "city": "Copenhagen",
+              "city_id": 2618425,
+              "country": "Denmark",
+              "country_code": "DK",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Torben",
+          "last_name": "J\u00f8rgensen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.411702.1",
+              "name": "Bispebjerg Hospital",
+              "city": "Copenhagen",
+              "city_id": 2618425,
+              "country": "Denmark",
+              "country_code": "DK",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.5254.6",
+              "name": "University of Copenhagen",
+              "city": "Copenhagen",
+              "city_id": 2618425,
+              "country": "Denmark",
+              "country_code": "DK",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.5117.2",
+              "name": "Aalborg University",
+              "city": "Aalborg",
+              "city_id": 2624886,
+              "country": "Denmark",
+              "country_code": "DK",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Lars",
+          "last_name": "Holger Ehlers",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.5117.2",
+              "name": "Aalborg University",
+              "city": "Aalborg",
+              "city_id": 2624886,
+              "country": "Denmark",
+              "country_code": "DK",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Ulla",
+          "last_name": "Toft",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.411702.1",
+              "name": "Bispebjerg Hospital",
+              "city": "Copenhagen",
+              "city_id": 2618425,
+              "country": "Denmark",
+              "country_code": "DK",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "reduction",
+        "year 2008",
+        "SSB",
+        "fixed-effects model",
+        "own price elasticity",
+        "elasticity",
+        "potential impact",
+        "grocery sales",
+        "increase",
+        "retail scanner data",
+        "analysis",
+        "negative association",
+        "products",
+        "prices",
+        "impact",
+        "diet drinks",
+        "cross price elasticities",
+        "effects model",
+        "scanner data",
+        "beverages",
+        "results",
+        "relationship",
+        "data",
+        "Denmark",
+        "significant negative association",
+        "sales volume",
+        "model",
+        "sales",
+        "price elasticity",
+        "objective",
+        "changes",
+        "own price"
+      ],
+      "journal_title": "European Journal of Clinical Nutrition",
+      "title": "Price and sales volume of sugar-sweetened beverages, diet drinks, sweets and chocolates: analysis of Danish retail scanner data"
+    }
+  },
+  {
+    "title": "Valuation of observable attributes in differentiated beef products in Chile using the hedonic price method",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0309174019301871",
+      "journal": "Meat Science",
+      "doi": "10.1016/j.meatsci.2019.107881",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.meatsci.2019.107881",
+      "authors": [
+        {
+          "first_name": "Jaime",
+          "last_name": "Fern\u00e1ndez",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.7870.8",
+              "name": "Pontifical Catholic University of Chile",
+              "city": "Santiago",
+              "city_id": 3871336,
+              "country": "Chile",
+              "country_code": "CL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Oscar",
+          "last_name": "Melo",
+          "corresponding": true,
+          "orcid": "['0000-0002-9136-5413']",
+          "current_organization_id": "grid.7870.8",
+          "researcher_id": "ur.015271254445.01",
+          "affiliations": [
+            {
+              "id": "grid.7870.8",
+              "name": "Pontifical Catholic University of Chile",
+              "city": "Santiago",
+              "city_id": 3871336,
+              "country": "Chile",
+              "country_code": "CL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Rafael",
+          "last_name": "Larra\u00edn",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.7870.8",
+          "researcher_id": "ur.01153277555.19",
+          "affiliations": [
+            {
+              "id": "grid.7870.8",
+              "name": "Pontifical Catholic University of Chile",
+              "city": "Santiago",
+              "city_id": 3871336,
+              "country": "Chile",
+              "country_code": "CL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Macarena",
+          "last_name": "Fern\u00e1ndez",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.7870.8",
+              "name": "Pontifical Catholic University of Chile",
+              "city": "Santiago",
+              "city_id": 3871336,
+              "country": "Chile",
+              "country_code": "CL",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "beef products",
+        "Wagyu beef",
+        "beef",
+        "price method",
+        "industry",
+        "beef imports",
+        "national industry",
+        "Chile",
+        "increase",
+        "products",
+        "region",
+        "influence",
+        "country of origin",
+        "attributes",
+        "import",
+        "unexpected results",
+        "valuation",
+        "results",
+        "County",
+        "observable attributes",
+        "different attributes",
+        "countries",
+        "beef industry",
+        "strategies",
+        "credence attributes",
+        "consumers",
+        "process",
+        "importance",
+        "unprocessed products"
+      ],
+      "journal_title": "Meat Science",
+      "title": "Valuation of observable attributes in differentiated beef products in Chile using the hedonic price method"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.meatsci.2019.107881",
+      "journal": "Meat Sci",
+      "url": "http://europepmc.org/abstract/MED/31301889",
+      "title": "valuation of observable attributes in differentiated beef products in chile using the hedonic price method"
+    }
+  },
+  {
+    "title": "National and state patterns of concept-flavoured cigar sales, USA, 2012-2016",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://tobaccocontrol.bmj.com/content/28/4/394.long",
+      "journal": "Tobacco Control",
+      "doi": "10.1136/tobaccocontrol-2018-054348",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1136/tobaccocontrol-2018-054348",
+      "authors": [
+        {
+          "first_name": "Doris G",
+          "last_name": "Gammon",
+          "corresponding": "",
+          "orcid": "['0000-0002-5879-7986']",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.01171003575.46",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Todd",
+          "last_name": "Rogers",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.01040167256.42",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Ellen M",
+          "last_name": "Coats",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.010721071504.30",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "James M",
+          "last_name": "Nonnemaker",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.01136452177.45",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Kristy L",
+          "last_name": "Marynak",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.0701312010.06",
+          "affiliations": [
+            {
+              "id": "grid.416781.d",
+              "name": "National Center for Chronic Disease Prevention and Health Promotion",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Nicole M",
+          "last_name": "Kuiper",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.01001351670.16",
+          "affiliations": [
+            {
+              "id": "grid.416781.d",
+              "name": "National Center for Chronic Disease Prevention and Health Promotion",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Brian A",
+          "last_name": "King",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.01237402571.52",
+          "affiliations": [
+            {
+              "id": "grid.416781.d",
+              "name": "National Center for Chronic Disease Prevention and Health Promotion",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "chain",
+        "flavor",
+        "variety",
+        "recent years"
+      ],
+      "journal_title": "Tobacco Control",
+      "title": "National and state patterns of concept-flavoured cigar sales, USA, 2012-2016"
+    },
+    "europepmc": {
+      "doi": "10.1136/tobaccocontrol-2018-054348",
+      "journal": "Tob Control",
+      "url": "http://europepmc.org/abstract/MED/30068564",
+      "title": "national and state patterns of concept-flavoured cigar sales, usa, 2012-2016"
+    }
+  },
+  {
+    "title": "Soda Wars: The Effect of a Soda Tax Election on University Beverage Sales",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12776",
+      "journal": "Economic Inquiry",
+      "doi": "10.1111/ecin.12776",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1111/ecin.12776",
+      "authors": [
+        {
+          "first_name": "Rebecca L. C.",
+          "last_name": "Taylor",
+          "corresponding": "",
+          "orcid": "['0000-0002-9014-8775']",
+          "current_organization_id": "grid.1013.3",
+          "researcher_id": "ur.014030734763.34",
+          "affiliations": [
+            {
+              "id": "grid.1013.3",
+              "name": "University of Sydney",
+              "city": "Sydney",
+              "city_id": 2147714,
+              "country": "Australia",
+              "country_code": "AU",
+              "state": "New South Wales",
+              "state_code": "AU-NSW"
+            }
+          ]
+        },
+        {
+          "first_name": "Scott",
+          "last_name": "Kaplan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.47840.3f",
+              "name": "University of California, Berkeley",
+              "city": "Berkeley",
+              "city_id": 5327684,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Sofia B.",
+          "last_name": "Villas\u2010Boas",
+          "corresponding": "",
+          "orcid": "['0000-0001-8443-4364']",
+          "current_organization_id": "grid.47840.3f",
+          "researcher_id": "ur.010504460124.88",
+          "affiliations": [
+            {
+              "id": "grid.47840.3f",
+              "name": "University of California, Berkeley",
+              "city": "Berkeley",
+              "city_id": 5327684,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Kevin",
+          "last_name": "Jung",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.21107.35",
+              "name": "Johns Hopkins University",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://ageconsearch.umn.edu/record/285049/files/35%20-%20Soda%20Wars%20The%20Effect%20of%20a%20Soda%20Tax%20Election.pdf",
+      "keywords": [
+        "outcomes",
+        "university setting",
+        "findings",
+        "tax",
+        "election outcomes",
+        "purchase",
+        "coverage",
+        "panel data",
+        "campaign attention",
+        "elections",
+        "setting",
+        "excise tax",
+        "Berkeley",
+        "retailers",
+        "WARS",
+        "city of Berkeley",
+        "California",
+        "beverage sales",
+        "city",
+        "tax elections",
+        "sales",
+        "media coverage",
+        "campus",
+        "attention"
+      ],
+      "journal_title": "Economic Inquiry",
+      "title": "Soda Wars: The Effect of a Soda Tax Election on University Beverage Sales"
+    }
+  },
+  {
+    "title": "Reducing Obesity by Taxing Soft Drinks: Tax Salience and Firms' Strategic Responses",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://journals.sagepub.com/doi/full/10.1177/0743915619845424",
+      "journal": "Journal of Public Policy & Marketing",
+      "doi": "10.1177/0743915619845424",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1177/0743915619845424",
+      "authors": [
+        {
+          "first_name": "Hualu",
+          "last_name": "Zheng",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "Lu",
+          "last_name": "Huang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "William",
+          "last_name": "Ross",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "soda prices",
+        "steep decline",
+        "estimation",
+        "implications",
+        "government",
+        "decline",
+        "rate",
+        "findings",
+        "type of tax",
+        "tax levels",
+        "effects",
+        "tax salience",
+        "taxes",
+        "soda consumption",
+        "tax instruments",
+        "price increases",
+        "previous studies",
+        "tax",
+        "sales taxes",
+        "increase",
+        "hope",
+        "overall demand",
+        "consumption",
+        "policy",
+        "hike",
+        "instrument",
+        "prices",
+        "sales tax",
+        "authors",
+        "excise tax",
+        "levels",
+        "demand",
+        "soft drinks",
+        "makers",
+        "policy makers",
+        "most consumers",
+        "important implications",
+        "research",
+        "price hikes",
+        "salience",
+        "effects of taxes",
+        "excise taxes",
+        "tax types",
+        "fight",
+        "firms",
+        "consumers",
+        "strategic responses",
+        "attention",
+        "biased estimation",
+        "market"
+      ],
+      "journal_title": "Journal of Public Policy & Marketing",
+      "title": "Reducing Obesity by Taxing Soft Drinks: Tax Salience and Firms' Strategic Responses"
+    }
+  },
+  {
+    "title": "Little filtered cigars: US sales, flavours, package sizes and prices",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://tobaccocontrol.bmj.com/content/28/3/346.full",
+      "journal": "Tobacco Control",
+      "doi": "10.1136/tobaccocontrol-2018-054405",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1136/tobaccocontrol-2018-054405",
+      "authors": [
+        {
+          "first_name": "Doris G",
+          "last_name": "Gammon",
+          "corresponding": "",
+          "orcid": "['0000-0002-5879-7986']",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.01171003575.46",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Todd",
+          "last_name": "Rogers",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.01040167256.42",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Ellen M",
+          "last_name": "Coats",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.010721071504.30",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "James M",
+          "last_name": "Nonnemaker",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.62562.35",
+          "researcher_id": "ur.01136452177.45",
+          "affiliations": [
+            {
+              "id": "grid.62562.35",
+              "name": "RTI International",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Lisa",
+          "last_name": "Henriksen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.168010.e",
+          "researcher_id": "ur.0733707267.74",
+          "affiliations": [
+            {
+              "id": "grid.168010.e",
+              "name": "Stanford University",
+              "city": "Stanford",
+              "city_id": 5398563,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "US sales",
+        "study",
+        "proportion",
+        "minimum package",
+        "differences",
+        "regional differences",
+        "volume",
+        "cigarette taxes",
+        "cigars",
+        "percentage",
+        "half",
+        "categories",
+        "equivalent units",
+        "persons",
+        "menthol",
+        "data",
+        "dollars",
+        "Little",
+        "greater proportion",
+        "test",
+        "little filtered cigars",
+        "cigarettes"
+      ],
+      "journal_title": "Tobacco Control",
+      "title": "Little filtered cigars: US sales, flavours, package sizes and prices"
+    },
+    "europepmc": {
+      "doi": "10.1136/tobaccocontrol-2018-054405",
+      "journal": "Tob Control",
+      "url": "http://europepmc.org/abstract/MED/30021869",
+      "title": "little filtered cigars: us sales, flavours, package sizes and prices"
+    }
+  },
+  {
+    "title": "Understanding ethical purchasing behavior: Validation of an enhanced stage model of ethical behavior",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0969698917307440",
+      "journal": "Journal of Retailing and Consumer Services",
+      "doi": "10.1016/j.jretconser.2019.02.004",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jretconser.2019.02.004",
+      "authors": [
+        {
+          "first_name": "Henrike",
+          "last_name": "Andersch",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.5963.9",
+          "researcher_id": "ur.010767414131.09",
+          "affiliations": [
+            {
+              "id": "grid.5963.9",
+              "name": "University of Freiburg",
+              "city": "Freiburg",
+              "city_id": 2925177,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Christian",
+          "last_name": "Arnold",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.013322420550.82",
+          "affiliations": [
+            {
+              "name": "HWTK University of Applied Sciences, J\u00e4gerweg 8, 76532 Baden-Baden, Germany"
+            }
+          ]
+        },
+        {
+          "first_name": "Ann-Kathrin",
+          "last_name": "Seemann",
+          "corresponding": "",
+          "orcid": "['0000-0001-9011-1561']",
+          "current_organization_id": "grid.5963.9",
+          "researcher_id": "ur.01001024734.00",
+          "affiliations": [
+            {
+              "id": "grid.5963.9",
+              "name": "University of Freiburg",
+              "city": "Freiburg",
+              "city_id": 2925177,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "J\u00f6rg",
+          "last_name": "Lindenmeier",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.5963.9",
+          "researcher_id": "ur.010244701755.52",
+          "affiliations": [
+            {
+              "id": "grid.5963.9",
+              "name": "University of Freiburg",
+              "city": "Freiburg",
+              "city_id": 2925177,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "avenues",
+        "implications",
+        "ethical behavior",
+        "ethical purchasing behavior",
+        "alternative",
+        "approach",
+        "moral obligation",
+        "article",
+        "Practical implications",
+        "future research",
+        "ethical judgments",
+        "product alternatives",
+        "gender",
+        "affect",
+        "decision",
+        "intention",
+        "current paper",
+        "limitations",
+        "inclination",
+        "paper",
+        "motif",
+        "research",
+        "ethical decision",
+        "judgments",
+        "stage model",
+        "obligations",
+        "respondents",
+        "moderator",
+        "purchasing intention",
+        "purchasing motives"
+      ],
+      "journal_title": "Journal of Retailing and Consumer Services",
+      "title": "Understanding ethical purchasing behavior: Validation of an enhanced stage model of ethical behavior"
+    }
+  },
+  {
+    "title": "Stubbing out hypothetical bias: improving tobacco market predictions by combining stated and revealed preference data",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167629618306179",
+      "journal": "Journal of Health Economics",
+      "doi": "10.1016/j.jhealeco.2019.03.011",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jhealeco.2019.03.011",
+      "authors": [
+        {
+          "first_name": "John",
+          "last_name": "Buckell",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.015067505534.75",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Stephane",
+          "last_name": "Hess",
+          "corresponding": "",
+          "orcid": "['0000-0002-3650-2518']",
+          "current_organization_id": "grid.9909.9",
+          "researcher_id": "ur.011707527220.88",
+          "affiliations": [
+            {
+              "id": "grid.9909.9",
+              "name": "University of Leeds",
+              "city": "Leeds",
+              "city_id": 2644688,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "choice model",
+        "evidence",
+        "utility",
+        "behavioral changes",
+        "substantial differences",
+        "alternative-specific constants",
+        "health",
+        "economics",
+        "bias",
+        "approach",
+        "elasticity",
+        "discrete choice experiment",
+        "US",
+        "correction approach",
+        "policy decisions",
+        "policymakers",
+        "discrete choice models",
+        "turn",
+        "forecasts",
+        "DCE data",
+        "decision",
+        "innovation",
+        "market prediction",
+        "goal",
+        "real-world data",
+        "hypothetical bias",
+        "data",
+        "choice experiment",
+        "preference data",
+        "simple correction approach",
+        "health economics",
+        "world data",
+        "model",
+        "specific constants",
+        "prediction",
+        "changes"
+      ],
+      "journal_title": "Journal of Health Economics",
+      "title": "Stubbing out hypothetical bias: improving tobacco market predictions by combining stated and revealed preference data"
+    }
+  },
+  {
+    "title": "Analysis of tobacco industry pricing strategies in 23 European Union countries using commercial pricing data",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://tobaccocontrol.bmj.com/content/early/2019/06/03/tobaccocontrol-2018-054826.full",
+      "journal": "Tobacco Control",
+      "doi": "10.1136/tobaccocontrol-2018-054826",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1136/tobaccocontrol-2018-054826",
+      "authors": [
+        {
+          "first_name": "May C I",
+          "last_name": "van Schalkwyk",
+          "corresponding": "",
+          "orcid": "['0000-0003-2210-2289']",
+          "current_organization_id": "grid.7445.2",
+          "researcher_id": "ur.0620673533.33",
+          "affiliations": [
+            {
+              "id": "grid.7445.2",
+              "name": "Imperial College London",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Martin",
+          "last_name": "McKee",
+          "corresponding": "",
+          "orcid": "['0000-0002-0121-9683']",
+          "current_organization_id": "grid.8991.9",
+          "researcher_id": "ur.01367673420.84",
+          "affiliations": [
+            {
+              "id": "grid.8991.9",
+              "name": "London School of Hygiene & Tropical Medicine",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Jasper V",
+          "last_name": "Been",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.5645.2",
+          "researcher_id": "ur.01067330244.65",
+          "affiliations": [
+            {
+              "id": "grid.416135.4",
+              "name": "Sophia Children's Hospital",
+              "city": "Rotterdam",
+              "city_id": 2747891,
+              "country": "Netherlands",
+              "country_code": "NL",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.4305.2",
+              "name": "University of Edinburgh",
+              "city": "Edinburgh",
+              "city_id": 2650225,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Christopher",
+          "last_name": "Millett",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.7445.2",
+              "name": "Imperial College London",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Filippos T",
+          "last_name": "Filippidis",
+          "corresponding": "",
+          "orcid": "['0000-0002-2101-2559']",
+          "current_organization_id": "grid.7445.2",
+          "researcher_id": "ur.0770676711.68",
+          "affiliations": [
+            {
+              "id": "grid.7445.2",
+              "name": "Imperial College London",
+              "city": "London",
+              "city_id": 2643743,
+              "country": "United Kingdom",
+              "country_code": "GB",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "fixed-effects panel regression models",
+        "tax increases",
+        "market",
+        "taxation policy",
+        "panel regression model",
+        "tobacco industry pricing strategies",
+        "industry",
+        "longitudinal analysis",
+        "revenue trends",
+        "RYO cigarettes",
+        "average annual change",
+        "health impacts",
+        "European Union countries",
+        "annual changes",
+        "pricing strategies",
+        "cheaper tobacco products",
+        "analysis",
+        "European Union",
+        "trends",
+        "products",
+        "regression models",
+        "policy",
+        "prices",
+        "own cigarettes",
+        "revenue",
+        "Union",
+        "EU countries",
+        "impact",
+        "gap",
+        "industry pricing strategies",
+        "segments",
+        "regression",
+        "price segments",
+        "pricing data",
+        "median revenue",
+        "data",
+        "countries",
+        "tobacco taxation policy",
+        "linear regression",
+        "Union countries",
+        "tobacco industry",
+        "different price segments",
+        "tobacco tax increases",
+        "price gap",
+        "strategies",
+        "model",
+        "tobacco products",
+        "UK",
+        "changes",
+        "net revenue",
+        "effects panel regression models"
+      ],
+      "journal_title": "Tobacco Control",
+      "title": "Analysis of tobacco industry pricing strategies in 23 European Union countries using commercial pricing data"
+    },
+    "europepmc": {
+      "doi": "10.1136/tobaccocontrol-2018-054826",
+      "journal": "Tob Control",
+      "url": "http://europepmc.org/abstract/MED/31028176",
+      "title": "analysis of tobacco industry pricing strategies in 23 european union countries using commercial pricing data"
+    }
+  },
+  {
+    "title": "Consumer preferences for cage-free eggs and impacts of retailer pledges",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/agr.21580",
+      "journal": "Agribusiness",
+      "doi": "10.1002/agr.21580",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1002/agr.21580",
+      "authors": [
+        {
+          "first_name": "Jayson L.",
+          "last_name": "Lusk",
+          "corresponding": "",
+          "orcid": "['0000-0002-4841-323X']",
+          "current_organization_id": "grid.169077.e",
+          "researcher_id": "ur.0643274621.14",
+          "affiliations": [
+            {
+              "id": "grid.169077.e",
+              "name": "Purdue University West Lafayette",
+              "city": "West Lafayette",
+              "city_id": 4928096,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Indiana",
+              "state_code": "US-IN"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "conventional eggs",
+        "open question",
+        "market",
+        "year 2025",
+        "market share",
+        "willingness\u2010to\u2010pay",
+        "majority market share",
+        "egg consumers",
+        "share of consumers",
+        "share",
+        "information",
+        "heterogeneity",
+        "national survey",
+        "pledge",
+        "increase",
+        "consumer preferences",
+        "current state",
+        "state",
+        "different types",
+        "desirable attributes",
+        "survey",
+        "questions",
+        "attributes",
+        "degree",
+        "egg demand",
+        "impact",
+        "half",
+        "retailers",
+        "preferences",
+        "demand",
+        "results",
+        "food retailers",
+        "price premium",
+        "high degree",
+        "mean premium",
+        "consumers",
+        "premium",
+        "restaurants",
+        "issues",
+        "modest price premiums",
+        "sizeable amount",
+        "changes"
+      ],
+      "journal_title": "Agribusiness",
+      "title": "Consumer preferences for cage-free eggs and impacts of retailer pledges"
+    }
+  },
+  {
+    "title": "Impact of Mandated Exclusive Territories in the US Brewing Industry Evidence from scanner level data",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167718718301206",
+      "journal": "International Journal of Industrial Organization",
+      "doi": "10.1016/j.ijindorg.2018.12.001",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.ijindorg.2018.12.001",
+      "authors": [
+        {
+          "first_name": "Jacob",
+          "last_name": "Burgdorf",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.266623.5",
+              "name": "University of Louisville",
+              "city": "Louisville",
+              "city_id": 4299276,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Kentucky",
+              "state_code": "US-KY"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "competition",
+        "competitive effects",
+        "beer industry",
+        "distribution",
+        "industry",
+        "industry evidence",
+        "competitive impact",
+        "former results",
+        "theory",
+        "quantity",
+        "difference model",
+        "prices",
+        "level data",
+        "impact",
+        "protection",
+        "brewing industry",
+        "scanner data",
+        "results",
+        "Brewer",
+        "cost",
+        "large number",
+        "data",
+        "model",
+        "number",
+        "grocery stores",
+        "control",
+        "wholesalers",
+        "practice"
+      ],
+      "journal_title": "International Journal of Industrial Organization",
+      "title": "Impact of Mandated Exclusive Territories in the US Brewing Industry Evidence from scanner level data"
+    }
+  },
+  {
+    "title": "Couponing Strategies in Competition Between a National Brand and a Private Label Product",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022435918300678",
+      "journal": "Journal of Retailing",
+      "doi": "10.1016/j.jretai.2018.11.002",
+      "date_added": "2019-10-10 14:54:31"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jretai.2018.11.002",
+      "authors": [
+        {
+          "first_name": "Christoph",
+          "last_name": "Bauner",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.266683.f",
+          "researcher_id": "ur.013742616713.28",
+          "affiliations": [
+            {
+              "id": "grid.266683.f",
+              "name": "University of Massachusetts Amherst",
+              "city": "Amherst Center",
+              "city_id": 4929023,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Edward",
+          "last_name": "Jaenicke",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.011655555027.16",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Emily",
+          "last_name": "Wang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266683.f",
+          "researcher_id": "ur.01222010512.52",
+          "affiliations": [
+            {
+              "id": "grid.266683.f",
+              "name": "University of Massachusetts Amherst",
+              "city": "Amherst Center",
+              "city_id": 4929023,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Ping-Chao",
+          "last_name": "Wu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.252470.6",
+          "researcher_id": "ur.07477636767.23",
+          "affiliations": [
+            {
+              "id": "grid.252470.6",
+              "name": "Asian University",
+              "city": "Taichung",
+              "city_id": 1668399,
+              "country": "Taiwan",
+              "country_code": "TW",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "competition",
+        "different kinds",
+        "empirical results",
+        "positioning",
+        "manufacturers",
+        "effects",
+        "private label quality",
+        "quality",
+        "label products",
+        "kind",
+        "products",
+        "role",
+        "terms",
+        "name products",
+        "coupon value",
+        "terms of quality",
+        "private label products",
+        "values",
+        "degree",
+        "feature differentiation",
+        "large degree",
+        "label quality",
+        "retailers",
+        "paper",
+        "manufacturer coupons",
+        "segments",
+        "brand name products",
+        "brands",
+        "store brands",
+        "willingness",
+        "results",
+        "coupons",
+        "face value",
+        "strategies",
+        "consumers",
+        "segments of consumers",
+        "market",
+        "national brands"
+      ],
+      "journal_title": "Journal of Retailing",
+      "title": "Couponing Strategies in Competition Between a National Brand and a Private Label Product"
+    }
+  }
+]

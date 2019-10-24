@@ -1,0 +1,384 @@
+[
+  {
+    "title": "US Food and Nutrition Programs",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.nber.org/chapters/c13488.pdf",
+      "keywords": "Food Programs,Nutrition Programs,SNAP,WIC,School Breakfast Program,School Lunch Program,CPS-FSS,PSID-FFSS,SIPP-FS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "US Food and Nutrition Programs",
+      "doi": "10.7448/IAS.15.5.18442",
+      "url": "http://europepmc.org/articles/PMC3499903"
+    }
+  },
+  {
+    "title": "The Well-Being and Basic Needs Survey: A New Data Source for Monitoring the Health and Well-Being of Individuals and Families",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.urban.org/sites/default/files/publication/98919/the_well-being_and_basic_needs_survey_0.pdf",
+      "keywords": "Well-Being and Basic Needs Survey,Health,Well-Being,Low-Income Families,Food,Health Care Costs,Housing,Basic Needs,Benchmarking Analysis,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Three Essays on the Impact of Government Assistance Programs on Economic Behaviors of Vulnerable Households",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://deepblue.lib.umich.edu/bitstream/handle/2027.42/113362/junekim_1.pdf?sequence=1&isAllowed=y",
+      "keywords": "Government Assistance Programs,Economic Behaviors,Disadvantaged Group,Low-Income Households,Single-Headed Households,TANF,SNAP,Public Assistance,CPS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Supplemental Nutrition Assistance Program And Childcare",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://pdfs.semanticscholar.org/a1de/9c9f4e1e6843c888dc56ceebffb59f201f34.pdf?_ga=2.118749901.579131338.1563452923-806964339.1560536590",
+      "keywords": "Childcare,SNAP,Food Economics,Food Dollars,Food Subsidies,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Increasing the CalFresh Participation Rate in The County of Santa Cruz",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.31979/etd.66mt-hsr5",
+      "keywords": "SNAP,Food Assistance Programs,Food Insecurity,Poverty,Santa Cruz County,CPS-FSS,Citation,Chart",
+      "doi": "10.31979/etd.66mt-hsr5",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Household food security and child health outcomes in families with children aged 6 months to 4 years residing in Darwin and Palmerston, Northern Territory, Australia",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://espace.cdu.edu.au/eserv/cdu:61435/Thesis_CDU_61435_McCarthy_L.pdf",
+      "keywords": "Household Food Insecurity,Austrailian Families,Child Health,Indigenous Families,Child Care,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Healthcare and Hunger: Impacts of the A ordable Care Act on Food Insecurity in America",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://gatton.uky.edu/sites/default/files/Moellman%202017%20Healthcare%20and%20Hunger%20working.pdf",
+      "keywords": "Affordable Care Act,Food Insecurity,Multiple Program Participants,SNAP,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Affordable Care Act's Medicaid Expansion and Food Insecurity Rates",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://digitalcommons.usm.maine.edu/cgi/viewcontent.cgi?article=1137&context=muskie_capstones",
+      "keywords": "Health Care Coverage,Food Insecurity,Medicaid,Affordable Care Act,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Annual and Monthly SNAP Participation Rates",
+    "datasets": [
+      "dataset-026",
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/45412/53600_err192.pdf?v=0",
+      "keywords": "SNAP,SNAP Participation Rate,Program Performance,Length-biased sampling,Targeting,SNAP administrative data,Underreporting,Poverty,CPS-FSS,NHANES-FSQ,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Three Essays On Food Insecurity, Nutritional Outcomes, And Supplemental Nutrition Assistance Program Participation Among Seniors",
+    "datasets": [
+      "dataset-026",
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://mospace.umsystem.edu/xmlui/bitstream/handle/10355/62336/research.pdf?sequence=1&isAllowed=y",
+      "keywords": "Senior Population,Food Insecurity,Nutritional Outcomes,SNAP,Health Systems,Social Services,CPS-FSS,NHANES-FSQ,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Does a Standardized Spanish Translation of USDA's U.S. Household Food Security Survey Module Affect Differential Item Functioning Between Hispanic and White Non-Hispanic Households?",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://nces.ed.gov/fcsm/pdf/F2_Rabbitt_2015FCSM.pdf",
+      "keywords": "Food Security,Hispanics,Rasch Modeling,Differential Item Functioning,CPS-FSS,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Food Security Among Hispanic Adults in the United States, 2011-2014",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/44080/59326_eib-153.pdf?v=42501",
+      "keywords": "Food Security,Food Insecurity,Hispanics,Immigrants,Hunger,CPS-FSS,Analyzed,Chart",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Children's Food Security and USDA Child Nutrition Programs",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/84003/eib-174.pdf",
+      "keywords": "Children,Food Security,Food Insecurity,Child Nutrition,School Meals,National School Lunch Program,School Breakfast Program,Summer Food Service Program,Child and Adult Care Food Program,CPS-FSS,Analyzed,ECLS-FS,NHANES-FSQ,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Three Essays On The Impacts Of Public Policy On Behavioral Health",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://ecommons.cornell.edu/bitstream/handle/1813/40839/Rusmevichientong_Pimbucha.pdf?sequence=2&isAllowed=y",
+      "keywords": "Public Policy,Behavioral Health,Eating Behaviors,Food Advertisement,Food Stamp Program,Food Intake,Food Insecurity,Health Status,Unemployment,Obesity,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Planting the Seeds of Security: The Influence of Agricultural Products on Food Security Levels in U.S. Counties",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://digitalcommons.ursinus.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1023&context=bus_econ_hon",
+      "keywords": "United States,Food Insecurity,Food Systems,Agriculture,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Comparing Trends In Poverty And Material Hardship Over The Past Two Decades",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://poverty.umich.edu/working-paper/comparing-trends-in-poverty-and-material-hardship-over-the-past-two-decades/",
+      "keywords": "Poverty,Material Hardship,Food Insecurity,Great Recession,Income Poverty,Non-food Material Hardship,Medical Hardship,CPS-FSS,Citation,SIPP-FS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Twelve Facts about Food Insecurity and SNAP",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.hamiltonproject.org/assets/files/twelve_facts_about_food_insecurity_and_snap.pdf",
+      "keywords": "Safety Net,Food Insecurity,Nutrition Assistance Program,SNAP,Poverty,Hamilton Project,Economic Growth,Economic Security,CPS-FSS,Analyzed,Chart,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The Decline of Cash Assistance and the Well-Being of Poor Households with Children",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Social Safety Net,United States,SNAP,TANF,Families with Children,Cash Assistance,Child Well-Being,Homeless,Poor Households,Food Insecurity,CPS-FSS,Analyzed",
+      "doi": "https://doi.org/10.1093/sf/soz020",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1093/sf/soz020",
+      "authors": [
+        {
+          "first_name": "H Luke",
+          "last_name": "Shaefer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.214458.e",
+          "researcher_id": "ur.01335557345.48",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "Kathryn",
+          "last_name": "Edin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.16750.35",
+          "researcher_id": "ur.016256553533.48",
+          "affiliations": [
+            {
+              "id": "grid.16750.35",
+              "name": "Princeton University",
+              "city": "Princeton",
+              "city_id": 5102922,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        },
+        {
+          "first_name": "Vincent",
+          "last_name": "Fusaro",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.208226.c",
+          "researcher_id": "ur.0607112540.52",
+          "affiliations": [
+            {
+              "id": "grid.208226.c",
+              "name": "Boston College",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Pinghui",
+          "last_name": "Wu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1093/sf/soz020",
+      "keywords": [
+        "being",
+        "decline",
+        "well-being",
+        "households",
+        "children",
+        "poor households",
+        "cash assistance",
+        "assistance"
+      ],
+      "journal_title": "Social Forces",
+      "title": "The Decline of Cash Assistance and the Well-Being of Poor Households with Children"
+    }
+  },
+  {
+    "title": "An Examination of the Relationship between Household Food Insecurity and WIC Participation",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/34095/Simonovich_washington_0250E_14682.pdf?sequence=1&isAllowed=y",
+      "keywords": "Food Insecurity,SNAP,TANF,WIC,WIC Participation,CPS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Conceptualizing And Measuring Food Security Among Resettled Refugees Living In The United States",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://scholarworks.uvm.edu/cgi/viewcontent.cgi?article=1818&context=graddis",
+      "keywords": "Food Security,Refugees,United States,Food Security Measurement,CPS-FSS,NHANES-FSQ,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  }
+]

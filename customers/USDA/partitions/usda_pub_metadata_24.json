@@ -1,0 +1,1169 @@
+[
+  {
+    "title": "The State of Senior Hunger in America 2014: An Annual Report",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://ukcpr.org/sites/ukcpr/files/research-pdfs/NFESH_2016_Report-_Supplement_030816.pdf",
+      "keywords": "Senior Hunger,Food Insecurity,CPS-FSS,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "The effect of SNAP and the broader Safety Net on mental health and food insecurity",
+    "datasets": [
+      "dataset-026",
+      "dataset-050",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://ukcpr.org/sites/ukcpr/files/research-pdfs/DP2018-04.pdf",
+      "keywords": "Food Insecurity,Mental Health,Safety Net Program,SNAP,CPS-FSS,Citation,NHIS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Food security, health, and healthcare utilization: The role of SNAP for families in extreme poverty",
+    "datasets": [
+      "dataset-026",
+      "dataset-050",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://ukcpr.org/sites/ukcpr/files/research-pdfs/DP2018-02.pdf",
+      "keywords": "SNAP,Food Insecurity,Healthcare Utilization,Health,CPS-FSS,Citation,NHIS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:05"
+    }
+  },
+  {
+    "title": "Transition to adulthood: Dynamics of disability, food security, and SNAP participation",
+    "datasets": [
+      "dataset-026",
+      "dataset-050"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/31035208",
+      "keywords": "Transition to Adulthood,Disability,Food Security,SNAP Participation,NHIS-FSS,Analyzed,NonE Tier 2",
+      "doi": "10.1016/j.adolescence.2019.04.002",
+      "journal": "Journal of adolescence",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.adolescence.2019.04.002",
+      "authors": [
+        {
+          "first_name": "Baorong",
+          "last_name": "Guo",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.266757.7",
+          "researcher_id": "ur.010220126655.59",
+          "affiliations": [
+            {
+              "id": "grid.266757.7",
+              "name": "University of Missouri\u2013St. Louis",
+              "city": "St Louis",
+              "city_id": 4407066,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Missouri",
+              "state_code": "US-MO"
+            }
+          ]
+        },
+        {
+          "first_name": "Jin",
+          "last_name": "Huang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.262962.b",
+          "researcher_id": "ur.01133032067.22",
+          "affiliations": [
+            {
+              "id": "grid.262962.b",
+              "name": "Saint Louis University",
+              "city": "St Louis",
+              "city_id": 4407066,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Missouri",
+              "state_code": "US-MO"
+            }
+          ]
+        },
+        {
+          "first_name": "Shirley L.",
+          "last_name": "Porterfield",
+          "corresponding": "",
+          "orcid": "['0000-0002-7691-0874']",
+          "current_organization_id": "grid.266757.7",
+          "researcher_id": "ur.012135622462.38",
+          "affiliations": [
+            {
+              "id": "grid.266757.7",
+              "name": "University of Missouri\u2013St. Louis",
+              "city": "St Louis",
+              "city_id": 4407066,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Missouri",
+              "state_code": "US-MO"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "study",
+        "great impact",
+        "term development",
+        "status",
+        "adulthood",
+        "self-sufficiency",
+        "differences",
+        "approach",
+        "participation",
+        "analysis",
+        "disability",
+        "US",
+        "risk",
+        "adulthood results",
+        "instrumental variable analysis",
+        "cross-sectional design",
+        "instrument",
+        "greater food security",
+        "young adults",
+        "survey",
+        "Health Interview Survey",
+        "dynamics of disability",
+        "profound impact",
+        "impact",
+        "sectional design",
+        "categories",
+        "SNAP participation",
+        "Food Security Scale",
+        "adolescence",
+        "young adulthood",
+        "food security status",
+        "Security Scale",
+        "years",
+        "food security",
+        "National Health Interview Survey",
+        "severe category",
+        "long-term development",
+        "development",
+        "security status",
+        "Interview Survey",
+        "adults",
+        "sufficiency",
+        "policy strategies",
+        "economic independence",
+        "strategies",
+        "independence",
+        "youth",
+        "low food security",
+        "individuals",
+        "variable analysis"
+      ],
+      "journal_title": "Journal of Adolescence",
+      "title": "Transition to adulthood: Dynamics of disability, food security, and SNAP participation"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.adolescence.2019.04.002",
+      "journal": "J Adolesc",
+      "url": "http://europepmc.org/abstract/MED/31035208",
+      "title": "transition to adulthood: dynamics of disability, food security, and snap participation"
+    }
+  },
+  {
+    "title": "Effect of the Affordable Care Act's Medicaid Expansions on Food Security, 2010-2016",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/31318597",
+      "keywords": "Affordable Care Act,Medicaid Expansion,Food Security,CPS-FSS,Analyzed,NonE Tier 1",
+      "doi": "10.2105/AJPH.2019.305168",
+      "journal": "American journal of public health",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.2105/ajph.2019.305168",
+      "authors": [
+        {
+          "first_name": "Gracie",
+          "last_name": "Himmelstein",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.16750.35",
+              "name": "Princeton University",
+              "city": "Princeton",
+              "city_id": 5102922,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Jersey",
+              "state_code": "US-NJ"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "adult respondents",
+        "Medicaid expansion",
+        "public health implications",
+        "reduction",
+        "decline",
+        "implications",
+        "social determinants",
+        "rate",
+        "effects",
+        "health",
+        "expansion states",
+        "childless adults",
+        "provision",
+        "differences",
+        "Medicaid",
+        "year 2010",
+        "analysis",
+        "health implications",
+        "health insurance coverage",
+        "trends",
+        "relative reduction",
+        "coverage",
+        "US states",
+        "nonexpansion states",
+        "determinants",
+        "improvement",
+        "survey",
+        "Care Act",
+        "insecurity",
+        "Affordable Care Act Medicaid expansion",
+        "prevalence",
+        "Affordable Care Act",
+        "Food Security Supplement",
+        "low-income childless adults",
+        "insurance expansion",
+        "expansion of Medicaid",
+        "Current Population Survey",
+        "population survey",
+        "point decline",
+        "severe food insecurity",
+        "food insecurity",
+        "conclusion",
+        "household funds",
+        "act",
+        "data",
+        "health insurance expansion",
+        "supplements",
+        "respondents",
+        "adults",
+        "poverty",
+        "differences design",
+        "insurance coverage",
+        "difference analysis",
+        "important social determinant",
+        "objective",
+        "low food security"
+      ],
+      "journal_title": "American Journal of Public Health",
+      "title": "Effect of the Affordable Care Act's Medicaid Expansions on Food Security, 2010-2016"
+    }
+  },
+  {
+    "title": "Cost-Related Medication Nonadherence for Older Adults Participating in SNAP, 2013-2015",
+    "datasets": [
+      "dataset-050"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/29267062",
+      "keywords": "Aged,Cross-Sectional Studies,Food Assistance,Food Supply,Health Expenditures,Health Surveys,Humans,Medication Adherence,Middle Aged,Poverty,United States,NHIS-FSS,Analyzed,FSSM,NonE Tier 1",
+      "doi": "10.2105/AJPH.2017.304176",
+      "journal": "American journal of public health",
+      "date_added": "2019-10-10 13:19:06"
+    },
+    "dimensions": {
+      "doi": "10.2105/ajph.2017.304176",
+      "authors": [
+        {
+          "first_name": "Mithuna",
+          "last_name": "Srinivasan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.010102056254.80",
+          "affiliations": [
+            {
+              "name": "At the time of this study, the authors were with IMPAQ International, Washington, DC."
+            }
+          ]
+        },
+        {
+          "first_name": "Jennifer A",
+          "last_name": "Pooler",
+          "corresponding": "",
+          "orcid": "['0000-0003-0825-1202']",
+          "current_organization_id": "grid.427006.7",
+          "researcher_id": "ur.01243127415.88",
+          "affiliations": [
+            {
+              "name": "At the time of this study, the authors were with IMPAQ International, Washington, DC."
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "US adults",
+        "Cost-Related Medication Nonadherence",
+        "medication nonadherence",
+        "propensity score matching",
+        "medications",
+        "effects",
+        "participants",
+        "past year",
+        "findings point",
+        "participation",
+        "score matching",
+        "self",
+        "percentage points",
+        "Supplemental Nutrition Assistance Program (SNAP) participation",
+        "basis of self",
+        "survey",
+        "older adults",
+        "Health Interview Survey",
+        "intervention group participants",
+        "treatment plan",
+        "nonadherence",
+        "comparison group",
+        "impact",
+        "payers",
+        "SNAP",
+        "patients",
+        "SNAP participation",
+        "health system",
+        "barriers",
+        "effect of SNAP",
+        "food",
+        "years",
+        "National Health Interview Survey",
+        "hunger",
+        "data",
+        "Interview Survey",
+        "plan",
+        "older patients",
+        "eligible nonparticipants",
+        "adults",
+        "group participants",
+        "SNAP participants",
+        "program participation",
+        "intervention",
+        "nonparticipants",
+        "group",
+        "expenditure",
+        "United States"
+      ],
+      "journal_title": "American Journal of Public Health",
+      "title": "Cost-Related Medication Nonadherence for Older Adults Participating in SNAP, 2013-2015"
+    },
+    "europepmc": {
+      "doi": "10.2105/AJPH.2017.304176",
+      "journal": "Am J Public Health",
+      "url": "http://europepmc.org/abstract/MED/29267062",
+      "title": "cost-related medication nonadherence for older adults participating in snap, 2013-2015"
+    }
+  },
+  {
+    "title": "Food Insecurity and Chronic Diseases Among American Indians in Rural Oklahoma: The THRIVE Study",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/28103070",
+      "keywords": "Adult,Cross-Sectional Studies,Demography,Diabetes Mellitus,Female,Food Supply,Humans,Hypertension,Indians, North American,Male,Obesity,Oklahoma,Rural Population,CPS-FSS,Citation,FSSM,NonE Tier 1",
+      "doi": "10.2105/AJPH.2016.303605",
+      "journal": "American journal of public health",
+      "date_added": "2019-10-10 13:19:06"
+    },
+    "dimensions": {
+      "doi": "10.2105/ajph.2016.303605",
+      "authors": [
+        {
+          "first_name": "Valarie",
+          "last_name": "Blue Bird Jernigan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266902.9",
+          "researcher_id": "ur.0742064354.38",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Marianna S",
+          "last_name": "Wetherill",
+          "corresponding": "",
+          "orcid": "['0000-0002-5937-4686']",
+          "current_organization_id": "grid.266900.b",
+          "researcher_id": "ur.013063526221.20",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Jordan",
+          "last_name": "Hearod",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266902.9",
+          "researcher_id": "ur.012411173125.24",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Tvli",
+          "last_name": "Jacob",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266900.b",
+          "researcher_id": "ur.01034343043.98",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Alicia L",
+          "last_name": "Salvatore",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266902.9",
+          "researcher_id": "ur.01121441135.63",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Tamela",
+          "last_name": "Cannady",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266900.b",
+          "researcher_id": "ur.07703711437.43",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Mandy",
+          "last_name": "Grammar",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266900.b",
+          "researcher_id": "ur.016647010621.09",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Joy",
+          "last_name": "Standridge",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266900.b",
+          "researcher_id": "ur.010143737421.79",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Jill",
+          "last_name": "Fox",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266900.b",
+          "researcher_id": "ur.010741320021.41",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Jennifer",
+          "last_name": "Spiegel",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266900.b",
+          "researcher_id": "ur.011536700421.84",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "AnDina",
+          "last_name": "Wiley",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266900.b",
+          "researcher_id": "ur.012334261021.74",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Carolyn",
+          "last_name": "Noonan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.30064.31",
+          "researcher_id": "ur.0642041707.78",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        },
+        {
+          "first_name": "Dedra",
+          "last_name": "Buchwald",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.30064.31",
+          "researcher_id": "ur.012001020137.03",
+          "affiliations": [
+            {
+              "id": "grid.266900.b",
+              "name": "University of Oklahoma",
+              "city": "Norman",
+              "city_id": 4543762,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Oklahoma",
+              "state_code": "US-OK"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc5296691?pdf=render",
+      "keywords": [
+        "outcomes",
+        "American Indians",
+        "study",
+        "inadequate food quality",
+        "underlying cause",
+        "participants",
+        "education",
+        "quality",
+        "cardiovascular disease",
+        "adequate food quantity",
+        "cross-sectional sample",
+        "sites",
+        "AI adults",
+        "food environment",
+        "health outcomes",
+        "sectional sample",
+        "action",
+        "healthy foods",
+        "THRIVE studies",
+        "aggressive actions",
+        "chronic diseases",
+        "significance",
+        "diabetes",
+        "prevalence",
+        "gender",
+        "samples",
+        "unadjusted prevalence",
+        "food",
+        "hypertension",
+        "food insecurity",
+        "age",
+        "obesity",
+        "rural Oklahoma",
+        "association",
+        "adults",
+        "disease",
+        "cause",
+        "barriers",
+        "adjustment",
+        "statistical significance",
+        "Indians"
+      ],
+      "journal_title": "American Journal of Public Health",
+      "title": "Food Insecurity and Chronic Diseases Among American Indians in Rural Oklahoma: The THRIVE Study"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Food Insecurity and Chronic Diseases Among American Indians in Rural Oklahoma: The THRIVE Study",
+      "doi": "10.2105/AJPH.2016.303605",
+      "url": "https://europepmc.org/articles/PMC5296691/"
+    }
+  },
+  {
+    "title": "The Supplemental Nutrition Assistance Program, Food Insecurity, Dietary Quality, and Obesity Among US Adults",
+    "datasets": [
+      "dataset-026",
+      "dataset-048",
+      "dataset-017"
+    ],
+    "original": {
+      "url": "https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2015.302580",
+      "keywords": "SNAP Participation,Food Insecurity,Dietary Quality,Weight,US Adults,NHANES-FSQ,Analyzed,NonE Tier 1",
+      "doi": "doi:10.2105/AJPH.2015.302580",
+      "journal": "American journal of public health",
+      "date_added": "2019-10-10 13:19:06"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The Supplemental Nutrition Assistance Program, Food Insecurity, Dietary Quality, and Obesity Among US Adults",
+      "doi": "10.2105/AJPH.2015.302580",
+      "url": "https://europepmc.org/articles/PMC4463405/"
+    }
+  },
+  {
+    "title": "Examining the Influence of the Food Environment on Household Food Security",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Household Food Security,Food Environment,Local Food Environment,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    }
+  },
+  {
+    "title": "Food Insecurity and SNAP Participation in the LGBT Community",
+    "datasets": [
+      "dataset-026",
+      "dataset-050",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://williamsinstitute.law.ucla.edu/wp-content/uploads/Food-Insecurity-and-SNAP-Participation-in-the-LGBT-Community.pdf",
+      "keywords": "Food Insecurity,SNAP,LGBT,CPS-FSS,Citation,NHIS-FSS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    }
+  },
+  {
+    "title": "Food Assistance Programs and Child Health",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Food Assistance Programs,SNAP,National School Lunch Program,School Breakfast Program,Food Insecurity,Social Safety Net,Children Food Insecurity,Child Health,FSSM,NonE Tier 1",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    },
+    "dimensions": {
+      "doi": "10.1353/foc.2015.0004",
+      "authors": [
+        {
+          "first_name": "Craig",
+          "last_name": "Gundersen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.35403.31",
+          "researcher_id": "ur.01341472614.22",
+          "affiliations": [
+            {
+              "name": "Craig Gundersen is the Soybean Industry Endowed Professor in Agricultural Strategy in the Department of Agricultural and Consumer Economics at the University of Illinois and the executive director of the National Soybean Research Laboratory. He is also a member of the Technical Advisory Group of Feeding America and is the lead researcher on the Map the Meal Gap project."
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "outcomes",
+        "efforts",
+        "recipients",
+        "birth outcomes",
+        "effects",
+        "health",
+        "childhood obesity",
+        "benefits",
+        "participation",
+        "unintended effects",
+        "certain changes",
+        "decades",
+        "weight infants",
+        "Nutrition Assistance Program",
+        "income children",
+        "National School Lunch Program",
+        "children",
+        "schools",
+        "meal programs",
+        "hand",
+        "insecurity",
+        "SNAP benefits",
+        "additional goal",
+        "SNAP",
+        "child health",
+        "School Breakfast Program",
+        "Breakfast Program",
+        "survival",
+        "Supplemental Nutrition Assistance Program",
+        "goal",
+        "meal",
+        "school meals",
+        "infants",
+        "program",
+        "assistance programs",
+        "Lunch Program",
+        "policy makers",
+        "food insecurity",
+        "safety net",
+        "years",
+        "sessions",
+        "obesity",
+        "low-income children",
+        "food assistance programs",
+        "patterns",
+        "low-weight infants",
+        "School Lunch Program",
+        "more children",
+        "changes",
+        "United States"
+      ],
+      "journal_title": "The Future of Children",
+      "title": "Food Assistance Programs and Child Health"
+    },
+    "openaire": {
+      "journal": "Journal of the International AIDS Society",
+      "title": "Food Assistance Programs and Child Health",
+      "doi": "10.7448/IAS.15.5.18442",
+      "url": "http://europepmc.org/articles/PMC3499903"
+    }
+  },
+  {
+    "title": "Nonresident Father Involvement and Childhood Hunger",
+    "datasets": [
+      "dataset-302",
+      "dataset-303"
+    ],
+    "original": {
+      "url": "https://www.impaqint.com/sites/default/files/files/Nonresident%20Father%20Involvement,%20Final%20Report,%20IMPAQ%20International,%2006JAN2014.pdf",
+      "keywords": "Food Insecurity,Children Food Insecurity,Nonresident Father,Single Mother Households,Child Support,Child Well-Being,Child Poverty,ECLS-FS,PSID-FFSS,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    }
+  },
+  {
+    "title": "Household Food Insecurity in Canada: Towards an Understanding of Effective Interventions",
+    "datasets": [
+      "dataset-048",
+      "dataset-017",
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Food Insecurity,Canada,Canadian Community Health Survey,Hardships,CPS-FSS,NHANES-FSQ,ECLS-FS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    }
+  },
+  {
+    "title": "Electronic Benefit Transfer: Food Choices, Food Insecurity, and Type 2 Diabetes",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=2296&context=dissertations",
+      "keywords": "Food Security,SNAP,Food Choices,Type 2 Diabetes,CPS-FSS,Citation,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.jneb.2015.04.138",
+      "authors": [
+        {
+          "first_name": "Diana",
+          "last_name": "Malkin-Washeim",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Walden University, 31 Brand Drive, Huntington, NY 11743"
+            }
+          ]
+        },
+        {
+          "first_name": "S.",
+          "last_name": "Gerrior",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "linkout": "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=2296&context=dissertations",
+      "keywords": [
+        "type 2 diabetes",
+        "food insecurity",
+        "diabetes",
+        "food choices"
+      ],
+      "journal_title": "Journal of Nutrition Education and Behavior",
+      "title": "Electronic Benefit Transfer: Food Choices, Food Insecurity, and Type 2 Diabetes"
+    }
+  },
+  {
+    "title": "Food Insecurity and Cost-Related Medication Underuse Among Nonelderly Adults in a Nationally Representative Sample",
+    "datasets": [
+      "dataset-050"
+    ],
+    "original": {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4566547/pdf/AJPH.2015.302712.pdf",
+      "keywords": "US Adults,Food Insecurity,Cost-Related Medication Underuse,NHIS-FSS,Analyzed,FSSM,NonE Tier 1",
+      "doi": "doi:10.2105/AJPH.2015.302712",
+      "journal": "American journal of public health",
+      "date_added": "2019-10-10 13:19:06"
+    },
+    "dimensions": {
+      "doi": "10.2105/ajph.2015.302712",
+      "authors": [
+        {
+          "first_name": "Dena",
+          "last_name": "Herman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.253563.4",
+          "researcher_id": "ur.01206514477.13",
+          "affiliations": [
+            {
+              "id": "grid.253563.4",
+              "name": "California State University, Northridge",
+              "city": "Northridge",
+              "city_id": 5377985,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Patience",
+          "last_name": "Afulani",
+          "corresponding": "",
+          "orcid": "['0000-0002-6739-234X']",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01111265101.48",
+          "affiliations": [
+            {
+              "id": "grid.253563.4",
+              "name": "California State University, Northridge",
+              "city": "Northridge",
+              "city_id": 5377985,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Alisha",
+          "last_name": "Coleman-Jensen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.01256022523.75",
+          "affiliations": [
+            {
+              "id": "grid.253563.4",
+              "name": "California State University, Northridge",
+              "city": "Northridge",
+              "city_id": 5377985,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Gail G",
+          "last_name": "Harrison",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.19006.3e",
+          "researcher_id": "ur.011477446745.55",
+          "affiliations": [
+            {
+              "id": "grid.253563.4",
+              "name": "California State University, Northridge",
+              "city": "Northridge",
+              "city_id": 5377985,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://scholarworks.csun.edu/bitstream/10211.3/198522/1/Herman-Dena-Food-2015.pdf",
+      "keywords": [
+        "US adults",
+        "food-insecure households",
+        "logistic regression",
+        "factors",
+        "nonelderly adults",
+        "chronic conditions",
+        "households",
+        "representative sample",
+        "medications",
+        "status",
+        "health",
+        "response relationship",
+        "multivariate logistic regression",
+        "severe mental illness",
+        "interaction terms",
+        "likelihood",
+        "identification of individuals",
+        "mental illness",
+        "illness",
+        "survey",
+        "Health Interview Survey",
+        "likelihood of cost",
+        "chronic diseases",
+        "insecurity",
+        "insurance",
+        "gender",
+        "multivariate analysis",
+        "functional limitations",
+        "dose-response relationship",
+        "disease status",
+        "purchasing medications",
+        "regression",
+        "samples",
+        "health insurance",
+        "relationship",
+        "food insecurity",
+        "National Health Interview Survey",
+        "medication underuse",
+        "data",
+        "health insurance status",
+        "Interview Survey",
+        "insecure households",
+        "association",
+        "adults",
+        "underuse",
+        "disease",
+        "food-secure",
+        "test",
+        "bivariate",
+        "chronic disease status",
+        "risk factors",
+        "severity",
+        "individuals",
+        "insurance status"
+      ],
+      "journal_title": "American Journal of Public Health",
+      "title": "Food Insecurity and Cost-Related Medication Underuse Among Nonelderly Adults in a Nationally Representative Sample"
+    },
+    "europepmc": {
+      "doi": "10.2105/AJPH.2015.302712",
+      "journal": "Am J Public Health",
+      "url": "http://europepmc.org/abstract/MED/26270308",
+      "title": "food insecurity and cost-related medication underuse among nonelderly adults in a nationally representative sample"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Food Insecurity and Cost-Related Medication Underuse Among Nonelderly Adults in a Nationally Representative Sample",
+      "doi": "10.2105/AJPH.2015.302712",
+      "url": "https://europepmc.org/articles/PMC4566547/"
+    }
+  },
+  {
+    "title": "The Scope and Magnitude of Food Sharing Among U.S. Households: New Evidence from FoodAPS",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://pdfs.semanticscholar.org/459d/17bcc9d85b0b43662f5c162a4aaaf191c898.pdf",
+      "keywords": "Low-Income Households,Food Sharing,Household Food Security,SNAP Participation,FoodAPS-FS,Analyzed,FSSM",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    }
+  },
+  {
+    "title": "Impact of SNAP and WIC Program Participation on Consumption of Fruits and Vegetables",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://tind-customer-agecon.s3.amazonaws.com/0e98be66-0204-4cf5-ab49-54c4fb9dfb23?response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27SAEA2018-Sitienei-Snap-Paper.pdf&response-content-type=application%2Fpdf&AWSAccessKeyId=AKIAXL7W7Q3XHXDVDQYS&Expires=1564429733&Signature=qae%2FfDxFuWLPrDaLyzy58w9z1XI%3D",
+      "keywords": "SNAP Participation,WIC Participation,Fruit and vegetable intake,Food Security,FoodAPS-FS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    }
+  },
+  {
+    "title": "Where Do Americans Usually Shop for Food and How Do They Travel To Get There? Initial Findings From the National Household Food Acquisition and Purchase Survey",
+    "datasets": [
+      "dataset-026",
+      "dataset-050",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/43953/eib138_errata.pdf?v=2948.4",
+      "keywords": "Food Expenditure,Food Shopping Patterns,SNAP,WIC,Food Security,FoodAPS-FS,Analyzed,CPS-FSS,NHIS-FSS,Citation",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    }
+  },
+  {
+    "title": "Variation in Food Prices and SNAP Adequacy for Purchasing the Thrifty Food Plan",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1117&context=ukcpr_papers",
+      "keywords": "Food Prices,SNAP,Thrifty Food Plan,FoodAPS-FS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    }
+  },
+  {
+    "title": "The Effect of Food Price on Food Insecurity and Diet Quality: Exploring Potential Moderating Roles of SNAP and Consumer Competency",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "url": "https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1114&context=ukcpr_papers",
+      "keywords": "Food Prices,Food Insecurity,Diet Quality,SNAP,Consumer Competency,Low-Income Households,FoodAPS-FS,Analyzed",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:06"
+    }
+  }
+]

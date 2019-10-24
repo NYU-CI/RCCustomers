@@ -1,0 +1,143 @@
+[
+  {
+    "title": "Reducing Food Insecurity and Improving Fruit and Vegetable Intake Among Farmers' Market Incentive Program Participants",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26598911",
+      "keywords": "Adult,Aged,80 and over,Farmers,Feeding Behavior,Female,Food Assistance,Food Supply,Fruit,Humans,Male,Middle Aged,Pilot Projects,Vegetables,Young Adult,FSSM,NonE Tier 2",
+      "doi": "10.1016/j.jneb.2015.10.003",
+      "journal": "Journal of nutrition education and behavior",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "authors": [
+        {
+          "first_name": "Mateja",
+          "last_name": "Savoie-Roskos",
+          "corresponding": true,
+          "orcid": "['0000-0001-7740-5223']",
+          "current_organization_id": "grid.53857.3c",
+          "researcher_id": "ur.0664507551.48",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        },
+        {
+          "first_name": "Carrie",
+          "last_name": "Durward",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.53857.3c",
+          "researcher_id": "ur.013757333733.30",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        },
+        {
+          "first_name": "Melanie",
+          "last_name": "Jeweks",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        },
+        {
+          "first_name": "Heidi",
+          "last_name": "LeBlanc",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.53857.3c",
+          "researcher_id": "ur.01366521615.75",
+          "affiliations": [
+            {
+              "id": "grid.53857.3c",
+              "name": "Utah State University",
+              "city": "Logan",
+              "city_id": 5777544,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Utah",
+              "state_code": "US-UT"
+            }
+          ]
+        }
+      ],
+      "doi": "10.1016/j.jneb.2015.10.003",
+      "keywords": [
+        "Nutrition Assistance Program",
+        "impact",
+        "US Household Food Security Survey Module",
+        "scores",
+        "questionnaire",
+        "Supplemental Nutrition Assistance Program",
+        "Household Food Security Survey Module",
+        "participants",
+        "vegetable intake",
+        "Farmers\u2019 Market Incentive Program",
+        "food security status",
+        "individuals",
+        "greater food security",
+        "insecurity",
+        "incentive programs",
+        "participation",
+        "status",
+        "program",
+        "Food Security Survey Module",
+        "food security",
+        "incentives",
+        "assistance programs",
+        "pilot program",
+        "test",
+        "dollars",
+        "conclusion",
+        "vegetables",
+        "food insecurity",
+        "security status",
+        "market incentives",
+        "implications",
+        "researchers",
+        "Survey Module"
+      ],
+      "journal_title": "Journal of Nutrition Education and Behavior",
+      "title": "Reducing Food Insecurity and Improving Fruit and Vegetable Intake Among Farmers' Market Incentive Program Participants"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.jneb.2015.10.003",
+      "journal": "J Nutr Educ Behav",
+      "url": "http://europepmc.org/abstract/MED/26598911",
+      "title": "reducing food insecurity and improving fruit and vegetable intake among farmers' market incentive program participants"
+    }
+  }
+]

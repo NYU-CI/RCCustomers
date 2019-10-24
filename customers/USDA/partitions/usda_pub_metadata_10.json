@@ -1,0 +1,1487 @@
+[
+  {
+    "title": "Are Household Food Expenditures Responsive to Entry Into the Supplemental Nutrition Assistance Program?*",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1111/ssqu.12197",
+      "keywords": "Food Expenditures,SNAP,Household Economic Shocks,CPS-FSS,Citation,PSID-FFSS,Analyzed,NonE Tier 2",
+      "doi": "10.1111/ssqu.12197",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1111/ssqu.12197",
+      "authors": [
+        {
+          "first_name": "Jiyoon",
+          "last_name": "Kim",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.214458.e",
+          "researcher_id": "ur.012064402723.16",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        },
+        {
+          "first_name": "H. Luke",
+          "last_name": "Shaefer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.214458.e",
+          "researcher_id": "ur.01335557345.48",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://deepblue.lib.umich.edu/bitstream/2027.42/115937/1/ssqu12197.pdf",
+      "keywords": [
+        "household food expenditures",
+        "study specifications",
+        "food budget",
+        "dynamics",
+        "rate",
+        "households",
+        "changes",
+        "negative shocks",
+        "share",
+        "spending accounts",
+        "benefits",
+        "participation",
+        "point",
+        "marriage",
+        "low share",
+        "head of household",
+        "SNAP households",
+        "Nutrition Assistance Program",
+        "budget",
+        "Income Dynamics",
+        "Panel Study",
+        "SNAP benefits",
+        "monthly data",
+        "entry",
+        "total food expenditure",
+        "SNAP participation",
+        "specification",
+        "Supplemental Nutrition Assistance Program",
+        "program",
+        "assistance programs",
+        "extent",
+        "safety net",
+        "employment",
+        "important safety net",
+        "data",
+        "shock",
+        "economic shocks",
+        "nets",
+        "food expenditure",
+        "expenditure",
+        "account"
+      ],
+      "journal_title": "Social Science Quarterly",
+      "title": "Are Household Food Expenditures Responsive to Entry Into the Supplemental Nutrition Assistance Program?*"
+    }
+  },
+  {
+    "title": "Food Insecurity among Households with Children: The Role of the State Economic and Policy Context",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/doi.org/10.1086/695328",
+      "keywords": "Food Assistance,Food insecurity,Food security,Income Support,Safety Net,SNAP,CPS-FSS,Analyzed,NonE Tier 2",
+      "doi": "doi.org/10.1086/695328",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1086/695328",
+      "authors": [
+        {
+          "first_name": "Judith",
+          "last_name": "Bartfeld",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.01045764224.52",
+          "affiliations": []
+        },
+        {
+          "first_name": "Fei",
+          "last_name": "Men",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.17063.33",
+          "researcher_id": "ur.014317707235.76",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "state economics",
+        "households",
+        "role",
+        "children",
+        "economics",
+        "insecurity",
+        "policy context",
+        "food insecurity",
+        "context"
+      ],
+      "journal_title": "Social Service Review",
+      "title": "Food Insecurity among Households with Children: The Role of the State Economic and Policy Context"
+    }
+  },
+  {
+    "title": "Rasch Analyses of Very Low Food Security among Households and Children in the Three City Study",
+    "datasets": [
+      "dataset-049",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/29187764",
+      "keywords": "Three City Study,Low-Income Families,Financial Assistance,Food Insecurity,Food Hardships,Multivariate Behavioral Rasch Model,CPS-FSS,Analyzed,FSSM,Econ Tier 2",
+      "doi": "10.1002/soej.12081",
+      "journal": "Southern economic journal",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1002/soej.12081",
+      "authors": [
+        {
+          "first_name": "Robert A.",
+          "last_name": "Moffitt",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21107.35",
+          "researcher_id": "ur.01044637722.47",
+          "affiliations": [
+            {
+              "id": "grid.21107.35",
+              "name": "Johns Hopkins University",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            },
+            {
+              "id": "grid.1008.9",
+              "name": "University of Melbourne",
+              "city": "Melbourne",
+              "city_id": 2158177,
+              "country": "Australia",
+              "country_code": "AU",
+              "state": "Victoria",
+              "state_code": "AU-VIC"
+            }
+          ]
+        },
+        {
+          "first_name": "David C.",
+          "last_name": "Ribar",
+          "corresponding": "",
+          "orcid": "['0000-0002-0465-4875']",
+          "current_organization_id": "grid.1008.9",
+          "researcher_id": "ur.0676776307.71",
+          "affiliations": [
+            {
+              "id": "grid.21107.35",
+              "name": "Johns Hopkins University",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            },
+            {
+              "id": "grid.1008.9",
+              "name": "University of Melbourne",
+              "city": "Melbourne",
+              "city_id": 2158177,
+              "country": "Australia",
+              "country_code": "AU",
+              "state": "Victoria",
+              "state_code": "AU-VIC"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc5703601?pdf=render",
+      "keywords": [
+        "food hardship",
+        "financial assets",
+        "outcomes",
+        "study",
+        "network",
+        "income families",
+        "households",
+        "low-income families",
+        "longitudinal data",
+        "assistance",
+        "different questions",
+        "hardship",
+        "participation",
+        "assets",
+        "analysis",
+        "more characteristic",
+        "security",
+        "disability",
+        "Needy Families (TANF) program",
+        "Household Food Security Survey Module",
+        "children",
+        "Nutrition Assistance Program",
+        "instrument",
+        "determinants",
+        "Temporary Assistance",
+        "survey",
+        "questions",
+        "family",
+        "insecurity",
+        "U.S. instrument",
+        "social networks",
+        "outstanding loans",
+        "Families Program",
+        "financial assistance",
+        "City Study",
+        "Current Population Survey",
+        "Supplemental Nutrition Assistance Program",
+        "population survey",
+        "measurement model",
+        "program",
+        "assistance programs",
+        "Food Security Survey Module",
+        "food security",
+        "food insecurity",
+        "loans",
+        "data",
+        "Three City Study",
+        "poverty",
+        "caregivers",
+        "Survey Module",
+        "Very Low Food Security",
+        "low food security"
+      ],
+      "journal_title": "Southern Economic Journal",
+      "title": "Rasch Analyses of Very Low Food Security among Households and Children in the Three City Study"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Rasch Analyses of Very Low Food Security among Households and Children in the Three City Study",
+      "doi": "10.1002/soej.12081",
+      "url": "https://europepmc.org/articles/PMC5703601/"
+    }
+  },
+  {
+    "title": "A Decade of Analysis: Household Food Insecurity Among Low-Income Immigrant Children",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1177/0192513x16661216",
+      "keywords": "Immigration,Migration,Poverty,Welfare,Race/ethnicity,Economic Issues,Family Health,Food Insecurity,Low-Income,CPS-FSS,Analyzed,ECLS-FS,Citation,NonE Tier 2",
+      "doi": "10.1177/0192513x16661216",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1177/0192513x16661216",
+      "authors": [
+        {
+          "first_name": "Stephanie",
+          "last_name": "Potochnick",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.134936.a",
+          "researcher_id": "ur.0645567763.23",
+          "affiliations": [
+            {
+              "id": "grid.134936.a",
+              "name": "University of Missouri",
+              "city": "Columbia",
+              "city_id": 4381982,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Missouri",
+              "state_code": "US-MO"
+            }
+          ]
+        },
+        {
+          "first_name": "Irma",
+          "last_name": "Arteaga",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.134936.a",
+          "researcher_id": "ur.012610656337.71",
+          "affiliations": [
+            {
+              "id": "grid.134936.a",
+              "name": "University of Missouri",
+              "city": "Columbia",
+              "city_id": 4381982,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Missouri",
+              "state_code": "US-MO"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "protective influence",
+        "study",
+        "households",
+        "status",
+        "period",
+        "nonimmigrant peers",
+        "differences",
+        "nonimmigrant families",
+        "peers",
+        "analysis",
+        "national-level differences",
+        "immigrant households",
+        "trends",
+        "income households",
+        "decades",
+        "children",
+        "influence",
+        "low-income households",
+        "racial groups",
+        "Current Population Survey Food Security Supplement",
+        "family",
+        "insecurity",
+        "Food Security Supplement",
+        "levels",
+        "literature",
+        "decade of analysis",
+        "recession",
+        "immigrant children",
+        "food insecurity",
+        "years",
+        "Hispanic immigrants",
+        "level differences",
+        "data",
+        "immigrants",
+        "Great Recession",
+        "U.S",
+        "immigrant families",
+        "counterparts",
+        "citizenship status",
+        "low levels",
+        "wake",
+        "group",
+        "low-income immigrant children",
+        "risk"
+      ],
+      "journal_title": "Journal of Family Issues",
+      "title": "A Decade of Analysis: Household Food Insecurity Among Low-Income Immigrant Children"
+    }
+  },
+  {
+    "title": "Food pantry assistance and the great recession",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1080/19320248.2018.1434099",
+      "keywords": "Emergency Food Assistance,Food Pantries,Great Recession,CPS-FSS,Analyzed,NonE Tier 3",
+      "doi": "10.1080/19320248.2018.1434099",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1080/19320248.2018.1434099",
+      "authors": [
+        {
+          "first_name": "Colleen",
+          "last_name": "Heflin",
+          "corresponding": "",
+          "orcid": "['0000-0001-9323-2027']",
+          "current_organization_id": "grid.264484.8",
+          "researcher_id": "ur.01007241012.77",
+          "affiliations": [
+            {
+              "id": "grid.264484.8",
+              "name": "Syracuse University",
+              "city": "Syracuse",
+              "city_id": 5140405,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Ashley",
+          "last_name": "Price",
+          "corresponding": "",
+          "orcid": "['0000-0001-8697-5332']",
+          "current_organization_id": "grid.26009.3d",
+          "researcher_id": "ur.0714334414.66",
+          "affiliations": [
+            {
+              "name": "Duke Center for Personalized Health Care"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "personal demographic characteristics",
+        "study",
+        "use",
+        "period",
+        "center",
+        "assistance",
+        "education",
+        "National Center",
+        "representative data",
+        "college education",
+        "increase",
+        "correlates",
+        "Current Population Survey Food Security Supplement",
+        "pantries",
+        "Food Security Supplement",
+        "food",
+        "years",
+        "data",
+        "supplements",
+        "food pantries",
+        "end",
+        "number",
+        "United States",
+        "demographic characteristics"
+      ],
+      "journal_title": "Journal of Hunger & Environmental Nutrition",
+      "title": "Food pantry assistance and the great recession"
+    }
+  },
+  {
+    "title": "Food Insecurity, Financial Shocks, and Financial Coping Strategies among Households with Elementary School Children in Wisconsin",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1111/joca.12162",
+      "keywords": "Food insecurity,Food Shocks,Financial Coping Strategies,Financial Security,CPS-FSS,Analyzed,Econ Tier 2",
+      "doi": "10.1111/joca.12162",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1111/joca.12162",
+      "authors": [
+        {
+          "first_name": "Judith",
+          "last_name": "Bartfeld",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        },
+        {
+          "first_name": "J. Michael",
+          "last_name": "Collins",
+          "corresponding": "",
+          "orcid": "['0000-0002-2280-2130']",
+          "current_organization_id": "grid.14003.36",
+          "researcher_id": "ur.013205776241.52",
+          "affiliations": []
+        }
+      ],
+      "keywords": [
+        "food hardship",
+        "efforts",
+        "households",
+        "payday",
+        "financial shocks",
+        "inferior form",
+        "hardship",
+        "article",
+        "work effort",
+        "security",
+        "food needs",
+        "need",
+        "security interventions",
+        "household's ability",
+        "financial adaptation",
+        "survey",
+        "insecurity",
+        "credit",
+        "greater coordination",
+        "financial coping strategies",
+        "volatility",
+        "income",
+        "more difficulty",
+        "results",
+        "food insecurity",
+        "food security",
+        "Wisconsin",
+        "loans",
+        "coping strategies",
+        "difficulties",
+        "savings",
+        "coordination",
+        "shock",
+        "respondents",
+        "expense",
+        "strategies",
+        "survey respondents",
+        "intervention"
+      ],
+      "journal_title": "Journal of Consumer Affairs",
+      "title": "Food Insecurity, Financial Shocks, and Financial Coping Strategies among Households with Elementary School Children in Wisconsin"
+    }
+  },
+  {
+    "title": "Unpacking an Anomaly: Analyzing the 2005-2012 Current Population Survey to Understand Why Many Emergency Food Assistance Users Report Being Food Secure",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1080/19320248.2016.1157548",
+      "keywords": "Food Insecurity,Food Security,Emergency Food Assistance,Food Pantries,Marginal Food Secure,CPS-FSS,Analyzed,NonE Tier 2",
+      "doi": "10.1080/19320248.2016.1157548",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1080/19320248.2016.1157548",
+      "authors": [
+        {
+          "first_name": "Colleen",
+          "last_name": "Heflin",
+          "corresponding": "",
+          "orcid": "['0000-0001-9323-2027']",
+          "current_organization_id": "grid.264484.8",
+          "researcher_id": "ur.01007241012.77",
+          "affiliations": [
+            {
+              "id": "grid.134936.a",
+              "name": "University of Missouri",
+              "city": "Columbia",
+              "city_id": 4381982,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Missouri",
+              "state_code": "US-MO"
+            }
+          ]
+        },
+        {
+          "first_name": "Kate",
+          "last_name": "Olson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.134936.a",
+              "name": "University of Missouri",
+              "city": "Columbia",
+              "city_id": 4381982,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Missouri",
+              "state_code": "US-MO"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "food secure households",
+        "hypothesis",
+        "overreport",
+        "evidence",
+        "households",
+        "findings",
+        "participants",
+        "bivariate descriptive statistics",
+        "descriptive statistics",
+        "recall bias",
+        "insecure counterparts",
+        "anomalous findings",
+        "food secure",
+        "secure households",
+        "survey",
+        "report",
+        "Current Population Survey",
+        "population survey",
+        "food",
+        "program",
+        "assistance programs",
+        "data",
+        "insecure participants",
+        "food assistance programs",
+        "Emergency Food Assistance Program",
+        "limited evidence",
+        "measures",
+        "food insecure participants"
+      ],
+      "journal_title": "Journal of Hunger & Environmental Nutrition",
+      "title": "Unpacking an Anomaly: Analyzing the 2005-2012 Current Population Survey to Understand Why Many Emergency Food Assistance Users Report Being Food Secure"
+    }
+  },
+  {
+    "title": "Heterogeneous impacts of the Supplemental Nutrition Assistance Program on food insecurity",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1016/j.econlet.2018.09.011",
+      "keywords": "SNAP,Food Stamps,Food Insecurity,Finite Mixture Models,CPS-FSS,Analyzed,Econ Tier 1",
+      "doi": "10.1016/j.econlet.2018.09.011",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.econlet.2018.09.011",
+      "authors": [
+        {
+          "first_name": "Partha",
+          "last_name": "Deb",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.257167.0",
+          "researcher_id": "ur.0741332770.81",
+          "affiliations": [
+            {
+              "id": "grid.257167.0",
+              "name": "Hunter College",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Christian A.",
+          "last_name": "Gregory",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.482913.5",
+          "researcher_id": "ur.0653576406.50",
+          "affiliations": [
+            {
+              "id": "grid.482913.5",
+              "name": "Economic Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "participation",
+        "impact",
+        "assistance programs",
+        "percentage points",
+        "SNAP participation",
+        "need",
+        "effects",
+        "Nutrition Assistance Program",
+        "samples",
+        "class membership",
+        "larger households",
+        "Supplemental Nutrition Assistance Program",
+        "program",
+        "population",
+        "food insecurity",
+        "individuals",
+        "treatment effects"
+      ],
+      "journal_title": "Economics Letters",
+      "title": "Heterogeneous impacts of the Supplemental Nutrition Assistance Program on food insecurity"
+    }
+  },
+  {
+    "title": "Reversing welfare reform? Immigrant restoration efforts and food stamp receipt among Mexican immigrant families",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/27712691",
+      "keywords": "Adult,Child,Emigrants and Immigrants,Food Assistance,Food Supply,Humans,Mexico,Poverty,Social Welfare,United States,CPS-FSS,Analyzed,NonE Tier 1",
+      "doi": "10.1016/j.ssresearch.2016.03.001",
+      "journal": "Social science research",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.ssresearch.2016.03.001",
+      "authors": [
+        {
+          "first_name": "Stephanie",
+          "last_name": "Potochnick",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.134936.a",
+          "researcher_id": "ur.0645567763.23",
+          "affiliations": [
+            {
+              "id": "grid.134936.a",
+              "name": "University of Missouri",
+              "city": "Columbia",
+              "city_id": 4381982,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Missouri",
+              "state_code": "US-MO"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "terms of eligibility",
+        "implications",
+        "efforts",
+        "food insecurity rates",
+        "today",
+        "eligibility",
+        "Mexican immigrant families",
+        "households",
+        "food stamp participation",
+        "Investment Act",
+        "household use",
+        "consequences",
+        "era",
+        "participation",
+        "reform",
+        "welfare reform",
+        "immigrant households",
+        "debate",
+        "Farm Security",
+        "security",
+        "Rural Investment Act",
+        "trends",
+        "terms",
+        "policy",
+        "children",
+        "reform era",
+        "stamp",
+        "post-welfare reform era",
+        "economic context",
+        "survey",
+        "negative consequences",
+        "receipt",
+        "family",
+        "food stamps",
+        "paper",
+        "food stamp receipt",
+        "Current Population Survey",
+        "population survey",
+        "recession",
+        "safety net",
+        "access",
+        "act",
+        "third",
+        "immigrants",
+        "data",
+        "Great Recession",
+        "economic changes",
+        "food stamp eligibility",
+        "immigrant families",
+        "immigrants' access",
+        "two-thirds",
+        "differences design",
+        "wake",
+        "nets",
+        "changes",
+        "context"
+      ],
+      "journal_title": "Social Science Research",
+      "title": "Reversing welfare reform? Immigrant restoration efforts and food stamp receipt among Mexican immigrant families"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.ssresearch.2016.03.001",
+      "journal": "Soc Sci Res",
+      "url": "http://europepmc.org/abstract/MED/27712691",
+      "title": "reversing welfare reform? immigrant restoration efforts and food stamp receipt among mexican immigrant families"
+    }
+  },
+  {
+    "title": "Do Walmart Supercenters Improve Food Security?",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/aepp/ppy023",
+      "keywords": "Walmart,Wal-Mart,Supercenters,Big Box Stores,Food Insecurity,Hunger,CPS-FSS,Analyzed,Econ Tier 2",
+      "doi": "10.1093/aepp/ppy023",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "National Trends in Food Insecurity and Congregation-Based Food Provision between 1998 and 2012",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/30977395",
+      "keywords": "Food Security,Congregations,Food-Provision Programs,Vulnerable Populations,CPS-FSS,Analyzed,NonE Tier 2",
+      "doi": "10.1080/03670244.2019.1598979",
+      "journal": "Ecology of food and nutrition",
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1080/03670244.2019.1598979",
+      "authors": [
+        {
+          "first_name": "Karen R.",
+          "last_name": "Fl\u00f3rez",
+          "corresponding": "",
+          "orcid": "['0000-0002-5758-433X']",
+          "current_organization_id": "grid.212340.6",
+          "researcher_id": "ur.01314501572.47",
+          "affiliations": [
+            {
+              "id": "grid.212340.6",
+              "name": "City University of New York",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Brad",
+          "last_name": "Fulton",
+          "corresponding": "",
+          "orcid": "['0000-0001-5082-4022']",
+          "current_organization_id": "grid.411377.7",
+          "researcher_id": "ur.01026221301.86",
+          "affiliations": [
+            {
+              "id": "grid.411377.7",
+              "name": "Indiana University Bloomington",
+              "city": "Bloomington",
+              "city_id": 4254679,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Indiana",
+              "state_code": "US-IN"
+            }
+          ]
+        },
+        {
+          "first_name": "Kathryn P.",
+          "last_name": "Derose",
+          "corresponding": "",
+          "orcid": "['0000-0001-7742-6024']",
+          "current_organization_id": "grid.34474.30",
+          "researcher_id": "ur.01200212747.14",
+          "affiliations": [
+            {
+              "id": "grid.34474.30",
+              "name": "RAND Corporation",
+              "city": "Santa Monica",
+              "city_id": 5393212,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "efforts",
+        "food-insecure households",
+        "study",
+        "households",
+        "findings",
+        "subpopulations",
+        "unmet need",
+        "U.S. Census",
+        "provision",
+        "substitute",
+        "activity",
+        "recommendations",
+        "subgroups",
+        "overall population",
+        "trends",
+        "decades",
+        "need",
+        "federal support",
+        "Nutrition Assistance Program",
+        "survey",
+        "insecurity",
+        "prevalence",
+        "food insecurity prevalence",
+        "national trends",
+        "food provision",
+        "Supplemental Nutrition Assistance Program",
+        "U.S.",
+        "census",
+        "program",
+        "food",
+        "assistance programs",
+        "food insecurity",
+        "extent",
+        "persistent problem",
+        "population",
+        "access",
+        "data",
+        "adequate substitute",
+        "immigrants",
+        "insecure households",
+        "Food Program",
+        "support",
+        "patterns",
+        "control",
+        "objective",
+        "representative survey",
+        "group"
+      ],
+      "journal_title": "Ecology of Food and Nutrition",
+      "title": "National Trends in Food Insecurity and Congregation-Based Food Provision between 1998 and 2012"
+    },
+    "europepmc": {
+      "doi": "10.1080/03670244.2019.1598979",
+      "journal": "Ecol Food Nutr",
+      "url": "http://europepmc.org/abstract/MED/30977395",
+      "title": "national trends in food insecurity and congregation-based food provision between 1998 and 2012"
+    }
+  },
+  {
+    "title": "Situating Food Insecurity in a Historic Albuquerque Community: The Whorled Relationship between Food Insecurity and Place",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": NaN,
+      "keywords": "Food Insecurity,Place,Health,CPS-FSS,Citation,JTier N/A",
+      "doi": NaN,
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Causal inference with latent variables from the Rasch model as outcomes",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1016/j.measurement.2018.01.044",
+      "keywords": "Causal Inference,Food Insecurity,Item Response Theory,Latent Regression,LRasch Model,Selection,SNAP,CPS-FSS,Analyzed,NonE Tier 1",
+      "doi": "10.1016/j.measurement.2018.01.044",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.measurement.2018.01.044",
+      "authors": [
+        {
+          "first_name": "Matthew P.",
+          "last_name": "Rabbitt",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.463419.d",
+          "researcher_id": "ur.014227301303.12",
+          "affiliations": [
+            {
+              "id": "grid.463419.d",
+              "name": "Agricultural Research Service",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "traditional methods",
+        "square",
+        "differential item functioning",
+        "theory model",
+        "inference",
+        "science",
+        "latent variables",
+        "parameters",
+        "binary variables",
+        "model parameters",
+        "empirical example",
+        "article",
+        "latent regression model",
+        "regression models",
+        "regression model parameters",
+        "dependent variable",
+        "response theory models",
+        "selection model",
+        "simulated data",
+        "social sciences",
+        "example",
+        "item functioning",
+        "causal inference",
+        "Rasch model",
+        "usefulness",
+        "regression",
+        "variables",
+        "endogenous binary variable",
+        "latent regression",
+        "stage least squares",
+        "item response theory models",
+        "properties",
+        "data",
+        "explanatory variables",
+        "two-stage least squares",
+        "estimates",
+        "least squares",
+        "model",
+        "simulations",
+        "endogenous explanatory variables",
+        "causal differences"
+      ],
+      "journal_title": "Measurement",
+      "title": "Causal inference with latent variables from the Rasch model as outcomes"
+    }
+  },
+  {
+    "title": "The Effect of Public Transportation Accessibility on Food Insecurity",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1057/eej.2014.62",
+      "keywords": "Food Insecurity,Poverty,Public Transportation,CPS-FSS,Analyzed,Econ Tier 3",
+      "doi": "10.1057/eej.2014.62",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1057/eej.2014.62",
+      "authors": [
+        {
+          "first_name": "Deokrye",
+          "last_name": "Baek",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.268333.f",
+          "researcher_id": "ur.016111363277.86",
+          "affiliations": [
+            {
+              "id": "grid.64337.35",
+              "name": "Louisiana State University",
+              "city": "Baton Rouge",
+              "city_id": 4315588,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Louisiana",
+              "state_code": "US-LA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://bus.lsu.edu/McMillin/Working_Papers/pap13_02.pdf",
+      "keywords": [
+        "evidence",
+        "households",
+        "funding",
+        "percentage points",
+        "African-American households",
+        "instrument",
+        "people",
+        "Current Population Survey Food Security Supplement",
+        "insecurity",
+        "Food Security Supplement",
+        "impact",
+        "poor households",
+        "database",
+        "food insecurity",
+        "access",
+        "data",
+        "supplements",
+        "transit",
+        "American households",
+        "causal effect",
+        "accessibility",
+        "changes"
+      ],
+      "journal_title": "Eastern Economic Journal",
+      "title": "The Effect of Public Transportation Accessibility on Food Insecurity"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The Effect of Public Transportation Accessibility on Food Insecurity",
+      "doi": null,
+      "pdf": "http://bus.lsu.edu/McMillin/Working_Papers/pap13_02.pdf"
+    }
+  },
+  {
+    "title": "Risk for Type 2 Diabetes Among SNAP Participants With Prediabetes",
+    "datasets": [
+      "dataset-049",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.5590/jsbhs.2016.10.1.06",
+      "keywords": "Food Security,Type 2 Diabetes,Coping Strategies,Nutrition,CPS-FSS,Citation,FSSM,JTier N/A",
+      "doi": "10.5590/jsbhs.2016.10.1.06",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Bank Accounts, Nonbank Financial Transaction Products, and Food Insecurity among Households with Children",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1111/joca.12158",
+      "keywords": "Bank Accounts,Nonbank Financial Transaction,Food Insecurity,Unbanked Households,CPS-FSS,Analyzed,Econ Tier 2",
+      "doi": "10.1111/joca.12158",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1111/joca.12158",
+      "authors": [
+        {
+          "first_name": "Katie",
+          "last_name": "Fitzpatrick",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": []
+        }
+      ],
+      "linkout": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/joca.12158",
+      "keywords": [
+        "households",
+        "resources",
+        "multifaceted approach",
+        "ownership",
+        "adequate consumption",
+        "financial resources",
+        "approach",
+        "considerable difficulties",
+        "income households",
+        "consumption",
+        "policy",
+        "children",
+        "adequacy",
+        "Current Population Survey Food Security Supplement",
+        "insecurity",
+        "Food Security Supplement",
+        "account",
+        "moderate-income households",
+        "bank account",
+        "relationship",
+        "food security",
+        "food insecurity",
+        "difficulties",
+        "consumption adequacy",
+        "greater risk",
+        "low food security",
+        "risk",
+        "banking"
+      ],
+      "journal_title": "Journal of Consumer Affairs",
+      "title": "Bank Accounts, Nonbank Financial Transaction Products, and Food Insecurity among Households with Children"
+    }
+  },
+  {
+    "title": "Food Security and Teenage Labor Supply",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/aepp/ppv007",
+      "keywords": "Food Security,Labor Supply,Teenage Employment,Fixed-Effects Model,CPS-FSS,Analyzed,Econ Tier 2",
+      "doi": "10.1093/aepp/ppv007",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    }
+  },
+  {
+    "title": "Changes in Low-Income Households' Spending and Time Use Patterns in Response to the 2013 Sunset of the ARRA-SNAP Benefit",
+    "datasets": [
+      "dataset-026",
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/aepp/ppz007/5489470",
+      "keywords": "American Recovery and Reinvestment Act of 2009,ARRA Expiration,Household Expenditure,Time Use,Poverty,SNAP,American Time Use Survey,CPS-FSS,Analyzed,Econ Tier 2",
+      "doi": "10.1093/aepp/ppz007/5489470",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1093/aepp/ppz007",
+      "authors": [
+        {
+          "first_name": "Jiyoon (June)",
+          "last_name": "Kim",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.255496.9",
+              "name": "Elon University",
+              "city": "Elon",
+              "city_id": 4465285,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Matthew P",
+          "last_name": "Rabbitt",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Economic Research Service, USDA"
+            }
+          ]
+        },
+        {
+          "first_name": "Charlotte",
+          "last_name": "Tuttle",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Economic Research Service, USDA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1093/aepp/ppz007",
+      "keywords": [
+        "response",
+        "households",
+        "SNAP benefits",
+        "patterns",
+        "time use patterns",
+        "use patterns",
+        "changes",
+        "benefits"
+      ],
+      "journal_title": "Applied Economic Perspectives and Policy",
+      "title": "Changes in Low-Income Households' Spending and Time Use Patterns in Response to the 2013 Sunset of the ARRA-SNAP Benefit"
+    }
+  },
+  {
+    "title": "Measuring Food Expenditure Poverty in SNAP Populations: Some Extensions with an Application to the American Recovery and Reinvestment Act",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1093/aepp/ppy004",
+      "keywords": "Supplemental Nutrition Assistance Program,Food Expenditure Poverty,Thrifty Food Plan,CPS-FSS,Analyzed,Econ Tier 2",
+      "doi": "10.1093/aepp/ppy004",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1093/aepp/ppy004",
+      "authors": [
+        {
+          "first_name": "Yanliang",
+          "last_name": "Yang",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Department of Agricultural and Applied Economics, Virginia Tech"
+            }
+          ]
+        },
+        {
+          "first_name": "George C",
+          "last_name": "Davis",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Department of Agricultural and Applied Economics, Virginia Tech"
+            }
+          ]
+        },
+        {
+          "first_name": "Wen",
+          "last_name": "You",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Department of Agricultural and Applied Economics, Virginia Tech"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://academic.oup.com/aepp/article-pdf/41/1/133/27762442/ppy004.pdf",
+      "keywords": [
+        "act",
+        "population"
+      ],
+      "journal_title": "Applied Economic Perspectives and Policy",
+      "title": "Measuring Food Expenditure Poverty in SNAP Populations: Some Extensions with an Application to the American Recovery and Reinvestment Act"
+    }
+  },
+  {
+    "title": "The Differential Incidence and Severity of Food Insecurity by Racial, Ethnic, and Immigrant Groups over the Great Recession in the United States",
+    "datasets": [
+      "dataset-033"
+    ],
+    "original": {
+      "url": "https://www.doi.org/10.1257/pandp.20181106",
+      "keywords": "Food Insecurity,Racial, Ethnic, Immigrant,Great Recession,CPS-FSS,Analyzed,JTier N/A",
+      "doi": "10.1257/pandp.20181106",
+      "journal": NaN,
+      "date_added": "2019-10-10 13:19:04"
+    },
+    "dimensions": {
+      "doi": "10.1257/pandp.20181106",
+      "authors": [
+        {
+          "first_name": "Alfonso",
+          "last_name": "Flores-Lagunes",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.424879.4",
+          "researcher_id": "ur.012503175237.95",
+          "affiliations": [
+            {
+              "id": "grid.424879.4",
+              "name": "Institute for the Study of Labor",
+              "city": "Bonn",
+              "city_id": 2946447,
+              "country": "Germany",
+              "country_code": "DE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Hugo B.",
+          "last_name": "Jales",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Syracuse U"
+            }
+          ]
+        },
+        {
+          "first_name": "Judith",
+          "last_name": "Liu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Syracuse U"
+            }
+          ]
+        },
+        {
+          "first_name": "Norbert L.",
+          "last_name": "Wilson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Tufts U"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.aeaweb.org/articles/pdf/doi/10.1257/pandp.20181106",
+      "keywords": [
+        "intensive margin",
+        "factors",
+        "status",
+        "differences",
+        "race/ethnicity",
+        "decomposition analysis",
+        "immigrant status",
+        "analysis",
+        "Racial",
+        "state",
+        "contribution",
+        "insecurity",
+        "disadvantaged groups",
+        "structural factors",
+        "immigrant groups",
+        "differential incidence",
+        "ethnicity",
+        "recession",
+        "food insecurity",
+        "Great Recession",
+        "patterns",
+        "group",
+        "importance",
+        "United States"
+      ],
+      "journal_title": "AEA Papers and Proceedings",
+      "title": "The Differential Incidence and Severity of Food Insecurity by Racial, Ethnic, and Immigrant Groups over the Great Recession in the United States"
+    }
+  }
+]

@@ -1,0 +1,665 @@
+[
+  {
+    "title": "The Association Between Nutrition Information Use and the Healthfulness of Food Acquisitions",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/webdocs/publications/88531/err-247.pdf?v=0",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=88530",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "America's Eating Habits: Food Away From Home",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf",
+      "doi": "https://www.ers.usda.gov/webdocs/publications/90228/eib-196.pdf",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "Eat at Home or Away from Home? The Role of Grocery and Restaurant Food Sales Taxes",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "Journal of Agricultural and Resource Economics",
+      "url": "https://ageconsearch.umn.edu/record/281315",
+      "doi": "https://ageconsearch.umn.edu/record/281315",
+      "date_added": "2019-10-10 14:55:19"
+    }
+  },
+  {
+    "title": "Food Access, Program Participation, and Health: Research Using FoodAPS",
+    "datasets": [
+      "dataset-025"
+    ],
+    "original": {
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/soej.12343?af=R",
+      "doi": "10.1002/soej.12343",
+      "date_added": "2019-10-10 14:55:19"
+    },
+    "dimensions": {
+      "doi": "10.1002/soej.12343",
+      "authors": [
+        {
+          "first_name": "Marianne P.",
+          "last_name": "Bitler",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.27860.3b",
+          "researcher_id": "ur.01206061205.69",
+          "affiliations": [
+            {
+              "name": "University of California, Davis and National Bureau of Economic Research"
+            }
+          ]
+        },
+        {
+          "first_name": "Christian",
+          "last_name": "Gregory",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Economic Research Service, USDA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "outcomes",
+        "food access",
+        "effects",
+        "health",
+        "Department",
+        "funding",
+        "participation",
+        "National Household Food Acquisition",
+        "survey",
+        "Purchase Survey",
+        "food acquisition",
+        "program",
+        "assistance programs",
+        "FoodAPS",
+        "access",
+        "Household Food Acquisition",
+        "data",
+        "food assistance programs",
+        "services",
+        "program participation"
+      ],
+      "journal_title": "Southern Economic Journal",
+      "title": "Food Access, Program Participation, and Health: Research Using FoodAPS"
+    }
+  },
+  {
+    "title": "Food Environments and Obesity: Household Diet Expenditure Versus Food Deserts.",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "url": "https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2016.303048?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dpubmed&",
+      "journal": "American Journal of Public Health",
+      "doi": "10.2105/AJPH.2016.303048",
+      "date_added": "2019-10-10 12:08:29"
+    },
+    "dimensions": {
+      "doi": "10.2105/ajph.2016.303048",
+      "authors": [
+        {
+          "first_name": "Danhong",
+          "last_name": "Chen",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.263046.5",
+          "researcher_id": "ur.012350715575.76",
+          "affiliations": [
+            {
+              "id": "grid.253547.2",
+              "name": "California Polytechnic State University",
+              "city": "San Luis Obispo",
+              "city_id": 5392323,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Edward C",
+          "last_name": "Jaenicke",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.011655555027.16",
+          "affiliations": [
+            {
+              "id": "grid.253547.2",
+              "name": "California Polytechnic State University",
+              "city": "San Luis Obispo",
+              "city_id": 5392323,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Richard J",
+          "last_name": "Volpe",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.253547.2",
+          "researcher_id": "ur.0771033101.23",
+          "affiliations": [
+            {
+              "id": "grid.253547.2",
+              "name": "California Polytechnic State University",
+              "city": "San Luis Obispo",
+              "city_id": 5392323,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "study",
+        "factors",
+        "US Department",
+        "neighborhood level",
+        "households",
+        "status",
+        "environment factors",
+        "Department",
+        "obesity status",
+        "share",
+        "information",
+        "purchase information",
+        "business patterns",
+        "main source",
+        "indicators",
+        "adherence",
+        "food environment",
+        "home",
+        "environment measures",
+        "values",
+        "Food Plan",
+        "level data",
+        "food deserts",
+        "individual-level data",
+        "categories",
+        "expenditure shares",
+        "levels",
+        "food categories",
+        "food environment measures",
+        "County",
+        "US counties",
+        "plan",
+        "data",
+        "association",
+        "confounders",
+        "level indicators",
+        "patterns",
+        "aspects",
+        "measures",
+        "County Business Patterns",
+        "individuals"
+      ],
+      "journal_title": "American Journal of Public Health",
+      "title": "Food Environments and Obesity: Household Diet Expenditure Versus Food Deserts."
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Food Environments and Obesity: Household Diet Expenditure Versus Food Deserts.",
+      "doi": "10.2105/AJPH.2016.303048",
+      "url": "https://europepmc.org/articles/PMC4985118/"
+    }
+  },
+  {
+    "title": "Is the Focus on Food Deserts Fruitless? Retail Access and Food Purchases Across the Socioeconomic Spectrum",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.nber.org/papers/w21126.pdf",
+      "journal": "NBER Working Paper",
+      "doi": "10.3386/w21126",
+      "date_added": "2019-10-10 12:08:29"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Is the Focus on Food Deserts Fruitless? Retail Access and Food Purchases Across the Socioeconomic Spectrum",
+      "doi": null,
+      "pdf": "http://www.nber.org/papers/w21126.pdf"
+    }
+  },
+  {
+    "title": "Describing U.S. Households' Food Purchasing Patterns across Poverty and Urban Status: The EFSNE project Market Basket",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "url": "https://aese.psu.edu/nercrd/publications/rdp/describing-US-households-food-purchasing-patterns-efsne-market-basket",
+      "journal": "Northeast Regional Center for Rural Development",
+      "doi": "https://aese.psu.edu/nercrd/publications/rdp/describing-US-households-food-purchasing-patterns-efsne-market-basket",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "Documenting the Link Between Poor Food Access and Less Healthy Product Assortment Across the U.S.",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://academic.oup.com/aepp/advance-article/doi/10.1093/aepp/ppy018/5105734",
+      "journal": "Applied Economic Perspectives and Policy",
+      "doi": "10.1093/aepp/ppy018",
+      "date_added": "2019-10-10 12:08:29"
+    },
+    "dimensions": {
+      "doi": "10.1093/aepp/ppy018",
+      "authors": [
+        {
+          "first_name": "Lauren",
+          "last_name": "Chenarides",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.215654.1",
+          "researcher_id": "ur.010470137264.65",
+          "affiliations": [
+            {
+              "id": "grid.215654.1",
+              "name": "Arizona State University",
+              "city": "Tempe",
+              "city_id": 5317058,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Arizona",
+              "state_code": "US-AZ"
+            }
+          ]
+        },
+        {
+          "first_name": "Edward C",
+          "last_name": "Jaenicke",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.29857.31",
+          "researcher_id": "ur.011655555027.16",
+          "affiliations": [
+            {
+              "id": "grid.29857.31",
+              "name": "Pennsylvania State University",
+              "city": "State College",
+              "city_id": 5213681,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://doi.org/10.1093/aepp/ppy018",
+      "keywords": [
+        "outcomes",
+        "underserved communities",
+        "findings",
+        "food access",
+        "poor food access",
+        "food items",
+        "rigorous documentation",
+        "vegetables",
+        "impact",
+        "tract",
+        "items",
+        "significant relationship",
+        "relationship",
+        "access",
+        "data",
+        "underserved areas",
+        "census tracts",
+        "measures",
+        "documentation"
+      ],
+      "journal_title": "Applied Economic Perspectives and Policy",
+      "title": "Documenting the Link Between Poor Food Access and Less Healthy Product Assortment Across the U.S."
+    }
+  },
+  {
+    "title": "Measuring the Impacts of Off-Season Berry Imports",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/45445/54290_err197.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=90354",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "Examining Food Store Scanner Data: A Comparison of the IRI InfoSCan Data with Other Data Sets, 2008-2012",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/90355/tb-1949.pdf?v=1369.6",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=90354",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "How Much Does It Matter How Sick You Get? Consumers' Responses to Foodborne Disease Outbreaks of Different Severities",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/45419/53640_err193.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=45421",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "The Cost of Satisfying Fruit and Vegetable Recommendations in the Dietary Guidelines",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/42902/56772_eb27.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=42904",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "Understanding IRI Household-Based and Store-Based Scanner Data",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/47633/57105_tb-1942.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "http://www.ers.usda.gov/publications/pub-details/?pubid=47636",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "Store Formats and Patterns in Household Grocery Purchases",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/82929/eib-167.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=82928",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "An Assessment of Product Turnover in the U.S. Food Industry and Effects on Nutrient Content",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/85761/eib-183.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=85760",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "Food Purchase Decisions of Millennial Households Compared to Other Generations",
+    "datasets": [
+      "dataset-002"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/86401/eib-186.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=86400",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "A New Approach to Estimate Household Food Demand with Panel Data",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://tandfonline.com/doi/pdf/10.1080/15140326.2018.1526869",
+      "journal": "Journal of Applied Economics",
+      "doi": "10.1080/15140326.2018.1526869",
+      "date_added": "2019-10-10 12:08:29"
+    },
+    "dimensions": {
+      "doi": "10.1080/15140326.2018.1526869",
+      "authors": [
+        {
+          "first_name": "Dong",
+          "last_name": "Diansheng",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "USDA-ERS-FED, Washington, DC, USA, CorrespondenceDDONG@ERS.USDA.GOV, View further author information"
+            }
+          ]
+        },
+        {
+          "first_name": "Stewart",
+          "last_name": "Hayden",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "USDA-ERS-FED, Washington, DC, USA, View further author information"
+            }
+          ]
+        },
+        {
+          "first_name": "McLaughlin",
+          "last_name": "Patrick",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "USDA-ERS-FED, Washington, DC, USA, View further author information"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.tandfonline.com/doi/pdf/10.1080/15140326.2018.1526869?needAccess=true",
+      "keywords": [
+        "estimation",
+        "new approach",
+        "demographic variables",
+        "households",
+        "period",
+        "National Consumer Panel",
+        "purchase occasion",
+        "approach",
+        "quality",
+        "article",
+        "demand estimation",
+        "traditional approaches",
+        "quantity",
+        "unit values",
+        "purchase",
+        "such data",
+        "panel data",
+        "cereal purchases",
+        "values",
+        "methodology",
+        "time period",
+        "consumer panel",
+        "panel",
+        "problem",
+        "demand",
+        "variables",
+        "purchase time",
+        "program",
+        "relationship",
+        "multivariate probability",
+        "probability",
+        "data",
+        "Household food demand",
+        "inter-purchase time",
+        "model",
+        "food demand"
+      ],
+      "journal_title": "Journal of Applied Economics",
+      "title": "A New Approach to Estimate Household Food Demand with Panel Data"
+    }
+  },
+  {
+    "title": "Interstate Variation in WIC Food Package Costs: The Role of Food Prices, Caseload Composition, and Cost-Containment Practices",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/46843/28944_fanrr41.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=46844",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "Infant Formula Prices and Availability: Final Report to Congress",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/43025/35759_efan02001.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=43037",
+      "date_added": "2019-10-10 12:08:29"
+    }
+  },
+  {
+    "title": "WIC and the Retail Price of Infant Formula",
+    "datasets": [
+      "dataset-001"
+    ],
+    "original": {
+      "url": "https://www.ers.usda.gov/webdocs/publications/46787/15976_fanrr39-1_1_.pdf?v=0",
+      "journal": "United States Department of Agriculture, Economic Research Service",
+      "doi": "https://www.ers.usda.gov/publications/pub-details/?pubid=46808",
+      "date_added": "2019-10-10 12:08:29"
+    },
+    "dimensions": {
+      "doi": "10.2139/ssrn.754926",
+      "authors": [
+        {
+          "first_name": "Victor",
+          "last_name": "Oliveira",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.014256601562.35",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        },
+        {
+          "first_name": "Mark",
+          "last_name": "Prell",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        },
+        {
+          "first_name": "David M.",
+          "last_name": "Smallwood",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.015651542562.31",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        },
+        {
+          "first_name": "Elizabeth",
+          "last_name": "Frazao",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.016447123162.18",
+          "affiliations": [
+            {
+              "name": "U.S. Department of Agriculture (USDA) - Economic Research Service (ERS)"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://babel.hathitrust.org/cgi/imgsrv/download/pdf?id=uiug.30112083887916;orient=0;size=100;seq=8;attachment=0",
+      "keywords": [
+        "study",
+        "high percentage",
+        "one-quarter",
+        "infant formula manufacturers",
+        "findings",
+        "modest increase",
+        "participants",
+        "Special Supplemental Nutrition Program",
+        "alternative",
+        "increase",
+        "quarter",
+        "Nutrition Program",
+        "WIC participants",
+        "comprehensive national study",
+        "concern",
+        "percentage",
+        "report",
+        "levels",
+        "infants",
+        "national study",
+        "program",
+        "Supplemental Nutrition Program",
+        "formula manufacturers",
+        "WIC",
+        "supermarket prices",
+        "countries",
+        "support",
+        "number",
+        "women",
+        "infant formula"
+      ],
+      "journal_title": "SSRN Electronic Journal",
+      "title": "WIC and the Retail Price of Infant Formula"
+    }
+  }
+]

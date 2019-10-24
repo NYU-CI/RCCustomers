@@ -1,0 +1,164 @@
+[
+  {
+    "title": "Childhood Adversity and Adult Reports of Food Insecurity Among Households With Children",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26596189",
+      "keywords": "Adult,Adult Survivors of Child Adverse Events,Caregivers,Child,Cross-Sectional Studies,Depression,Family Characteristics,Family Relations,Female,Food Supply,Humans,Infant,Logistic Models,Parents,Surveys and Questionnaires,Urban Population,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.amepre.2015.09.024",
+      "journal": "American journal of preventive medicine",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.amepre.2016.03.001",
+      "linkout": "https://doi.org/10.1016/j.amepre.2016.03.001",
+      "keywords": [
+        "report",
+        "food insecurity",
+        "adult reports",
+        "adversity",
+        "children",
+        "childhood adversity"
+      ],
+      "journal_title": "American Journal of Preventive Medicine",
+      "title": "Childhood Adversity and Adult Reports of Food Insecurity Among Households With Children"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.amepre.2015.09.024",
+      "journal": "Am J Prev Med",
+      "url": "http://europepmc.org/abstract/MED/26596189",
+      "title": "childhood adversity and adult reports of food insecurity among households with children"
+    }
+  },
+  {
+    "title": "Assessing the cross-sectional and inter-temporal validity of the Household Food Insecurity Access Scale (HFIAS) in Burundi",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26416289",
+      "keywords": "Adult,Aged,Agriculture,Burundi,Cross-Sectional Studies,Family Characteristics,Food Supply,Humans,Longitudinal Studies,Middle Aged,Nutrition Assessment,Reproducibility of Results,Surveys and Questionnaires,FSSM,NonE Tier 1",
+      "doi": "10.1017/S1368980015000403",
+      "journal": "Public health nutrition",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "authors": [
+        {
+          "first_name": "Sam",
+          "last_name": "Desiere",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.5342.0",
+          "researcher_id": "ur.0634003721.04",
+          "affiliations": [
+            {
+              "id": "grid.5342.0",
+              "name": "Ghent University",
+              "city": "Ghent",
+              "city_id": 2797656,
+              "country": "Belgium",
+              "country_code": "BE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Marijke",
+          "last_name": "D\u2019Haese",
+          "corresponding": "",
+          "orcid": "['0000-0002-0544-3420']",
+          "current_organization_id": "grid.5342.0",
+          "researcher_id": "ur.0754263312.53",
+          "affiliations": [
+            {
+              "id": "grid.5342.0",
+              "name": "Ghent University",
+              "city": "Ghent",
+              "city_id": 2797656,
+              "country": "Belgium",
+              "country_code": "BE",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        },
+        {
+          "first_name": "Sanctus",
+          "last_name": "Niragira",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.7749.d",
+          "researcher_id": "ur.01175046221.54",
+          "affiliations": [
+            {
+              "id": "grid.5342.0",
+              "name": "Ghent University",
+              "city": "Ghent",
+              "city_id": 2797656,
+              "country": "Belgium",
+              "country_code": "BE",
+              "state": null,
+              "state_code": null
+            },
+            {
+              "id": "grid.7749.d",
+              "name": "Universite Du Burundi",
+              "city": "Bujumbura",
+              "city_id": 425378,
+              "country": "Burundi",
+              "country_code": "BI",
+              "state": null,
+              "state_code": null
+            }
+          ]
+        }
+      ],
+      "doi": "10.1017/s1368980015000403",
+      "linkout": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9F5252F50D720F22BA707DD5EE97BC27/S1368980015000403a.pdf/div-class-title-assessing-the-cross-sectional-and-inter-temporal-validity-of-the-household-food-insecurity-access-scale-hfias-in-burundi-div.pdf",
+      "keywords": [
+        "Ngozi",
+        "evidence",
+        "Burundi",
+        "trends",
+        "same period",
+        "survey",
+        "north",
+        "measures",
+        "indicators",
+        "Longitudinal Survey",
+        "household head",
+        "households",
+        "keeping",
+        "food security status",
+        "coffee production",
+        "Household Food Insecurity Access Scale",
+        "period",
+        "status",
+        "livestock keeping",
+        "questions",
+        "shift",
+        "interviewer",
+        "study",
+        "food security",
+        "findings",
+        "Tobit model",
+        "single indicator",
+        "security",
+        "security status",
+        "rural households",
+        "food production",
+        "terms",
+        "agricultural production",
+        "peers",
+        "Access Scale",
+        "finding questions"
+      ],
+      "journal_title": "Public Health Nutrition",
+      "title": "Assessing the cross-sectional and inter-temporal validity of the Household Food Insecurity Access Scale (HFIAS) in Burundi"
+    }
+  }
+]

@@ -1,0 +1,12 @@
+children:
+  - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#Dataset"
+datasets:
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#Dataset"
+    label: "Datasets"
+    children:
+      - "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-001"
+  - url: "https://github.com/Coleridge-Initiative/adrf-onto/wiki/Vocabulary#dataset-001"
+    label: "A bloody good dataset"
+    snippets:
+      Load in Pandas: "import pandas as pd; ..."
+  

@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Childhood Adversity and Adult Reports of Food Insecurity Among Households With Children",
+    "datasets": [
+      "dataset-049"
+    ],
+    "original": {
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/26596189",
+      "keywords": "Adult,Adult Survivors of Child Adverse Events,Caregivers,Child,Cross-Sectional Studies,Depression,Family Characteristics,Family Relations,Female,Food Supply,Humans,Infant,Logistic Models,Parents,Surveys and Questionnaires,Urban Population,Young Adult,FSSM,NonE Tier 1",
+      "doi": "10.1016/j.amepre.2015.09.024",
+      "journal": "American journal of preventive medicine",
+      "date_added": "2019-10-10 13:19:05"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.amepre.2016.03.001",
+      "linkout": "https://doi.org/10.1016/j.amepre.2016.03.001",
+      "keywords": [
+        "report",
+        "food insecurity",
+        "adult reports",
+        "adversity",
+        "children",
+        "childhood adversity"
+      ],
+      "journal_title": "American Journal of Preventive Medicine",
+      "title": "Childhood Adversity and Adult Reports of Food Insecurity Among Households With Children"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.amepre.2015.09.024",
+      "journal": "Am J Prev Med",
+      "url": "http://europepmc.org/abstract/MED/26596189",
+      "title": "childhood adversity and adult reports of food insecurity among households with children"
+    }
+  }
+]

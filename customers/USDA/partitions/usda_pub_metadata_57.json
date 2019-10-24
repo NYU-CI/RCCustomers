@@ -1,0 +1,3099 @@
+[
+  {
+    "title": "Components Associated With Home Visiting Program Outcomes: A Meta-analysis",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1542/peds.2013-1021h",
+      "url": "www.doi.org/10.1542/peds.2013-1021h",
+      "journal ": "Pediatrics",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1542/peds.2013-1021h",
+      "authors": [
+        {
+          "first_name": "Jill H.",
+          "last_name": "Filene",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.420515.7",
+          "researcher_id": "ur.011731012343.88",
+          "affiliations": [
+            {
+              "id": "grid.420515.7",
+              "name": "James Bell Associates (United States)",
+              "city": "Arlington",
+              "city_id": 4744709,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Virginia",
+              "state_code": "US-VA"
+            }
+          ]
+        },
+        {
+          "first_name": "Jennifer W.",
+          "last_name": "Kaminski",
+          "corresponding": "",
+          "orcid": "['0000-0001-7940-4734']",
+          "current_organization_id": "grid.453445.7",
+          "researcher_id": "ur.01071206725.44",
+          "affiliations": [
+            {
+              "id": "grid.416738.f",
+              "name": "Centers for Disease Control and Prevention",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Linda Anne",
+          "last_name": "Valle",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.453275.2",
+          "researcher_id": "ur.01337035163.77",
+          "affiliations": [
+            {
+              "id": "grid.416738.f",
+              "name": "Centers for Disease Control and Prevention",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Patrice",
+          "last_name": "Cachat",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.420515.7",
+              "name": "James Bell Associates (United States)",
+              "city": "Arlington",
+              "city_id": 4744709,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Virginia",
+              "state_code": "US-VA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://pediatrics.aappublications.org/content/132/Supplement_2/S100.full.pdf",
+      "keywords": [
+        "wide variability",
+        "outcomes",
+        "study",
+        "MEDLINE",
+        "evidence",
+        "evaluation",
+        "effects",
+        "review",
+        "inconsistent results",
+        "PsycINFO searches",
+        "overall effect",
+        "visiting",
+        "heterogeneity",
+        "Components Associated",
+        "important public health outcomes",
+        "program characteristics",
+        "individual evaluation",
+        "strong evidence",
+        "health outcomes",
+        "home",
+        "consistent pattern",
+        "search",
+        "domain-specific effects",
+        "outcome domains",
+        "home visiting",
+        "impact",
+        "single effect size",
+        "regression",
+        "effect size",
+        "specific effects",
+        "program",
+        "effectiveness",
+        "effective components",
+        "research design",
+        "delivery",
+        "Associated",
+        "program outcomes",
+        "mean effect size",
+        "linear regression",
+        "alternative strategies",
+        "strategies",
+        "meta-analysis",
+        "service delivery",
+        "patterns",
+        "program content",
+        "systematic review",
+        "specific approach",
+        "public health outcomes",
+        "significant overall effect",
+        "United States"
+      ],
+      "journal_title": "Pediatrics",
+      "title": "Components Associated With Home Visiting Program Outcomes: A Meta-analysis"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Components Associated With Home Visiting Program Outcomes: A Meta-analysis",
+      "doi": "10.1542/peds.2013-1021H",
+      "url": "https://europepmc.org/articles/PMC4503253/"
+    }
+  },
+  {
+    "title": "The impact of long-term participation in the supplemental nutrition assistance program on child obesity",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1002/hec.1714",
+      "url": "www.doi.org/10.1002/hec.1714",
+      "journal ": "Health Economics",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1002/hec.1714",
+      "authors": [
+        {
+          "first_name": "Maximilian D.",
+          "last_name": "Schmeiser",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.467171.2",
+          "researcher_id": "ur.01117663763.88",
+          "affiliations": [
+            {
+              "id": "grid.431393.f",
+              "name": "Federal Reserve Board of Governors",
+              "city": "Washington D.C.",
+              "city_id": 4140963,
+              "country": "United States",
+              "country_code": "US",
+              "state": "District of Columbia",
+              "state_code": "US-DC"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "young adult data",
+        "outcomes",
+        "study",
+        "effects",
+        "index percentile",
+        "mixed results",
+        "adult data",
+        "percentile",
+        "participation",
+        "child obesity",
+        "body",
+        "Nutrition Assistance Program",
+        "children",
+        "body mass index percentile",
+        "survey",
+        "BMI percentile",
+        "effects of participation",
+        "impact",
+        "little effect",
+        "adult men",
+        "SNAP participation",
+        "significant effect",
+        "persons",
+        "Supplemental Nutrition Assistance Program",
+        "National Longitudinal Survey",
+        "program",
+        "assistance programs",
+        "obesity",
+        "girls",
+        "data",
+        "Youth 1979 Child",
+        "boys",
+        "men",
+        "Americans",
+        "strategies",
+        "long\u2010term participation",
+        "women",
+        "Longitudinal Survey",
+        "significant body",
+        "adult women"
+      ],
+      "journal_title": "Health Economics",
+      "title": "The impact of long-term participation in the supplemental nutrition assistance program on child obesity"
+    },
+    "europepmc": {
+      "doi": "10.1002/hec.1714",
+      "journal": "Health Econ",
+      "url": "http://europepmc.org/abstract/MED/21305645",
+      "title": "the impact of long-term participation in the supplemental nutrition assistance program on child obesity"
+    }
+  },
+  {
+    "title": "Parent Involvement in the Getting Ready for School Intervention Is Associated With Changes in School Readiness Skills",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.3389/fpsyg.2018.00759",
+      "url": "www.doi.org/10.3389/fpsyg.2018.00759",
+      "journal ": "Frontiers in Psychology",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.3389/fpsyg.2018.00759",
+      "authors": [
+        {
+          "first_name": "Maria",
+          "last_name": "Marti",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.012337470625.23",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Emily C.",
+          "last_name": "Merz",
+          "corresponding": "",
+          "orcid": "['0000-0003-1950-2345']",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.01101201552.40",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Kelsey R.",
+          "last_name": "Repka",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Cassie",
+          "last_name": "Landers",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.012623425114.47",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Kimberly G.",
+          "last_name": "Noble",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.01316306613.55",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        },
+        {
+          "first_name": "Helena",
+          "last_name": "Duch",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21729.3f",
+          "researcher_id": "ur.01111210505.50",
+          "affiliations": [
+            {
+              "id": "grid.21729.3f",
+              "name": "Columbia University",
+              "city": "New York",
+              "city_id": 5128581,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New York",
+              "state_code": "US-NY"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.frontiersin.org/articles/10.3389/fpsyg.2018.00759/pdf",
+      "keywords": [
+        "early intervention",
+        "disadvantaged families",
+        "preschoolers",
+        "study",
+        "comprehensive early intervention",
+        "findings",
+        "skills",
+        "status",
+        "early literacy",
+        "children's school readiness skills",
+        "participants",
+        "parent-child activities",
+        "attendance",
+        "usage",
+        "activity",
+        "involvement index",
+        "children\u2019s early literacy",
+        "school readiness skills",
+        "academic year 2014",
+        "socioeconomic status",
+        "readiness",
+        "video",
+        "tendency",
+        "involvement",
+        "literacy",
+        "role",
+        "year 2014",
+        "school interventions",
+        "children",
+        "readiness skills",
+        "home",
+        "Head Start",
+        "schools",
+        "implementation",
+        "family",
+        "greater parent involvement",
+        "school readiness",
+        "school component",
+        "school readiness intervention",
+        "math",
+        "start",
+        "readiness intervention",
+        "Ready",
+        "program materials",
+        "program",
+        "preschool children",
+        "greater gains",
+        "set of videos",
+        "GRS activities",
+        "children's activities",
+        "parents",
+        "higher socioeconomic status",
+        "association",
+        "family characteristics",
+        "gain",
+        "regulatory skills",
+        "novel program",
+        "parent involvement",
+        "intervention",
+        "self-regulatory skills",
+        "changes"
+      ],
+      "journal_title": "Frontiers in Psychology",
+      "title": "Parent Involvement in the Getting Ready for School Intervention Is Associated With Changes in School Readiness Skills"
+    },
+    "openaire": {
+      "journal": "Frontiers in Psychology",
+      "title": "Parent Involvement in the Getting Ready for School Intervention Is Associated With Changes in School Readiness Skills",
+      "doi": "10.3389/fpsyg.2018.00759",
+      "url": "http://europepmc.org/articles/PMC5991166"
+    }
+  },
+  {
+    "title": "Is Maternal Food Security a Predictor of Food and Drink Intake Among Toddlers in Oregon?",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1007/s10995-012-1094-8",
+      "url": "www.doi.org/10.1007/s10995-012-1094-8",
+      "journal ": "Maternal and Child Health Journal",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1007/s10995-012-1094-8",
+      "authors": [
+        {
+          "first_name": "Timothy J.",
+          "last_name": "Cunningham",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.01052335500.86",
+          "affiliations": [
+            {
+              "id": "grid.416738.f",
+              "name": "Centers for Disease Control and Prevention",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Danielle T.",
+          "last_name": "Barradas",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.490708.2",
+          "researcher_id": "ur.0771036243.98",
+          "affiliations": [
+            {
+              "id": "grid.416781.d",
+              "name": "National Center for Chronic Disease Prevention and Health Promotion",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Kenneth D.",
+          "last_name": "Rosenberg",
+          "corresponding": "",
+          "orcid": "['0000-0002-6533-1236']",
+          "current_organization_id": "grid.5288.7",
+          "researcher_id": "ur.0750753701.29",
+          "affiliations": [
+            {
+              "name": "Office of Family Health, Oregon Public Health Division, Portland, OR, USA"
+            }
+          ]
+        },
+        {
+          "first_name": "Ashleigh L.",
+          "last_name": "May",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416738.f",
+          "researcher_id": "ur.01012435316.21",
+          "affiliations": [
+            {
+              "id": "grid.416781.d",
+              "name": "National Center for Chronic Disease Prevention and Health Promotion",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Charlan D.",
+          "last_name": "Kroelinger",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.01222653177.65",
+          "affiliations": [
+            {
+              "id": "grid.416781.d",
+              "name": "National Center for Chronic Disease Prevention and Health Promotion",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        },
+        {
+          "first_name": "Indu B.",
+          "last_name": "Ahluwalia",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.416781.d",
+          "researcher_id": "ur.0665505303.91",
+          "affiliations": [
+            {
+              "id": "grid.416781.d",
+              "name": "National Center for Chronic Disease Prevention and Health Promotion",
+              "city": "Atlanta",
+              "city_id": 4180439,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Georgia",
+              "state_code": "US-GA"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4538934?pdf=render",
+      "keywords": [
+        "milk",
+        "study",
+        "logistic regression",
+        "intake",
+        "certain foods",
+        "old children",
+        "mothers' reports",
+        "effects",
+        "drinks",
+        "health",
+        "weekly intake",
+        "food insecure mothers",
+        "fruit juices",
+        "mothers",
+        "secure mothers",
+        "polytomous logistic regression",
+        "candy",
+        "fast food",
+        "Oregon Pregnancy Risk Assessment Monitoring System",
+        "independent association",
+        "consumption",
+        "children",
+        "food secure mothers",
+        "juice",
+        "toddlers",
+        "lack of money",
+        "Maternal food insecurity",
+        "survey",
+        "lack",
+        "drink intake",
+        "insecure mothers",
+        "fruit drinks",
+        "Predictors of food",
+        "prevalence",
+        "poor health",
+        "vegetables",
+        "food insecurity prevalence",
+        "more soda",
+        "report",
+        "regression",
+        "food",
+        "food insecurity",
+        "soda",
+        "population",
+        "weeks",
+        "intake of vegetables",
+        "data",
+        "behavioral health",
+        "children's food",
+        "predictors",
+        "association",
+        "days/week",
+        "days",
+        "sports drinks",
+        "more days",
+        "detrimental effects",
+        "Pregnancy Risk Assessment Monitoring System"
+      ],
+      "journal_title": "Maternal and Child Health Journal",
+      "title": "Is Maternal Food Security a Predictor of Food and Drink Intake Among Toddlers in Oregon?"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Is Maternal Food Security a Predictor of Food and Drink Intake Among Toddlers in Oregon?",
+      "doi": "10.1007/s10995-012-1094-8",
+      "url": "https://europepmc.org/articles/PMC4538934/"
+    }
+  },
+  {
+    "title": "An Argument Against Drug Testing Welfare Recipients",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1353/ken.2018.0019",
+      "url": "www.doi.org/10.1353/ken.2018.0019",
+      "journal ": "Kennedy Institute of Ethics Journal",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1353/ken.2018.0019",
+      "authors": [
+        {
+          "first_name": "Mary Jean",
+          "last_name": "Walker",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "Mary Jean Walker, PhD, has research interests in bioethics, personal and narrative identity, and health policy. She has worked on ethical and epistemic issues related to advanced medical devices, overdiagnosis, the epistemology of surgery, regulation of therapeutic goods, responsible research and innovation, and drug policy. Her doctorate examined psychological continuity and narrative theories of personal identity."
+            }
+          ]
+        },
+        {
+          "first_name": "James",
+          "last_name": "Franklin",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.1005.4",
+              "name": "UNSW Sydney",
+              "city": "Sydney",
+              "city_id": 2147714,
+              "country": "Australia",
+              "country_code": "AU",
+              "state": "New South Wales",
+              "state_code": "AU-NSW"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "harm",
+        "recipients",
+        "findings",
+        "drugs",
+        "alternative",
+        "testing",
+        "recreational drug users",
+        "dependent users",
+        "US states",
+        "people",
+        "purpose",
+        "such programs",
+        "light of costs",
+        "program",
+        "aim",
+        "feasible alternative",
+        "referral",
+        "treatment",
+        "ethical acceptability",
+        "acceptability",
+        "drug users",
+        "drug testing",
+        "practice"
+      ],
+      "journal_title": "Kennedy Institute of Ethics Journal",
+      "title": "An Argument Against Drug Testing Welfare Recipients"
+    },
+    "europepmc": {
+      "doi": "10.1353/ken.2018.0019",
+      "journal": "Kennedy Inst Ethics J",
+      "url": "http://europepmc.org/abstract/MED/30369508",
+      "title": "an argument against drug testing welfare recipients"
+    }
+  },
+  {
+    "title": "Moving Beyond Program to Population Impact: Toward a Universal Early Childhood System of Care",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1111/jftr.12302",
+      "url": "www.doi.org/10.1111/jftr.12302",
+      "journal ": "Journal of Family Theory & Review",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1111/jftr.12302",
+      "authors": [
+        {
+          "first_name": "W. Benjamin",
+          "last_name": "Goodman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.26009.3d",
+          "researcher_id": "ur.012420124055.79",
+          "affiliations": [
+            {
+              "id": "grid.26009.3d",
+              "name": "Duke University",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Karen",
+          "last_name": "O'Donnell",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.26009.3d",
+          "researcher_id": "ur.0575754333.25",
+          "affiliations": [
+            {
+              "id": "grid.26009.3d",
+              "name": "Duke University",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Robert A.",
+          "last_name": "Murphy",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.489979.2",
+          "researcher_id": "ur.0712663505.31",
+          "affiliations": [
+            {
+              "id": "grid.26009.3d",
+              "name": "Duke University",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        },
+        {
+          "first_name": "Kenneth A.",
+          "last_name": "Dodge",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.26009.3d",
+          "researcher_id": "ur.01154225017.08",
+          "affiliations": [
+            {
+              "id": "grid.26009.3d",
+              "name": "Duke University",
+              "city": "Durham",
+              "city_id": 4464368,
+              "country": "United States",
+              "country_code": "US",
+              "state": "North Carolina",
+              "state_code": "US-NC"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jftr.12302",
+      "keywords": [
+        "care",
+        "evidence",
+        "health",
+        "quality",
+        "funding",
+        "need",
+        "children",
+        "federal funding",
+        "availability of evidence",
+        "home",
+        "broad reach",
+        "being",
+        "family",
+        "support alignment",
+        "childhood",
+        "early childhood systems",
+        "being of infants",
+        "impact",
+        "entry",
+        "current article",
+        "population-level impact",
+        "infants",
+        "program",
+        "systems of care",
+        "newborn home",
+        "young children",
+        "early childhood",
+        "parents",
+        "services",
+        "intervention",
+        "individual programs",
+        "level impacts",
+        "population impact"
+      ],
+      "journal_title": "Journal of Family Theory & Review",
+      "title": "Moving Beyond Program to Population Impact: Toward a Universal Early Childhood System of Care"
+    },
+    "europepmc": {
+      "doi": "10.1111/jftr.12302",
+      "journal": "J Fam Theory Rev",
+      "url": "http://europepmc.org/abstract/MED/30923572",
+      "title": "moving beyond program to population impact: toward a universal early childhood system of care"
+    },
+    "openaire": {
+      "journal": "The Canadian Journal of Infectious Diseases & Medical Microbiology",
+      "title": "Moving Beyond Program to Population Impact: Toward a Universal Early Childhood System of Care",
+      "doi": null,
+      "url": "http://europepmc.org/articles/PMC4427862"
+    }
+  },
+  {
+    "title": "The interrelationships among pain interference, depressive symptoms, loneliness, and employment status: a moderated mediation study",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1177/0269215518758483",
+      "url": "www.doi.org/10.1177/0269215518758483",
+      "journal ": "Clinical Rehabilitation",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1177/0269215518758483",
+      "authors": [
+        {
+          "first_name": "George CT",
+          "last_name": "Mugoya",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411015.0",
+          "researcher_id": "ur.01260461734.66",
+          "affiliations": [
+            {
+              "id": "grid.411015.0",
+              "name": "University of Alabama, Tuscaloosa",
+              "city": "Tuscaloosa",
+              "city_id": 4094455,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Lisa M",
+          "last_name": "Hooper",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266623.5",
+          "researcher_id": "ur.0740736210.78",
+          "affiliations": [
+            {
+              "id": "grid.266623.5",
+              "name": "University of Louisville",
+              "city": "Louisville",
+              "city_id": 4299276,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Kentucky",
+              "state_code": "US-KY"
+            }
+          ]
+        },
+        {
+          "first_name": "Sara",
+          "last_name": "Tomek",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411015.0",
+          "researcher_id": "ur.01323656761.15",
+          "affiliations": [
+            {
+              "id": "grid.411015.0",
+              "name": "University of Alabama, Tuscaloosa",
+              "city": "Tuscaloosa",
+              "city_id": 4094455,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Safiya George",
+          "last_name": "Dalmida",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411015.0",
+          "researcher_id": "ur.01125473341.47",
+          "affiliations": [
+            {
+              "id": "grid.411015.0",
+              "name": "University of Alabama, Tuscaloosa",
+              "city": "Tuscaloosa",
+              "city_id": 4094455,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Anneliese",
+          "last_name": "Bolland",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411015.0",
+          "researcher_id": "ur.016515142501.47",
+          "affiliations": [
+            {
+              "id": "grid.411015.0",
+              "name": "University of Alabama, Tuscaloosa",
+              "city": "Tuscaloosa",
+              "city_id": 4094455,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "Joy",
+          "last_name": "Ufomadu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.265892.2",
+          "researcher_id": "ur.010743532220.59",
+          "affiliations": [
+            {
+              "id": "grid.411015.0",
+              "name": "University of Alabama, Tuscaloosa",
+              "city": "Tuscaloosa",
+              "city_id": 4094455,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        },
+        {
+          "first_name": "John",
+          "last_name": "Bolland",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.411015.0",
+          "researcher_id": "ur.0631554013.00",
+          "affiliations": [
+            {
+              "id": "grid.411015.0",
+              "name": "University of Alabama, Tuscaloosa",
+              "city": "Tuscaloosa",
+              "city_id": 4094455,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Alabama",
+              "state_code": "US-AL"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://journals.sagepub.com/doi/pdf/10.1177/0269215518758483",
+      "keywords": [
+        "loneliness",
+        "impoverished conditions",
+        "study",
+        "factors",
+        "mean loneliness scores",
+        "important link",
+        "females",
+        "loneliness scores",
+        "mean depressive symptom scores",
+        "status",
+        "effects",
+        "participants",
+        "important factor",
+        "mediation",
+        "depressive symptom scores",
+        "symptom scores",
+        "function",
+        "indirect effects",
+        "depressive symptoms",
+        "scores",
+        "mechanism",
+        "total",
+        "path-analytic approach",
+        "half",
+        "symptoms",
+        "comorbid depressive symptoms",
+        "samples",
+        "pain interference",
+        "cross-sectional study",
+        "relationship",
+        "age",
+        "years",
+        "mediation studies",
+        "mean age",
+        "employment status",
+        "mediation analysis",
+        "adolescents",
+        "caregivers",
+        "adult caregivers",
+        "sectional study",
+        "individuals",
+        "pain"
+      ],
+      "journal_title": "Clinical Rehabilitation",
+      "title": "The interrelationships among pain interference, depressive symptoms, loneliness, and employment status: a moderated mediation study"
+    },
+    "europepmc": {
+      "doi": "10.1177/0269215518758483",
+      "journal": "Clin Rehabil",
+      "url": "http://europepmc.org/abstract/MED/29457478",
+      "title": "the interrelationships among pain interference, depressive symptoms, loneliness, and employment status: a moderated mediation study"
+    }
+  },
+  {
+    "title": "The relationship between food parenting practices, parental diet and their adolescents' diet",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.appet.2019.01.008",
+      "url": "www.doi.org/10.1016/j.appet.2019.01.008",
+      "journal ": "Appetite",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.appet.2019.01.008",
+      "authors": [
+        {
+          "first_name": "Sasha A.",
+          "last_name": "Fleary",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.429997.8",
+          "researcher_id": "ur.01055451705.49",
+          "affiliations": [
+            {
+              "id": "grid.429997.8",
+              "name": "Tufts University",
+              "city": "Medford",
+              "city_id": 4943629,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Reynolette",
+          "last_name": "Ettienne",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.215352.2",
+          "researcher_id": "ur.01210652004.02",
+          "affiliations": [
+            {
+              "name": "The University of Texas, San Antonio, USA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "general U.S.",
+        "parent practices",
+        "implications",
+        "parental modeling",
+        "study",
+        "diet",
+        "general linear model",
+        "adolescents' dietary behaviors",
+        "FV",
+        "effects",
+        "FV consumption",
+        "health",
+        "SSB",
+        "outcome measures",
+        "food parenting practices",
+        "activity",
+        "family life",
+        "junk food",
+        "parental diet",
+        "decision-making",
+        "making",
+        "parenting practices",
+        "adolescent decision-making",
+        "dependent variable",
+        "dietary practices",
+        "vegetables",
+        "SSB consumption",
+        "exposure",
+        "eating",
+        "adolescence",
+        "variables",
+        "perception",
+        "beverages",
+        "food",
+        "dietary behaviors",
+        "relationship",
+        "SSBs",
+        "population",
+        "life",
+        "conclusion",
+        "data",
+        "parents",
+        "main outcome measures",
+        "adolescents",
+        "adolescents' perceptions",
+        "test",
+        "parents' diet",
+        "measures",
+        "practice"
+      ],
+      "journal_title": "Appetite",
+      "title": "The relationship between food parenting practices, parental diet and their adolescents' diet"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.appet.2019.01.008",
+      "journal": "Appetite",
+      "url": "http://europepmc.org/abstract/MED/30639293",
+      "title": "the relationship between food parenting practices, parental diet and their adolescents' diet"
+    }
+  },
+  {
+    "title": "Improving Social Determinants of Health Effectiveness of a Web-Based Intervention",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.amepre.2015.04.023",
+      "url": "www.doi.org/10.1016/j.amepre.2015.04.023",
+      "journal ": "American Journal of Preventive Medicine",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.amepre.2015.04.023",
+      "authors": [
+        {
+          "first_name": "Areej",
+          "last_name": "Hassan",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.0746004634.19",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Emily A.",
+          "last_name": "Scherer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.254880.3",
+          "researcher_id": "ur.0773744363.93",
+          "affiliations": [
+            {
+              "id": "grid.254880.3",
+              "name": "Dartmouth College",
+              "city": "Hanover",
+              "city_id": 5087168,
+              "country": "United States",
+              "country_code": "US",
+              "state": "New Hampshire",
+              "state_code": "US-NH"
+            }
+          ]
+        },
+        {
+          "first_name": "Aaron",
+          "last_name": "Pikcilingis",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.01105422031.09",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Emily",
+          "last_name": "Krull",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.01037306631.83",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "LaQuita",
+          "last_name": "McNickles",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.0764407347.35",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Glenn",
+          "last_name": "Marmon",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.01032522547.15",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Elizabeth R.",
+          "last_name": "Woods",
+          "corresponding": "",
+          "orcid": "['0000-0003-2835-5535']",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.01220032074.15",
+          "affiliations": [
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Eric W.",
+          "last_name": "Fleegler",
+          "corresponding": "",
+          "orcid": "['0000-0002-3563-6258']",
+          "current_organization_id": "grid.2515.3",
+          "researcher_id": "ur.01045415620.32",
+          "affiliations": [
+            {
+              "id": "grid.38142.3c",
+              "name": "Harvard University",
+              "city": "Cambridge",
+              "city_id": 4931972,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            },
+            {
+              "id": "grid.2515.3",
+              "name": "Boston Children's Hospital",
+              "city": "Boston",
+              "city_id": 4930956,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "service agencies",
+        "outcomes",
+        "screening",
+        "study",
+        "percent",
+        "referral system",
+        "social determinants",
+        "fitness",
+        "call 1",
+        "majority",
+        "health",
+        "participants",
+        "outcome measures",
+        "young adult clinic",
+        "adult clinic",
+        "priority",
+        "self",
+        "health outcomes",
+        "measures",
+        "intervention studies",
+        "majority of youth",
+        "determinants",
+        "total",
+        "follow-up analysis",
+        "months",
+        "prevalence",
+        "follow-up",
+        "up",
+        "concern",
+        "nutrition",
+        "negative health outcomes",
+        "patients",
+        "half",
+        "prospective intervention study",
+        "frequent domain",
+        "barriers",
+        "health effectiveness",
+        "effectiveness",
+        "years",
+        "food insecurity",
+        "up analysis",
+        "access",
+        "screen participants",
+        "frequency",
+        "further research",
+        "clinic",
+        "local health",
+        "priority problems",
+        "services",
+        "social domains",
+        "youth",
+        "referral agencies",
+        "intervention",
+        "risk",
+        "percent of youth"
+      ],
+      "journal_title": "American Journal of Preventive Medicine",
+      "title": "Improving Social Determinants of Health Effectiveness of a Web-Based Intervention"
+    }
+  },
+  {
+    "title": "Race, Depression, and Financial Distress in a Nationally Representative Sample of American Adults",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.3390/brainsci9020029",
+      "url": "www.doi.org/10.3390/brainsci9020029",
+      "journal ": "Brain Sciences",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.3390/brainsci9020029",
+      "authors": [
+        {
+          "first_name": "Shervin",
+          "last_name": "Assari",
+          "corresponding": "",
+          "orcid": "['0000-0002-5054-6250']",
+          "current_organization_id": "grid.214458.e",
+          "researcher_id": "ur.0676753051.13",
+          "affiliations": [
+            {
+              "id": "grid.254041.6",
+              "name": "Charles R. Drew University of Medicine and Science",
+              "city": "Los Angeles",
+              "city_id": 5368361,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            },
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            },
+            {
+              "id": "grid.19006.3e",
+              "name": "University of California Los Angeles",
+              "city": "Los Angeles",
+              "city_id": 5368361,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.mdpi.com/2076-3425/9/2/29/pdf",
+      "keywords": [
+        "link",
+        "financial needs",
+        "race",
+        "odds",
+        "episodes",
+        "Americans",
+        "American adults",
+        "need",
+        "survey",
+        "African Americans",
+        "position",
+        "whites"
+      ],
+      "journal_title": "Brain Sciences",
+      "title": "Race, Depression, and Financial Distress in a Nationally Representative Sample of American Adults"
+    },
+    "openaire": {
+      "journal": "Brain Sciences",
+      "title": "Race, Depression, and Financial Distress in a Nationally Representative Sample of American Adults",
+      "doi": "10.3390/brainsci9020029",
+      "url": "http://europepmc.org/articles/PMC6406793"
+    }
+  },
+  {
+    "title": "Policy Impact of Research Findings on the Association of Diaper Need and Mental Health",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.whi.2017.09.003",
+      "url": "www.doi.org/10.1016/j.whi.2017.09.003",
+      "journal ": "Women's Health Issues",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.whi.2017.09.003",
+      "authors": [
+        {
+          "first_name": "Lori R.",
+          "last_name": "Wallace",
+          "corresponding": true,
+          "orcid": "['0000-0002-1717-9268']",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.012066274453.35",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Alison M.",
+          "last_name": "Weir",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.01076300030.07",
+          "affiliations": [
+            {
+              "name": "National Diaper Bank Network, New Haven, Connecticut"
+            }
+          ]
+        },
+        {
+          "first_name": "Megan V.",
+          "last_name": "Smith",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.0713623110.05",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "efforts",
+        "stressors",
+        "findings",
+        "advocacy efforts",
+        "reproductive age",
+        "additional stressors",
+        "public health promotion efforts",
+        "policy impact",
+        "health",
+        "diapers",
+        "activity",
+        "policy activity",
+        "article",
+        "mental health",
+        "federal level",
+        "analysis",
+        "outreach",
+        "MotherS (MOMS) Partnership",
+        "maternal mental illness",
+        "need",
+        "policy",
+        "children",
+        "state",
+        "illness",
+        "mental illness",
+        "health outreach",
+        "health promotion efforts",
+        "mental health outreach",
+        "impact",
+        "stakeholders",
+        "significant public health problem",
+        "journal articles",
+        "levels",
+        "variables",
+        "public health problem",
+        "promotion efforts",
+        "age",
+        "partnership",
+        "pediatrics",
+        "policy changes",
+        "research",
+        "nationals",
+        "community coalitions",
+        "association",
+        "broader policy",
+        "state levels",
+        "psychosocial variables",
+        "research findings",
+        "women",
+        "coalition",
+        "changes",
+        "health problems"
+      ],
+      "journal_title": "Women's Health Issues",
+      "title": "Policy Impact of Research Findings on the Association of Diaper Need and Mental Health"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.whi.2017.09.003",
+      "journal": "Womens Health Issues",
+      "url": "http://europepmc.org/abstract/MED/29050653",
+      "title": "policy impact of research findings on the association of diaper need and mental health"
+    }
+  },
+  {
+    "title": "Comparison of Health, Development, Maternal Bonding, and Poverty Among Children Born After Denial of Abortion vs After Pregnancies Subsequent to an Abortion",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1001/jamapediatrics.2018.1785",
+      "url": "www.doi.org/10.1001/jamapediatrics.2018.1785",
+      "journal ": "JAMA Pediatrics",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1001/jamapediatrics.2018.1785",
+      "authors": [
+        {
+          "first_name": "Diana Greene",
+          "last_name": "Foster",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01254531414.71",
+          "affiliations": [
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "M. Antonia",
+          "last_name": "Biggs",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01120203205.47",
+          "affiliations": [
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Sarah",
+          "last_name": "Raifman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01202571747.10",
+          "affiliations": [
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Jessica",
+          "last_name": "Gipson",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.19006.3e",
+          "researcher_id": "ur.01100010161.11",
+          "affiliations": [
+            {
+              "id": "grid.19006.3e",
+              "name": "University of California Los Angeles",
+              "city": "Los Angeles",
+              "city_id": 5368361,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Katrina",
+          "last_name": "Kimport",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01332227563.71",
+          "affiliations": [
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Corinne H.",
+          "last_name": "Rocca",
+          "corresponding": "",
+          "orcid": "['0000-0001-9892-249X']",
+          "current_organization_id": "grid.266102.1",
+          "researcher_id": "ur.01164341027.32",
+          "affiliations": [
+            {
+              "id": "grid.266102.1",
+              "name": "University of California, San Francisco",
+              "city": "San Francisco",
+              "city_id": 5391959,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248140",
+      "keywords": [
+        "subsequent children",
+        "outcomes",
+        "socioeconomics",
+        "study",
+        "mixed-effects models",
+        "recruitment",
+        "annual interviews",
+        "evidence",
+        "Among Children",
+        "basic living expenses",
+        "findings",
+        "longitudinal observational study",
+        "Subsequent",
+        "semi-annual interviews",
+        "health",
+        "participants",
+        "perinatal outcomes",
+        "child development",
+        "period",
+        "first interview",
+        "consequences",
+        "interviews",
+        "abortion",
+        "differences",
+        "enough money",
+        "pregnancy subsequent",
+        "Comparison of health",
+        "poverty level",
+        "denial of abortion",
+        "unwanted pregnancy",
+        "study period",
+        "living expenses",
+        "quasi-experimental design",
+        "health outcomes",
+        "children",
+        "continuation",
+        "observational study",
+        "relevance",
+        "group",
+        "abortion facilities",
+        "perinatal",
+        "MAIN OUTCOME",
+        "child health",
+        "facilities",
+        "levels",
+        "effects model",
+        "income",
+        "low income",
+        "completion",
+        "years",
+        "study group",
+        "conclusion",
+        "development",
+        "child health outcomes",
+        "age limit",
+        "access",
+        "potential health",
+        "pregnancy",
+        "girls",
+        "consent",
+        "boys",
+        "index children",
+        "association",
+        "clear pattern",
+        "retention",
+        "patterns",
+        "women",
+        "federal poverty level",
+        "wanted abortion",
+        "measures",
+        "gestational age limit",
+        "maternal bonding",
+        "United States"
+      ],
+      "journal_title": "JAMA Pediatrics",
+      "title": "Comparison of Health, Development, Maternal Bonding, and Poverty Among Children Born After Denial of Abortion vs After Pregnancies Subsequent to an Abortion"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Comparison of Health, Development, Maternal Bonding, and Poverty Among Children Born After Denial of Abortion vs After Pregnancies Subsequent to an Abortion",
+      "doi": "10.1001/jamapediatrics.2018.1785",
+      "url": "https://europepmc.org/articles/PMC6248140/"
+    }
+  },
+  {
+    "title": "The Deserving Poor, the Family, and the U.S. Welfare System",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1007/s13524-015-0395-0",
+      "url": "www.doi.org/10.1007/s13524-015-0395-0",
+      "journal ": "Demography",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1007/s13524-015-0395-0",
+      "authors": [
+        {
+          "first_name": "Robert A.",
+          "last_name": "Moffitt",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.21107.35",
+          "researcher_id": "ur.01044637722.47",
+          "affiliations": [
+            {
+              "id": "grid.21107.35",
+              "name": "Johns Hopkins University",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4487675?pdf=render",
+      "keywords": [
+        "popular view",
+        "aggregate spending",
+        "married-parent families",
+        "recipients",
+        "society",
+        "welfare state",
+        "expansion",
+        "welfare spending",
+        "view",
+        "Poor",
+        "welfare system",
+        "Deserving Poor",
+        "state",
+        "steady growth",
+        "redistribution",
+        "poor families",
+        "older adults",
+        "family",
+        "spending",
+        "parent families",
+        "conceptualization",
+        "U.S. welfare system",
+        "income",
+        "program",
+        "growth",
+        "single-parent families",
+        "adults",
+        "disability programs",
+        "higher income",
+        "U.S. society"
+      ],
+      "journal_title": "Demography",
+      "title": "The Deserving Poor, the Family, and the U.S. Welfare System"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "The Deserving Poor, the Family, and the U.S. Welfare System",
+      "doi": "10.1007/s13524-015-0395-0",
+      "url": "https://europepmc.org/articles/PMC4487675/"
+    }
+  },
+  {
+    "title": "Can Payment Reform Be Social Reform? The Lure and Liabilities of the Triple-Aim",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1215/03616878-3702770",
+      "url": "www.doi.org/10.1215/03616878-3702770",
+      "journal ": "Journal of Health Politics Policy and Law",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1215/03616878-3702770",
+      "authors": [
+        {
+          "first_name": "Sandra J",
+          "last_name": "Tanenbaum",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.261331.4",
+          "researcher_id": "ur.0613577155.05",
+          "affiliations": [
+            {
+              "id": "grid.261331.4",
+              "name": "The Ohio State University",
+              "city": "Columbus",
+              "city_id": 4509177,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Ohio",
+              "state_code": "US-OH"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://read.dukeupress.edu/jhppl/article-pdf/42/1/53/435289/53Tanenbaum.pdf",
+      "keywords": [
+        "high cost",
+        "contributor",
+        "efforts",
+        "health care",
+        "care",
+        "population health improvement",
+        "dynamics",
+        "reformers",
+        "payment reform",
+        "status",
+        "attempt",
+        "health",
+        "health care payers",
+        "social contributors",
+        "quality",
+        "Triple Aim",
+        "article",
+        "reform",
+        "liability",
+        "inclusion",
+        "health improvement",
+        "integration",
+        "policy",
+        "care system",
+        "purpose",
+        "conclusion section",
+        "Medicare program",
+        "poor health status",
+        "US health care system",
+        "sector",
+        "payers",
+        "version of integration",
+        "first section",
+        "problem",
+        "population health",
+        "politics",
+        "care payers",
+        "providers",
+        "program",
+        "social reform",
+        "extent",
+        "low quality",
+        "cost",
+        "aim",
+        "savings",
+        "payments",
+        "lure",
+        "health status",
+        "CMS efforts",
+        "second section",
+        "health care system",
+        "proposal"
+      ],
+      "journal_title": "Journal of Health Politics Policy and Law",
+      "title": "Can Payment Reform Be Social Reform? The Lure and Liabilities of the Triple-Aim"
+    }
+  },
+  {
+    "title": "A diaper bank and home visiting partnership: Initial exploration of research and policy questions",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1111/phn.12378",
+      "url": "www.doi.org/10.1111/phn.12378",
+      "journal ": "Public Health Nursing",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1111/phn.12378",
+      "authors": [
+        {
+          "first_name": "Lois S.",
+          "last_name": "Sadler",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.0766610564.03",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Eileen M.",
+          "last_name": "Condon",
+          "corresponding": "",
+          "orcid": "['0000-0001-7747-5870']",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.015413077205.25",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Shirley Z.",
+          "last_name": "Deng",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Monica Roosa",
+          "last_name": "Ordway",
+          "corresponding": "",
+          "orcid": "['0000-0002-9765-8962']",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.01132226341.50",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Crista",
+          "last_name": "Marchesseault",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Andrea",
+          "last_name": "Miller",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Janet Stolfi",
+          "last_name": "Alfano",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "New Haven Diaper Bank New Haven CT USA"
+            }
+          ]
+        },
+        {
+          "first_name": "Alison M.",
+          "last_name": "Weir",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "name": "National Diaper Bank Network New Haven CT USA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5989311",
+      "keywords": [
+        "income communities",
+        "study",
+        "low-income communities",
+        "community",
+        "findings",
+        "qualitative pilot study",
+        "potential effects",
+        "stigma",
+        "interviews",
+        "diapers",
+        "benefits",
+        "recommendations",
+        "policy questions",
+        "analysis",
+        "future research",
+        "need",
+        "home",
+        "content analysis",
+        "purpose",
+        "questions",
+        "family",
+        "program benefits",
+        "Connecticut",
+        "clinicians",
+        "pilot study",
+        "impact",
+        "visitors",
+        "interview transcripts",
+        "financial strain",
+        "related policy questions",
+        "engagement",
+        "significant financial strain",
+        "infants",
+        "young families",
+        "program",
+        "preliminary findings",
+        "relationship",
+        "research",
+        "partnership",
+        "conclusion",
+        "access",
+        "exploration",
+        "therapeutic relationship",
+        "parents",
+        "poverty",
+        "home visitors",
+        "young parents",
+        "initial exploration",
+        "intervention"
+      ],
+      "journal_title": "Public Health Nursing",
+      "title": "A diaper bank and home visiting partnership: Initial exploration of research and policy questions"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "A diaper bank and home visiting partnership: Initial exploration of research and policy questions",
+      "doi": "10.1111/phn.12378",
+      "url": "https://europepmc.org/articles/PMC5989311/"
+    }
+  },
+  {
+    "title": "Filling holes in the safety net? Material hardship and subjective well-being among disability benefit applicants and recipients after the 1996 welfare reform",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1016/j.ssresearch.2012.06.001",
+      "url": "www.doi.org/10.1016/j.ssresearch.2012.06.001",
+      "journal ": "Social Science Research",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1016/j.ssresearch.2012.06.001",
+      "authors": [
+        {
+          "first_name": "Lucie",
+          "last_name": "Schmidt",
+          "corresponding": true,
+          "orcid": "",
+          "current_organization_id": "grid.268275.c",
+          "researcher_id": "ur.01306334141.67",
+          "affiliations": [
+            {
+              "id": "grid.268275.c",
+              "name": "Williams College",
+              "city": "Williamstown",
+              "city_id": 4955786,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Massachusetts",
+              "state_code": "US-MA"
+            }
+          ]
+        },
+        {
+          "first_name": "Sheldon",
+          "last_name": "Danziger",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "ur.013222562764.11",
+          "affiliations": [
+            {
+              "id": "grid.214458.e",
+              "name": "University of Michigan\u2013Ann Arbor",
+              "city": "Ann Arbor",
+              "city_id": 4984247,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Michigan",
+              "state_code": "US-MI"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "economic insecurity",
+        "well-being",
+        "recipients",
+        "disability benefit receipt",
+        "alternative way",
+        "hardship",
+        "reform",
+        "recent growth",
+        "welfare reform",
+        "unsuccessful applicants",
+        "rapid recent growth",
+        "state",
+        "disability recipients",
+        "applicants",
+        "being",
+        "receipt",
+        "material hardship",
+        "insecurity",
+        "benefit receipt",
+        "alternative source",
+        "economic well-being",
+        "subjective measures",
+        "levels",
+        "income",
+        "results",
+        "income receipt",
+        "former welfare recipients",
+        "way",
+        "pervasive levels",
+        "safety net",
+        "single mother families",
+        "disability applicants",
+        "difficulties",
+        "source",
+        "growth",
+        "welfare recipients",
+        "mother families",
+        "support",
+        "strategies",
+        "end",
+        "nets",
+        "measures",
+        "current income",
+        "United States"
+      ],
+      "journal_title": "Social Science Research",
+      "title": "Filling holes in the safety net? Material hardship and subjective well-being among disability benefit applicants and recipients after the 1996 welfare reform"
+    },
+    "europepmc": {
+      "doi": "10.1016/j.ssresearch.2012.06.001",
+      "journal": "Soc Sci Res",
+      "url": "http://europepmc.org/abstract/MED/23017975",
+      "title": "filling holes in the safety net? material hardship and subjective well-being among disability benefit applicants and recipients after the 1996 welfare reform"
+    }
+  },
+  {
+    "title": "Health Promotion Interventions for Low-Income Californians Through Medi-Cal Managed Care Plans, 2012",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.5888/pcd12.150269",
+      "url": "www.doi.org/10.5888/pcd12.150269",
+      "journal ": "Preventing Chronic Disease",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.5888/pcd12.150269",
+      "authors": [
+        {
+          "first_name": "Desiree R.",
+          "last_name": "Backman",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.236813.d",
+          "researcher_id": "ur.01165300664.45",
+          "affiliations": [
+            {
+              "id": "grid.236813.d",
+              "name": "California Department of Health Care Services",
+              "city": "Sacramento",
+              "city_id": 5389489,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Neal D.",
+          "last_name": "Kohatsu",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.236813.d",
+          "researcher_id": "ur.01204267042.40",
+          "affiliations": [
+            {
+              "id": "grid.236813.d",
+              "name": "California Department of Health Care Services",
+              "city": "Sacramento",
+              "city_id": 5389489,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Brian M.",
+          "last_name": "Paciotti",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.236813.d",
+          "researcher_id": "ur.015574510645.42",
+          "affiliations": [
+            {
+              "id": "grid.236813.d",
+              "name": "California Department of Health Care Services",
+              "city": "Sacramento",
+              "city_id": 5389489,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Jennifer V.",
+          "last_name": "Byrne",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.236813.d",
+              "name": "California Department of Health Care Services",
+              "city": "Sacramento",
+              "city_id": 5389489,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        },
+        {
+          "first_name": "Kenneth W.",
+          "last_name": "Kizer",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.27860.3b",
+          "researcher_id": "ur.01054401041.41",
+          "affiliations": [
+            {
+              "id": "grid.236813.d",
+              "name": "California Department of Health Care Services",
+              "city": "Sacramento",
+              "city_id": 5389489,
+              "country": "United States",
+              "country_code": "US",
+              "state": "California",
+              "state_code": "US-CA"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cdc.gov/pcd/issues/2015/pdf/15_0269.pdf",
+      "keywords": [
+        "low-income Californians",
+        "improved delivery",
+        "study",
+        "evidence",
+        "community activities",
+        "health",
+        "cost-effective approach",
+        "mixed results",
+        "education",
+        "activity",
+        "promotion interventions",
+        "descriptive statistics",
+        "improved disease management",
+        "participation",
+        "quantitative data",
+        "management",
+        "health promotion interventions",
+        "behavior change",
+        "prevention",
+        "hours",
+        "'s largest Medicaid program",
+        "Californians",
+        "online survey",
+        "knowledge gain",
+        "purpose",
+        "survey",
+        "such programs",
+        "tertiary prevention",
+        "Managed care plans",
+        "Medi-Cal",
+        "impact",
+        "Medicaid program",
+        "members",
+        "population health",
+        "nation's largest Medicaid program",
+        "disease management",
+        "program",
+        "community assistance programs",
+        "assistance programs",
+        "health educators",
+        "extent",
+        "effectiveness",
+        "delivery",
+        "plan",
+        "data",
+        "intervention attributes",
+        "group classes",
+        "Most interventions",
+        "MeDi",
+        "consensus standards",
+        "care plans",
+        "educational materials",
+        "measures",
+        "educational hours",
+        "services",
+        "intervention",
+        "changes"
+      ],
+      "journal_title": "Preventing Chronic Disease",
+      "title": "Health Promotion Interventions for Low-Income Californians Through Medi-Cal Managed Care Plans, 2012"
+    },
+    "openaire": {
+      "journal": null,
+      "title": "Health Promotion Interventions for Low-Income Californians Through Medi-Cal Managed Care Plans, 2012",
+      "doi": "10.5888/pcd12.150269",
+      "url": "http://europepmc.org/articles/PMC4651139"
+    }
+  },
+  {
+    "title": "Economic Insecurity and Access to the Social Safety Net among Latino Farmworker Families",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1093/sw/swu013",
+      "url": "www.doi.org/10.1093/sw/swu013",
+      "journal ": "Social Work",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1093/sw/swu013",
+      "authors": [
+        {
+          "first_name": "Yolanda C.",
+          "last_name": "Padilla",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.89336.37",
+          "researcher_id": "ur.01061640640.16",
+          "affiliations": [
+            {
+              "id": "grid.261504.4",
+              "name": "Our Lady of the Lake University",
+              "city": "San Antonio",
+              "city_id": 4726206,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        },
+        {
+          "first_name": "Jennifer L.",
+          "last_name": "Scott",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.261504.4",
+              "name": "Our Lady of the Lake University",
+              "city": "San Antonio",
+              "city_id": 4726206,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        },
+        {
+          "first_name": "Olivia",
+          "last_name": "Lopez",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "",
+          "researcher_id": "",
+          "affiliations": [
+            {
+              "id": "grid.261504.4",
+              "name": "Our Lady of the Lake University",
+              "city": "San Antonio",
+              "city_id": 4726206,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Texas",
+              "state_code": "US-TX"
+            }
+          ]
+        }
+      ],
+      "keywords": [
+        "social safety net",
+        "workers",
+        "economic insecurity",
+        "social integration",
+        "percent",
+        "efforts",
+        "households",
+        "findings",
+        "status",
+        "service use",
+        "regression analysis",
+        "education",
+        "family composition",
+        "participation",
+        "employment characteristics",
+        "welfare",
+        "analysis",
+        "integration",
+        "recent immigrants",
+        "farmworker households",
+        "need",
+        "adequacy",
+        "state",
+        "agricultural work",
+        "policy advocacy",
+        "poverty status",
+        "survey",
+        "Workers Survey",
+        "insurance program",
+        "insecurity",
+        "insurance",
+        "work",
+        "receipt",
+        "outreach efforts",
+        "degree",
+        "family",
+        "English ability",
+        "half",
+        "Latinos",
+        "seasonal nature",
+        "descriptive analysis",
+        "welfare participation",
+        "poverty line",
+        "odds",
+        "protection",
+        "social welfare",
+        "Latino farmworker families",
+        "income",
+        "low self",
+        "public assistance programs",
+        "social service use",
+        "assistance programs",
+        "employment protection",
+        "years",
+        "safety net",
+        "access",
+        "Latino farmworkers",
+        "social insurance",
+        "program",
+        "social insurance programs",
+        "nature",
+        "data",
+        "National Agricultural Workers Survey",
+        "immigrants",
+        "social workers",
+        "public assistance receipt",
+        "farmworker families",
+        "U.S",
+        "counterparts",
+        "farmworkers",
+        "nets",
+        "individuals",
+        "advocacy",
+        "United States",
+        "part"
+      ],
+      "journal_title": "Social Work",
+      "title": "Economic Insecurity and Access to the Social Safety Net among Latino Farmworker Families"
+    },
+    "europepmc": {
+      "doi": "10.1093/sw/swu013",
+      "journal": "Soc Work",
+      "url": "http://europepmc.org/abstract/MED/24855865",
+      "title": "economic insecurity and access to the social safety net among latino farmworker families"
+    }
+  },
+  {
+    "title": "HUD Housing Assistance and Levels of Physical Activity Among Low-Income Adults",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.5888/pcd15.170517",
+      "url": "www.doi.org/10.5888/pcd15.170517",
+      "journal ": "Preventing Chronic Disease",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.5888/pcd15.170517",
+      "authors": [
+        {
+          "first_name": "Michelle S.",
+          "last_name": "Wong",
+          "corresponding": "",
+          "orcid": "['0000-0001-7917-9696']",
+          "current_organization_id": "grid.21107.35",
+          "researcher_id": "ur.01076140551.42",
+          "affiliations": [
+            {
+              "id": "grid.21107.35",
+              "name": "Johns Hopkins University",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Eric T.",
+          "last_name": "Roberts",
+          "corresponding": "",
+          "orcid": "['0000-0002-7439-0799']",
+          "current_organization_id": "grid.21925.3d",
+          "researcher_id": "ur.012055063035.38",
+          "affiliations": [
+            {
+              "id": "grid.21925.3d",
+              "name": "University of Pittsburgh",
+              "city": "Pittsburgh",
+              "city_id": 5206379,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Pennsylvania",
+              "state_code": "US-PA"
+            }
+          ]
+        },
+        {
+          "first_name": "Carolyn M.",
+          "last_name": "Arnold",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.239424.a",
+          "researcher_id": "ur.011676177754.31",
+          "affiliations": [
+            {
+              "id": "grid.21107.35",
+              "name": "Johns Hopkins University",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        },
+        {
+          "first_name": "Craig E.",
+          "last_name": "Pollack",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.21107.35",
+          "researcher_id": "ur.01242200442.00",
+          "affiliations": [
+            {
+              "id": "grid.21107.35",
+              "name": "Johns Hopkins University",
+              "city": "Baltimore",
+              "city_id": 4347778,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Maryland",
+              "state_code": "US-MD"
+            }
+          ]
+        }
+      ],
+      "linkout": "https://www.cdc.gov/pcd/issues/2018/pdf/17_0517.pdf",
+      "keywords": [
+        "income adults",
+        "study",
+        "records",
+        "logistic regression",
+        "US Department",
+        "lower rates",
+        "rate",
+        "control group",
+        "improved health",
+        "nonseniors",
+        "administrative records",
+        "status",
+        "adjusted odds",
+        "Department",
+        "health",
+        "assistance",
+        "activity",
+        "medical need",
+        "participation",
+        "socioeconomic status",
+        "multivariate logistic regression",
+        "unmet medical need",
+        "need",
+        "children",
+        "survey",
+        "Health Interview Survey",
+        "receipt",
+        "low-income adults",
+        "healthy behaviors",
+        "current residents",
+        "odds",
+        "secondary analysis",
+        "residents",
+        "physical activity",
+        "levels",
+        "sectional data",
+        "samples",
+        "regression",
+        "neighborhood socioeconomic status",
+        "nonsenior adults",
+        "program",
+        "assistance programs",
+        "cross-sectional data",
+        "National Health Interview Survey",
+        "development",
+        "primary samples",
+        "young children",
+        "data",
+        "Interview Survey",
+        "association",
+        "adults",
+        "subanalysis",
+        "objective",
+        "group"
+      ],
+      "journal_title": "Preventing Chronic Disease",
+      "title": "HUD Housing Assistance and Levels of Physical Activity Among Low-Income Adults"
+    },
+    "openaire": {
+      "journal": "Preventing Chronic Disease",
+      "title": "HUD Housing Assistance and Levels of Physical Activity Among Low-Income Adults",
+      "doi": "10.5888/pcd15.170517",
+      "url": "http://europepmc.org/articles/PMC6053920"
+    }
+  },
+  {
+    "title": "State variation in HIV/AIDS health outcomes",
+    "datasets": [
+      "dataset-026"
+    ],
+    "original": {
+      "doi": "10.1097/qad.0000000000000978",
+      "url": "www.doi.org/10.1097/qad.0000000000000978",
+      "journal ": "AIDS",
+      "date_added": "2019-10-11 10:50:15"
+    },
+    "dimensions": {
+      "doi": "10.1097/qad.0000000000000978",
+      "authors": [
+        {
+          "first_name": "Kristina M.",
+          "last_name": "Talbert-Slagle",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.0702617613.45",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Maureen E.",
+          "last_name": "Canavan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.01302566014.36",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Erika M.",
+          "last_name": "Rogan",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.01252034341.04",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Leslie A.",
+          "last_name": "Curry",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.47100.32",
+          "researcher_id": "ur.0657707477.07",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        },
+        {
+          "first_name": "Elizabeth H.",
+          "last_name": "Bradley",
+          "corresponding": "",
+          "orcid": "",
+          "current_organization_id": "grid.267778.b",
+          "researcher_id": "ur.01254611122.35",
+          "affiliations": [
+            {
+              "id": "grid.47100.32",
+              "name": "Yale University",
+              "city": "New Haven",
+              "city_id": 4839366,
+              "country": "United States",
+              "country_code": "US",
+              "state": "Connecticut",
+              "state_code": "US-CT"
+            }
+          ]
+        }
+      ],
+      "linkout": "http://europepmc.org/articles/pmc4732004?pdf=render",
+      "keywords": [
+        "outcomes",
+        "Medicaid spending",
+        "study",
+        "factors",
+        "public health",
+        "rate",
+        "findings",
+        "case rates",
+        "effects",
+        "health",
+        "AIDS deaths",
+        "socio",
+        "lower HIV",
+        "state variation",
+        "previous studies",
+        "state policymakers",
+        "death",
+        "burden",
+        "prevention",
+        "regression models",
+        "capita",
+        "higher spending",
+        "HIV",
+        "health outcomes",
+        "people",
+        "HIV/AIDS outcomes",
+        "infection",
+        "new infections",
+        "policymakers",
+        "social services",
+        "HIV/AIDS",
+        "AIDS",
+        "spending",
+        "healthcare spending",
+        "advances",
+        "persons",
+        "public health spending",
+        "U.S. states",
+        "years",
+        "countries",
+        "AIDS outcomes",
+        "association",
+        "AIDS case rates",
+        "treatment",
+        "longitudinal study",
+        "poverty",
+        "multivariable regression models",
+        "state-level spending",
+        "health spending",
+        "resource factors",
+        "services",
+        "retrospective",
+        "expenditure",
+        "United States"
+      ],
+      "journal_title": "AIDS",
+      "title": "State variation in HIV/AIDS health outcomes"
+    },
+    "openaire": {
+      "journal": "AIDS (London, England)",
+      "title": "State variation in HIV/AIDS health outcomes",
+      "doi": "10.1097/QAD.0000000000000978",
+      "url": "http://europepmc.org/articles/PMC4732004"
+    }
+  }
+]
