@@ -1,0 +1,137 @@
+{
+    "gmeta": [
+        {
+            "adrf-000139": {
+                "mimetype": "application/json",
+                "content": {
+                    "title": "UMETRICS-Semester",
+                    "keywords": [
+                        "Administrative data",
+                        "award activity",
+                        "awards and funding",
+                        "award expense transaction",
+                        "collaboration networks",
+                        "economic and social value of research",
+                        "graduate students and postdoctoral researchers",
+                        "research activity",
+                        "research impact",
+                        "science of innovation",
+                        "scientific productivity",
+                        "and scientific workforce"
+                    ],
+                    "dataset_id": "adrf-000139",
+                    "file_names": [
+                        "adrf-000139-ncses_umetrics_semester.csv"
+                    ],
+                    "description": "These data are an extract of graduate students in the UMETRICS data compiled by IRIS, aggregated to the student-semester level. This dataset was created solely for use in the 2019 class in Applied Data Analytics at NCSES. These data are unique at the emp_number-semester level. emp_numbers are unique and exist only within institutions (institution_id).",
+                    "temporal_coverage_start": "2010",
+                    "temporal_coverage_end": "2017",
+                    "geographical_coverage": [
+                        ""
+                    ],
+                    "geographical_unit": [
+                        ""
+                    ],
+                    "dataset_documentation": [
+                        "UMETRICS_semester.xlsx"
+                    ],
+                    "access_actions_required": "No Disclosure Agreement (NDA) is required to access and use this dataset",
+                    "access_requirements": "No Disclosure Agreement (NDA)",
+                    "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.",
+                    "category": "Administrative data",
+                    "dataset_version": 1,
+                    "dataset_version_date": 1573055220,
+                    "source_url": "",
+                    "reference_url": "",
+                    "data_classification": "Restricted",
+                    "data_steward": "Julia Lane",
+                    "data_steward_organization": "Coleridge Initiative",
+                    "source_archive": "",
+                    "data_provider": "Institute for Research on Innovation and Science (IRIS)",
+                    "dataset_citation": "",
+                    "files_total": 1,
+                    "files": [
+                        {
+                            "file_name": "adrf-000139-ncses_umetrics_semester.csv",
+                            "columns_metadata": {
+                                "\ufeffinstitution_id": {
+                                    "description": "IRIS-generated unique identifier assigned to each IRIS member university for de-identification purposes. Values are four or five digit numbers",
+                                    "provided-type": "Numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emp_number": {
+                                    "description": "IRIS-generated unique identifier assigned to all personnel being paid by awards",
+                                    "provided-type": "Character",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "semester": {
+                                    "description": "Four-month semester period",
+                                    "provided-type": "Character",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "any_non_federal": {
+                                    "description": "Indicator for whether an employee is paid by non-federal grant(s); values include 1 (no-federal funding source) and 0 (not a non-federal grant)",
+                                    "provided-type": "Numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "modal_suborg": {
+                                    "description": "Type of university suborganization most frequently funding this student this semester",
+                                    "provided-type": "Character",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "modal_funder": {
+                                    "description": "Federal agency (or 'non-federal') most frequently funding this student this semester",
+                                    "provided-type": "Character",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "team_size": {
+                                    "description": "Total number of employees paid on concurrent grants (i.e., paid this semester on grants that also fund this employee this semester)",
+                                    "provided-type": "Numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "team_size_other_grads": {
+                                    "description": "Number of other graduate students paid on concurrent grants",
+                                    "provided-type": "Numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "proquest_match": {
+                                    "description": "IRIS has linked this student to an author in the ProQuest thesis and dissertation data (person level); values include 1 (if linked) and 0 (if not linked)",
+                                    "provided-type": "Numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "imputed_gender": {
+                                    "description": "Gender as imputed by IRIS  (person level)",
+                                    "provided-type": "Character",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "imputed_race": {
+                                    "description": "Race/ethnicty as imputed by IRIS  (person level)",
+                                    "provided-type": "Character",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "": {
+                                    "description": "",
+                                    "provided-type": "",
+                                    "categorical": false,
+                                    "categories": []
+                                }
+                            }
+                        }
+                    ],
+                    "related_articles": []
+                }
+            }
+        }
+    ]
+}

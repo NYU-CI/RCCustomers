@@ -1,0 +1,84 @@
+{
+    "gmeta": [
+        {
+            "adrf-000136": {
+                "mimetype": "application/json",
+                "content": {
+                    "title": "HERD-UMETRICS Crosswalk",
+                    "keywords": [
+                        "Identifier crosswalk"
+                    ],
+                    "dataset_id": "adrf-000136",
+                    "file_names": [
+                        "adrf-000136-NSF_HERD_UMETRICS_xwalk.csv"
+                    ],
+                    "description": "This file includes records from a crosswalk between UMETRICS and NSF HERD data. This file helps researchers link IRIS member universities to institutional profile data (HERD data) using the IRIS-assigned institution ID and name.",
+                    "temporal_coverage_start": "",
+                    "temporal_coverage_end": "",
+                    "geographical_coverage": [
+                        ""
+                    ],
+                    "geographical_unit": [
+                        ""
+                    ],
+                    "dataset_documentation": [
+                        "UMETRICS_HERD_crosswalk.xlsx"
+                    ],
+                    "access_actions_required": "Restricted Public (no data use agreement required)",
+                    "access_requirements": "Restricted Public (no data use agreement required)",
+                    "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.",
+                    "category": "Auxiliary file that includes linking data element",
+                    "dataset_version": 1,
+                    "dataset_version_date": 1573056248,
+                    "source_url": "",
+                    "reference_url": "",
+                    "data_classification": "Public",
+                    "data_steward": "Julia Lane",
+                    "data_steward_organization": "Coleridge Initiative",
+                    "source_archive": "",
+                    "data_provider": "Institute for Research on Innovation and Science (IRIS)",
+                    "dataset_citation": "",
+                    "files_total": 1,
+                    "files": [
+                        {
+                            "file_name": "adrf-000136-NSF_HERD_UMETRICS_xwalk.csv",
+                            "columns_metadata": {
+                                "\ufeffiris_inst_id": {
+                                    "description": "IRIS-generated unique identifier assigned to each IRIS member university. Values are four or five digit numbers",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "iris_inst_name": {
+                                    "description": "IRIS-assigned institution name",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ipeds_inst_id": {
+                                    "description": "IPEDS-assigned institution ID",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ncses_inst_id": {
+                                    "description": "NCSES-assigned institution ID",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "std_inst_name": {
+                                    "description": "These institution names are standardized; data retrieved from IPEDS via WebCASPAR downloaded and archived by IRIS (January 2019); most institution names were already standardized by NCSES IPEDS Data Center, but additional data processing was done by IRIS",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                }
+                            }
+                        }
+                    ],
+                    "related_articles": []
+                }
+            }
+        }
+    ]
+}

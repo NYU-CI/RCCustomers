@@ -1,0 +1,91 @@
+{
+    "gmeta": [
+        {
+            "adrf-000135": {
+                "mimetype": "application/json",
+                "content": {
+                    "title": "QCEW",
+                    "keywords": [
+                        "QCEW",
+                        "UMETRICS"
+                    ],
+                    "dataset_id": "adrf-000135",
+                    "file_names": [
+                        "adrf-000135-QCEW_Core.csv"
+                    ],
+                    "description": "This version of the Quarterly Census of Employment and Wages (QCEW) covers annual location quotients for counties by two-digit NAICS codes from 2001-2018. Raw QCEW data was downloaded from the Bureau of Labor Statistic's website (https://www.bls.gov/cew/downloadable-data-files.htm). In order to generate this structure several data manipulation operations were done on the raw QCEW data. Most notably, the QCEW is originally structured at the FIPS/NAICS/Ownership level, with \u201cOwnership\u201d referring to the governmental ownership status of the associated establishments(e.g. private, federal government, local government, etc). In order to reduce the dataset to the FIPS/NAICS level, the raw location quotients were combined using weighted averages based on establishment count. In addition, county/NAICS combinations that did not pass BLS\u2019 disclosure standards are not included and state level statistics for each industry are not included.",
+                    "temporal_coverage_start": "2001",
+                    "temporal_coverage_end": "2018",
+                    "geographical_coverage": [
+                        "USA"
+                    ],
+                    "geographical_unit": [
+                        "Country"
+                    ],
+                    "dataset_documentation": [
+                        "QCEW.xlsx"
+                    ],
+                    "access_actions_required": "Public / Open Access (no data use agreement required)",
+                    "access_requirements": "Public / Open Access (no data use agreement required)",
+                    "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.",
+                    "category": "Aggregated census data",
+                    "dataset_version": 1,
+                    "dataset_version_date": 1573057022,
+                    "source_url": "",
+                    "reference_url": "",
+                    "data_classification": "Public",
+                    "data_steward": "Julia Lane",
+                    "data_steward_organization": "Coleridge Initiative",
+                    "source_archive": "",
+                    "data_provider": "Institute for Research on Innovation and Science (IRIS)",
+                    "dataset_citation": "",
+                    "files_total": 1,
+                    "files": [
+                        {
+                            "file_name": "adrf-000135-QCEW_Core.csv",
+                            "columns_metadata": {
+                                "\ufeffFIPS": {
+                                    "description": "The FIPS code for the associated county",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "year": {
+                                    "description": "The calendar year for the associated record",
+                                    "provided-type": "integer",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "industry_code": {
+                                    "description": "The 2-digit NAICS code for the associated industry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "LQ_annual_avg_emplvl": {
+                                    "description": "A weighted average of annual average employment level location quotients for the given FIPS/year/industry_code, weighted by establishment count",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "LQ_avg_annual_pay": {
+                                    "description": "A weighted average of annual average pay level location quotients for the given FIPS/year/industry_code, weighted by establishment count",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "LQ_avg_annual_estab_count": {
+                                    "description": "A weighted average of annual average establishment count location quotients for the given FIPS/year/industry_code, weighted by establishment count",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                }
+                            }
+                        }
+                    ],
+                    "related_articles": []
+                }
+            }
+        }
+    ]
+}

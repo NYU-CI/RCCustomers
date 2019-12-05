@@ -1,0 +1,155 @@
+{
+    "gmeta": [
+        {
+            "adrf-000137": {
+                "mimetype": "application/json",
+                "content": {
+                    "title": "UMETRICS Award Micro Core",
+                    "keywords": [
+                        "Administrative data",
+                        "award activity",
+                        "awards and funding",
+                        "award expense transaction",
+                        "collaboration networks",
+                        "economic and social value of research",
+                        "graduate students and postdoctoral researchers",
+                        "research activity",
+                        "research impact",
+                        "science of innovation",
+                        "scientific productivity",
+                        "and scientific workforce"
+                    ],
+                    "dataset_id": "adrf-000137",
+                    "file_names": [
+                        "adrf-000137-ncses_umetrics_micro_award.csv"
+                    ],
+                    "description": "UMETRICS Award Micro Core contains a subset of UMETRICS Award data. UMETRICS consists of administrative data on member universities' research employment and expenditures. UMETRICS Award data consists of per-month transactions on member university awards, with information such as the award number, award title, campus, overhead charged, and direct expenditures. The UMETRICS Award Micro Core is a subset of this dataset, limited to the awards found in the UMETRICS Semester Core dataset. It is also limited to the years 2012-2015.",
+                    "temporal_coverage_start": "2012",
+                    "temporal_coverage_end": "2015",
+                    "geographical_coverage": [
+                        ""
+                    ],
+                    "geographical_unit": [
+                        ""
+                    ],
+                    "dataset_documentation": [
+                        "UMETRICS_micro_award.xlsx"
+                    ],
+                    "access_actions_required": "No Disclosure Agreement (NDA) is required to access and use this dataset",
+                    "access_requirements": "No Disclosure Agreement (NDA)",
+                    "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.",
+                    "category": "Administrative Data",
+                    "dataset_version": 1,
+                    "dataset_version_date": 1573054965,
+                    "source_url": "",
+                    "reference_url": "",
+                    "data_classification": "Restricted",
+                    "data_steward": "Julia Lane",
+                    "data_steward_organization": "Coleridge Initiative",
+                    "source_archive": "",
+                    "data_provider": "Institute for Research on Innovation and Science (IRIS)",
+                    "dataset_citation": "The underlying data can be cited as: The Institute for Research on Innovation & Science (IRIS). IRIS UMETRICS 2019 Data Release: Core Files. Ann Arbor, MI: IRIS [distributor], 2019-04-01, doi: 10.21987/2apb-6f73",
+                    "files_total": 1,
+                    "files": [
+                        {
+                            "file_name": "adrf-000137-ncses_umetrics_micro_award.csv",
+                            "columns_metadata": {
+                                "\ufeffaward_title": {
+                                    "description": "Title of award",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "campus_id": {
+                                    "description": "IRIS-generated identifier assigned to each campus for de-identification purposes. Each ID is a combination of institution_id and a serial number helpful to identify the campus to which a given award is made and by which the award is being administered",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "cfda": {
+                                    "description": "A five-digit CFDA (Catalog of Federal Domestic Assistance) number retrieved from the unique_award_number that universities submit. This number is assigned to awards to represent the source of funding. If the first two digits are between 10 and 98, awards are federally funded. If the first two digits range between 00 and 09, or 99, sources of awards are most likely non-federal",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fed_awd_num_std": {
+                                    "description": "Unique identifier specifying a federal award; this is the same as the unique_award_number but with the CFDA number and white spaces removed. Null if CFDA is missing or the CFDA number indicates a non-federal award, i.e., a CFDA starting with two digit numbers between 00 and 09, or 99",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "funding_source_name_clean": {
+                                    "description": "Cleaned name of funding source assigned to each project; if university is a recipient of a prime award, the funding source name is the direct sponsor; if university is a subrecipient of an award, this is the name of the pass-through entity (exceptions noted in documentation)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "funding_source_name_raw": {
+                                    "description": "Raw name of funding source assigned to each project; if university is a recipient of a prime award, the direct sponsor is the name of funding source; if university is a subrecipient of an award, this is the name of the pass-through entity (exceptions are noted in documentation)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "institution_id": {
+                                    "description": "IRIS-generated unique identifier assigned to each IRIS member university for de-identification purposes. Values are four or five digit numbers",
+                                    "provided-type": "int",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "overhead_charged": {
+                                    "description": "Actual overhead dollars charged to the award in the specified period",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "period_end_date": {
+                                    "description": "End of period in which a monthly expense transaction took place; each period end day is the last day of a month: e.g., 3/30/2008 or 12/31/2014",
+                                    "provided-type": "date",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "period_start_date": {
+                                    "description": "Beginning of period in which a monthly expense transaction took place; each period start day is the first day of a month: e.g., 4/1/2009 or 10/1/2015",
+                                    "provided-type": "date",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "recipient_account_number": {
+                                    "description": "A university's internal account number to uniquely identify each project; typically an accounting code used to allocate funds received from an award",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sub_org_unit": {
+                                    "description": "IRIS-generated identifier assigned to sub-organization units to which each funded project is assigned, such as a particular college within a given IRIS member university. (This is not at the level of individual departments.) Each ID is a combination of campus_id described above and a serial number assigned to each sub-organization unit within each campus. This ID helps to identify the college or unit to which a given award is made and by which the award is being administered at a lower-level",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "total_direct_expenditures": {
+                                    "description": "Total direct expenditures charged to the award in the specified period",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "unique_award_number": {
+                                    "description": "University-generated unique identifier specifying an award and its funding source, made up of the 5-digit funding source code (e.g., CFDA number) and an award identifier. Award identifier may include the awarding agency's federal award ID (e.g., federal grant number, contract number, or loan number) or an internal award ID for non-federal awards. Values may include a space or dash in between them: e.g., \u201c10.310 2010-12345-54321\u201d (USDA example), \u201c47.050 1234567\u201d (NSF example), \u201c93.865 2-R01-DK-012345-15-S1\u201d (NIH example), \u201c00.000 1234567\u201d and \u201c00.200 State Award 1\u201d (Non-federal grant examples)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "award_type": {
+                                    "description": "IRIS-generated flag that indicates whether each row is (1) federal research (2) federal non-research (3) non-federal.",
+                                    "provided-type": "int",
+                                    "categorical": false,
+                                    "categories": []
+                                }
+                            }
+                        }
+                    ],
+                    "related_articles": []
+                }
+            }
+        }
+    ]
+}
