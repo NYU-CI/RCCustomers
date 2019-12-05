@@ -1,0 +1,2 @@
+- semantic scholar has a field `references` of authors - those are not the publication author but they 
+are others who work in the field
