@@ -1,0 +1,1292 @@
+{
+    "gmeta": [
+        {
+            "adrf-000140": {
+                "mimetype": "application/json",
+                "content": {
+                    "title": "sed4ncsesclass",
+                    "keywords": [
+                        "education",
+                        "demographics",
+                        "post-graduation plan"
+                    ],
+                    "dataset_id": "adrf-000140",
+                    "file_names": [
+                        "adrf-000140-sed4ncses.sas7dbat"
+                    ],
+                    "description": "Survey of Earned Doctorates restricted survey data for the cohort of FY 2008 - 2017; The data set is extracted from the 2017 cumulative Doctorate Records File (DRF) for the Coleridge Initiative training class - Applied Data Analytics, sponsored by NCSES",
+                    "temporal_coverage_start": "",
+                    "temporal_coverage_end": "",
+                    "geographical_coverage": [
+                        ""
+                    ],
+                    "geographical_unit": [
+                        ""
+                    ],
+                    "dataset_documentation": [
+                        "ADRF-Data_Provider-Dataset_Metadata_Form_NCSESdata"
+                    ],
+                    "access_actions_required": "Access is granted to only those with approved NCSES data use agreement",
+                    "access_requirements": "Access is granted to only those with approved NCSES data use agreement",
+                    "data_usage_policy": "Please see the NCSES data use agreement",
+                    "category": "",
+                    "dataset_version": 1,
+                    "dataset_version_date": 1575326973,
+                    "source_url": "",
+                    "reference_url": "",
+                    "data_classification": "Restricted",
+                    "data_steward": "Julia Lane",
+                    "data_steward_organization": "Coleridge Initiative",
+                    "source_archive": "",
+                    "data_provider": "National Center for Science and Engineering Statistics (NCSES)",
+                    "dataset_citation": "",
+                    "files_total": 1,
+                    "files": [
+                        {
+                            "file_name": "adrf-000140-sed4ncses.sas7dbat",
+                            "columns_metadata": {
+                                "drf_id": {
+                                    "description": "ID number",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdfy": {
+                                    "description": "Fiscal year of doctorate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "formind": {
+                                    "description": "Form type indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "doccode": {
+                                    "description": "Type of doctorate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phddiss": {
+                                    "description": "Dissertation field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phddiss2": {
+                                    "description": "Secondary dissertation field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "tuitrems": {
+                                    "description": "Tuition remission - full or partial",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srceprim": {
+                                    "description": "Primary source of support",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srce1ed": {
+                                    "description": "Primary source of support (Edited)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcesec": {
+                                    "description": "Secondary source of support",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcea": {
+                                    "description": "Fellowship, scholarship",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srceb": {
+                                    "description": "Grant",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcec": {
+                                    "description": "Teaching assistantship",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srced": {
+                                    "description": "Research assistantship",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcee": {
+                                    "description": "Other assistantship",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcef": {
+                                    "description": "Traineeship",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srceg": {
+                                    "description": "Internship, clinical residency",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srceh": {
+                                    "description": "Loans (from any source)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcei": {
+                                    "description": "Personal savings",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcej": {
+                                    "description": "Personal earnings during graduate school (other than sources listed above)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcek": {
+                                    "description": "Spouse's, partner's, or family's earnings or savings",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcel": {
+                                    "description": "Employer reimbursement/assistance",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcem": {
+                                    "description": "Foreign (non-U.S.) support",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srcen": {
+                                    "description": "Other source of support",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "udebtlvl": {
+                                    "description": "Undergraduate debt level",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "gdebtlvl": {
+                                    "description": "Graduate debt level",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "debtlevl": {
+                                    "description": "Cumulative debt level",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdinst": {
+                                    "description": "Doctoral institution",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdnid": {
+                                    "description": "Doctoral institution (NCSES Institution ID)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdfield": {
+                                    "description": "Doctoral field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdemonth": {
+                                    "description": "Month of doctoral program entry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdeyear": {
+                                    "description": "Year of doctoral program entry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdmonth": {
+                                    "description": "Month of Doctorate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdcy": {
+                                    "description": "Calendar year of Doctorate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdcarn": {
+                                    "description": "Doctoral institution Carnegie Classification",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdcarnp": {
+                                    "description": "Doctoral institution Carnegie public/private indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdhbcu": {
+                                    "description": "Doctoral institution HBCU Indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdtype1": {
+                                    "description": "Type of Doctorate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdtype2": {
+                                    "description": "Applied research Doctorate type",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ceplace": {
+                                    "description": "Place of college entry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdcount": {
+                                    "description": "Number of research Doctorates received",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "prevdrf": {
+                                    "description": "DRF_ID of previous Doctorate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "msprereq": {
+                                    "description": "Prerequisite Master's degree for Doctoral program",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "gemonth": {
+                                    "description": "Month of graduate entry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "geyear": {
+                                    "description": "Year of graduate entry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "agedoc": {
+                                    "description": "Age at doctorate",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ttdbaphd": {
+                                    "description": "Total time elapsed from baccalaureate to Doctorate",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ttdgephd": {
+                                    "description": "Total time elapsed from graduate entry to Doctorate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ttddoc": {
+                                    "description": "Total elapsed time in doctorate",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "yrscours": {
+                                    "description": "Years of Doctoral coursework",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "yrsdisst": {
+                                    "description": "Years preparing dissertation",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "yrsnotwrk": {
+                                    "description": "Years not working on Doctoral degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "yrsgrad": {
+                                    "description": "Years from graduate entry to Doctorate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "yearsft": {
+                                    "description": "Full time years",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "toceba": {
+                                    "description": "Time out college entry-baccalaureate",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "tobage": {
+                                    "description": "Time out baccalaureate-graduate entry",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "togema": {
+                                    "description": "Time out graduate entry-Master's",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "tomaphd": {
+                                    "description": "Time out Master's-Doctorate",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "togephd": {
+                                    "description": "Time out graduate entry-Doctorate",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ticephd": {
+                                    "description": "Time in college entry-Doctorate",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "jrcoll": {
+                                    "description": "Junior college indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "meddent": {
+                                    "description": "Additional professional medical or dental degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mddeg": {
+                                    "description": "Earned professional medical degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mdstudy": {
+                                    "description": "Earning professional medical degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ddsdeg": {
+                                    "description": "Earned professional dental degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ddsstudy": {
+                                    "description": "Earning professional dental degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "regnurse": {
+                                    "description": "RN degree indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdloc": {
+                                    "description": "Postgraduation location",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdforgn": {
+                                    "description": "Postgraduation affiliation with a non-U.S. college or university",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "salaryr": {
+                                    "description": "Range of basic annual salary",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "salaryv": {
+                                    "description": "Basic annual salary",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "salmonth": {
+                                    "description": "Number of months basic annual salary covers",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "prestat": {
+                                    "description": "Predoctoral status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sex": {
+                                    "description": "Sex of student",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "marital": {
+                                    "description": "Marital status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "depends": {
+                                    "description": "Number of dependents",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "depend5": {
+                                    "description": "Number of dependents - ages 5 or younger",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "depend18": {
+                                    "description": "Number of dependents - ages 6-18",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "depend19": {
+                                    "description": "Number of dependents - ages 19 and older",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "edfather": {
+                                    "description": "Father's education",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "edmother": {
+                                    "description": "Mother's education",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "birthpl": {
+                                    "description": "Place of birth",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "birthmo": {
+                                    "description": "Month of birth",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "birthyr": {
+                                    "description": "Year of birth",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "citiz": {
+                                    "description": "Type of citizenship",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "cntrycit": {
+                                    "description": "Country of citizenship",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hsplace": {
+                                    "description": "Place of high school",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hsyear": {
+                                    "description": "Year of high school graduation",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "disability1": {
+                                    "description": "Disability status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "disability2": {
+                                    "description": "Moderate or greater degree of difficulty in any domain",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "visudis": {
+                                    "description": "Blind/visually impaired indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "audidis": {
+                                    "description": "Deaf/hearing disability indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "orthdis": {
+                                    "description": "Physical/orthopedic disability indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "cogndis": {
+                                    "description": "Learning/cognitive disability indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "vocldis": {
+                                    "description": "Vocal/speech disability indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "othrdis": {
+                                    "description": "Other/unknown disability indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difsee": {
+                                    "description": "Degree of difficulty seeing",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difhear": {
+                                    "description": "Degree of difficulty hearing",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difwalk": {
+                                    "description": "Degree of difficulty walking",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "diflift": {
+                                    "description": "Degree of difficulty lifting",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difcogn": {
+                                    "description": "Degree of difficulty concentrating, remembering, or making decisions",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difothr": {
+                                    "description": "Other type of difficulty",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difage": {
+                                    "description": "Earliest age experienced difficulties",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hispanic": {
+                                    "description": "Hispanic origin indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "race": {
+                                    "description": "Edited race/ethnic code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "race2": {
+                                    "description": "Edited ethnicity/race code (NSF-revised)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "amerind": {
+                                    "description": "American Indian/Alaska Native race indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hawaiian": {
+                                    "description": "Native Hawaiian/Pacific Islander race indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "asian": {
+                                    "description": "Asian race indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "black": {
+                                    "description": "Black race indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "white": {
+                                    "description": "White race indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "raceoth": {
+                                    "description": "Other/multiple race indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "questmo": {
+                                    "description": "Mode of survey response",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "questmon": {
+                                    "description": "Month questionnaire filled out",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "questyr": {
+                                    "description": "Year questionnaire filled out",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sumreqst": {
+                                    "description": "Requested summary of survey results",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "caseid": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "norc_web": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "new_case": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "postdoc": {
+                                    "description": "Intention to take postdoc position",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdempfld": {
+                                    "description": "Postgraduation employment field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdemploy": {
+                                    "description": "Postgraduation employer type",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdlocd": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdoccode": {
+                                    "description": "Postgraduation institution affiliation in the U.S. (IPEDS)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdocnid": {
+                                    "description": "Postgraduation institution affiliation in the U.S. (NCSES Institution ID)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdocplan": {
+                                    "description": "Postgraduation plans",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdocstat": {
+                                    "description": "Postgraduation status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdsameemp": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdstdfld": {
+                                    "description": "Postdoc study field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdstdsup": {
+                                    "description": "Postdoctoral study support",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdusfor": {
+                                    "description": "Postgraduation location: U.S. or foreign",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdwk1ed": {
+                                    "description": "Edited primary work activity",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdwk2ed": {
+                                    "description": "Edited secondary work activity",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdwkprim": {
+                                    "description": "Primary work activity",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdwksec": {
+                                    "description": "Secondary work activity",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fixed_birthyr": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdfield_name": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "age_at_dissertation": {
+                                    "description": "",
+                                    "provided-type": "integer",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "aadegrn": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "aaemonth": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "aaeyear": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "aafield": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "aainst": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "aamonth": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "aanid": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "aayear": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "badegrn": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bacarn": {
+                                    "description": "Baccalaureate institution Carnegie Classification",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bacarnp": {
+                                    "description": "Baccalaureate institution Carnegie Public/Private Indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "badblfield": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "badblmaj": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "baemonth": {
+                                    "description": "Month of bachelor's entry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "baeyear": {
+                                    "description": "Year of bachelor's entry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bafield": {
+                                    "description": "Baccalaureate field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bahbcu": {
+                                    "description": "Baccalaureate institution HBCU Indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bainst": {
+                                    "description": "Baccalaureate institution",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bamonth": {
+                                    "description": "Month of Baccalaureate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "banid": {
+                                    "description": "Baccalaureate institution (NCSES Institution ID)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "banone": {
+                                    "description": "No Baccalaureate and/or Master's indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "baplace": {
+                                    "description": "Place of Baccalaureate institution",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bayear": {
+                                    "description": "Year of Baccalaureate",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2carn": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2carnp": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2emonth": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2eyear": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2field": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2hbcu": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2inst": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2month": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2nid": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ba2year": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "madegrn": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "macarn": {
+                                    "description": "Master's institution Carnegie Classification",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "macarnp": {
+                                    "description": "Master's institution Carnegie Public/Private Indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "macred": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "maemonth": {
+                                    "description": "Month of Master's entry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "maeyear": {
+                                    "description": "Year of Master's entry",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mafield": {
+                                    "description": "Master's field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mahbcu": {
+                                    "description": "Master's institution HBCU Indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mainst": {
+                                    "description": "Master's institution",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mamonth": {
+                                    "description": "Month of Master's",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "manid": {
+                                    "description": "Master's institution (NCSES Institution ID)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mapart": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mayear": {
+                                    "description": "Year of Master's",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1carn": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1carnp": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1cred": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1emonth": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1eyear": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1field": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1hbcu": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1inst": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1month": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1nid": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1part": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ma1year": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profdeg": {
+                                    "description": "Type of first professional doctorate degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profcarn": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profcarnp": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profearn": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profemonth": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profeyear": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profinst": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profmonth": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profnid": {
+                                    "description": "",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "profyear": {
+                                    "description": "Year of first professional doctorate degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                }
+                            }
+                        }
+                    ],
+                    "related_articles": []
+                }
+            }
+        }
+    ]
+}

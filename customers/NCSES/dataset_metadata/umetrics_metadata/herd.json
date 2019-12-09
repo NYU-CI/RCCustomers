@@ -1,0 +1,134 @@
+{
+    "gmeta": [
+        {
+            "adrf-000134": {
+                "mimetype": "application/json",
+                "content": 
+                {
+                    "title": "HERD 2010-2017",
+                    "keywords": [
+                        "NSF Higher Education Research and Development Survey (HERD)",
+                        "The Integrated Postsecondary Education Data System (IPEDS)"
+                    ],
+                    "dataset_id": "adrf-000134",
+                    "file_names": [
+                        "adrf-000134-NSF_HERD_2010_2017.csv"
+                    ],
+                    "description": "This file includes publicly available Higher Education Research and Development Survey data downloaded from NSF in July 2019. HERD is the primary source of information on R&D expenditures at U.S. colleges and universities. The survey is an annual census of institutions that expended at least $150,000 in separately accounted for R&D in the fiscal year. In addition to R&D expenditures, this provides data on institutional characteristics (i.e., highest degree granted, historically black college or university [HBCU], high Hispanic enrollment [HHE], public or private control).",
+                    "temporal_coverage_start": "2010",
+                    "temporal_coverage_end": "2017",
+                    "geographical_coverage": [
+                        "USA"
+                    ],
+                    "geographical_unit": [
+                        "Country"
+                    ],
+                    "dataset_documentation": [
+                        "HERD.xlsx"
+                    ],
+                    "access_actions_required": "Public / Open Access (no data use agreement required)",
+                    "access_requirements": "Public / Open Access (no data use agreement required)",
+                    "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.",
+                    "category": "NSF-collected institutional profile data",
+                    "dataset_version": 1,
+                    "dataset_version_date": 1573055804,
+                    "source_url": "",
+                    "reference_url": "",
+                    "data_classification": "Public",
+                    "data_steward": "Julia Lane",
+                    "data_steward_organization": "Coleridge Initiative",
+                    "source_archive": "",
+                    "data_provider": "Institute for Research on Innovation and Science (IRIS)",
+                    "dataset_citation": "",
+                    "files_total": 1,
+                    "files": [
+                        {
+                            "file_name": "adrf-000134-NSF_HERD_2010_2017.csv",
+                            "columns_metadata": {
+                                "\ufeffyear": {
+                                    "description": "Fiscal year (ranging between 2000 and 2017) as defined in the data source, the NSF Higher Education R&D Survey (NSF HERD)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ipeds_inst_id": {
+                                    "description": "IPEDS-assigned institution ID",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ncses_inst_id": {
+                                    "description": "NCSES-assigned institution ID",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "std_inst_name": {
+                                    "description": "These institution names are standardized; data retrieved from IPEDS via WebCASPAR downloaded and archived by IRIS (January 2019); most institution names were already standardized by NCSES IPEDS Data Center, but additional data processing was done by IRIS",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "toc_flag": {
+                                    "description": "Indicator for type of control of each academic institution: 1 = Public; 2 = Private",
+                                    "provided-type": "int",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "med_sch_flag": {
+                                    "description": "Indicator for each institution having a medical school included as part of its reporting unit: T = Has a medical school; F = Does not have a medical school",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hhe_flag": {
+                                    "description": "High Hispanic Enrollment Indicator: T = Is a high Hispanic enrollment institution; F = Is not a high Hispanic enrollment institution",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hbcu_flag": {
+                                    "description": "Indicator for historically black colleges and universities (HBCUs): T = HBCU; F = not HBCU",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "total_rd": {
+                                    "description": "R&D expenditures from the institution\u2019s current operating funds that were separately accounted for, including expenditures for organized research as defined by 2 CFR 220 Part 200 Appendix III and expenditures from funds designated for research; expenditures came from internal or external funding and included recovered and unrecovered indirect costs; funds passed through to subrecipient organizations were also included; R&D was excluded if it was conducted by university faculty or staff at outside institutions and was not accounted for in the reporting institution\u2019s financial records; data retrieved from NSF HERD",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "federal_rd": {
+                                    "description": "R&D expenditures, presented in thousands of dollars,  in all fields, including direct and recovered indirect costs, funded by all agencies of the Federal government; data retrieved from NSF HERD",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "city": {
+                                    "description": "City of the academic institution associated with each reporting campus / unit\u2019s address",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "state": {
+                                    "description": "State of the academic institution associated with each reporting campus / unit\u2019s address; there are 55 unique abbreviations for 50 US states and 5 territories",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "zipcode": {
+                                    "description": "US ZIP code associated with each academic institution\u2019s (reporting campus / unit\u2019s) address",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                }
+                            }
+                        }
+                    ],
+                    "related_articles": []
+                }
+            }
+        }
+    ]
+}

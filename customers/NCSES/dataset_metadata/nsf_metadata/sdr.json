@@ -1,0 +1,2672 @@
+{
+    "gmeta": [
+        {
+            "adrf-000142": {
+                "mimetype": "application/json",
+                "content": {
+                    "title": "sdr2017_ncsesclass",
+                    "keywords": [
+                        "employment",
+                        "education history",
+                        "demographics"
+                    ],
+                    "dataset_id": "adrf-000142",
+                    "file_names": [
+                        "adrf-000142-sdr2017_ncsesclass.sas7bdat"
+                    ],
+                    "description": "A subset of the 2017 Survey of Doctorate Recipients restricted survey data. This subset includes respondents from the cohort of FY 2008 - 2013; The data set is extracted from the 2017 SDR RUF for the Coleridge Initiative training class - Applied Data Analytics, sponsored by NCSES",
+                    "temporal_coverage_start": "",
+                    "temporal_coverage_end": "",
+                    "geographical_coverage": [
+                        ""
+                    ],
+                    "geographical_unit": [
+                        ""
+                    ],
+                    "dataset_documentation": [
+                        "ADRF-Data_Provider-Dataset_Metadata_Form_NCSESdata"
+                    ],
+                    "access_actions_required": "Access is granted to only those with approved NCSES data use agreement",
+                    "access_requirements": "Access is granted to only those with approved NCSES data use agreement",
+                    "data_usage_policy": "Please see the NCSES data use agreement",
+                    "category": "",
+                    "dataset_version": 1,
+                    "dataset_version_date": 1575327829,
+                    "source_url": "",
+                    "reference_url": "",
+                    "data_classification": "Restricted",
+                    "data_steward": "Julia Lane",
+                    "data_steward_organization": "Coleridge Initiative",
+                    "source_archive": "",
+                    "data_provider": "National Center for Science and Engineering Statistics (NCSES)",
+                    "dataset_citation": "",
+                    "files_total": 1,
+                    "files": [
+                        {
+                            "file_name": "adrf-000142-sdr2017_ncsesclass.sas7bdat",
+                            "columns_metadata": {
+                                "refid": {
+                                    "description": "Reference/ID number",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "refyr": {
+                                    "description": "Survey year",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "surid": {
+                                    "description": "Survey identifier",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wrkg": {
+                                    "description": "Working for pay or profit during reference week",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "lookwk": {
+                                    "description": "Not working, looking for work",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nwret": {
+                                    "description": "Reasons for not working: retired",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nwrtyr": {
+                                    "description": "Reasons for not working: retired year",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nwlay": {
+                                    "description": "Reasons for not working: layoff",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nwstu": {
+                                    "description": "Reasons for not working: student",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nwfam": {
+                                    "description": "Reasons for not working: family responsibilities",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nwill": {
+                                    "description": "Reasons for not working: illness/disability",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nwocna": {
+                                    "description": "Reasons for not working: suitable job not available",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nwnond": {
+                                    "description": "Reasons for not working: did not need/want to work",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nwot": {
+                                    "description": "Reasons for not working: other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "lwmn": {
+                                    "description": "Month last worked",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "lwnvr": {
+                                    "description": "Never worked",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "lwyr": {
+                                    "description": "Year last worked",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "n2oclst": {
+                                    "description": "Job code for last job - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "n2oclstx": {
+                                    "description": "Job code for last job - reported code (do not use for analysis - use best code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ftpret": {
+                                    "description": "Previously retired",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ftprtyr": {
+                                    "description": "Year previously retired",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emsize": {
+                                    "description": "Employer size",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "newbus": {
+                                    "description": "New business",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nedtp": {
+                                    "description": "Employer type (not taking into account if it was an educational institution)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emed": {
+                                    "description": "Indicator for educational institution employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "edtp": {
+                                    "description": "Type of educational institution employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadna": {
+                                    "description": "Academic position: not applicable",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadpres": {
+                                    "description": "Academic position: president/provost/chancellor",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acaddean": {
+                                    "description": "Academic position: dean",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadrchf": {
+                                    "description": "Academic position: research faculty",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadtchf": {
+                                    "description": "Academic position: teaching faculty",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadadjf": {
+                                    "description": "Academic position: adjunct faculty",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadpdoc": {
+                                    "description": "Academic position: postdoc",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadra": {
+                                    "description": "Academic position: research assistant",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadta": {
+                                    "description": "Academic position: teaching assistant",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadothr": {
+                                    "description": "Academic position: other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facrank": {
+                                    "description": "Faculty rank",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "tensta": {
+                                    "description": "Tenure status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "tenyr": {
+                                    "description": "Tenure year",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "n2ocpr": {
+                                    "description": "Job code for principal job - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "n2ocprx": {
+                                    "description": "Job code for principal job - reported code (do not use for analysis - use best code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mgrnat": {
+                                    "description": "Job required technical expertise at the bachelor's level or higher:  eng, comp sci, math, nat sciences",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mgrsoc": {
+                                    "description": "Job required technical expertise at the bachelor's level or higher:  social sciences",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mgroth": {
+                                    "description": "Job required technical expertise at the bachelor's level or higher:  Other fields (e.g. health/business)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdix": {
+                                    "description": "Principal job postdoc indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdtrain": {
+                                    "description": "Reason for taking postdoc: additional training in PhD field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdtrout": {
+                                    "description": "Reason for taking postdoc: training in area outside PhD field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdperpl": {
+                                    "description": "Reason for taking postdoc: work with specific person or place",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdempl": {
+                                    "description": "Reason for taking postdoc: other employment not available",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdexpect": {
+                                    "description": "Reason for taking postdoc: generally expected in field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdother": {
+                                    "description": "Reason for taking postdoc: other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdpri": {
+                                    "description": "Most important reason for taking postdoc",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdsec": {
+                                    "description": "Second most important reason for taking postdoc",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "strtmn": {
+                                    "description": "Month principal job started",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "strtyr": {
+                                    "description": "Year principal job started",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ocedrlp": {
+                                    "description": "Extent that principal job is related to highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nrpay": {
+                                    "description": "Reason for working outside field of highest degree: pay/promotion",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nrcon": {
+                                    "description": "Reason for working outside field of highest degree: working conditions",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nrloc": {
+                                    "description": "Reason for working outside field of highest degree: job location",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nrchg": {
+                                    "description": "Reason for working outside field of highest degree: career change",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nrfam": {
+                                    "description": "Reason for working outside field of highest degree: family-related reasons",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nrocna": {
+                                    "description": "Reason for working outside field of highest degree: suitable job not available",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nrot": {
+                                    "description": "Reason for working outside field of highest degree: other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nrrea": {
+                                    "description": "Most important reason for working outside field of highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nrsec": {
+                                    "description": "Second most important reason for working outside field of highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "waacc": {
+                                    "description": "Work activity on principal job (10% indicator): accounting, finance, contracts",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wabrsh": {
+                                    "description": "Work activity on principal job (10% indicator): basic research",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "waaprsh": {
+                                    "description": "Work activity on principal job (10% indicator): applied research",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wadev": {
+                                    "description": "Work activity on principal job (10% indicator): development",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wadsn": {
+                                    "description": "Work activity on principal job (10% indicator): design",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wacom": {
+                                    "description": "Work activity on principal job (10% indicator): computer applications",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "waemrl": {
+                                    "description": "Work activity on principal job (10% indicator): human resources",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wamgmt": {
+                                    "description": "Work activity on principal job (10% indicator): managing or supervising people/project",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "waprod": {
+                                    "description": "Work activity on principal job (10% indicator): production, operations, maintenance",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wasvc": {
+                                    "description": "Work activity on principal job (10% indicator): professional services",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wasale": {
+                                    "description": "Work activity on principal job (10% indicator): sales, purchasing, marketing",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "waqm": {
+                                    "description": "Work activity on principal job (10% indicator): quality or productivity management",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "watea": {
+                                    "description": "Work activity on principal job (10% indicator): teaching",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "waot": {
+                                    "description": "Work activity on principal job (10% indicator): other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wapri": {
+                                    "description": "Work activity spent most hours on in principal job",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wasec": {
+                                    "description": "Work activity spent second most hours on in principal job",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "supwk": {
+                                    "description": "Supervised others in principal job indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "supdir": {
+                                    "description": "Number of people supervised directly",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "supind": {
+                                    "description": "Number of people supervised through subordinates",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "satsal": {
+                                    "description": "Satisfaction principal job salary",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "satben": {
+                                    "description": "Satisfaction principal job benefits",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "satsec": {
+                                    "description": "Satisfaction principal job's job security",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "satloc": {
+                                    "description": "Satisfaction principal job's job location",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "satadv": {
+                                    "description": "Satisfaction principal job's opportunities for advancement",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "satchal": {
+                                    "description": "Satisfaction principal job's intellectual challenge",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "satresp": {
+                                    "description": "Satisfaction principal job's level of responsibility",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "satind": {
+                                    "description": "Satisfaction principal job's degree of independence",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "satsoc": {
+                                    "description": "Satisfaction principal job's contribution to society",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "jobsatis": {
+                                    "description": "Job satisfaction",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "salary": {
+                                    "description": "Salary (annualized)",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wksyr": {
+                                    "description": "Indicator for working 52 weeks per year",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wkslyr": {
+                                    "description": "Number of weeks worked per year if less than 52 weeks",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hrswk": {
+                                    "description": "Principal job: hours per week typically worked",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pjwtft": {
+                                    "description": "Want to work full-time on principal job indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pjret": {
+                                    "description": "Reason worked part-time:  previously or semi-retired",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pjretyr": {
+                                    "description": "Reason worked part-time: previously or semi-retired year",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pjstu": {
+                                    "description": "Reason worked part-time:  student",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pjfam": {
+                                    "description": "Reason worked part-time:  family responsibilities",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pjocna": {
+                                    "description": "Reason worked part-time:  full-time job not available",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pjhaj": {
+                                    "description": "Reason worked part-time:  held another job",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pjnond": {
+                                    "description": "Reason worked part-time:  did not need/want to work full-time",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pjot": {
+                                    "description": "Reason worked part-time:  other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "jobins": {
+                                    "description": "Available benefits: health insurance",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "jobpens": {
+                                    "description": "Available benefits: pension/retirement plan",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "jobproft": {
+                                    "description": "Available benefits: profit-sharing plan",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "jobvac": {
+                                    "description": "Available benefits: paid vacation/sick/personal days",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "govsup": {
+                                    "description": "Federal government support indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fsdod": {
+                                    "description": "Federal agency supporting work: Defense",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fsded": {
+                                    "description": "Federal agency supporting work: Education",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fsdoe": {
+                                    "description": "Federal agency supporting work: Energy",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fsnih": {
+                                    "description": "Federal agency supporting work: NIH",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fshhs": {
+                                    "description": "Federal agency supporting work: HHS",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fsnasa": {
+                                    "description": "Federal agency supporting work: NASA",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fsnsf": {
+                                    "description": "Federal agency supporting work: NSF",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fsot": {
+                                    "description": "Federal agency supporting work: Other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fsdk": {
+                                    "description": "Federal agency supporting work: Agency Unknown",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "earn": {
+                                    "description": "Total earned income before deductions in previous year",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wrkgp": {
+                                    "description": "Employment status indicator, comparing current and previous reference weeks",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emsmi": {
+                                    "description": "Employment status (same job/employer?), current and previous reference weeks",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chpay": {
+                                    "description": "Reason for changing employer or job: pay, promotion",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chcon": {
+                                    "description": "Reason for changing employer or job: working conditions",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chloc": {
+                                    "description": "Reason for changing employer or job: job location",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chchg": {
+                                    "description": "Reason for changing employer or job: change in career/professional interests",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chfam": {
+                                    "description": "Reason for changing employer or job: family-related reasons",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chsch": {
+                                    "description": "Reason for changing employer or job: school-related reasons",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chlay": {
+                                    "description": "Reason for changing employer or job: laid off/job terminated",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chret": {
+                                    "description": "Reason for changing employer or job: retired",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chot": {
+                                    "description": "Reason for changing employer or job: other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wktrni": {
+                                    "description": "Attended work-related training",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wtrskl": {
+                                    "description": "Reason for attending work-related training: acquire further skills/knowledge",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wtropps": {
+                                    "description": "Reason for attending work-related training: increase advancement opportunities in current occupation",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wtrlic": {
+                                    "description": "Reason for attending work-related training: licensure/certification",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wtrchoc": {
+                                    "description": "Reason for attending work-related training: facilitate occupation change to different field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wtrem": {
+                                    "description": "Reason for attending work-related training: required/expected by employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wtrpers": {
+                                    "description": "Reason for attending work-related training:  leisure/personal interest",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wtrot": {
+                                    "description": "Reason for attending work-related training: other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wtreasn": {
+                                    "description": "Most important reason for taking work-related training",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "promtgi": {
+                                    "description": "Attended professional meetings in past year",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "prmbr": {
+                                    "description": "Number of professional society memberships",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facsal": {
+                                    "description": "Importance of job's salary",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facben": {
+                                    "description": "Importance of job's benefits",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facsec": {
+                                    "description": "Importance of job's security",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facloc": {
+                                    "description": "Importance of job's location",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facadv": {
+                                    "description": "Importance of job's opportunities for advancement",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facchal": {
+                                    "description": "Importance of job's intellectual challenge",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facresp": {
+                                    "description": "Importance of job's level of responsibility",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facind": {
+                                    "description": "Importance of job's degree of independence",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "facsoc": {
+                                    "description": "Importance of job's contribution to society",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "tcdgcmp": {
+                                    "description": "Completed degree between previous survey reference month/year and current survey reference month/year",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrdg": {
+                                    "description": "Most recent degree type",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrmn": {
+                                    "description": "Month of award of most recent degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mryr": {
+                                    "description": "Year of award of most recent degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrcar": {
+                                    "description": "Reason for obtaining most recent degree: further education before career",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrgrd": {
+                                    "description": "Reason for obtaining most recent degree: prepare for grad school/further education",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrchg": {
+                                    "description": "Reason for obtaining most recent degree: change academic/occupational field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrskl": {
+                                    "description": "Reason for obtaining most recent degree: acquire further skills in field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrlic": {
+                                    "description": "Reason for obtaining most recent degree: licensure/certification",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mradv": {
+                                    "description": "Reason for obtaining most recent degree: increase opportunities for promotion, advancement, higher salary",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrem": {
+                                    "description": "Reason for obtaining most recent degree: required/expected by employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrint": {
+                                    "description": "Reason for obtaining most recent degree: leisure/personal interest",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrot": {
+                                    "description": "Reason for obtaining most recent degree: other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acsin": {
+                                    "description": "Taking courses and/or enrolled during reference week indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acfpt": {
+                                    "description": "Taking courses/enrolled during reference week: enrollment status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acdrg": {
+                                    "description": "Type of degree working on during reference week",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "accar": {
+                                    "description": "Reason for taking courses during reference week: further education before career",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acgrd": {
+                                    "description": "Reason for taking courses during reference week: prepare for graduate school/further education",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acchg": {
+                                    "description": "Reason for taking courses during reference week:  change academic/occupational field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acskl": {
+                                    "description": "Reason for taking courses during reference week: gain further skills in field",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "aclic": {
+                                    "description": "Reason for taking courses during reference week: licensure/certification",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acadv": {
+                                    "description": "Reason for taking courses during reference week: increase advancement opportunities",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acem": {
+                                    "description": "Reason for taking courses during reference week: expected/required by employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acint": {
+                                    "description": "Reason for taking courses during reference week: leisure/personal interest",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acot": {
+                                    "description": "Reason for taking courses during reference week: other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acccep": {
+                                    "description": "School related costs for course taking paid by employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "marsta": {
+                                    "description": "Marital status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "spowk": {
+                                    "description": "Spouse or partner working?",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "spnat": {
+                                    "description": "Technical expertise required by spouse/partner job: engineering, computer, math, natural sciences",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "spsoc": {
+                                    "description": "Technical expertise required by spouse/partner Job: social sciences",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "spot": {
+                                    "description": "Technical expertise required by spouse/partner job: other",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chlvin": {
+                                    "description": "Children living in household indicator (all ages)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chu2": {
+                                    "description": "Number of children living in household: under age 2",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch25": {
+                                    "description": "Number of children living in household: ages 2-5",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch611": {
+                                    "description": "Number of children living in household: ages 6-11",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch1218": {
+                                    "description": "Number of children living in household: ages 12-18",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch19": {
+                                    "description": "Number of children living in household: age 19 or older",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fninus": {
+                                    "description": "Living in U.S. during reference week",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "reside": {
+                                    "description": "Living in U.S. or territory during reference week",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "residev": {
+                                    "description": "Living in U.S. or territory during reference week- other specify",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ctzusin": {
+                                    "description": "U.S. citizenship status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ctzus": {
+                                    "description": "Type of US citizen",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ctzfor": {
+                                    "description": "Visa type for non-US citizens",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difsee": {
+                                    "description": "Physical abilities: degree of difficulty seeing",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difhear": {
+                                    "description": "Physical abilities: degree of difficulty hearing",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difwalk": {
+                                    "description": "Physical abilities: degree of difficulty walking",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "diflift": {
+                                    "description": "Physical abilities: degree of difficulty lifting",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difcogn": {
+                                    "description": "Physical abilities: degree of difficulty cognition",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difno": {
+                                    "description": "No difficulty with physical activities",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difage": {
+                                    "description": "Physical abilities: earliest age experienced difficulties",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difbir": {
+                                    "description": "Physical abilities: experienced difficulties since birth",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ctzn_drf": {
+                                    "description": "Citizenship or visa status from DRF",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pdusfor": {
+                                    "description": "Postgraduation location: U.S. or foreign from DRF",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "phdfield_orig": {
+                                    "description": "Doctorate field of degree from DRF at time of sampling into SDR",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "actcap": {
+                                    "description": "Primary/secondary work activity on principal job: computer applications",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "actded": {
+                                    "description": "Primary/secondary work activity on principal job: development or design",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "actmgt": {
+                                    "description": "Primary/secondary work activity on principal job: management/sales",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "actrd": {
+                                    "description": "Primary/secondary work activity on principal job: basic research/applied research/development/design",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "actrdt": {
+                                    "description": "Primary/secondary work activity on principal job: basic research/applied research/development/design/teaching",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "actres": {
+                                    "description": "Primary/secondary work activity on principal job: basic or applied research",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "acttch": {
+                                    "description": "Primary/secondary work activity on principal job: teaching",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "agegr": {
+                                    "description": "Age Group (5 year intervals)",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "baacyr": {
+                                    "description": "Academic year of award for first bachelor's degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "baayr3": {
+                                    "description": "Year of award of first bachelor's degree (3-year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "baayr5": {
+                                    "description": "Year of award of first bachelor's degree (5-year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bargn": {
+                                    "description": "Location of school awarding first bachelor's degree (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bthrgn": {
+                                    "description": "Place of birth (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bthus": {
+                                    "description": "Place of birth (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch6": {
+                                    "description": "Number of children living in household: under age 6",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch1218in": {
+                                    "description": "Children living in household indicator: ages 12-18",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch19in": {
+                                    "description": "Children living in household indicator: age 19 or older",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch25in": {
+                                    "description": "Children living in household indicator: ages 2-5",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch611in": {
+                                    "description": "Children living in household indicator: ages 6-11",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ch6in": {
+                                    "description": "Children living in household indicator: under age 6",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chu2in": {
+                                    "description": "Children living in household indicator: under age 2",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "chun12": {
+                                    "description": "Children living in household indicator: under age 12",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ctzn": {
+                                    "description": "Citizenship or visa status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d23yr": {
+                                    "description": "Year of award of second highest degree (3 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d25yr": {
+                                    "description": "Year of award of second highest degree (5 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2dgrus": {
+                                    "description": "Location of school awarding second highest degree (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2rgn": {
+                                    "description": "Location of school awarding second highest degree (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d33yr": {
+                                    "description": "Year of award of third highest degree (3 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d35yr": {
+                                    "description": "Year of award of third highest degree (5 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3ayr": {
+                                    "description": "Academic year of award for third highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3dgrus": {
+                                    "description": "Location of school awarding third highest degree (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3rgn": {
+                                    "description": "Location of school awarding third highest degree (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d43yr": {
+                                    "description": "Year of award of fourth highest degree (3 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d45yr": {
+                                    "description": "Year of award of fourth highest degree (5 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4ayr": {
+                                    "description": "Academic year of award for fourth highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4dgrus": {
+                                    "description": "Location of school awarding fourth highest degree (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4rgn": {
+                                    "description": "Location of school awarding fourth highest degree (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d53yr": {
+                                    "description": "Year of award of fifth highest degree (3 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d55yr": {
+                                    "description": "Year of award of fifth highest degree (5 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5ayr": {
+                                    "description": "Academic year of award for fifth highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5dgrus": {
+                                    "description": "Location of school awarding fifth highest degree (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5rgn": {
+                                    "description": "Location of school awarding fifth highest degree (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "difagegr": {
+                                    "description": "Physical abilities: earliest age experienced difficulties (5 year intervals)",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emrg": {
+                                    "description": "Region code for employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emsecdt": {
+                                    "description": "Employer sector (detailed codes)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emsecsm": {
+                                    "description": "Employer sector (summary codes)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emtp": {
+                                    "description": "Employer type (taking into account educational institutions)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emus": {
+                                    "description": "Employer location (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fninusloc": {
+                                    "description": "State/country code corresponding to FNINUS",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fncrgn": {
+                                    "description": "Country of citizenship (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hcapin": {
+                                    "description": "Physical disabilities indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdacy3": {
+                                    "description": "Year of award of highest degree (3 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hday5": {
+                                    "description": "Year of award of highest degree (5 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hddgrus": {
+                                    "description": "Location of school awarding highest degree (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdrgn": {
+                                    "description": "Location of school awarding highest degree (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "lfstat": {
+                                    "description": "Labor force status",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "marind": {
+                                    "description": "Marital status indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "minrty": {
+                                    "description": "Minority indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mr3yr": {
+                                    "description": "Year of award of most recent degree (3-year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mr5yr": {
+                                    "description": "Year of award of most recent degree (5-year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrdacyr": {
+                                    "description": "Academic year of award for most recent degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrdgrus": {
+                                    "description": "Location of school awarding most recent degree (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "racem": {
+                                    "description": "Race",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "racethm": {
+                                    "description": "Race/ethnicity",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "resplcus": {
+                                    "description": "Respondent location (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "resploc": {
+                                    "description": "Respondent location",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrrgn": {
+                                    "description": "Location of school awarding most recent degree (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "n2ocmlst": {
+                                    "description": "Job code for last job (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "n2ocnlst": {
+                                    "description": "Job code for last job (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "n2ocprmg": {
+                                    "description": "Job code for principal job (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "n2ocprng": {
+                                    "description": "Job code for principal job (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nacedmg": {
+                                    "description": "Code for field of study during reference week (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nacedng": {
+                                    "description": "Code for field of study during reference week (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nbamemg": {
+                                    "description": "Field of study for first bachelor's degree (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nbameng": {
+                                    "description": "Field of study for first bachelor's degree (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd2memg": {
+                                    "description": "Field of study for second highest degree (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd2meng": {
+                                    "description": "Field of study for second highest degree (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd3memg": {
+                                    "description": "Field of study for third highest degree (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd3meng": {
+                                    "description": "Field of study for third highest degree (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd4memg": {
+                                    "description": "Field of study for fourth highest degree (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd4meng": {
+                                    "description": "Field of study for fourth highest degree (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd5memg": {
+                                    "description": "Field of study for fifth highest degree (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd5meng": {
+                                    "description": "Field of study for fifth highest degree (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ndgmemg": {
+                                    "description": "Field of study for highest degree (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ndgmeng": {
+                                    "description": "Field of study for highest degree (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nmrmemg": {
+                                    "description": "Field of study of major for most recent degree (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nmrmeng": {
+                                    "description": "Field of study of major for most recent degree (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nsdrmedtod": {
+                                    "description": "Field of study for first US S&E or health PhD (TOD)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nsdrmem": {
+                                    "description": "Field of study for first US S&E or health PhD (major group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nsdrmemtod": {
+                                    "description": "Field of study for first US S&E or health PhD (major group, TOD)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nsdrmen": {
+                                    "description": "Field of study for first US S&E or health PhD (minor group)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nsdrmentod": {
+                                    "description": "Field of study for first US S&E or health PhD (minor group, TOD)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdr3yr": {
+                                    "description": "Year of award of first US S&E or health PhD (3 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdr5yr": {
+                                    "description": "Year of award of first US S&E or health PhD (5 year intervals)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrrgn": {
+                                    "description": "Location of school awarding first US S&E or health PhD degree (region code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sehtod": {
+                                    "description": "Major field, 1st US SEH PhD, Science/Engineering/Health (TOD)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "teni": {
+                                    "description": "Tenure status indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "waprsm": {
+                                    "description": "Summarized primary work activity",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wascsm": {
+                                    "description": "Summarized secondary work activity",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wkswk": {
+                                    "description": "Principal job salary:  weeks per year basis",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "age": {
+                                    "description": "Age",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "asian": {
+                                    "description": "Asian racial background indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bacrn05c": {
+                                    "description": "Carnegie classification for school awarding first bachelor's degree - 2005 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bacrn10c": {
+                                    "description": "Carnegie classification for school awarding first bachelor's degree - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bacrn15c": {
+                                    "description": "Carnegie classification for school awarding first bachelor's degree - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "badgrus": {
+                                    "description": "Location of school awarding first bachelor's degree (U.S./Non-U.S.)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "baincd": {
+                                    "description": "Institution code for school awarding first bachelor's degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "baind": {
+                                    "description": "Indicator of whether respondent received a BA-level degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bamn": {
+                                    "description": "Month of award of first bachelor's degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bapbp05c": {
+                                    "description": "Public/private status of postsecondary institution awarding first bachelor's degree -- 2005 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bapbp10c": {
+                                    "description": "Public/private status of postsecondary institution awarding first bachelor's degree -- 2010 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bapbp15c": {
+                                    "description": "Public/private status of postsecondary institution awarding first bachelor's degree -- 2015 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bast": {
+                                    "description": "Location of school awarding first bachelor's degree (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bayr": {
+                                    "description": "Year of award of first bachelor's degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "black": {
+                                    "description": "Black or African-American racial background indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "bthst": {
+                                    "description": "Place of birth (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "carn05c": {
+                                    "description": "Carnegie classification for employer if a postsecondary educational institution - 2005 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "carn10c": {
+                                    "description": "Carnegie classification for employer if a postsecondary educational institution - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "carn15c": {
+                                    "description": "Carnegie classification for employer if a postsecondary educational institution - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "cohort": {
+                                    "description": "Survey cohort",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2ayr": {
+                                    "description": "Academic year of award for second highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2crn05c": {
+                                    "description": "Carnegie classification for school awarding second highest degree - 2005 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2crn10c": {
+                                    "description": "Carnegie classification for school awarding second highest degree - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2crn15c": {
+                                    "description": "Carnegie classification for school awarding second highest degree - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2dg": {
+                                    "description": "Second highest degree type",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2incd": {
+                                    "description": "Institution code for school awarding second highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2mn": {
+                                    "description": "Month of award of second highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2pbp05c": {
+                                    "description": "Public/private status of postsecondary institution awarding second highest degree - 2005 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2pbp10c": {
+                                    "description": "Public/private status of postsecondary institution awarding second highest degree - 2010 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2pbp15c": {
+                                    "description": "Public/private status of postsecondary institution awarding second highest degree - 2015 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2st": {
+                                    "description": "Location of school awarding second highest degree (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d2yr": {
+                                    "description": "Year of award of second highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3crn05c": {
+                                    "description": "Carnegie classification for school awarding third highest degree - 2005 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3crn10c": {
+                                    "description": "Carnegie classification for school awarding third highest degree - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3crn15c": {
+                                    "description": "Carnegie classification for school awarding third highest degree - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3dg": {
+                                    "description": "Third highest degree type",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3incd": {
+                                    "description": "Institution code for school awarding third highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3mn": {
+                                    "description": "Month of award of third highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3pbp05c": {
+                                    "description": "Public/private status of postsecondary institution awarding third highest degree - 2005 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3pbp10c": {
+                                    "description": "Public/private status of postsecondary institution awarding third highest degree - 2010 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3pbp15c": {
+                                    "description": "Public/private status of postsecondary institution awarding third highest degree - 2015 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3st": {
+                                    "description": "Location of school awarding third highest degree (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d3yr": {
+                                    "description": "Year of award of third highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4crn05c": {
+                                    "description": "Carnegie classification for school awarding fourth highest degree - 2005 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4crn10c": {
+                                    "description": "Carnegie classification for school awarding fourth highest degree - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4crn15c": {
+                                    "description": "Carnegie classification for school awarding fourth highest degree - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4dg": {
+                                    "description": "Fourth highest degree type",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4incd": {
+                                    "description": "Institution code for school awarding fourth highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4mn": {
+                                    "description": "Month of award of fourth highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4pbp05c": {
+                                    "description": "Public/private status of postsecondary institution awarding fourth highest degree - 2005 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4pbp10c": {
+                                    "description": "Carnegie classification for school awarding fourth highest degree - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4pbp15c": {
+                                    "description": "Carnegie classification for school awarding fourth highest degree - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4st": {
+                                    "description": "Location of school awarding fourth highest degree (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d4yr": {
+                                    "description": "Year of award of fourth highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5crn05c": {
+                                    "description": "Carnegie classification for school awarding fifth highest degree - 2005 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5crn10c": {
+                                    "description": "Carnegie classification for school awarding fifth highest degree - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5crn15c": {
+                                    "description": "Carnegie classification for school awarding fifth highest degree - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5dg": {
+                                    "description": "Fifth highest degree type",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5incd": {
+                                    "description": "Institution code for school awarding fifth highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5mn": {
+                                    "description": "Month of award of fifth highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5pbp05c": {
+                                    "description": "Public/private status of postsecondary institution awarding fifth highest degree - 2005 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5pbp10c": {
+                                    "description": "Carnegie classification for school awarding fifith highest degree - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5pbp15c": {
+                                    "description": "Carnegie classification for school awarding fifth highest degree - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5st": {
+                                    "description": "Location of school awarding fifth highest degree (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "d5yr": {
+                                    "description": "Year of award of fifth highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "dgrdg": {
+                                    "description": "Highest degree type",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "dgryr": {
+                                    "description": "Year of award of highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "eddad": {
+                                    "description": "Father's education level",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "edmom": {
+                                    "description": "Mother's education level",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "emst": {
+                                    "description": "State/country code for employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fnccd": {
+                                    "description": "Country of foreign citizenship (country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "gender": {
+                                    "description": "Gender",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdacyr": {
+                                    "description": "Academic year of award for highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdcrn05c": {
+                                    "description": "Carnegie classification for school awarding highest degree - 2005 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdcrn10c": {
+                                    "description": "Carnegie classification for school awarding highest degree - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdcrn15c": {
+                                    "description": "Carnegie classification for school awarding highest degree - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdmn": {
+                                    "description": "Month of award of highest degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdpbp05c": {
+                                    "description": "Public/private status of postsecondary institution awarding highest degree - 2005 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdpbp10c": {
+                                    "description": "Public/private status of postsecondary institution awarding highest degree - 2010 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdpbp15c": {
+                                    "description": "Public/private status of postsecondary institution awarding highest degree - 2015 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hdst": {
+                                    "description": "Location of school awarding highest degree (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hispanic": {
+                                    "description": "New Hispanic origin indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "hispcat": {
+                                    "description": "New Hispanic heritage categories",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrcrn05c": {
+                                    "description": "Carnegie classification for school awarding most recent degree - 2005 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrcrn10c": {
+                                    "description": "Carnegie classification for school awarding most recent degree - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrcrn15c": {
+                                    "description": "Carnegie classification for school awarding most recent degree - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrincd": {
+                                    "description": "Institution code for school awarding most recent degree",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrpbp05c": {
+                                    "description": "Public/private status of postsecondary institution awarding most recent degree - 2005 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrpbp10c": {
+                                    "description": "Public/private status of postsecondary institution awarding most recent degree - 2010 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrpbp15c": {
+                                    "description": "Public/private status of postsecondary institution awarding most recent degree - 2015 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "mrst": {
+                                    "description": "Location of school awarding most recent degree (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "resplo3": {
+                                    "description": "3-Digit Respondent Location (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "naced": {
+                                    "description": "Code for field of study during reference week - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nacedx": {
+                                    "description": "Code for field of study during reference week - reported code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "native": {
+                                    "description": "American Indian/Alaska Native racial background indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nbamed": {
+                                    "description": "Field of study of for first bachelor's degree - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nbamedx": {
+                                    "description": "Field of study for first bachelor's degree - reported code (do not use for analysis - use best code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd2med": {
+                                    "description": "Field of study for second highest degree - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd2medx": {
+                                    "description": "Field of study for second highest degree - reported code (do not use for analysis - use best code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd3med": {
+                                    "description": "Field of study for third highest degree - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd3medx": {
+                                    "description": "Field of study for third highest degree - reported code (do not use for analysis - use best code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd4med": {
+                                    "description": "Field of study for fourth highest degree - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd4medx": {
+                                    "description": "Field of study for fourth highest degree - reported code (do not use for analysis - use best code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd5med": {
+                                    "description": "Field of study for fifth highest degree - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nd5medx": {
+                                    "description": "Field of study for fifth highest degree - reported code (do not use for analysis - use best code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "ndgrmed": {
+                                    "description": "Field of study for highest degree - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nhdmedx": {
+                                    "description": "Field of study for highest degree - reported code (do not use for analysis - use best code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nmrmed": {
+                                    "description": "Field of study of major for most recent degree - best code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nmrmedx": {
+                                    "description": "Field of study of major for most recent degree - reported code (do not use for analysis - use best code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "nsdrmed": {
+                                    "description": "Field of study for first US S&E or health PhD",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pacific": {
+                                    "description": "Native Hawaiian or other Pacific Islander racial background indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pbpr05c": {
+                                    "description": "Public/private indicator for employer if a postsecondary educational institution - 2005 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pbpr10c": {
+                                    "description": "Public/private indicator for employer if a postsecondary educational institution - 2010 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "pbpr15c": {
+                                    "description": "Public/private indicator for employer if a postsecondary educational institution - 2015 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrayr": {
+                                    "description": "Academic year of award for first US S&E or health PhD",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrcr05c": {
+                                    "description": "Carnegie classification for school awarding first US S&E or health PhD - 2005 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrcr10c": {
+                                    "description": "Carnegie classification for school awarding first US S&E or health PhD - 2010 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrcr15c": {
+                                    "description": "Carnegie classification for school awarding first US S&E or health PhD - 2015 Carnegie code",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrincd": {
+                                    "description": "Institution code for school awarding first US S&E or health PhD",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrmn": {
+                                    "description": "Month of award of first US S&E or health PhD",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrpb05c": {
+                                    "description": "Public/private status of school awarding first US S&E or health PhD - 2005 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrpb10c": {
+                                    "description": "Public/private status of school awarding first US S&E or health PhD - 2010 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrpb15c": {
+                                    "description": "Public/private status of school awarding first US S&E or health PhD - 2015 Carnegie value",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdrst": {
+                                    "description": "Location of school awarding first US S&E or health PhD (state/country code)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "sdryr": {
+                                    "description": "Year of award of first US S&E or health PhD",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "seh": {
+                                    "description": "Major field, 1st US SEH PhD, Science/Engineering/Health",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "srvmode": {
+                                    "description": "Survey mode",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "white": {
+                                    "description": "White racial background indicator",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "wtsurvy": {
+                                    "description": "Final survey-specific weight",
+                                    "provided-type": "numeric",
+                                    "categorical": false,
+                                    "categories": []
+                                }
+                            }
+                        }
+                    ],
+                    "related_articles": []
+                }
+            }
+        }
+    ]
+}
