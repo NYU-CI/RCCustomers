@@ -1,0 +1,631 @@
+[
+{
+    "projects":
+    {
+
+    }
+},
+{
+    "topics":
+    [
+        "drought",
+        "mean high water",
+        "coastal management",
+        "inundation",
+        "sunny day flooding",
+        "king tides",
+        "storm surge",
+        "sea level rise",
+        "coastal erosion",
+        "high-tide flooding",
+        "inland flooding",
+        "tsunami",
+        "resilience",
+        "coastal communities",
+        "flood maps",
+        "hurricanes",
+        "flood atlases",
+        "forecasting",
+        "coastlines",
+        "nuisance flooding",
+        "microburst",
+        "solar flare",
+        "El Niño events",
+        "tidal range"
+    ]
+},
+{
+    "people":
+    [
+        {
+            "name": "Desiree Matel-Anderson",
+            "organization": "Field Innovation Team"
+        },
+        {
+            "name":"Kimberly E. Klockow",
+            "organization":"NOAA/OAR/Office of Weather and Air Quality"
+        },
+        {
+            "name":"Ann Bostrom",
+            "organization": "University of Washington"
+        },
+        {
+            "name":"Julie L. Demuth",
+            "organization": "NCAR"
+        },
+        {
+            "name":"William Hooke",
+            "organization":"AMS Policy Program"
+        },
+        {
+            "name":"Timothy Murphy",
+            "organization":"NOAA"
+        }
+]
+},
+{ "organizations":
+    [
+    {
+        "title": "American Meteorological Society",
+        "alias": "AMS",
+        "url": "https://www.ametsoc.org/index.cfm/ams/"
+    }
+    ,
+    {
+        "title": "American Red Cross",
+        "alias": "ARC",
+        "url": "https://www.ametsoc.org/index.cfm/ams/"
+    }
+    ,
+    {
+        "title": "Claremont College"
+    }
+    ,
+    {
+        "title": "Federal Emergency Management Agency",
+        "alias": "FEMA"
+    }
+    ,
+    {
+        "title": "Federal Emergency Management Agency",
+        "alias": "FEMA"
+    }
+    ,
+    {
+        "title": "Centers for Medicare and Medicaid Services",
+        "alias": "CMS"
+    },
+    {
+        "title": "Worldwinds, Inc"
+    },
+    {
+        "title": "Pacific Marine Environmental Laboratory",
+        "alt_title": ["PMEL"],
+        "agency": "NOAA",
+        "unit": "Center for Tsunami Research"
+    }
+    ,
+    {
+        "title": "National Geodetic Survey",
+        "alt_title": ["NGS"],
+        "agency": "NOAA",
+        "url":"https://www.ngs.noaa.gov/index.shtml",
+        "description":"NOAA’s National Geodetic Survey (NGS) provides the framework for all positioning activities in the Nation. The foundational elements of latitude, longitude, elevation, and shoreline information impact a wide range of important activities."
+    }
+    ,
+    {
+        "title": "Center for Operational Oceanographic Products and Services",
+        "alt_title": ["CO-OPS"],
+        "agency": "NOAA",
+        "url":"https://tidesandcurrents.noaa.gov/"
+    }
+    ,
+    {
+        "title": "Office of Coast Survey",
+        "alt_title": ["OCS"],
+        "agency": "NOAA",
+        "url":"https://nauticalcharts.noaa.gov/"
+    }
+    ,
+    {
+        "title": "National Geodetic Survey",
+        "alt_title": ["NGS"],
+        "agency": "NOAA"
+    },
+    {
+        "title":"National Centers for Environmental Prediction",
+        "alt_title": ["NCEP"],
+        "agency":"NOAA",
+        "unit": "National Weather Service",
+        "url":"https://www.ncep.noaa.gov/"
+    },
+    {
+        "title":"National Aeronautics and Space Administration",
+        "alt_title": "NASA"
+    }
+
+    
+    ]
+},
+{ 
+"policy":[
+    {
+        "title":"Disaster Recovery Reform Act",
+        "alt_title": "DRRA"
+    },
+    {
+        "title": "Coastal Zone Management Act of 1972"
+    },
+    {
+        "title": "Biggert-Waters Flood Reform Act of 2012",
+        "impacted":"FEMA",
+        "url":"https://www.fema.gov/media-library/assets/documents/31946"
+    },
+    {
+        "title":"National Flood Insurance Program",
+        "alt_title": "NFIP",
+        "dataset":["n-00006","n-00007","n-00008","n-00009"]
+    }
+    
+]
+},
+
+{
+    "tools":[
+        {
+            "title": "Flowx: Weather Map Forecast",
+            "alt_title": "WeatherBomb",
+            "creator": "Enzure",
+            "url":"https://play.google.com/store/apps/details?id=com.enzuredigital.weatherbomb",
+            "type": "mobile application",
+            "user": "general population"
+        },
+        {
+            "title": "federal insurance rate maps",
+            "user": "FEMA"
+        }
+        ,
+        {
+            "title": "NASA Disasters Mapping Portal insurance rate maps",
+            "creator": "NASA",
+            "url":"https://maps.disasters.nasa.gov/"
+ 
+        },
+        {
+            "title": "vdatum",
+            "url":"https://vdatum.noaa.gov/",
+            "creator":[
+                "National Geodetic Survey",
+                "Center for Operational Oceanographic Products and Services",
+                "Office of Coast Survey" 
+            ],
+            "dataset":["n-00005"]
+            
+        },
+        {
+            "title": "nowCOAST",
+            "url": "https://nowcoast.noaa.gov/",
+            "creator": "NOAA"
+        },
+        {
+            "title": "Meteorological Assimilation Data Ingest System",
+            "alt_title": ["MADIS"],
+            "description": "MADIS is a meteorological observational database and data delivery system that provides observations that cover the globe.",
+            "url": "https://madis.ncep.noaa.gov/",
+            "creator":["NCEP"]
+        },
+        {
+            "title":"Local Climate Analysis Tool",
+            "alt_title":"LCAT",
+            "url": "https://nws.weather.gov/lcat/home",
+            "creator": "NOAA"
+        },
+        {
+            "title": "WeatherView",
+            "creator":"NOAA",
+            "url":"https://www.nnvl.noaa.gov/weatherview/index.html",
+            "dataset":["n-00011"],
+            "reference":"https://ams.confex.com/ams/96Annual/webprogram/Paper285592.html"
+        },
+        {
+            "title": "WeatherSpark",
+            "creator":"Cedar Lake Ventures, Inc.",
+            "url":"https://weatherspark.com/"
+            
+        },
+        {
+            "title":"Radar Express - with NOAA Weather",
+            "url":"https://play.google.com/store/apps/details?id=com.appdlab.radarexpress",
+            "type":"mobile application"
+
+        },
+        {
+            "title":"DarkSky",
+            "dataset":["n-00012","n-00013","n-00014","n-00015"],
+            "type":["mobile app","web app"],
+            "url":"https://darksky.net/attribution"
+        },
+        {
+            "title":"NOAA Weather Unofficial",
+            "url":"https://play.google.com/store/apps/details?id=com.nstudio.weatherhere.free"
+        },
+        {
+            "title":"Sea Level Change Curve Calculator",
+            "creator":"NOAA",
+            "url":"https://coast.noaa.gov/digitalcoast/tools/curve.html",
+            "dataset":["n-00017"]
+        }
+    
+
+        	
+
+    ]
+},
+{
+    "projects":[
+        {
+            "title":"Web-Based Hurricane Storm Surge and Flood Forecasting Using Optimized IFSAR Bald Earth DEMS",
+            "organization": "Worldwinds, Inc",
+            "description": "While developing specialized hurricane flood atlases for the coastal regions using spacebased radar information under a NASA SBIR project, WorldWinds helps to develop new flood maps for FEMA post-Hurricane Katrina",
+            "funding_source":"a Phase I Small Business Innovation Research (SBIR)",
+            "funder": "NASA",
+            "topics":[
+                "flood maps",
+                "hurricanes",
+                "flood atlases"]
+        }
+        ,
+        {
+            "title": "NASA Disasters Program",
+            "organiation": "NASA",
+            "description": "The Disasters Applications area promotes the use of Earth observations to improve prediction of, preparation for, response to, and recovery from natural and technological disasters. Disaster applications and applied research on natural hazards support emergency mitigation approaches, such as early warning systems, and providing information and maps to disaster response and recovery teams."
+        },
+        {
+            "title": "Sea Level Rise Viewer",
+            "creator": "NOAA",
+            "url": "https://coast.noaa.gov/digitalcoast/tools/slr.html",
+            "dataset": ["n-00002"]
+        },
+        {
+            "title": "Integrated Dissemination Project",
+            "creator": "NOAA"
+        }
+        ,
+        {
+            "title": "Integrated Dissemination Project",
+            "creator": "NOAA"
+        },
+        {
+            "title":"Digital Coast Partnership",
+            "creator":"NOAA",
+            "url":"https://coast.noaa.gov/digitalcoast/contributing-partners/"
+        },
+        {
+           "title": "Florida Sea Grant",
+           "funder":"NOAA"
+        },
+        {
+            "title": "Georgia Sea Grant",
+            "funder":"NOAA"
+        },
+        {
+            "title": "South Carolina Sea Grant",
+            "funder":"NOAA"
+        },
+        {
+            "title": "North Carolina Sea Grant",
+            "funder":"NOAA"
+        }
+
+    ]
+},
+
+{
+    "methods":[
+        {
+            "title": "digital elevation models",
+            "topics":[
+                "forecasting",
+                "coastlines"
+
+            ]
+        }
+    ]
+}
+,
+{
+    "instruments":[
+        {
+            "title": "Interferometric Synthetic Aperture Radar",
+            "alt_title": "INSAR",
+            "provider": "NASA"
+        },
+        {
+            "title":  "Visible Infrared Imaging Radiometer Suite",
+            "alt_title": "VIIRS",
+            "yields":"Day-Night Band (DNB)"
+        },
+        {
+            "title":"Earth Observing System",
+            "alt_title":"EOS",
+            "provider":["NASA","NOAA"]
+        },
+        {
+            "title":"Joint Polar Satellite System",
+            "alt_title":"JPSS",
+            "provider":["NASA","NOAA"]
+        },
+        {
+            "title":"Suomi NPP",
+            "url":"https://www.nasa.gov/mission_pages/NPP/mission_overview/index.html"
+        }
+
+
+
+
+        
+    ]
+},
+
+{
+    "datasets":
+    [
+        {
+            "id": "n-00001",
+            "title":"Sea Level Rise Data",
+            "alt_title": ["SLR", "SLR Data"],
+            "provider":"NOAA",
+            "url": "https://coast.noaa.gov/slrdata/"
+        },
+        {
+            "id": "n-00002",
+            "title": "digital elevation model data",
+            "alt_title": ["DEM","DEMS"]
+        },
+        {
+            "id": "n-00003",
+            "title": "Next Generation Weather Radar",
+            "alt_title": ["NEXRAD"],
+            "provider":"NOAA"
+        },
+        {
+            "id": "n-00004",
+            "title": "Social Vulnerability Index",
+            "alt_title": ["SVI"],
+            "provider":"CDC",
+            "url": "https://catalog.data.gov/dataset/cdc039s-social-vulnerability-index-svi"
+        },
+        {
+            "id": "n-00005",
+            "title": "Tidal Datums",
+            "provider":"NOAA",
+            "url": "https://tidesandcurrents.noaa.gov/api/",
+            "description":"In general, a datum is a base elevation used as a reference from which to reckon heights or depths. A tidal datum is a standard elevation defined by a certain phase of the tide. Tidal datums are used as references to measure local water levels and should not be extended into areas having differing oceanographic characteristics without substantiating measurements."
+        },
+        {
+            "id": "n-00006",
+            "title": "National Flood Hazard Layer",
+            "provider":"NOAA",
+            "url": "https://coast.noaa.gov/digitalcoast/data/flood.html",
+            "description":"This digital database contains flood hazard mapping data from FEMA’s National Flood Insurance Program (NFIP)—the current effective flood risk data for parts of the country where maps have been modernized. It is a compilation of effective Flood Insurance Rate Map databases and Letters of Map Revision. The National Flood Hazard Layer is updated as new data reach their designated effective date and become valid for regulatory use under the NFIP."
+        },
+        {
+            "id": "n-00007",
+            "title": "Digital Flood Insurance Rate Map Database",
+            "alt_title":["DFIRM"],
+            "related_datasets":["n-00006"],
+            "provider":"FEMA",
+            "url": "https://catalog.data.gov/dataset/digital-flood-insurance-rate-map-database92490"
+        },
+        {
+            "id": "n-00008",
+            "title": "Flood Insurance Study",
+            "alt_title":["FIS"],
+            "related_datasets":["n-00007"],
+            "provider":"FEMA",
+            "url": "https://www.fema.gov/flood-insurance-study"
+        },
+        {
+            "id": "n-00009",
+            "title": "Flood Insurance Rate Maps",
+            "alt_title":["FIRM"],
+            "related_datasets":["n-00007"],
+            "provider":"FEMA",
+            "url": "https://www.fema.gov/flood-insurance-rate-map-firm"
+        },
+        {
+            "id": "n-00010",
+            "title": "Global Sea Level Rise Projections",
+            "alt_title":["FIRM"],
+            "related_datasets":["n-00007"],
+            "provider":"National Climate Assessment",
+            "url": "https://www.fema.gov/flood-insurance-rate-map-firm"
+        },
+        {
+            "id": "n-00011",
+            "title":"Global Forecast System",
+            "url": "https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/global-forcast-system-gfs",
+            "provider":"NOAA",
+            "description":"The Global Forecast System (GFS) is a weather forecast model produced by the National Centers for Environmental Prediction (NCEP)."
+        },
+        {
+            "id":"n-00012",
+            "title":"High-Resolution Rapid Refresh",
+            "alt_title":"HRRR",
+            "url":"https://rapidrefresh.noaa.gov/hrrr/",
+            "provider":"NOAA"
+        }
+        ,
+        {
+            "id":"n-00013",
+            "title":"Integrated Surface Database",
+            "alt_title":"ISD",
+            "url":"https://www.ncdc.noaa.gov/isd",
+            "provider":"NOAA"
+        },
+        {   
+            "id":"n-00014",
+            "title":"Public Alerts",
+            "url":"https://alerts.weather.gov/",
+            "provider":"NWS"
+        },
+        {   
+            "id":"n-00014",
+            "title":"SHORT-RANGE ENSEMBLE FORECAST",
+            "alt_title":["SREF"],
+            "url":"https://www.emc.ncep.noaa.gov/mmb/SREF/SREF.html",
+            "provider":"NCEP"
+        }
+        ,
+        {   
+            "id":"n-00015",
+            "title":"North American Mesoscale Forecast System",
+            "alt_title":["NAM"],
+            "url":"https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/north-american-mesoscale-forecast-system-nam",
+            "provider":"NCEP"
+        },
+        {
+            "id":"n-00016",
+            "title":"Inundation Mapping Tidal Surface - Mean Higher High Water",
+            "related_to":"vdatum",
+            "url":"https://data.noaa.gov/dataset/dataset/inundation-mapping-tidal-surface-mean-higher-high-water"
+        },
+        {
+            "id":"n-00017",
+            "title":"Sea Level Rise Inundation",
+            "provider":"NOAA",
+            "url":"https://coast.noaa.gov/digitalcoast/data/slr.html",
+            "note": "might be the same as n-00001"
+
+        }
+        ,
+        {
+            "id":"n-00018",
+            "title":"Coastal Topographic Lidar",
+            "provider":"NOAA",
+            "url":"https://coast.noaa.gov/digitalcoast/data/coastallidar.html"
+        }
+        
+        
+        
+        ]
+        
+
+},
+{
+    "publications":
+    [
+    {
+        "title": "Effective inundation of continental United States communities with 21st century sea level rise",
+        "doi":"10.1525/elementa.234",
+        "journal":"Elementa",
+        "dataset": ["n-00005","n-00002"],        
+        "url": "https://www.elementascience.org/articles/10.1525/elementa.234/",        
+        "github": "https://github.com/kristydahl/permanent_inundation",
+        "authors":
+        [
+           "Kristina A. Dahl" , 
+           "Erika Spanger-Siegfried", 
+           "Astrid Caldas", 
+           "Shana Udvardy"
+        ],
+        "type":"research"
+    },
+    {
+        "title":"Trends in United States Tidal Datum Statistics and Tide Range",
+        "doi":"10.1061/~ASCE!0733-950X~2003!129:4~155!",
+        "dataset":["n-00005"],
+        "url": "https://www.researchgate.net/publication/228554447_Trends_in_United_States_Tidal_Datum_Statistics_and_Tide_Range",
+        "authors":[
+            "Reinhard E. Flick",
+            "Joseph F. Murray",
+            "Lesley C. Ewing"
+        ]
+    },
+    {
+        "title":"Unlocking the Potential of NEXRAD Data through NOAA’s Big Data Partnership",
+        "url": "https://journals.ametsoc.org/doi/full/10.1175/BAMS-D-16-0021.1",
+        "doi": "10.1175/BAMS-D-16-0021.1",
+        "dataset": ["n-00003"],
+        "authors":[
+            "Steve Ansari",
+            "Stephen Del Greco"
+        ]
+    }
+    ,
+    {
+        "title": "NOAA Local Climate Analysis Tool (LCAT): Data, Methods, and Usability",
+        "type":"technical report"
+    },
+    {
+        "title":"SUOMI NPP CAPTURES NIGHTTIME, INFRARED IMAGERY OF WINTER STORM ALONG THE EAST COAST",
+        "url":"https://www.jpss.noaa.gov/spotlight_gallery.html?4",
+        "type":"news"
+    },
+    {
+        "title":"Coping with disaster: Rehabilitating coastal livelihoods and communities",
+        "url":"https://www.sciencedirect.com/science/article/pii/S0308597X06000066",
+        "journal":"Marine Policy",
+        "alt_id":["RePEc:eee:marpol:v:30:y:2006:i:6:p:786-793"],
+        "type":"research"
+    },
+    {
+        "title":"Sea Level Rise And Equity Weighting",
+        "url":"https://www.researchgate.net/publication/24130088_SEA_LEVEL_RISE_AND_EQUITY_WEIGHTING"
+    },
+    {
+        "title":"Coping with disaster: Rehabilitating coastal livelihoods and communities Coastal Habitats and Resources Management Project",
+        "doi":"10.1016/j.marpol.2006.02.003",
+        "url":"https://www.researchgate.net/publication/231560743_Coping_with_disaster_Rehabilitating_coastal_livelihoods_and_communities_Coastal_Habitats_and_Resources_Management_Project",
+        "journal":"Journal of Coastal Research"
+    },
+    {
+        "title":"New elevation data triple estimates of global vulnerability to sea-level rise and coastal flooding",
+        "doi":"10.1038/s41467-019-12808-z",
+        "pdf":"https://www.nature.com/articles/s41467-019-12808-z.pdf",
+        "dataset":["n-00018"],
+        "tools":["vdatum"],
+        "type":"research"
+    },
+    {
+        "title":"Roads to Nowhere in Four States: State and Local Governments in the Atlantic Southeast Facing Sea-Level Rise",
+        "projects":["North Carolina Sea Grant","South Carolina Sea Grant","Georgia Sea Grant","Florida Sea Grant"],
+        "url":"https://www.researchgate.net/publication/330533219_Roads_to_Nowhere_in_Four_States_State_and_Local_Governments_in_the_Atlantic_Southeast_Facing_Sea-Level_Rises"
+    },
+    {
+        "title":"Disaster on the Horizon: The Price Effect of Sea Level Rise",
+        "pdf":"https://poseidon01.ssrn.com/delivery.php?ID=669114026017098017117068103068097117049076007008012001103107077118066002124024025113017122011024058024019074027078011075012127104011035033013025105091124087024113125089054010009092025009067114002087064112025101103003068077123120069072067076075069007071&EXT=pdf",
+        "tools":"Sea Level Change Curve Calculator"
+    }
+
+    
+
+    
+]  
+}
+
+// https://geozoneblog.wordpress.com/about/
+// 10.1175/BAMS-D-16-0021.1
+// SIFT (Short-term Inundation Forecasting for Tsunamis)
+// https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ngdc.mgg.dem:669/html
+// NOAA Center for Tsunami Research, Pacific Marine Environmental Laboratory (PMEL).
+
+// ]
+
+
+// https://www.esurance.com/insights/smart-technology-and-extreme-weather
+
+// https://www.jpl.nasa.gov/spaceimages/details.php?id=PIA16293
+
+
+//         // // {
+//         // //     "title": 
+//         // //     "alt_title": "INSAR",
+        // //     "provider": "NOAA",
+        // //     "collection_instrument": "GOES East satellite "
+            
+        // // }
+
+        // http://www.jimschwab.com/Hablarbooks/tag/public-health/
+
+        // http://fieldinnovationteam.org/about-fit/
