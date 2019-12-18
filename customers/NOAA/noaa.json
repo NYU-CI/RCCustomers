@@ -1,10 +1,8 @@
-[
-{
-    "projects":
-    {
+// who are the other agencies likely to use the noaa datasets
+// and how to guide building training programs around the use of the datasets 
+// run noaa datasets through dimensions and pull out potential linkages 
 
-    }
-},
+[
 {
     "topics":
     [
@@ -87,11 +85,6 @@
     }
     ,
     {
-        "title": "Federal Emergency Management Agency",
-        "alias": "FEMA"
-    }
-    ,
-    {
         "title": "Centers for Medicare and Medicaid Services",
         "alias": "CMS"
     },
@@ -143,8 +136,6 @@
         "title":"National Aeronautics and Space Administration",
         "alt_title": "NASA"
     }
-
-    
     ]
 },
 { 
@@ -165,11 +156,8 @@
         "title":"National Flood Insurance Program",
         "alt_title": "NFIP",
         "dataset":["n-00006","n-00007","n-00008","n-00009"]
-    }
-    
-]
-},
-
+    }   
+]},
 {
     "tools":[
         {
@@ -315,6 +303,10 @@
         {
             "title": "North Carolina Sea Grant",
             "funder":"NOAA"
+        },
+        {
+            "title":"CU Sea Level Research Group",
+            "url":"http://sealevel.colorado.edu/"
         }
 
     ]
@@ -360,10 +352,6 @@
             "url":"https://www.nasa.gov/mission_pages/NPP/mission_overview/index.html"
         }
 
-
-
-
-        
     ]
 },
 
@@ -399,6 +387,7 @@
             "id": "n-00005",
             "title": "Tidal Datums",
             "provider":"NOAA",
+            "alt_title":["Tide gauge information"],
             "url": "https://tidesandcurrents.noaa.gov/api/",
             "description":"In general, a datum is a base elevation used as a reference from which to reckon heights or depths. A tidal datum is a standard elevation defined by a certain phase of the tide. Tidal datums are used as references to measure local water levels and should not be extended into areas having differing oceanographic characteristics without substantiating measurements."
         },
@@ -488,7 +477,8 @@
             "id":"n-00016",
             "title":"Inundation Mapping Tidal Surface - Mean Higher High Water",
             "related_to":"vdatum",
-            "url":"https://data.noaa.gov/dataset/dataset/inundation-mapping-tidal-surface-mean-higher-high-water"
+            "url":"https://data.noaa.gov/dataset/dataset/inundation-mapping-tidal-surface-mean-higher-high-water",
+            "description":"These data are a derived product of the NOAA VDatum tool and they extend the tool's Mean Higher High Water (MHHW) tidal datum conversion inland beyond its original extent."
         },
         {
             "id":"n-00017",
