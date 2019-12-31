@@ -12,7 +12,7 @@ At a minimum, each record in the `customers.json` file must have
   
 
 ### Additional fields
-* `type` - could be 'governmentt agency', 'private client'
+* `type` - could be 'government agency', 'private client'
 
 ### Example
 Run `python fetch_customer_data.py <customer_name>`. Cusomter names are listed in `customers.json`.
