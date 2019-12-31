@@ -15,4 +15,4 @@ At a minimum, each record in the `customers.json` file must have
 * `type` - could be 'governmentt agency', 'private client'
 
 ### Example
-See `customers/pull_linkages_example` for example on how to generate publication-dataset linkages.
+Run `python fetch_customer_data.py <customer_name>`. Cusomter names are listed in `customers.json`.
