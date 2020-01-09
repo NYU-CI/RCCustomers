@@ -1,4 +1,33 @@
-[{
+[
+  {
+"name":"NOAA",
+"providers":[
+  "NOAA Office for Coastal Management"
+],
+"datasets":[
+  "dataset-610",
+  "dataset-611",
+  "dataset-612",
+  "dataset-613",
+  "dataset-614",
+  "dataset-615",
+  "dataset-616",
+  "dataset-617",
+  "dataset-618",
+  "dataset-620",
+  "dataset-621",
+  "dataset-622",
+  "dataset-623",
+  "dataset-624",
+  "dataset-643",
+  "dataset-638",
+  "dataset-639",
+  "dataset-640",
+  "dataset-642"
+  
+]
+  },
+  {
   "name": "Deutsche Bundesbank",
   "datasets":[
     "dataset-007",
@@ -32,11 +61,13 @@
   "name": "National Center for Science and Engineering Statistics",
   "alias": "NCSES",
   "datasets":[
-    "dataset-370", "dataset-371",
+      "dataset-370",
+      "dataset-371",
       "dataset-425",
       "dataset-426",
       "dataset-427",
-      "dataset-428"
+      "dataset-428",
+      "dataset-560"
   ]
 },
   {

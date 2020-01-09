@@ -1,0 +1,68 @@
+{
+  "title": "Climate-change-driven accelerated sea-level rise detected in the altimeter era.",
+  "original": {
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "doi": "10.1073/pnas.1717312115",
+    "url": "doi.org/10.1073/pnas.1717312115",
+    "authors": [
+      {
+        "@ValidYN": "Y",
+        "LastName": "Nerem",
+        "ForeName": "R S",
+        "Initials": "RS",
+        "Identifier": {
+          "@Source": "ORCID",
+          "#text": "0000-0003-4064-8111"
+        },
+        "AffiliationInfo": {
+          "Affiliation": "Colorado Center for Astrodynamics Research, Ann and H. J. Smead Aerospace Engineering Sciences, Cooperative Institute for Research in Environmental Sciences, University of Colorado, Boulder, CO 80309; nerem@colorado.edu."
+        }
+      },
+      {
+        "@ValidYN": "Y",
+        "LastName": "Beckley",
+        "ForeName": "B D",
+        "Initials": "BD",
+        "AffiliationInfo": {
+          "Affiliation": "Stinger Ghaffarian Technologies Inc., NASA Goddard Space Flight Center, Greenbelt, MD 20771."
+        }
+      },
+      {
+        "@ValidYN": "Y",
+        "LastName": "Fasullo",
+        "ForeName": "J T",
+        "Initials": "JT",
+        "AffiliationInfo": {
+          "Affiliation": "National Center for Atmospheric Research, Boulder, CO 80305."
+        }
+      },
+      {
+        "@ValidYN": "Y",
+        "LastName": "Hamlington",
+        "ForeName": "B D",
+        "Initials": "BD",
+        "AffiliationInfo": {
+          "Affiliation": "Old Dominion University, Norfolk, VA 23529."
+        }
+      },
+      {
+        "@ValidYN": "Y",
+        "LastName": "Masters",
+        "ForeName": "D",
+        "Initials": "D",
+        "AffiliationInfo": {
+          "Affiliation": "Colorado Center for Astrodynamics Research, Ann and H. J. Smead Aerospace Engineering Sciences, Cooperative Institute for Research in Environmental Sciences, University of Colorado, Boulder, CO 80309."
+        }
+      },
+      {
+        "@ValidYN": "Y",
+        "LastName": "Mitchum",
+        "ForeName": "G T",
+        "Initials": "GT",
+        "AffiliationInfo": {
+          "Affiliation": "College of Marine Science, University of South Florida, St. Petersburg, FL 33701."
+        }
+      }
+    ]
+  }
+}

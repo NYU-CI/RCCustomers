@@ -1,0 +1,15 @@
+[
+    {
+        "title":"NJ Flood Mapper",
+        "datasets":[
+            "dataset-570",
+            "dataset-565",
+            "dataset-568"
+        ],
+        "original":{
+            "type":"tool",
+            "url":"https://www.njfloodmapper.org/"
+
+        }
+    }
+]

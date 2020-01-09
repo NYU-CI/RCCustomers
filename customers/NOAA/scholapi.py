@@ -9,12 +9,15 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+import cProfile
 import configparser
 import crossref_commons.retrieval
 import dimcli
 import json
+import io
 import logging
 import pprint
+import pstats
 import re
 import requests
 import requests_cache
@@ -170,8 +173,8 @@ class ScholInfra_OpenAIRE (ScholInfra):
         parse metadata from XML returned from the OpenAIRE API query
         """
         t0 = time.time()
+        url = self.get_api_url() + "title={}".format(urllib.parse.quote(title))
 
-        url = self.get_api_url(urllib.parse.quote(title))
         response = requests.get(url).text
         soup = BeautifulSoup(response,  "html.parser")
 
@@ -193,6 +196,49 @@ class ScholInfra_OpenAIRE (ScholInfra):
 
         self.mark_time(t0)
         return None
+
+    def get_oa_results (self, search_url):
+        response = requests.get(search_url).text
+        soup = BeautifulSoup(response,  "html.parser")
+        meta_list = []
+        for result in soup.find_all("oaf:result"):
+            if result.find("instancetype")["classname"] == "Article":
+                meta = OrderedDict()
+                result_title = self.get_xml_node_value(result, "title")
+                meta["title"] = result_title
+                if self.get_xml_node_value(result, "journal"):
+                    meta["journal"] = self.get_xml_node_value(result, "journal")
+                meta["url"] = self.get_xml_node_value(result, "url")
+                meta["authors"] = [a.text for a in result.find_all("creator")]
+                meta["open"] = len(result.find_all("bestaccessright",  {"classid": "OPEN"})) > 0
+                meta_list.append(meta)
+        return meta_list
+
+    def fulltext_search (self, search_term,nresults = None):
+        """
+        parse metadata from XML returned from the OpenAIRE API query
+        """
+        t0 = time.time()
+        base_url = self.get_api_url() + "keywords={}".format(urllib.parse.quote(search_term))
+        
+        if nresults:
+            search_url = base_url + '&size={}'.format(nresults)
+            # pub_metadata = self.get_oa_results(search_url = search_url)
+
+        elif not nresults:
+            response = requests.get(base_url).text
+            soup = BeautifulSoup(response,  "html.parser")
+            nresults_response = int(soup.find("total").text)
+            search_url = base_url + '&size={}'.format(nresults_response)
+        
+        pub_metadata = self.get_oa_results(search_url = search_url)
+        
+        if len(pub_metadata) > 0:
+            self.mark_time(t0)
+            return pub_metadata
+        
+        else:
+            return None
 
 
 class ScholInfra_SemanticScholar (ScholInfra):
@@ -284,6 +330,8 @@ class ScholInfra_Dimensions (ScholInfra):
             dimcli.login(
                 username=self.parent.config["DEFAULT"]["email"],
                 password=self.parent.config["DEFAULT"]["dimensions_password"]
+                # ,
+                # verbose=False
                 )
 
             self.api_obj = dimcli.Dsl(verbose=False)
@@ -324,16 +372,38 @@ class ScholInfra_Dimensions (ScholInfra):
 
         self.mark_time(t0)
         return None
+    
+    def parse_dimensions(self, m):
+        if m["type"] in ["article","preprint"]:
+            meta = OrderedDict()
+            meta["title"] = m["title"]
+            try:
+                meta["journal"] = m["journal"]["title"]
+            except:
+                pass
+            meta["doi"] = m["doi"]
+            try:
+                author_list = m["authors"]
+                meta["authors"] = [b["last_name"] + ", " + b["first_name"] for b in author_list]
+            except:
+                pass
+            return meta
+        else:
+            return None
 
-
-    def full_text_search (self, search_term):
+    def full_text_search (self, search_term, exact_match = True, nresults = None):
         """
         parse metadata from a Dimensions API full-text search
         """
         t0 = time.time()
-
-        query = 'search publications in full_data_exact for "{}" return publications[doi+title+journal]'.format(search_term)
-        # query = 'search publications in full_data for "\\"{}\\"" return publications[doi+title+journal]'.format(search_term)
+        if not nresults:
+            query = 'search publications in full_data_exact for "\\"{}\\"" return publications[all] limit 1000'.format(search_term)
+            if exact_match == False:
+                query = 'search publications in full_data_exact for "{}" return publications[all] limit 1000'.format(search_term)
+        if nresults:
+            query = 'search publications in full_data_exact for "\\"{}\\"" return publications[all] limit {}'.format(search_term,nresults)
+            if exact_match == False:
+                query = 'search publications in full_data_exact for "{}" return publications[all] limit {}'.format(search_term,nresults)
 
         self.login()
         response = self.run_query(query)
@@ -593,18 +663,153 @@ class ScholInfra_PubMed (ScholInfra):
 
         xml = xmltodict.parse(data)
         meta = json.loads(json.dumps(xml))
-        meta = meta["PubmedArticleSet"]["PubmedArticle"]
 
-        result_title = meta["MedlineCitation"]["Article"]["ArticleTitle"]
+        if "PubmedArticle" in meta["PubmedArticleSet"]:
+            meta = meta["PubmedArticleSet"]["PubmedArticle"]
+            result_title = meta["MedlineCitation"]["Article"]["ArticleTitle"]
 
-        if self.title_match(title, result_title):
+            if self.title_match(title, result_title):
+                self.mark_time(t0)
+
+                if meta and len(meta) > 0:
+                    return meta
+
             self.mark_time(t0)
+            return None
 
-            if meta and len(meta) > 0:
-                return meta
+
+    def fulltext_id_search (self, search_term, nresults = None):
+        Entrez.email = self.parent.config["DEFAULT"]["email"]
+        
+        query_return = Entrez.read(Entrez.egquery(term="\"{}\"".format(search_term)))
+        response_count = int([d for d in query_return["eGQueryResult"] if d["DbName"] == 'pubmed'][0]["Count"])
+
+        if response_count > 0:
+            if nresults == None:
+                handle = Entrez.read(Entrez.esearch(db="pubmed",
+                                                    retmax=response_count,
+                                                    term="\"{}\"".format(search_term)
+                                                    )
+                                    )
+
+                id_list = handle["IdList"]
+            if nresults != None and nresults > 0 and isinstance(nresults, int):
+                handle = Entrez.read(Entrez.esearch(db="pubmed",
+                                                    retmax=nresults,
+                                                    term="\"{}\"".format(search_term)
+                                                    )
+                                    )
+
+                id_list = handle["IdList"]
+            return id_list
+            
+        else:
+            return None
+
+    def parse_pubmed_metadata(self, pubmed_result):
+        article_meta = pubmed_result["MedlineCitation"]["Article"]
+        meta = OrderedDict()
+        meta["title"] = article_meta["ArticleTitle"]
+        meta["journal"] = article_meta["Journal"]["Title"]
+        try:
+            if isinstance(article_meta["AuthorList"]["Author"],list):
+                meta["authors"] = [a["LastName"]+ ", " + a["ForeName"] for a in article_meta["AuthorList"]["Author"]]
+            if isinstance(article_meta["AuthorList"]["Author"],dict):
+                        meta["authors"] = article_meta["AuthorList"]["Author"]["LastName"]+ "," + article_meta["AuthorList"]["Author"]["ForeName"]
+        except:
+            meta["authors"] = ''
+        try:
+            pid_list = article_meta["ELocationID"]    
+            if isinstance(pid_list,list):
+                    doi_test = [d["#text"] for d in pid_list if d["@EIdType"] == "doi"]
+                    if len(doi_test) > 0:
+                        meta["doi"] = doi_test[0]
+            if isinstance(pid_list,dict):
+                if pid_list["@EIdType"] == "doi":
+                    meta["doi"] = pid_list["#text"]
+        except:
+            pass
+        return meta
+
+
+    def fulltext_search (self, search_term, nresults = None):
+        t0 = time.time()
+
+        Entrez.email = self.parent.config["DEFAULT"]["email"]
+        id_list  = self.fulltext_id_search(search_term=search_term,nresults = nresults)
+        
+        if id_list:
+            if len(id_list) > 0:
+                id_list = ",".join(id_list)
+
+                fetch_result = Entrez.efetch(db="pubmed",
+                                             id=id_list,
+                                             retmode = "xml"
+                                             )
+
+                data = fetch_result.read()
+                fetch_result.close()
+
+                xml = xmltodict.parse(data)
+                meta_raw = json.loads(json.dumps(xml))
+                meta_full = meta_raw["PubmedArticleSet"]["PubmedArticle"]
+                # if isinstance(meta_full,list):
+                #     meta_list = []
+                #     for m in meta_full:
+                #         meta = self.parse_pubmed_metadata(pubmed_result = m)                
+                #         meta_list.append(meta)
+
+                self.mark_time(t0)
+
+                return meta_full
+                
+        else:
+            return None
+
+    def journal_lookup (self, issn):
+        """
+        use the NCBI discovery service for ISSN lookup
+        """
+        t0 = time.time()
+
+        try:
+            url = "https://www.ncbi.nlm.nih.gov/nlmcatalog/?report=xml&format=text&term={}".format(issn)
+            response = requests.get(url).text
+
+            soup = BeautifulSoup(response,  "html.parser")
+            xml = soup.find("pre").text.strip()
+
+            if len(xml) > 0:
+                ## use an XML hack to workaround common formatting
+                ## errors in the API respsonses from NCBI
+                xml = "<fix>{}</fix>".format(xml)
+                j = json.loads(json.dumps(xmltodict.parse(xml)))
+
+                if "NCBICatalogRecord" in j["fix"]:
+                    ncbi = j["fix"]["NCBICatalogRecord"]
+
+                    if isinstance(ncbi, list):
+                        if "JrXml" in ncbi[0]:
+                            # ibid., XML hack
+                            ncbi = ncbi[0]
+                        elif len(ncbi) > 1 and "JrXml" in ncbi[1]:
+                            ncbi = ncbi[1]
+                        else:
+                            # bad XML returned from the API call
+                            return None, f"NCBI bad XML format: no JrXML element for ISSN {issn}"
+
+                    meta = ncbi["JrXml"]["Serial"]
+                    #pprint.pprint(meta)
+
+                    self.mark_time(t0)
+                    return meta, None
+
+        except:
+            print(traceback.format_exc())
+            print(f"ERROR - NCBI failed lookup: {issn}")
 
         self.mark_time(t0)
-        return None
+        return None, None
 
 
 ######################################################################
@@ -639,7 +844,7 @@ class ScholInfraAPI:
         self.openaire = ScholInfra_OpenAIRE(
             parent=self,
             name="OpenAIRE",
-            api_url="http://api.openaire.eu/search/publications?title={}"
+            api_url="http://api.openaire.eu/search/publications?"
             )
 
         self.pubmed = ScholInfra_PubMed(
@@ -682,6 +887,28 @@ class ScholInfraAPI:
             name="SSRN",
             api_url ="https://doi.org/{}"
             )
+
+
+    ## profiling utilities
+
+    def start_profiling (self):
+        """start profiling"""
+        pr = cProfile.Profile()
+        pr.enable()
+
+        return pr
+
+
+    def stop_profiling (self, pr):
+        """stop profiling and report"""
+        pr.disable()
+
+        s = io.StringIO()
+        sortby = "cumulative"
+        ps = pstats.Stats(pr, stream=s).sort_stats(sortby)
+
+        ps.print_stats()
+        print(s.getvalue())
 
 
 ######################################################################

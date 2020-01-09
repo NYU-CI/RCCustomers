@@ -16,3 +16,6 @@ At a minimum, each record in the `customers.json` file must have
 
 ### Example
 Run `python fetch_customer_data.py <customer_name>`. Cusomter names are listed in `customers.json`.
+
+### Generating potential publication-dataset linkages for manual validation
+See example using NOAA datasets in `generating_linkages.ipynb`.
