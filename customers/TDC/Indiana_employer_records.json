@@ -1,0 +1,107 @@
+{
+    "gmeta": [
+        {
+            "adrf-000133": {
+                "mimetype": "application/json",
+                "content": {
+                    "title": "Indiana employer records (QCEW)",
+                    "rc_id":"dataset-520",
+                    "keywords": [
+                        "Employers",
+                        "industry NAICS",
+                        "county of employer",
+                        "region of employer",
+                        "QCEW"
+                    ],
+                    "dataset_id": "adrf-000133",
+                    "file_names": [
+                        "adrf-000133-QCEW_records_hashed.csv"
+                    ],
+                    "description": "Employer records for each establishment in the state of Indiana, within each employer and for each quarter.This set is created to examine employment and wage trends at the industry level.The data is frequently linked to the wage records to determine place of employment and industry where the wage earner worked. This data is also used in development occupational wage data and occupational projections.This data set includes:Year/quarter for which the employment data was collected, Unemployment Insurance (UI) account number, Federal Identification Employer Number (FEIN), reporting unit number, 3-digit industry NAICS code, county and Indiana economic growth region of employer.Data is gathered from employers' UC-1 quarterly tax filings.",
+                    "temporal_coverage_start": "2005",
+                    "temporal_coverage_end": "2018",
+                    "geographical_coverage": [
+                        "Indiana"
+                    ],
+                    "geographical_unit": [
+                        "State"
+                    ],
+                    "dataset_documentation": [
+                        "Indiana Datasets for ADRF.docx"
+                    ],
+                    "access_actions_required": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
+                    "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.",
+                    "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.",
+                    "category": "Economic Characteristics",
+                    "dataset_version": 1,
+                    "dataset_version_date": 1573051879,
+                    "source_url": "",
+                    "reference_url": "",
+                    "data_classification": "Restricted",
+                    "data_steward": "Julia Lane",
+                    "data_steward_organization": "Coleridge Initiative",
+                    "source_archive": "",
+                    "data_provider": "Indiana Department of Workforce Development (DWD)",
+                    "dataset_citation": "Quarterly Census of Employment and Wages (QCEW), Indiana Department of Workforce Development (DWD) and Bureau of Labor Statistics (BLS)",
+                    "files_total": 1,
+                    "files": [
+                        {
+                            "file_name": "adrf-000133-QCEW_records_hashed.csv",
+                            "columns_metadata": {
+                                "\ufeffyear": {
+                                    "description": "Year of wage record",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "quarter": {
+                                    "description": "Quarter of wage record",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "uiacct": {
+                                    "description": "Unemployment Insurance account number for employer (hashed)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "fein": {
+                                    "description": "Federal employer identification number (hashed)",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "run": {
+                                    "description": "Reporting unit number, uniquely identifying each establishment with the employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "NAICS": {
+                                    "description": "3-digit industry NAICS code of employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "cnty": {
+                                    "description": "County of employer in Indiana",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                },
+                                "egr": {
+                                    "description": "Indiana-based economic growth region (EGR) of employer, based on county of employer",
+                                    "provided-type": "text",
+                                    "categorical": false,
+                                    "categories": []
+                                }
+                            }
+                        }
+                    ],
+                    "related_articles": []
+                }
+            }
+        }
+    ]
+}

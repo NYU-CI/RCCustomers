@@ -1,0 +1,112 @@
+{
+    "gmeta": [
+        {
+            "adrf-000120": {
+                "mimetype": "application/json", 
+                "content": {
+                    "temporal_coverage_end": "2018", 
+                    "files_total": 1, 
+                    "data_classification": "Restricted", 
+                    "access_actions_required": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.", 
+                    "geographical_coverage": [
+                        "Indiana"
+                    ], 
+                    "keywords": [
+                        "wages", 
+                        "employers", 
+                        "industry naics", 
+                        "county of employer", 
+                        "region of employer"
+                    ], 
+                    "dataset_id": "adrf-000120", 
+                    "category": "Economic Characteristics", 
+                    "dataset_version": 1, 
+                    "title": "Indiana wage records by employer 2005-2018", 
+                    "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.", 
+                    "data_steward_organization": "Coleridge Initiative", 
+                    "data_steward": "Julia Lane", 
+                    "files": [
+                        {
+                            "file_name": "adrf-000120-in_wages_by_employer.csv", 
+                            "columns_metadata": {
+                                "uiacct": {
+                                    "provided-type": "text", 
+                                    "description": "Unemployment Insurance account number for employer (hashed)", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "egr": {
+                                    "provided-type": "text", 
+                                    "description": "Indiana-based economic growth region (EGR) of employer, based on county of employer. Lookup file countyfips_regions_lookup.csv details which counties belong to which economic growth region", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "fein": {
+                                    "provided-type": "text", 
+                                    "description": "Federal employer identification number (hash)", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "ssn": {
+                                    "provided-type": "text", 
+                                    "description": "Social security number of the employee (hashed)", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "year": {
+                                    "provided-type": "integer", 
+                                    "description": "Year of wage record", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "wages": {
+                                    "provided-type": "numeric", 
+                                    "description": "Wage amount for each employee per employer per quarter", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "quarter": {
+                                    "provided-type": "integer", 
+                                    "description": "Quarter of wage record", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "cnty": {
+                                    "provided-type": "text", 
+                                    "description": "County of employer in Indiana. Lookup file for this field is countyfips_regions_lookup.csv, matching from field cnty to field CountyFIPS", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "naics_3_digit": {
+                                    "provided-type": "text", 
+                                    "description": "3-digit industry NAICS code of employer. Lookup file for this field is naics_codes.csv, matching from field naics_3_digit to field NAICS3_Code", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }
+                            }
+                        }
+                    ], 
+                    "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.", 
+                    "description": "Wage records for each person by quarter by employer.  This set is created to examine workforce outcomes for students K-12, higher education, unemployment claimants returning to work, and our DWD customers receiving services from our local offices.  This data set includes:  social security number, year/quarter that the wage was earned, Unemployment Insurance (UI) account number, Federal Identification Employer Number (FEIN), wages earned from the employer, 3-digit industry NAICS code, county and Indiana economic growth region of employer.  Data is gathered from employers' UC-5 quarterly tax filings.", 
+                    "source_url": "", 
+                    "geographical_unit": [
+                        "State"
+                    ], 
+                    "related_articles": [], 
+                    "data_provider": "Indiana Department of Workforce Development (DWD)", 
+                    "dataset_documentation": [
+                        "indiana_datasets_adrf.docx"
+                    ], 
+                    "dataset_version_date": 1562963501, 
+                    "source_archive": "", 
+                    "dataset_citation": "Indiana Department of Workforce Development (DWD), 2019, \"Indiana wage records by employer 2005-2018\", Applied Data Analytics Course [Distributor], 1 [Version]", 
+                    "reference_url": "", 
+                    "temporal_coverage_start": "2005", 
+                    "file_names": [
+                        "adrf-000120-in_wages_by_employer.csv"
+                    ]
+                }
+            }
+        }
+    ]
+}

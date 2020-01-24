@@ -1,0 +1,145 @@
+{
+    "gmeta": [
+        {
+            "adrf-000121": {
+                "mimetype": "application/json", 
+                "content": {
+                    "temporal_coverage_end": "2018", 
+                    "files_total": 1, 
+                    "data_classification": "Restricted", 
+                    "access_actions_required": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.", 
+                    "geographical_coverage": [
+                        "Indiana"
+                    ], 
+                    "keywords": [
+                        "college enrollment", 
+                        "degrees", 
+                        "demographics", 
+                        "residency", 
+                        "entry type"
+                    ], 
+                    "dataset_id": "adrf-000121", 
+                    "category": "Education", 
+                    "dataset_version": 1, 
+                    "title": "Indiana Public Higher Education Enrollments, 2005-2006 Through 2017-2018", 
+                    "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.", 
+                    "data_steward_organization": "Coleridge Initiative", 
+                    "data_steward": "Julia Lane", 
+                    "files": [
+                        {
+                            "file_name": "adrf-000121-in_che_enrollments.csv", 
+                            "columns_metadata": {
+                                "entry_type_code": {
+                                    "provided-type": "text", 
+                                    "description": "Entry type reported for the student (continuing student, dual credit, first-time entry, transfer, etc). Lookup file in higher_ed_codes.csv.  In this file, select Field = EntryTypeCode to obtain the codes and the labels.  Then match the EntryTypeCode in this table to the Code field to get the label.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "location_code": {
+                                    "provided-type": "text", 
+                                    "description": "The Indiana county, U.S. state, or country of origin for the student at the time of first admission to an institution. Lookup file in higher_ed_codes.csv.  In this file, select Field = LocationCode to obtain the codes and the labels.  Then match the LocationCode in this table to the Code field to get the label. Location codes '001' through '092' represent Indiana county codes.  Codes '101' through '151' represent state codes.  Codes '201' through '965' represent country codes and code '940', '942', '999' represents 'unknown'", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "residency_status_code": {
+                                    "provided-type": "text", 
+                                    "description": "Identifies the specific residency or non-residency type of the student. Lookup file in higher_ed_codes.csv.  In this file, select Field = ResidencyStatusCode to obtain the codes and the labels.  Then match the ResidencyStatusCode in this table to the Code field to get the label.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "degree_level_code": {
+                                    "provided-type": "text", 
+                                    "description": "Code corresponding to the degree level of the student (ex. Certificates, Associates, Bachelors, Masters, Doctoral, etc). Lookup file in higher_ed_codes.csv.  In this file, select Field = DegreeLevelCode to obtain the codes and the labels.  Then match the DegreeLevelCode in this table to the Code field to get the label.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "birth_year": {
+                                    "provided-type": "integer", 
+                                    "description": "Student's birth year", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "entry_type_category_code": {
+                                    "provided-type": "text", 
+                                    "description": "Identifies a student as degree seeking or non degree seeking. Lookup file in higher_ed_codes.csv.  In this file, select Field = EntryTypeCategoryCode to obtain the codes and the labels.  Then match the EntryTypeCategoryCode in this table to the Code field to get the label.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "ssn": {
+                                    "provided-type": "text", 
+                                    "description": "Social security number of student (hashed)", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "reporting_year": {
+                                    "provided-type": "text", 
+                                    "description": "The year for which the enrollment records are being reported on.  The trailing year is reported in the records (e.g., 2014-2015 is reported as 2015)", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "gender_code": {
+                                    "provided-type": "text", 
+                                    "description": "Student's gender. Lookup file in higher_ed_codes.csv.  In this file, select Field = GenderCode to obtain the codes and the labels.  Then match the GenderCode in this table to the Code field to get the label.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "ssn_available_flag": {
+                                    "provided-type": "text", 
+                                    "description": "Flag to determine if the social security number is available for the student. From the 2011-2012 school forward, only the last 4-digits of the SSN were available from the higher education records.  A match was done with workforce data and other DWD (Indiana Department of Workforce Development) sources to obtain a full SSN for these students.   If a valid SSN was found for the student, a 'Y' will populate this field.  Otherwise, the field will be populated with 'N' and won't be matchable to other records.  Invalid SSNs include numbers considered invalid by the social security administration (defined at https://secure.ssa.gov/poms.nsf/lnx/0110201035).\n\n\nY=a valid SSN was available for the student\nN=a valid SSN was not available for the student", 
+                                    "categories": [
+                                        {
+                                            "value": "Y", 
+                                            "label": "a valid SSN was available for the student"
+                                        }, 
+                                        {
+                                            "value": "N", 
+                                            "label": "a valid SSN was not available for the student"
+                                        }
+                                    ], 
+                                    "categorical": true
+                                }, 
+                                "cip_2010_six_digit_code": {
+                                    "provided-type": "text", 
+                                    "description": "Six digit CIP 2010 federal ID  for the academic program in which the student is pursuing a degree. Lookup file in cipcodes.csv.  Match from field CIP2010SixDigitCode in this table to field cipcode in the CSV file", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "che_campus_unit_id": {
+                                    "provided-type": "text", 
+                                    "description": "Unique identifier for public higher education campus where student was enrolled. Lookup file in campus_codes.csv - match from field CHECampusUnitID in this table to field CHECampusUnitID in this CSV file", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "ethnicity_code": {
+                                    "provided-type": "text", 
+                                    "description": "Student's ethnicity. Lookup file in higher_ed_codes.csv.  In this file, select Field = EthnicityCode to obtain the codes and the labels.  Then match the EthnicityCode in this table to the Code field to get the label.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }
+                            }
+                        }
+                    ], 
+                    "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.", 
+                    "description": "Enrollment records from all public higher institutions in Indiana. This set includes records level data, including year of enrollment, social security number, degree by CIP and degree level of enrollment program, demographics, residency status at time of college entry, location of origin, degree seeking indicator, and entry type of student. Private institutions in Indiana are not included in this dataset.", 
+                    "source_url": "", 
+                    "geographical_unit": [
+                        "State"
+                    ], 
+                    "related_articles": [], 
+                    "data_provider": "Indiana Commission for Higher Education (CHE)", 
+                    "dataset_documentation": [
+                        "indiana_datasets_adrf.docx"
+                    ], 
+                    "dataset_version_date": 1562963501, 
+                    "source_archive": "", 
+                    "dataset_citation": "Indiana Commission for Higher Education (DWD), 2019, \"Indiana Public Higher Education Enrollments, 2005-2006 Through 2017-2018\", Applied Data Analytics Course [Distributor], 1 [Version]", 
+                    "reference_url": "", 
+                    "temporal_coverage_start": "2005", 
+                    "file_names": [
+                        "adrf-000121-in_che_enrollments.csv"
+                    ]
+                }
+            }
+        }
+    ]
+}

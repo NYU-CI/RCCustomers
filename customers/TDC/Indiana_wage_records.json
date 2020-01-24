@@ -1,0 +1,102 @@
+{
+    "gmeta": [
+        {
+            "adrf-000119": {
+                "mimetype": "application/json", 
+                "content": {
+                    "temporal_coverage_end": "2018", 
+                    "files_total": 1, 
+                    "data_classification": "Restricted", 
+                    "access_actions_required": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.", 
+                    "geographical_coverage": [
+                        "Indiana"
+                    ], 
+                    "keywords": [
+                        "wages", 
+                        "employer counts"
+                    ], 
+                    "dataset_id": "adrf-000119", 
+                    "category": "Economic Characteristics", 
+                    "dataset_version": 1, 
+                    "title": "Indiana wage records by quarter 2005-2018", 
+                    "data_usage_policy": "These data are being provided for educational purposes for use in Applied Data Analytics program. Dataset may only be accessed and used by ADRF users who are members of a course using these data.", 
+                    "data_steward_organization": "Coleridge Initiative", 
+                    "data_steward": "Julia Lane", 
+                    "files": [
+                        {
+                            "file_name": "adrf-000119-in_wage_sums.csv", 
+                            "columns_metadata": {
+                                "quarter": {
+                                    "provided-type": "integer", 
+                                    "description": "Quarter of wage record\n\n\n1=1st calendar quarter (January-March)\n2=2nd calendar quarter (April to June)\n3=3rd calendar quarter (July to September)\n4=4th calendar quarter (October to December)", 
+                                    "categories": [
+                                        {
+                                            "value": "1", 
+                                            "label": "1st calendar quarter (January-March)"
+                                        }, 
+                                        {
+                                            "value": "2", 
+                                            "label": "2nd calendar quarter (April to June)"
+                                        }, 
+                                        {
+                                            "value": "3", 
+                                            "label": "3rd calendar quarter (July to September)"
+                                        }, 
+                                        {
+                                            "value": "4", 
+                                            "label": "4th calendar quarter (October to December)"
+                                        }
+                                    ], 
+                                    "categorical": true
+                                }, 
+                                "ssn": {
+                                    "provided-type": "text", 
+                                    "description": "Social security number of the employee (hashed)", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "sumwages": {
+                                    "provided-type": "numeric", 
+                                    "description": "Wage sum for each employee in the given quarter", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "ctemps": {
+                                    "provided-type": "integer", 
+                                    "description": "Total number of each employers per quarter", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "year": {
+                                    "provided-type": "integer", 
+                                    "description": "Year of wage record.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }
+                            }
+                        }
+                    ], 
+                    "access_requirements": "Dataset may only be accessed and used by members of the Applied Data Analytics course using these data.", 
+                    "description": "Wage sums and number of employers' for each person by quarter.  This set is created to examine workforce outcomes for students K-12, higher education, unemployment claimants returning to work, and our DWD customers receiving services from our local offices.  This data set includes:  social security number, year/quarter that the wage was earned, wage sum, and number of employers.  Data is gathered from employers UC-5 quarterly tax filings.", 
+                    "source_url": "", 
+                    "geographical_unit": [
+                        "State"
+                    ], 
+                    "related_articles": [], 
+                    "data_provider": "Indiana Department of Workforce Development (DWD)", 
+                    "dataset_documentation": [
+                        "indiana_datasets_adrf.docx"
+                    ], 
+                    "dataset_version_date": 1562963501, 
+                    "source_archive": "", 
+                    "dataset_citation": "Indiana Department of Workforce Development (DWD), 2019, \"Indiana wage records by quarter 2005-2018\", Applied Data Analytics Course [Distributor], 1 [Version]", 
+                    "reference_url": "", 
+                    "temporal_coverage_start": "2005", 
+                    "file_names": [
+                        "adrf-000119-in_wage_sums.csv"
+                    ]
+                }
+            }
+        }
+    ]
+}

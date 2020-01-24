@@ -1,0 +1,177 @@
+{
+    "gmeta": [
+        {
+            "adrf-000096": {
+                "mimetype": "application/json", 
+                "content": {
+                    "temporal_coverage_end": "2017", 
+                    "files_total": 2, 
+                    "data_classification": "Restricted", 
+                    "access_actions_required": "This is ADRF course data. In order to access, you must have signed the appropriate NDA and agreed to the ADRF terms of usage. These data are located in the course database. Field specific metadata are a sample only.", 
+                    "geographical_coverage": [
+                        "Missouri"
+                    ], 
+                    "keywords": [
+                        "income", 
+                        "welfare", 
+                        "socioeconomics"
+                    ], 
+                    "dataset_id": "adrf-000096", 
+                    "category": "Economic Characteristics", 
+                    "dataset_version": 2, 
+                    "title": "Missouri Unemployment Insurance (UI) wage 2006-2017", 
+                    "data_usage_policy": "All data provided here are protected under the provisions of Title 13, U.S. Code. The user shall not attempt to re-identify individuals represented in the data and agree not to disclose any data contained here to any unauthorized parties. Any analyses and data products derived from the data must be reviewed by IDES before export from this system.", 
+                    "data_steward_organization": "Coleridge Initiative", 
+                    "data_steward": "Julia Lane", 
+                    "files": [
+                        {
+                            "file_name": "adrf-000096-mo_wage.csv", 
+                            "columns_metadata": {
+                                "wage": {
+                                    "provided-type": "text", 
+                                    "description": "Hashed Quarterly Wages: Hashed copy of the total amount of wages (both taxable and non-taxable) paid to the Reference Worker during the entire reference quarter that are subject to Unemployment Insurance taxes. The wages for all worksites should match the wages paid that are reported on that States' Quarterly Contribution Report. If no wages were paid, zero fill. Round to the nearest dollar (Omit cents).", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "empr_no": {
+                                    "provided-type": "text", 
+                                    "description": "Hashed UI Account Number: State Employment Security Agency Identification number for the employer (U-I account). Note: as a new UI Account number format was used starting 2016 Quarter 3, the UI Account numbers for this year and quarter will not match with UI Account numbers (ui_acct) in the employers table (kcmo_lehd.mo_qcew_employers). In order to properly match these entities, you will want to use the kcmo_lehd.ui_acct_xwalk table. The values for ui_acct in mo_qcew_employers 2016q3 will match to the ui_acct_xwalk variable legacy_ean_7_nocheck and the wage ui account variable will match to the ui_acct_xwalk variable ui_ean.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "seinunit": {
+                                    "provided-type": "text", 
+                                    "description": "Reporting Unit Number. Zero if unknown. Only available in wage data for Minnesota state.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "name_first": {
+                                    "provided-type": "text", 
+                                    "description": "Hashed Reference Worker's First Name", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "name_last": {
+                                    "provided-type": "text", 
+                                    "description": "Hashed Reference Worker's Last Name", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "hours": {
+                                    "provided-type": "integer", 
+                                    "description": "Hours worked in the quarter, if available. Zero if unavailable. Only available in Texas and Wisconsin states.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "name_middle": {
+                                    "provided-type": "text", 
+                                    "description": "Hashed Reference Worker's Middle Initial", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "state": {
+                                    "provided-type": "text", 
+                                    "description": "Reference State: 2-digit FIPS State code for the location of the establishment.  (See http://129.6.13.40:80/fipspubs/co-codes/states.htm).", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "ssn": {
+                                    "provided-type": "text", 
+                                    "description": "Hashed Social Security Number", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "year": {
+                                    "provided-type": "integer", 
+                                    "description": "Reference Year. Four digits of the calendar year covered by the report.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "weeks": {
+                                    "provided-type": "integer", 
+                                    "description": "Weeks worked in the quarter, if available. Zero if unavailable. Only available in Texas and Wisconsin states.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "quarter": {
+                                    "provided-type": "integer", 
+                                    "description": "Reference Quarter: Quarter identification number within the data year, \"1\"=First calendar quarter (January to March), \"2\"=second calendar quarter (April to June), \"3\"=Third calendar quarter (July to September), \"4\"=Fourth calendar quarter (October to December)", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "ein": {
+                                    "provided-type": "text", 
+                                    "description": "Hashed Employer Identification Number (EIN)", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }
+                            }
+                        }, 
+                        {
+                            "file_name": "adrf-000096-mo_wage_percentile.csv", 
+                            "columns_metadata": {
+                                "sum_wage_qttile": {
+                                    "provided-type": "double precision", 
+                                    "description": "Percentile value of total earnings for all individuals for the year and quarter", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "job_qtile": {
+                                    "provided-type": "double precision", 
+                                    "description": "Percentile value of the number of jobs held by all individuals for the year and quarter", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "pctile": {
+                                    "provided-type": "integer", 
+                                    "description": "Percentile label (1-100) for they year and quarter", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "year": {
+                                    "provided-type": "bigint", 
+                                    "description": "Reference Year. Four digits of the calendar year covered by the report.", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "avg_wage_qtile": {
+                                    "provided-type": "double precision", 
+                                    "description": "Percentile value of average earnings for all individuals for he year and quarter", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }, 
+                                "quarter": {
+                                    "provided-type": "bigint", 
+                                    "description": "Reference Quarter: Quarter identification number within the data year, \"1\"=First calendar quarter (January to March), \"2\"=second calendar quarter (April to June), \"3\"=Third calendar quarter (July to September), \"4\"=Fourth calendar quarter (October to December)", 
+                                    "categories": [], 
+                                    "categorical": false
+                                }
+                            }
+                        }
+                    ], 
+                    "access_requirements": "You must be enrolled in an ADRF class to access these data.", 
+                    "description": "Quarterly records of wages for every job held by each person in the state of Missouri from 2006 to 2016. This data is derived from the Missouri state Unemployment Insurance (UI) wage file that is supplied to the United States Census Bureau for use in producing Quarterly Workforce Indicators (QWI).\n\n\nThe mo_wage_percentile table provides the quarterly percentile values of the number of jobs, average earnings, and total earnings for employees' covered sector jobs across the state of MO by year and quarte. These data are derived from the kcmo_lehd.mo_wage table for the years 2006- 2016. The code used to create this table is provided in the create-mo-wage-percentiles.ipynb notebook. Data usage example: for all the people employed in a covered sector in MO in 2008q2, the median value of the number of jobs would be found in column \"job_qtile\" where the row is year=2008, q=2, and pctile=50\n\n\nThe summary of this dataset\u2019s fields is a sample of records only. Please access the full dataset in the partitioned course database table: kcmo_lehd.mo_wage.", 
+                    "source_url": "", 
+                    "geographical_unit": [
+                        "State"
+                    ], 
+                    "related_articles": [], 
+                    "data_provider": "Missouri Office of Administration", 
+                    "dataset_documentation": [
+                        "missouri_state_lehd_wage_and_employers_data_2006-2017.pdf", 
+                        "create-mo-wage-percentile-table.ipynb"
+                    ], 
+                    "dataset_version_date": 1563565275, 
+                    "source_archive": "Missouri Office of Administration", 
+                    "dataset_citation": "Missouri Office of Administration, US Census Bureau, 2018, \"Missouri Unemployment Insurance (UI) wage 2006-2017\", Applied Data Analytics Course [Distributor], 2 [Version]", 
+                    "reference_url": "", 
+                    "temporal_coverage_start": "2006", 
+                    "file_names": [
+                        "adrf-000096-mo_wage.csv", 
+                        "adrf-000096-mo_wage_percentile.csv"
+                    ]
+                }
+            }
+        }
+    ]
+}
